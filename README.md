@@ -50,7 +50,7 @@ Unity로 게임을 개발하고 Spring Boot 기반 백엔드와 MySQL을 연동�
 
 ## Tech Stack
 
-| Category | Technology |
+| 기능 | 기술 |
 |---|---|
 | Client | Unity |
 | Backend | Spring Boot |

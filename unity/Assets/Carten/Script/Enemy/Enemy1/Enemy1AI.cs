@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace Carten
 {
-    public class BossAI : MonoBehaviour
+    public class Enemy1AI : MonoBehaviour
     {
         // ========================================================
         // Target
@@ -11,23 +11,24 @@ namespace Carten
         [Header("=== Target ===")]
         [SerializeField] private Transform target;
 
+
         // ========================================================
         // Movement
         // ========================================================
 
         [Header("=== Movement ===")]
-        [SerializeField] private float phase1MoveSpeed = 1.5f;
-        [SerializeField] private float phase2MoveSpeed = 2.5f;
-        [SerializeField] private float phase3MoveSpeed = 4f;
+        [SerializeField] private float moveSpeed = 1.5f;
 
-        [SerializeField] private float stopDistance = 1.3f;
+        [SerializeField] private float stopDistance = 1.1f;
+
 
         // ========================================================
         // Detection
         // ========================================================
 
         [Header("=== Detection ===")]
-        [SerializeField] private float detectionDistance = 15f;
+        [SerializeField] private float detectionDistance = 10f;
+
 
         // ========================================================
         // Facing
@@ -36,6 +37,7 @@ namespace Carten
         [Header("=== Facing ===")]
         [SerializeField] private bool flipSprite = true;
 
+
         // ========================================================
         // Debug
         // ========================================================
@@ -43,39 +45,74 @@ namespace Carten
         [Header("=== Debug ===")]
         [SerializeField] private bool showDebugLog = true;
 
+
         // ========================================================
         // Runtime
         // ========================================================
 
-        private BossController bossController;
+        private Enemy1Controller enemyController;
         private Rigidbody2D rb;
+
+
+        // ========================================================
+        // Awake
+        // ========================================================
 
         private void Awake()
         {
-            bossController = GetComponent<BossController>();
-            rb = GetComponent<Rigidbody2D>();
+            enemyController =
+                GetComponent<Enemy1Controller>();
 
-            if (bossController == null)
+            rb =
+                GetComponent<Rigidbody2D>();
+
+            if (enemyController == null)
             {
                 Debug.LogError(
-                    "[BossAI] BossController를 찾을 수 없습니다."
+                    "[Enemy1AI] " +
+                    "Enemy1Controller를 찾을 수 없습니다."
                 );
             }
 
             if (rb == null)
             {
                 Debug.LogError(
-                    "[BossAI] Rigidbody2D를 찾을 수 없습니다."
+                    "[Enemy1AI] " +
+                    "Rigidbody2D를 찾을 수 없습니다."
                 );
+            }
+
+            if (target == null)
+            {
+                GameObject player =
+                    GameObject.FindGameObjectWithTag("Player");
+
+                if (player != null)
+                {
+                    target =
+                        player.transform;
+                }
+                else if (showDebugLog)
+                {
+                    Debug.LogWarning(
+                        "[Enemy1AI] " +
+                        "Player Tag를 가진 오브젝트를 찾지 못했습니다."
+                    );
+                }
             }
         }
 
+
+        // ========================================================
+        // Update
+        // ========================================================
+
         private void Update()
         {
-            if (bossController == null)
+            if (enemyController == null)
                 return;
 
-            if (bossController.IsDead)
+            if (enemyController.IsDead)
                 return;
 
             if (target == null)
@@ -85,24 +122,36 @@ namespace Carten
             HandleFacing();
         }
 
+
         // ========================================================
         // Movement
         // ========================================================
 
         private void HandleMovement()
         {
+            if (rb == null)
+                return;
+
+            if (enemyController.IsStopped)
+            {
+                StopMovement();
+                return;
+            }
+
             float distance =
                 Vector2.Distance(
                     transform.position,
                     target.position
                 );
 
+            // 감지 거리 밖
             if (distance > detectionDistance)
             {
                 StopMovement();
                 return;
             }
 
+            // 공격 거리 진입
             if (distance <= stopDistance)
             {
                 StopMovement();
@@ -110,18 +159,21 @@ namespace Carten
             }
 
             float direction =
-                target.position.x > transform.position.x
+                target.position.x >
+                transform.position.x
                     ? 1f
                     : -1f;
 
-            float moveSpeed = GetMoveSpeed();
+            Vector2 velocity =
+                rb.linearVelocity;
 
-            Vector2 velocity = rb.linearVelocity;
+            velocity.x =
+                direction * moveSpeed;
 
-            velocity.x = direction * moveSpeed;
-
-            rb.linearVelocity = velocity;
+            rb.linearVelocity =
+                velocity;
         }
+
 
         // ========================================================
         // Stop
@@ -129,31 +181,18 @@ namespace Carten
 
         private void StopMovement()
         {
-            Vector2 velocity = rb.linearVelocity;
+            if (rb == null)
+                return;
+
+            Vector2 velocity =
+                rb.linearVelocity;
 
             velocity.x = 0f;
 
-            rb.linearVelocity = velocity;
+            rb.linearVelocity =
+                velocity;
         }
 
-        // ========================================================
-        // Move Speed
-        // ========================================================
-
-        private float GetMoveSpeed()
-        {
-            switch (bossController.CurrentPhase)
-            {
-                case BossController.BossPhase.Phase2:
-                    return phase2MoveSpeed;
-
-                case BossController.BossPhase.Phase3:
-                    return phase3MoveSpeed;
-
-                default:
-                    return phase1MoveSpeed;
-            }
-        }
 
         // ========================================================
         // Facing
@@ -164,24 +203,28 @@ namespace Carten
             if (!flipSprite)
                 return;
 
-            if (target.position.x > transform.position.x)
-            {
-                transform.localScale = new Vector3(
-                    Mathf.Abs(transform.localScale.x),
-                    transform.localScale.y,
-                    transform.localScale.z
-                );
-            }
-            else
-            {
-                transform.localScale = new Vector3(
-                    -Mathf.Abs(transform.localScale.x),
-                    transform.localScale.y,
-                    transform.localScale.z
-                );
-            }
+            float direction =
+                target.position.x -
+                transform.position.x;
+
+            if (Mathf.Abs(direction) < 0.01f)
+                return;
+
+            Vector3 scale =
+                transform.localScale;
+
+            scale.x =
+                Mathf.Abs(scale.x) *
+                Mathf.Sign(direction);
+
+            transform.localScale =
+                scale;
         }
 
+
+        // ========================================================
+        // Attack Range
+        // ========================================================
 
         public bool IsInAttackRange()
         {
@@ -194,8 +237,21 @@ namespace Carten
                     target.position
                 );
 
-            return distance <= stopDistance + 0.3f;
+            return distance <=
+                   stopDistance + 0.2f;
         }
+
+
+        // ========================================================
+        // Target
+        // ========================================================
+
+        public void SetTarget(
+            Transform newTarget)
+        {
+            target = newTarget;
+        }
+
 
         // ========================================================
         // Gizmos
@@ -203,14 +259,16 @@ namespace Carten
 
         private void OnDrawGizmosSelected()
         {
-            Gizmos.color = Color.yellow;
+            Gizmos.color =
+                Color.yellow;
 
             Gizmos.DrawWireSphere(
                 transform.position,
                 detectionDistance
             );
 
-            Gizmos.color = Color.blue;
+            Gizmos.color =
+                Color.blue;
 
             Gizmos.DrawWireSphere(
                 transform.position,

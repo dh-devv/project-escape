@@ -459,6 +459,9 @@ namespace Carten
         // Update에서 입력을 받고 FixedUpdate에서 점프 실행
         private bool jumpRequested;
 
+        // Update에서 대시 입력을 받아 FixedUpdate에서 실제 대시 실행
+        private bool dashRequested;
+
 
         public bool IsDead =>
             isDead;
@@ -511,6 +514,9 @@ namespace Carten
             jumpRequested =
                 false;
 
+            dashRequested =
+                false;
+
             UpdatePhase();
 
 
@@ -543,6 +549,7 @@ namespace Carten
             HandleTimers();
 
             HandleJumpInput();
+            HandleDashInput();
         }
 
 
@@ -571,16 +578,18 @@ namespace Carten
 
         private void HandleTimers()
         {
-            if (dashTimer > 0f)
-            {
-                dashTimer -=
-                    Time.deltaTime;
-            }
+            // dashTimer는 실제 대시 진행 시간을 FixedUpdate에서만 감소시킴
+            // Update + FixedUpdate에서 중복 차감되지 않도록 함
 
             if (dashCooldownTimer > 0f)
             {
                 dashCooldownTimer -=
                     Time.deltaTime;
+
+                if (dashCooldownTimer < 0f)
+                {
+                    dashCooldownTimer = 0f;
+                }
             }
         }
 
@@ -662,27 +671,37 @@ namespace Carten
                 return;
             }
 
-            bool isGrounded = CheckGround();
 
-            // 실제로 내려오면서 착지했을 때만 점프 횟수 초기화
+            bool isGrounded =
+                CheckGround();
+
+
+            // 실제로 하강하면서 착지할 때만 점프 횟수를 초기화한다.
+            // 점프 직후 GroundCheck가 잠깐 바닥을 감지해도
+            // jumpCount가 0으로 되돌아가 2단 점프가 되는 것을 방지한다.
             if (isGrounded && rb.linearVelocity.y <= 0.05f)
             {
                 jumpCount = 0;
             }
 
+
             if (!jumpRequested)
                 return;
 
+
             jumpRequested = false;
+
 
             if (jumpCount >= MaxJumps)
                 return;
+
 
             rb.linearVelocity =
                 new Vector2(
                     rb.linearVelocity.x,
                     CurrentJumpForce
                 );
+
 
             jumpCount++;
         }
@@ -733,10 +752,10 @@ namespace Carten
 
 
         // =========================================================
-        // Dash
+        // Dash Input
         // =========================================================
 
-        private void HandleDash()
+        private void HandleDashInput()
         {
             if (!CanDash)
                 return;
@@ -744,32 +763,52 @@ namespace Carten
             if (isSkillMovementLocked)
                 return;
 
+            if (Input.GetKeyDown(KeyCode.LeftShift))
+            {
+                dashRequested = true;
+            }
+        }
 
+
+        // =========================================================
+        // Dash
+        // =========================================================
+
+        private void HandleDash()
+        {
             if (isDashing)
             {
                 dashTimer -=
                     Time.fixedDeltaTime;
 
-
                 if (dashTimer <= 0f)
                 {
+                    dashTimer = 0f;
                     isDashing = false;
                 }
 
                 return;
             }
 
-
-            if (dashCooldownTimer > 0f)
-                return;
-
-
-            if (!Input.GetKeyDown(
-                KeyCode.LeftShift))
+            if (!CanDash)
             {
+                dashRequested = false;
                 return;
             }
 
+            if (isSkillMovementLocked)
+            {
+                dashRequested = false;
+                return;
+            }
+
+            if (!dashRequested)
+                return;
+
+            dashRequested = false;
+
+            if (dashCooldownTimer > 0f)
+                return;
 
             StartDash();
         }
@@ -1097,6 +1136,9 @@ namespace Carten
             jumpRequested =
                 false;
 
+            dashRequested =
+                false;
+
 
             if (showDebugLog)
             {
@@ -1127,7 +1169,7 @@ namespace Carten
         }
 
 
-        // =========================================================                //HandleJump
+        // =========================================================
         // Gizmos
         // =========================================================
 

@@ -471,7 +471,7 @@ namespace Carten
 
 
         // =========================================================
-        // Awake
+        // Awake        Private void HandleJump()
         // =========================================================
 
         private void Awake()
@@ -671,37 +671,28 @@ namespace Carten
                 return;
             }
 
+            bool isGrounded = CheckGround();
 
-            bool isGrounded =
-                CheckGround();
-
-
-            // 실제로 하강하면서 착지할 때만 점프 횟수를 초기화한다.
-            // 점프 직후 GroundCheck가 잠깐 바닥을 감지해도
-            // jumpCount가 0으로 되돌아가 2단 점프가 되는 것을 방지한다.
-            if (isGrounded && rb.linearVelocity.y <= 0.05f)
+            // 바닥 또는 밟을 수 있는 오브젝트에 닿아 있으면
+            // 점프 횟수를 초기화한다.
+            if (isGrounded)
             {
                 jumpCount = 0;
             }
 
-
             if (!jumpRequested)
                 return;
 
-
             jumpRequested = false;
-
 
             if (jumpCount >= MaxJumps)
                 return;
-
 
             rb.linearVelocity =
                 new Vector2(
                     rb.linearVelocity.x,
                     CurrentJumpForce
                 );
-
 
             jumpCount++;
         }

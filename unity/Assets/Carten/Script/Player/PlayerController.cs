@@ -1179,5 +1179,31 @@ namespace Carten
                 groundCheckRadius
             );
         }
+        private void OnCollisionEnter2D(Collision2D collision)
+        {
+            int otherLayer = collision.gameObject.layer;
+
+            // Ground Layer와 충돌했으면 점프 횟수 초기화
+            if ((groundLayer.value & (1 << otherLayer)) != 0)
+            {
+                jumpCount = 0;
+
+                if (showDebugLog)
+                {
+                    Debug.Log("[PlayerController] Ground 착지 → 점프 횟수 초기화");
+                }
+            }
+
+            // Jumpable Layer와 충돌했으면 점프 횟수 초기화
+            if ((jumpableLayer.value & (1 << otherLayer)) != 0)
+            {
+                jumpCount = 0;
+
+                if (showDebugLog)
+                {
+                    Debug.Log("[PlayerController] Jumpable 착지 → 점프 횟수 초기화");
+                }
+            }
+        }
     }
 }

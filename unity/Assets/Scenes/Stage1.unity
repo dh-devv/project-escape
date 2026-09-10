@@ -305,7 +305,7 @@ MonoBehaviour:
   phase2CriticalMultiplier: 1
   phase3CriticalMultiplier: 5
   groundCheck: {fileID: 1222430313}
-  groundCheckRadius: 0.3
+  groundCheckRadius: 0.15
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
@@ -559,7 +559,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd3bc2e0c7179cf4fbff9dfa19f74030, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Carten::Carten.EncounterController
-  triggerCollider: {fileID: 0}
+  triggerCollider: {fileID: 633309124}
   enemySpawner: {fileID: 117787029}
   spawnPoints:
   - {fileID: 701568552}
@@ -1137,7 +1137,7 @@ Transform:
   m_GameObject: {fileID: 1222430312}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.5, z: 0}
+  m_LocalPosition: {x: 0, y: -0.6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

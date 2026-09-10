@@ -29,6 +29,13 @@ namespace Carten
                 return;
             }
 
+            // 이미 시작했거나 클리어된 Encounter라면 다시 시작하지 않음
+            if (encounterController.IsStarted())
+                return;
+
+            if (encounterController.IsCleared())
+                return;
+
             encounterController.StartEncounter();
         }
     }

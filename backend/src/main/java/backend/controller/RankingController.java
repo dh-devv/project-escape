@@ -46,4 +46,4 @@ public class RankingController {
 
         return ResponseEntity.ok(response);
     }
-}`
+}

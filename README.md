@@ -21,17 +21,15 @@ Unity 기반 로봇 탈출 액션 게임 프로젝트
 
 | Phase | HP | 특징 |
 |:---:|:---:|---|
-| **Phase 1** | 70~100% | 높은 방어력, 느린 이동 |
+| **Phase 1** | 70~100% | 높은 방어력, 느린 이동, 대시 불가 |
 | **Phase 2** | 30~70% | 일반적인 전투, 대시 사용 |
-| **Phase 3** | 1~30% | 빠른 이동, 강화된 공격 능력 |
+| **Phase 3** | 1~30% | 빠른 이동, 강화된 전투 능력 |
 
 ---
 
 ## Project Goal
 
-> **실제 사용자가 플레이할 수 있는 게임을 완성하는 것**
-
-Unity로 게임을 개발하고 Spring Boot 기반 백엔드와 MySQL을 연동한 후, AWS 환경에 배포하여 실제로 구동되는 게임을 만드는 것을 목표로 합니다.
+> **Unity로 게임을 개발하고 Spring Boot 기반 백엔드와 MySQL을 연동한 후, AWS 환경에 배포하여 실제 사용자가 플레이할 수 있는 게임을 만드는 것을 목표로 합니다. **
 
 ---
 
@@ -43,8 +41,8 @@ Unity로 게임을 개발하고 Spring Boot 기반 백엔드와 MySQL을 연동�
 - 게임 결과 데이터 저장
 - Unity ↔ Backend API 통신
 - AWS 서버 배포
+- 랭킹 조회
 
-> 랭킹 기능은 팀 협의 후 개발 여부를 결정할 예정입니다.
 
 ---
 
@@ -63,6 +61,7 @@ Unity로 게임을 개발하고 Spring Boot 기반 백엔드와 MySQL을 연동�
 
 ## Architecture
 
+### 개발 환경
 ```text
 Unity Client
      │
@@ -72,10 +71,18 @@ Spring Boot
      │
      ▼
    MySQL
+```
 
+### 배포 환경
+```text
+Unity Client
+     │
+     │ HTTP / REST API
+     ▼
 AWS EC2
 └── Docker
-    └── Backend / Database
+    ├── Spring Boot
+    └── MySQL
 ```
 
 ---
@@ -132,8 +139,26 @@ project-escape/
 
 ---
 
-## Development Goal
+## 개발 현황
 
-Unity 게임과 백엔드 서버를 완성하고 AWS에 배포하여,
+| 항목 | 상태 |
+|---|:---:|
+| 프로젝트 초기 설정 | 완료 |
+| Spring Boot 백엔드 기본 구성 | 완료 |
+| 랭킹 API 프로토타입 구현 | 완료 |
+| MySQL 연동 | 진행 예정 |
+| Unity ↔ Backend API 연동 | 진행 예정 |
+| Docker 환경 구성 | 진행 예정 |
+| AWS EC2 배포 | 진행 예정 |
+| 최종 게임 테스트 | 진행 예정 |
 
-**실제 사용자가 게임을 실행하고 플레이할 수 있는 프로젝트를 만드는 것**을 최종 목표로 합니다.
+---
+
+## API
+
+| Method | Endpoint | Description |
+|---|---|---|
+| POST | `/api/v1/users` | 플레이어 생성 |
+| POST | `/api/v1/scores` | 게임 결과 저장 |
+| GET | `/api/v1/ranks` | 랭킹 조회 |
+| GET | `/api/v1/users/{userId}/best` | 개인 최고 기록 조회 |

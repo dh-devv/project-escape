@@ -11,6 +11,9 @@ import java.util.List;
 @RequestMapping("/api/v1")
 public class RankingController {
 
+    private static final int DEFAULT_LIMIT = 10;
+    private static final int MAX_LIMIT = 100;
+
     private final ScoreService scoreService;
 
     public RankingController(ScoreService scoreService) {
@@ -23,8 +26,9 @@ public class RankingController {
     ) {
 
         if (limit < 1) {
-            limit = 10;
+            limit = DEFAULT_LIMIT;
         }
+        limit = Math.min(limit, MAX_LIMIT);
 
         List<ScoreResponse> ranking =
                 scoreService.getRanking(limit);

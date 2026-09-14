@@ -3,6 +3,7 @@ package backend.controller;
 import backend.dto.UserRequest;
 import backend.dto.UserResponse;
 import backend.service.UserService;
+import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -18,7 +19,7 @@ public class UserController {
 
     @PostMapping
     public ResponseEntity<UserResponse> createUser(
-            @RequestBody UserRequest request
+            @Valid @RequestBody UserRequest request
     ) {
 
         UserResponse response =

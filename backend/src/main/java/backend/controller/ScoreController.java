@@ -3,6 +3,7 @@ package backend.controller;
 import backend.dto.ScoreRequest;
 import backend.dto.ScoreResponse;
 import backend.service.ScoreService;
+import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -18,7 +19,7 @@ public class ScoreController {
 
     @PostMapping
     public ResponseEntity<ScoreResponse> saveScore(
-            @RequestBody ScoreRequest request
+            @Valid @RequestBody ScoreRequest request
     ) {
 
         ScoreResponse response =

@@ -5,7 +5,7 @@ namespace Carten
     public class PlayerController : MonoBehaviour
     {
         // =========================================================
-        // Player Phase
+        // Player Phase         //if (showDebugLog)
         // =========================================================
 
         public enum PlayerPhase
@@ -290,7 +290,7 @@ namespace Carten
 
 
         // =========================================================
-        // Gravity
+        // Gravity      //기본 방어율
         // =========================================================
 
         [Header("=== Gravity ===")]
@@ -518,6 +518,7 @@ namespace Carten
                 false;
 
             UpdatePhase();
+            SaveGameState();
 
 
             if (showDebugLog)
@@ -536,9 +537,60 @@ namespace Carten
             }
         }
 
+        // =========================================================
+        // Game State 불러오기
+        // =========================================================
+
+        private void Start()
+        {
+            LoadGameState();
+        }
+
+        private void LoadGameState()
+        {
+            if (GameStateManager.Instance == null)
+            {
+                Debug.LogWarning(
+                    "[PlayerController] GameStateManager를 찾을 수 없습니다."
+                );
+
+                return;
+            }
+
+            currentHealth = Mathf.Clamp(
+                GameStateManager.Instance.PlayerHP,
+                0f,
+                maxHealth
+            );
+
+            UpdatePhase();
+
+            if (showDebugLog)
+            {
+                Debug.Log(
+                    $"[PlayerController] GameState 불러오기 완료\n" +
+                    $"HP: {currentHealth:F0}/{maxHealth:F0}\n" +
+                    $"Phase: {currentPhase}"
+                );
+            }
+        }
 
         // =========================================================
-        // Update
+        // Game State 저장
+        // =========================================================
+
+        private void SaveGameState()
+        {
+            if (GameStateManager.Instance == null)
+                return;
+
+            GameStateManager.Instance.SetPlayerState(
+                currentHealth,
+                (int)currentPhase + 1
+            );
+        }
+        // =========================================================
+        // Update //UpdatePhase();
         // =========================================================
 
         private void Update()

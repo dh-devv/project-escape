@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -296,7 +296,7 @@ namespace Carten
                 }
             }
 
-            // Enemy Layer ÀÚµ¿ Å½»ö
+            // Enemy Layer ï¿½Úµï¿½ Å½ï¿½ï¿½
             if (targetLayer.value == 0)
             {
                 int enemyLayer =
@@ -313,7 +313,7 @@ namespace Carten
             {
                 Debug.LogError(
                     "[PlayerSkillController] " +
-                    "PlayerController¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
+                    "PlayerControllerï¿½ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½."
                 );
             }
 
@@ -321,7 +321,7 @@ namespace Carten
             {
                 Debug.LogError(
                     "[PlayerSkillController] " +
-                    "Rigidbody2D¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
+                    "Rigidbody2Dï¿½ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½."
                 );
             }
 
@@ -329,7 +329,7 @@ namespace Carten
             {
                 Debug.LogError(
                     "[PlayerSkillController] " +
-                    "AttackPoint¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
+                    "AttackPointï¿½ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½."
                 );
             }
 
@@ -337,8 +337,65 @@ namespace Carten
                 playerController != null
                     ? playerController.CurrentPhase
                     : PlayerController.PlayerPhase.Phase1;
-        }
 
+            LoadSkillCooldowns();
+        }
+        // =========================================================
+        // GameStateManager - Skill Cooldown ï¿½Ò·ï¿½ï¿½ï¿½ï¿½ï¿½
+        // =========================================================
+
+        private void LoadSkillCooldowns()
+        {
+            if (GameStateManager.Instance == null)
+                return;
+
+            heavyStrikeTimer =
+                GameStateManager.Instance.GetSkillCooldownRemaining(
+                    GameStateManager.SkillCooldownType.HeavyStrike
+                );
+
+            defenseSkillTimer =
+                GameStateManager.Instance.GetSkillCooldownRemaining(
+                    GameStateManager.SkillCooldownType.Defense
+                );
+
+            gravityBoostTimer =
+                GameStateManager.Instance.GetSkillCooldownRemaining(
+                    GameStateManager.SkillCooldownType.GravityBoost
+                );
+
+
+            overdriveTimer =
+                GameStateManager.Instance.GetSkillCooldownRemaining(
+                    GameStateManager.SkillCooldownType.Overdrive
+                );
+
+            dashSlashTimer =
+                GameStateManager.Instance.GetSkillCooldownRemaining(
+                    GameStateManager.SkillCooldownType.DashSlash
+                );
+
+            boostExplosionTimer =
+                GameStateManager.Instance.GetSkillCooldownRemaining(
+                    GameStateManager.SkillCooldownType.BoostExplosion
+                );
+
+
+            limitBreakTimer =
+                GameStateManager.Instance.GetSkillCooldownRemaining(
+                    GameStateManager.SkillCooldownType.LimitBreak
+                );
+
+            blinkDashTimer =
+                GameStateManager.Instance.GetSkillCooldownRemaining(
+                    GameStateManager.SkillCooldownType.BlinkDash
+                );
+
+            overloadBlastTimer =
+                GameStateManager.Instance.GetSkillCooldownRemaining(
+                    GameStateManager.SkillCooldownType.OverloadBlast
+                );
+        }
 
         // =========================================================
         // Update
@@ -427,8 +484,8 @@ namespace Carten
             if (currentPhase == previousPhase)
                 return;
 
-            // Phase 1¿¡¼­ W »ç¿ë Áß Phase°¡ ¹Ù²î¸é
-            // Ãß°¡ ¹æ¾î·Â Á¦°Å
+            // Phase 1ï¿½ï¿½ï¿½ï¿½ W ï¿½ï¿½ï¿½ ï¿½ï¿½ Phaseï¿½ï¿½ ï¿½Ù²ï¿½ï¿½
+            // ï¿½ß°ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
             if (isDefenseSkillActive &&
                 currentPhase != PlayerController.PlayerPhase.Phase1)
             {
@@ -552,9 +609,17 @@ namespace Carten
             heavyStrikeTimer =
                 heavyStrikeCooldown;
 
+            if (GameStateManager.Instance != null)
+            {
+                GameStateManager.Instance.StartSkillCooldown(
+                    GameStateManager.SkillCooldownType.HeavyStrike,
+                    heavyStrikeCooldown
+                );
+            }
+
             DebugSkillLog(
                 "Phase 1",
-                "Q - ÁßÀå°© °­Å¸"
+                "Q - ï¿½ï¿½ï¿½å°© ï¿½ï¿½Å¸"
             );
         }
 
@@ -584,10 +649,17 @@ namespace Carten
 
             gravityBoostTimer =
                 gravityBoostCooldown;
+            if (GameStateManager.Instance != null)
+            {
+                GameStateManager.Instance.StartSkillCooldown(
+                    GameStateManager.SkillCooldownType.GravityBoost,
+                    gravityBoostCooldown
+                );
+            }
 
             DebugSkillLog(
                 "Phase 1",
-                "E - Áß·Â ÃßÁø"
+                "E - ï¿½ß·ï¿½ ï¿½ï¿½ï¿½ï¿½"
             );
         }
 
@@ -607,7 +679,17 @@ namespace Carten
             defenseSkillDurationTimer =
                 defenseSkillDuration;
 
-            // ½ÇÁ¦ PlayerController ¹æ¾î·Â Àû¿ë
+            defenseSkillTimer = defenseSkillCooldown;
+
+            if (GameStateManager.Instance != null)
+            {
+                GameStateManager.Instance.StartSkillCooldown(
+                    GameStateManager.SkillCooldownType.Defense,
+                    defenseSkillCooldown
+                );
+            }
+
+            // ï¿½ï¿½ï¿½ï¿½ PlayerController ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
             playerController
                 .SetAdditionalDamageReduction(
                     defenseSkillBonus
@@ -617,10 +699,10 @@ namespace Carten
             {
                 Debug.Log(
                     $"[PlayerSkillController] " +
-                    $"Phase 1 W È°¼ºÈ­ / " +
-                    $"Ãß°¡ ¹æ¾î: " +
+                    $"Phase 1 W È°ï¿½ï¿½È­ / " +
+                    $"ï¿½ß°ï¿½ ï¿½ï¿½ï¿½: " +
                     $"{defenseSkillBonus * 100f:F0}% / " +
-                    $"ÇöÀç ¹æ¾î: " +
+                    $"ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½: " +
                     $"{playerController.DefensePercent:F0}%"
                 );
             }
@@ -645,8 +727,8 @@ namespace Carten
             {
                 Debug.Log(
                     $"[PlayerSkillController] " +
-                    $"Phase 1 W Á¾·á / " +
-                    $"ÇöÀç ¹æ¾î: " +
+                    $"Phase 1 W ï¿½ï¿½ï¿½ï¿½ / " +
+                    $"ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½: " +
                     $"{playerController.DefensePercent:F0}%"
                 );
             }
@@ -758,12 +840,19 @@ namespace Carten
 
             overdriveTimer =
                 overdriveCooldown;
+            if (GameStateManager.Instance != null)
+            {
+                GameStateManager.Instance.StartSkillCooldown(
+                    GameStateManager.SkillCooldownType.Overdrive,
+                    overdriveCooldown
+                );
+            }
 
             if (showDebugLog)
             {
                 Debug.Log(
                     "[PlayerSkillController] " +
-                    "Phase 2 Q - ¿À¹öµå¶óÀÌºê ½ÃÀÛ"
+                    "Phase 2 Q - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìºï¿½ ï¿½ï¿½ï¿½ï¿½"
                 );
             }
 
@@ -789,7 +878,7 @@ namespace Carten
             {
                 Debug.Log(
                     "[PlayerSkillController] " +
-                    "Phase 2 Q - ¿À¹öµå¶óÀÌºê Á¾·á"
+                    "Phase 2 Q - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìºï¿½ ï¿½ï¿½ï¿½ï¿½"
                 );
             }
 
@@ -812,6 +901,13 @@ namespace Carten
 
             dashSlashTimer =
                 dashSlashCooldown;
+            if (GameStateManager.Instance != null)
+            {
+                GameStateManager.Instance.StartSkillCooldown(
+                    GameStateManager.SkillCooldownType.DashSlash,
+                    dashSlashCooldown
+                );
+            }
 
             float direction =
                 transform.localScale.x >= 0f
@@ -829,7 +925,7 @@ namespace Carten
                 0f
             );
 
-            // µ¹Áø Áß¿¡µµ Àû¿¡°Ô °ø°Ý
+            // ï¿½ï¿½ï¿½ï¿½ ï¿½ß¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
             PerformAreaDamage(
                 dashSlashDamage,
                 dashSlashRange
@@ -849,7 +945,7 @@ namespace Carten
 
             DebugSkillLog(
                 "Phase 2",
-                "W - ´ë½Ã ½½·¡½Ã"
+                "W - ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
             );
         }
         // =========================================================
@@ -866,6 +962,13 @@ namespace Carten
 
             boostExplosionTimer =
                 boostExplosionCooldown;
+            if (GameStateManager.Instance != null)
+            {
+                GameStateManager.Instance.StartSkillCooldown(
+                    GameStateManager.SkillCooldownType.BoostExplosion,
+                    boostExplosionCooldown
+                );
+            }
 
             float direction =
                 transform.localScale.x >= 0f
@@ -881,7 +984,7 @@ namespace Carten
             {
                 Debug.Log(
                     "[PlayerSkillController] " +
-                    "Phase 2 E - ÃßÁø ½ÃÀÛ"
+                    "Phase 2 E - ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½"
                 );
             }
 
@@ -894,7 +997,7 @@ namespace Carten
 
             playerController.EndGravityBoost();
 
-            // ÃßÁø Á¾·á ÁöÁ¡¿¡¼­ Æø¹ß
+            // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
             PerformAreaDamage(
                 boostExplosionDamage,
                 boostExplosionRange
@@ -904,7 +1007,7 @@ namespace Carten
             {
                 Debug.Log(
                     "[PlayerSkillController] " +
-                    "Phase 2 E - ÃßÁø Æø¹ß"
+                    "Phase 2 E - ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½"
                 );
             }
 
@@ -932,10 +1035,17 @@ namespace Carten
 
             limitBreakTimer =
                 limitBreakCooldown;
+            if (GameStateManager.Instance != null)
+            {
+                GameStateManager.Instance.StartSkillCooldown(
+                    GameStateManager.SkillCooldownType.LimitBreak,
+                    limitBreakCooldown
+                );
+            }
 
             DebugSkillLog(
                 "Phase 3",
-                "Q - ¸®¹ÌÆ® ºê·¹ÀÌÅ©"
+                "Q - ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ê·¹ï¿½ï¿½Å©"
             );
         }
 
@@ -961,10 +1071,17 @@ namespace Carten
 
             overloadBlastTimer =
                 overloadBlastCooldown;
+            if (GameStateManager.Instance != null)
+            {
+                GameStateManager.Instance.StartSkillCooldown(
+                    GameStateManager.SkillCooldownType.OverloadBlast,
+                    overloadBlastCooldown
+                );
+            }
 
             DebugSkillLog(
                 "Phase 3",
-                "E - °úºÎÇÏ ¹æÃâ"
+                "E - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½"
             );
         }
 
@@ -994,7 +1111,7 @@ namespace Carten
                     0f
                 );
 
-            // º®ÀÌ³ª Àå¾Ö¹°¿¡ ¹ÚÈ÷´Â °ÍÀ» ¾î´À Á¤µµ ¹æÁö
+            // ï¿½ï¿½ï¿½Ì³ï¿½ ï¿½ï¿½Ö¹ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
             RaycastHit2D obstacle =
                 Physics2D.Raycast(
                     startPosition,
@@ -1023,7 +1140,7 @@ namespace Carten
             rb.position =
                 targetPosition;
 
-            // ÀÌµ¿ Á÷ÈÄ ¸ñÀûÁö °ø°Ý
+            // ï¿½Ìµï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
             PerformAreaDamage(
                 blinkDashDamage,
                 blinkDashRange
@@ -1031,10 +1148,17 @@ namespace Carten
 
             blinkDashTimer =
                 blinkDashCooldown;
+            if (GameStateManager.Instance != null)
+            {
+                GameStateManager.Instance.StartSkillCooldown(
+                    GameStateManager.SkillCooldownType.BlinkDash,
+                    blinkDashCooldown
+                );
+            }
 
             DebugSkillLog(
                 "Phase 3",
-                "W - ºí¸µÅ© ´ë½Ã"
+                "W - ï¿½ï¿½ï¿½ï¿½Å© ï¿½ï¿½ï¿½"
             );
         }
 
@@ -1098,7 +1222,7 @@ namespace Carten
                 {
                     Debug.Log(
                         $"[PlayerSkillController] " +
-                        $"½ºÅ³ ÀûÁß: " +
+                        $"ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ï¿½: " +
                         $"{target.gameObject.name} / " +
                         $"Damage: {damage:F1}"
                     );
@@ -1116,8 +1240,8 @@ namespace Carten
             if (playerController == null)
                 return 0f;
 
-            // PlayerController°¡
-            // ±âº» ¹æ¾î + Ãß°¡ ¹æ¾î¸¦ °è»ê
+            // PlayerControllerï¿½ï¿½
+            // ï¿½âº» ï¿½ï¿½ï¿½ + ï¿½ß°ï¿½ ï¿½ï¿½î¸¦ ï¿½ï¿½ï¿½
             return playerController.DamageReduction;
         }
 
@@ -1262,22 +1386,22 @@ namespace Carten
 
             if (playerController != null)
             {
-                // W ¹æ¾î·Â Á¤¸®
+                // W ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
                 if (isDefenseSkillActive)
                 {
                     playerController
                         .ClearAdditionalDamageReduction();
                 }
 
-                // Áß·Â ÃßÁø Á¤¸®
+                // ï¿½ß·ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
                 if (isGravityBoostActive)
                 {
                     playerController
                         .EndGravityBoost();
                 }
 
-                // ´ë½Ã ½½·¡½Ã / ÃßÁø Æø¹ß µµÁßÀÌ¸é
-                // Áß·Â Á¦¾î¸¦ ¿ø»óº¹±¸
+                // ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ / ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì¸ï¿½
+                // ï¿½ß·ï¿½ ï¿½ï¿½ï¿½î¸¦ ï¿½ï¿½ï¿½óº¹±ï¿½
                 if (isDashSlashActive ||
                     isBoostExplosionActive)
                 {

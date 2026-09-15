@@ -518,7 +518,6 @@ namespace Carten
                 false;
 
             UpdatePhase();
-            SaveGameState();
 
 
             if (showDebugLog)
@@ -1047,6 +1046,8 @@ namespace Carten
             // -----------------------------------------------------
 
             UpdatePhase();
+
+            SaveGameState();
 
 
             // -----------------------------------------------------

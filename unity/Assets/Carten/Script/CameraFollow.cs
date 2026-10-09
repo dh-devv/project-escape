@@ -26,25 +26,13 @@ namespace Carten
 
             Vector3 targetPosition = target.position;
 
-            float targetX = followX
-                ? targetPosition.x + offsetX
-                : transform.position.x;
+            float targetX = followX ? targetPosition.x + offsetX : transform.position.x;
 
-            float targetY = followY
-                ? targetPosition.y + offsetY
-                : transform.position.y;
+            float targetY = followY ? targetPosition.y + offsetY : transform.position.y;
 
-            Vector3 desiredPosition = new Vector3(
-                targetX,
-                targetY,
-                offsetZ
-            );
+            Vector3 desiredPosition = new Vector3(targetX, targetY, offsetZ);
 
-            transform.position = Vector3.Lerp(
-                transform.position,
-                desiredPosition,
-                followSpeed * Time.deltaTime
-            );
+            transform.position = Vector3.Lerp(transform.position, desiredPosition, followSpeed * Time.deltaTime);
         }
 
         public void SetTarget(Transform newTarget)

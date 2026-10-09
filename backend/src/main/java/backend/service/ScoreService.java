@@ -7,6 +7,8 @@ import backend.persistence.StoredGameResultRepository;
 import backend.persistence.StoredUser;
 import org.springframework.stereotype.Service;
 import org.springframework.data.domain.Sort;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
@@ -24,6 +26,7 @@ public class ScoreService {
         this.resultRepository = resultRepository;
     }
 
+    @Transactional
     public ScoreResponse saveScore(ScoreRequest request) {
 
         StoredUser user = userService.findById(request.getUserId());
@@ -41,24 +44,24 @@ public class ScoreService {
         return toResponse(result);
     }
 
+    @Transactional(readOnly = true)
     public List<ScoreResponse> getRanking(int limit) {
         Sort sort = Sort.by(
                 Sort.Order.desc("score"),
-                Sort.Order.asc("clearTime")
+                Sort.Order.asc("clearTime"),
+                Sort.Order.asc("recordId")
         );
 
-        return resultRepository.findAll(sort).stream()
-                .limit(limit)
+        return resultRepository.findAllBy(PageRequest.of(0, Math.max(1, Math.min(limit, 100)), sort)).stream()
                 .map(this::toResponse)
                 .toList();
     }
 
+    @Transactional(readOnly = true)
     public ScoreResponse getBestScore(int userId) {
 
         return resultRepository
-                .findByUser_UserIdOrderByScoreDescClearTimeAsc(userId)
-                .stream()
-                .findFirst()
+                .findFirstByUser_UserIdOrderByScoreDescClearTimeAscRecordIdAsc(userId)
                 .map(this::toResponse)
                 .orElse(null);
     }

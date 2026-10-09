@@ -8,7 +8,7 @@ Docker Desktop을 설치한 뒤 프로젝트 루트에서 환경변수를 준비
 Copy-Item deployment/.env.example deployment/.env
 ```
 
-`deployment/.env`의 세 비밀번호와 애플리케이션 DB 사용자 값을 실제 값으로 변경합니다.
+`deployment/.env`의 두 비밀번호(`DB_PASSWORD`, `MYSQL_ROOT_PASSWORD`)와 DB 사용자 값을 실제 값으로 변경합니다.
 `deployment/.env`는 비밀번호를 포함하므로 Git에 커밋하지 않습니다.
 
 ```powershell

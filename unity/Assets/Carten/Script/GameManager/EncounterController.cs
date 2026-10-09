@@ -10,7 +10,7 @@ namespace Carten
 
         [Header("=== Spawn ===")]
         [SerializeField] private EnemySpawner enemySpawner;
-        [SerializeField] private Transform[] spawnPoints;               //private void StartEncounter()
+        [SerializeField] private Transform[] spawnPoints;
 
         [Header("=== Enemy Count ===")]
         [SerializeField] private int enemy1Count = 2;
@@ -18,33 +18,23 @@ namespace Carten
         [Header("=== Debug ===")]
         [SerializeField] private bool showDebugLog = true;
 
-
         private bool encounterStarted = false;
         private bool encounterCleared = false;
 
-        private readonly List<GameObject> encounterEnemies =
-            new List<GameObject>();
+        private readonly List<GameObject> encounterEnemies = new List<GameObject>();
 
-
-        private void Start()
+        private void Awake()
         {
             if (triggerCollider == null)
             {
-                triggerCollider =
-                    GetComponentInChildren<Collider2D>();
+                triggerCollider = GetComponentInChildren<Collider2D>();
             }
 
             if (enemySpawner == null)
             {
-                enemySpawner =
-                    FindFirstObjectByType<EnemySpawner>();
+                enemySpawner = FindFirstObjectByType<EnemySpawner>();
             }
         }
-
-
-        // ========================================================
-        // Trigger
-        // ========================================================
 
         private void OnTriggerEnter2D(Collider2D other)
         {
@@ -54,39 +44,42 @@ namespace Carten
             if (encounterCleared)
                 return;
 
-            if (!other.CompareTag("Player"))
+            if (other.GetComponentInParent<PlayerController>() == null)
                 return;
 
             StartEncounter();
         }
-
-
-        // ========================================================
-        // Encounter ½ÃÀÛ
-        // ========================================================
-
+        // Encounter ì‹œìž‘
         public void StartEncounter()
         {
-            encounterStarted = true;
-
-            if (showDebugLog)
+            if (encounterStarted || encounterCleared) return;
+            if (enemySpawner == null || spawnPoints == null || spawnPoints.Length == 0 || enemy1Count <= 0)
             {
-                Debug.Log(
-                    "[EncounterController] Encounter01 ½ÃÀÛ"
-                );
+                Debug.LogError("[EncounterController] Spawner, spawn points and a positive enemy count are required.", this);
+                return;
+            }
+            foreach (Transform point in spawnPoints)
+            {
+                if (point != null) continue;
+                Debug.LogError("[EncounterController] Spawn points contain an empty entry.", this);
+                return;
             }
 
             SpawnEnemies();
-        }
+            encounterStarted = encounterEnemies.Count > 0;
 
+            if (showDebugLog && encounterStarted)
+            {
+                Debug.Log("[EncounterController] Encounter01 ì‹œìž‘");
+            }
+
+        }
 
         private void SpawnEnemies()
         {
             if (enemySpawner == null)
             {
-                Debug.LogError(
-                    "[EncounterController] EnemySpawner°¡ ¾ø½À´Ï´Ù."
-                );
+                Debug.LogError("[EncounterController] EnemySpawnerê°€ ì—†ìŠµë‹ˆë‹¤.");
 
                 return;
             }
@@ -94,23 +87,16 @@ namespace Carten
             if (spawnPoints == null ||
                 spawnPoints.Length == 0)
             {
-                Debug.LogError(
-                    "[EncounterController] SpawnPoint°¡ ¾ø½À´Ï´Ù."
-                );
+                Debug.LogError("[EncounterController] SpawnPointê°€ ì—†ìŠµë‹ˆë‹¤.");
 
                 return;
             }
 
-
             for (int i = 0; i < enemy1Count; i++)
             {
-                int pointIndex =
-                    i % spawnPoints.Length;
+                int pointIndex = i % spawnPoints.Length;
 
-                GameObject enemy =
-                    enemySpawner.SpawnEnemy1(
-                        spawnPoints[pointIndex].position
-                    );
+                GameObject enemy = enemySpawner.SpawnEnemy1(spawnPoints[pointIndex].position);
 
                 if (enemy != null)
                 {
@@ -120,17 +106,10 @@ namespace Carten
 
             if (showDebugLog)
             {
-                Debug.Log(
-                    $"[EncounterController] Enemy1 {enemy1Count}¸¶¸® ¼ÒÈ¯"
-                );
+                Debug.Log($"[EncounterController] Enemy1 {encounterEnemies.Count}ë§ˆë¦¬ ì†Œí™˜");
             }
         }
-
-
-        // ========================================================
-        // ÀüÅõ È®ÀÎ
-        // ========================================================
-
+        // ì „íˆ¬ í™•ì¸
         private void Update()
         {
             if (!encounterStarted)
@@ -142,7 +121,6 @@ namespace Carten
             CheckEncounterClear();
         }
 
-
         private void CheckEncounterClear()
         {
             if (encounterEnemies.Count == 0)
@@ -150,14 +128,12 @@ namespace Carten
 
             for (int i = 0; i < encounterEnemies.Count; i++)
             {
-                GameObject enemy =
-                    encounterEnemies[i];
+                GameObject enemy = encounterEnemies[i];
 
                 if (enemy == null)
                     continue;
 
-                EnemyBase enemyBase =
-                    enemy.GetComponent<EnemyBase>();
+                EnemyBase enemyBase = enemy.GetComponent<EnemyBase>();
 
                 if (enemyBase == null)
                     continue;
@@ -170,30 +146,21 @@ namespace Carten
 
             ClearEncounter();
         }
-
-
-        // ========================================================
         // Encounter Clear
-        // ========================================================
-
         private void ClearEncounter()
         {
             encounterCleared = true;
 
             if (showDebugLog)
             {
-                Debug.Log(
-                    "[EncounterController] Encounter01 CLEAR!"
-                );
+                Debug.Log("[EncounterController] Encounter01 CLEAR!");
             }
         }
-
 
         public bool IsStarted()
         {
             return encounterStarted;
         }
-
 
         public bool IsCleared()
         {

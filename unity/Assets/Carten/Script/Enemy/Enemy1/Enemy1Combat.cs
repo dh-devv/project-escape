@@ -4,17 +4,9 @@ namespace Carten
 {
     public class Enemy1Combat : MonoBehaviour
     {
-        // ========================================================
         // Attack Point
-        // ========================================================
-
         [Header("=== Attack Point ===")]
         [SerializeField] private Transform attackPoint;
-
-
-        // ========================================================
-        // Attack
-        // ========================================================
 
         [Header("=== Attack ===")]
         [SerializeField] private float attackRange = 1.3f;
@@ -22,108 +14,65 @@ namespace Carten
         [SerializeField] private float attackDamage = 10f;
 
         [SerializeField] private float attackCooldown = 1.5f;
-
-
-        // ========================================================
         // Player Layer
-        // ========================================================
-
         [Header("=== Player Layer ===")]
         [SerializeField] private LayerMask playerLayer;
 
-
-        // ========================================================
-        // Debug
-        // ========================================================
-
         [Header("=== Debug ===")]
         [SerializeField] private bool showDebugLog = true;
-
-
-        // ========================================================
-        // Runtime
-        // ========================================================
 
         private Enemy1Controller enemyController;
         private Enemy1AI enemyAI;
 
         private float attackTimer;
 
-
-        // ========================================================
-        // Awake
-        // ========================================================
-
         private void Awake()
         {
-            enemyController =
-                GetComponent<Enemy1Controller>();
+            enemyController = GetComponent<Enemy1Controller>();
 
-            enemyAI =
-                GetComponent<Enemy1AI>();
+            enemyAI = GetComponent<Enemy1AI>();
 
             if (attackPoint == null)
             {
-                Transform found =
-                    transform.Find("AttackPoint");
+                Transform found = transform.Find("AttackPoint");
 
                 if (found != null)
                 {
-                    attackPoint =
-                        found;
+                    attackPoint = found;
                 }
             }
 
-            // Player Layer ¿⁄µø ≈Ωªˆ
+            // Player Layer ÏûêÎèô ÌÉêÏÉâ
             if (playerLayer.value == 0)
             {
-                int playerLayerIndex =
-                    LayerMask.NameToLayer("Player");
+                int playerLayerIndex = LayerMask.NameToLayer("Player");
 
                 if (playerLayerIndex >= 0)
                 {
-                    playerLayer =
-                        1 << playerLayerIndex;
+                    playerLayer = 1 << playerLayerIndex;
                 }
             }
 
             if (enemyController == null)
             {
-                Debug.LogError(
-                    "[Enemy1Combat] " +
-                    "Enemy1Controller∏¶ √£¿ª ºˆ æ¯Ω¿¥œ¥Ÿ."
-                );
+                Debug.LogError("[Enemy1Combat] " + "Enemy1ControllerÎ•º Ï∞æÏùÑ Ïàò ÏóÜÏäµÎãàÎã§.");
             }
 
             if (enemyAI == null)
             {
-                Debug.LogError(
-                    "[Enemy1Combat] " +
-                    "Enemy1AI∏¶ √£¿ª ºˆ æ¯Ω¿¥œ¥Ÿ."
-                );
+                Debug.LogError("[Enemy1Combat] " + "Enemy1AIÎ•º Ï∞æÏùÑ Ïàò ÏóÜÏäµÎãàÎã§.");
             }
 
             if (attackPoint == null)
             {
-                Debug.LogError(
-                    "[Enemy1Combat] " +
-                    "AttackPoint∏¶ √£¿ª ºˆ æ¯Ω¿¥œ¥Ÿ."
-                );
+                Debug.LogError("[Enemy1Combat] " + "AttackPointÎ•º Ï∞æÏùÑ Ïàò ÏóÜÏäµÎãàÎã§.");
             }
 
             if (playerLayer.value == 0)
             {
-                Debug.LogError(
-                    "[Enemy1Combat] " +
-                    "Player Layer∞° º≥¡§µ«¡ˆ æ æ“Ω¿¥œ¥Ÿ."
-                );
+                Debug.LogError("[Enemy1Combat] " + "Player LayerÍ∞Ä ÏÑ§Ï†ïÎêòÏßÄ ÏïäÏïòÏäµÎãàÎã§.");
             }
         }
-
-
-        // ========================================================
-        // Update
-        // ========================================================
 
         private void Update()
         {
@@ -135,8 +84,7 @@ namespace Carten
 
             if (attackTimer > 0f)
             {
-                attackTimer -=
-                    Time.deltaTime;
+                attackTimer -= Time.deltaTime;
             }
 
             if (enemyAI == null)
@@ -151,11 +99,6 @@ namespace Carten
             PerformAttack();
         }
 
-
-        // ========================================================
-        // Attack
-        // ========================================================
-
         public void PerformAttack()
         {
             if (enemyController == null)
@@ -167,12 +110,7 @@ namespace Carten
             if (attackPoint == null)
                 return;
 
-            Collider2D[] targets =
-                Physics2D.OverlapCircleAll(
-                    attackPoint.position,
-                    attackRange,
-                    playerLayer
-                );
+            Collider2D[] targets = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, playerLayer);
 
             bool hitPlayer = false;
 
@@ -181,15 +119,12 @@ namespace Carten
                 if (target == null)
                     continue;
 
-                PlayerController player =
-                    target.GetComponentInParent<PlayerController>();
+                PlayerController player = target.GetComponentInParent<PlayerController>();
 
                 if (player == null)
                     continue;
 
-                player.TakeDamage(
-                    attackDamage
-                );
+                player.TakeDamage(attackDamage);
 
                 hitPlayer = true;
 
@@ -205,35 +140,25 @@ namespace Carten
                 break;
             }
 
-            attackTimer =
-                attackCooldown;
+            attackTimer = attackCooldown;
 
             if (!hitPlayer && showDebugLog)
             {
                 Debug.Log(
                     "[ENEMY1 ATTACK] " +
-                    "∞¯∞›«ﬂ¡ˆ∏∏ «√∑π¿ÃæÓø°∞‘ ∏Ì¡ﬂ«œ¡ˆ æ æ“Ω¿¥œ¥Ÿ."
+                    "Í≥µÍ≤©ÌñàÏßÄÎßå ÌîåÎ†àÏù¥Ïñ¥ÏóêÍ≤å Î™ÖÏ§ëÌïòÏßÄ ÏïäÏïòÏäµÎãàÎã§."
                 );
             }
         }
-
-
-        // ========================================================
-        // Gizmo
-        // ========================================================
 
         private void OnDrawGizmosSelected()
         {
             if (attackPoint == null)
                 return;
 
-            Gizmos.color =
-                Color.red;
+            Gizmos.color = Color.red;
 
-            Gizmos.DrawWireSphere(
-                attackPoint.position,
-                attackRange
-            );
+            Gizmos.DrawWireSphere(attackPoint.position, attackRange);
         }
     }
 }

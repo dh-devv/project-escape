@@ -2,23 +2,15 @@ using UnityEngine;
 
 namespace Carten
 {
-    public class PlayerController : MonoBehaviour
+    public class PlayerController : MonoBehaviour, IDamageable
     {
-        // =========================================================
         // Player Phase
-        // =========================================================
-
         public enum PlayerPhase
         {
             Phase1,
             Phase2,
             Phase3
         }
-
-
-        // =========================================================
-        // HP
-        // =========================================================
 
         [Header("=== HP ===")]
 
@@ -27,16 +19,9 @@ namespace Carten
 
         private float currentHealth;
 
-        public float CurrentHealth =>
-            currentHealth;
+        public float CurrentHealth => currentHealth;
 
-        public float MaxHealth =>
-            maxHealth;
-
-
-        // =========================================================
-        // Phase
-        // =========================================================
+        public float MaxHealth => maxHealth;
 
         [Header("=== Phase ===")]
 
@@ -48,13 +33,7 @@ namespace Carten
 
         private PlayerPhase currentPhase;
 
-        public PlayerPhase CurrentPhase =>
-            currentPhase;
-
-
-        // =========================================================
-        // Defense
-        // =========================================================
+        public PlayerPhase CurrentPhase => currentPhase;
 
         [Header("=== Defense ===")]
 
@@ -70,13 +49,11 @@ namespace Carten
         [SerializeField]
         private float phase3Defense = 0f;
 
-
-        // ½ºÅ³ µî¿¡ ÀÇÇØ ÀÏ½ÃÀûÀ¸·Î Ãß°¡µÇ´Â ¹æ¾îÀ²
+        // ìŠ¤í‚¬ ë“±ì— ì˜í•´ ì¼ì‹œì ìœ¼ë¡œ ì¶”ê°€ë˜ëŠ” ë°©ì–´ìœ¨
         private float additionalDamageReduction;
 
-
         /// <summary>
-        /// ÇöÀç PhaseÀÇ ±âº» ¹æ¾îÀ² + Ãß°¡ ¹æ¾îÀ²
+        /// í˜„ì¬ Phaseì˜ ê¸°ë³¸ ë°©ì–´ìœ¨ + ì¶”ê°€ ë°©ì–´ìœ¨
         /// </summary>
         public float DamageReduction
         {
@@ -103,20 +80,14 @@ namespace Carten
                         break;
                 }
 
-                return Mathf.Clamp01(
-                    baseReduction +
-                    additionalDamageReduction
-                );
+                return Mathf.Clamp01(baseReduction + additionalDamageReduction);
             }
         }
 
-
-        public float DefensePercent =>
-            DamageReduction * 100f;
-
+        public float DefensePercent => DamageReduction * 100f;
 
         /// <summary>
-        /// ÇöÀç PhaseÀÇ ±âº» ¹æ¾îÀ²¸¸ ¹İÈ¯
+        /// í˜„ì¬ Phaseì˜ ê¸°ë³¸ ë°©ì–´ìœ¨ë§Œ ë°˜í™˜
         /// </summary>
         public float BaseDamageReduction
         {
@@ -139,41 +110,32 @@ namespace Carten
             }
         }
 
-
         /// <summary>
-        /// ÇöÀç Ãß°¡ ¹æ¾îÀ²
+        /// í˜„ì¬ ì¶”ê°€ ë°©ì–´ìœ¨
         /// </summary>
-        public float AdditionalDamageReduction =>
-            additionalDamageReduction;
-
+        public float AdditionalDamageReduction => additionalDamageReduction;
 
         /// <summary>
-        /// ÀÏ½ÃÀûÀÎ Ãß°¡ ÇÇÇØ °¨¼ÒÀ² ¼³Á¤
+        /// ì¼ì‹œì ì¸ ì¶”ê°€ í”¼í•´ ê°ì†Œìœ¨ ì„¤ì •
         /// </summary>
         public void SetAdditionalDamageReduction(
             float reduction)
         {
-            additionalDamageReduction =
-                Mathf.Clamp(
-                    reduction,
-                    0f,
-                    1f
-                );
+            additionalDamageReduction = Mathf.Clamp(reduction, 0f, 1f);
 
             if (showDebugLog)
             {
                 Debug.Log(
                     $"[PlayerController] " +
-                    $"Ãß°¡ ¹æ¾îÀ² ¼³Á¤ ¡æ " +
+                    $"ì¶”ê°€ ë°©ì–´ìœ¨ ì„¤ì • â†’ " +
                     $"+{additionalDamageReduction * 100f:F0}% / " +
-                    $"ÃÖÁ¾ ¹æ¾îÀ²: {DefensePercent:F0}%"
+                    $"ìµœì¢… ë°©ì–´ìœ¨: {DefensePercent:F0}%"
                 );
             }
         }
 
-
         /// <summary>
-        /// Ãß°¡ ÇÇÇØ °¨¼ÒÀ² Á¦°Å
+        /// ì¶”ê°€ í”¼í•´ ê°ì†Œìœ¨ ì œê±°
         /// </summary>
         public void ClearAdditionalDamageReduction()
         {
@@ -183,16 +145,11 @@ namespace Carten
             {
                 Debug.Log(
                     $"[PlayerController] " +
-                    $"Ãß°¡ ¹æ¾îÀ² Á¦°Å ¡æ " +
-                    $"ÃÖÁ¾ ¹æ¾îÀ²: {DefensePercent:F0}%"
+                    $"ì¶”ê°€ ë°©ì–´ìœ¨ ì œê±° â†’ " +
+                    $"ìµœì¢… ë°©ì–´ìœ¨: {DefensePercent:F0}%"
                 );
             }
         }
-
-
-        // =========================================================
-        // Movement
-        // =========================================================
 
         [Header("=== Movement ===")]
 
@@ -204,7 +161,6 @@ namespace Carten
 
         [SerializeField]
         private float phase3MoveSpeed = 9f;
-
 
         public float CurrentMoveSpeed
         {
@@ -224,11 +180,6 @@ namespace Carten
             }
         }
 
-
-        // =========================================================
-        // Jump
-        // =========================================================
-
         [Header("=== Jump ===")]
 
         [SerializeField]
@@ -240,7 +191,6 @@ namespace Carten
         [SerializeField]
         private float phase3JumpForce = 10f;
 
-
         [SerializeField]
         private int phase1MaxJumps = 1;
 
@@ -249,7 +199,6 @@ namespace Carten
 
         [SerializeField]
         private int phase3MaxJumps = 3;
-
 
         public float CurrentJumpForce
         {
@@ -269,7 +218,6 @@ namespace Carten
             }
         }
 
-
         public int MaxJumps
         {
             get
@@ -288,11 +236,6 @@ namespace Carten
             }
         }
 
-
-        // =========================================================
-        // Gravity
-        // =========================================================
-
         [Header("=== Gravity ===")]
 
         [SerializeField]
@@ -303,11 +246,6 @@ namespace Carten
 
         [SerializeField]
         private float riseGravityMultiplier = 1f;
-
-
-        // =========================================================
-        // Dash
-        // =========================================================
 
         [Header("=== Dash ===")]
 
@@ -323,11 +261,7 @@ namespace Carten
         [SerializeField]
         private float dashCooldown = 0.5f;
 
-
-        public bool CanDash =>
-            currentPhase == PlayerPhase.Phase2 ||
-            currentPhase == PlayerPhase.Phase3;
-
+        public bool CanDash => currentPhase == PlayerPhase.Phase2 || currentPhase == PlayerPhase.Phase3;
 
         public float CurrentDashSpeed
         {
@@ -343,11 +277,6 @@ namespace Carten
             }
         }
 
-
-        // =========================================================
-        // Attack
-        // =========================================================
-
         [Header("=== Attack ===")]
 
         [SerializeField]
@@ -359,7 +288,6 @@ namespace Carten
         [SerializeField]
         private float phase3AttackSpeedMultiplier = 5f;
 
-
         [SerializeField]
         private float phase1CriticalMultiplier = 1f;
 
@@ -368,7 +296,6 @@ namespace Carten
 
         [SerializeField]
         private float phase3CriticalMultiplier = 5f;
-
 
         public float AttackSpeedMultiplier
         {
@@ -388,7 +315,6 @@ namespace Carten
             }
         }
 
-
         public float CriticalMultiplier
         {
             get
@@ -407,11 +333,6 @@ namespace Carten
             }
         }
 
-
-        // =========================================================
-        // Ground Check
-        // =========================================================
-
         [Header("=== Ground Check ===")]
 
         [SerializeField]
@@ -420,28 +341,23 @@ namespace Carten
         [SerializeField]
         private float groundCheckRadius = 0.2f;
 
-        [Tooltip("ÀÏ¹İ ¹Ù´Ú Layer")]
+        [Tooltip("ì¼ë°˜ ë°”ë‹¥ Layer")]
         [SerializeField]
         private LayerMask groundLayer;
 
-        [Tooltip("¹âÀ» ¼ö ÀÖ´Â ¿ÀºêÁ§Æ® Layer")]
+        [Tooltip("ë°Ÿì„ ìˆ˜ ìˆëŠ” ì˜¤ë¸Œì íŠ¸ Layer")]
         [SerializeField]
         private LayerMask jumpableLayer;
-
-
-        // =========================================================
-        // Debug
-        // =========================================================
 
         [Header("=== Debug ===")]
 
         [SerializeField]
         private bool showDebugLog = true;
 
-
-        // =========================================================
-        // Internal
-        // =========================================================
+        private PlayerHitReaction hitReaction;
+        public PlayerHitReaction HitReaction => hitReaction;
+        public bool IsStunned => hitReaction != null && hitReaction.IsStunned;
+        public bool CanAct => isActiveAndEnabled && !isDead && !IsStunned;
 
         private Rigidbody2D rb;
 
@@ -453,93 +369,70 @@ namespace Carten
         private bool isDashing;
         private bool isDead;
 
-        // ½ºÅ³ °­Á¦ ÀÌµ¿ Áß ÀÏ¹İ ÀÌµ¿ Àá±İ
+        // ìŠ¤í‚¬ ê°•ì œ ì´ë™ ì¤‘ ì¼ë°˜ ì´ë™ ì ê¸ˆ
         private bool isSkillMovementLocked;
 
-        // Update¿¡¼­ ÀÔ·ÂÀ» ¹Ş°í FixedUpdate¿¡¼­ Á¡ÇÁ ½ÇÇà
+        // Updateì—ì„œ ì…ë ¥ì„ ë°›ê³  FixedUpdateì—ì„œ ì í”„ ì‹¤í–‰
         private bool jumpRequested;
 
-        // Update¿¡¼­ ´ë½Ã ÀÔ·ÂÀ» ¹Ş¾Æ FixedUpdate¿¡¼­ ½ÇÁ¦ ´ë½Ã ½ÇÇà
+        // Updateì—ì„œ ëŒ€ì‹œ ì…ë ¥ì„ ë°›ì•„ FixedUpdateì—ì„œ ì‹¤ì œ ëŒ€ì‹œ ì‹¤í–‰
         private bool dashRequested;
 
+        public bool IsDead => isDead;
 
-        public bool IsDead =>
-            isDead;
-
-        public bool IsSkillMovementLocked =>
-            isSkillMovementLocked;
-
-
-        // =========================================================
-        // Awake        Private void HandleJump()
-        // =========================================================
-
+        public bool IsSkillMovementLocked => isSkillMovementLocked;
         private void Awake()
         {
+            hitReaction = GetComponent<PlayerHitReaction>();
+            if (hitReaction == null)
+                hitReaction = gameObject.AddComponent<PlayerHitReaction>();
+            hitReaction.StunStarted += InterruptMovement;
+            if (GetComponent<PlayerInteractor>() == null)
+                gameObject.AddComponent<PlayerInteractor>();
             rb = GetComponent<Rigidbody2D>();
 
             if (rb == null)
             {
-                Debug.LogError(
-                    "[PlayerController] " +
-                    "Rigidbody2D¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
-                );
+                Debug.LogError("[PlayerController] " + "Rigidbody2Dë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.");
 
                 return;
             }
 
+            // íšŒì „ ë°©ì§€
+            rb.constraints |= RigidbodyConstraints2D.FreezeRotation;
 
-            // È¸Àü ¹æÁö
-            rb.constraints |=
-                RigidbodyConstraints2D.FreezeRotation;
+            // ë¬¼ë¦¬ ì´ë™ ì•ˆì •í™”
+            rb.interpolation = RigidbodyInterpolation2D.Interpolate;
 
+            rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 
-            // ¹°¸® ÀÌµ¿ ¾ÈÁ¤È­
-            rb.interpolation =
-                RigidbodyInterpolation2D.Interpolate;
+            currentHealth = maxHealth;
 
-            rb.collisionDetectionMode =
-                CollisionDetectionMode2D.Continuous;
+            additionalDamageReduction = 0f;
 
+            isSkillMovementLocked = false;
 
-            currentHealth =
-                maxHealth;
+            jumpRequested = false;
 
-            additionalDamageReduction =
-                0f;
-
-            isSkillMovementLocked =
-                false;
-
-            jumpRequested =
-                false;
-
-            dashRequested =
-                false;
+            dashRequested = false;
 
             UpdatePhase();
-
 
             if (showDebugLog)
             {
                 Debug.Log(
                     $"[PlayerController] " +
-                    $"ÇÃ·¹ÀÌ¾î »ı¼º\n" +
+                    $"í”Œë ˆì´ì–´ ìƒì„±\n" +
                     $"HP: {currentHealth:F0}/" +
                     $"{maxHealth:F0}\n" +
                     $"Phase: {currentPhase}\n" +
-                    $"±âº» ¹æ¾îÀ²: " +
+                    $"ê¸°ë³¸ ë°©ì–´ìœ¨: " +
                     $"{BaseDamageReduction * 100f:F0}%\n" +
-                    $"ÃÖÁ¾ ¹æ¾îÀ²: " +
+                    $"ìµœì¢… ë°©ì–´ìœ¨: " +
                     $"{DefensePercent:F0}%"
                 );
             }
         }
-
-
-        // =========================================================
-        // Update
-        // =========================================================
 
         private void Update()
         {
@@ -547,20 +440,25 @@ namespace Carten
                 return;
 
             HandleTimers();
+            if (!CanAct)
+                return;
 
             HandleJumpInput();
             HandleDashInput();
         }
 
-
-        // =========================================================
-        // FixedUpdate
-        // =========================================================
-
         private void FixedUpdate()
         {
             if (isDead)
                 return;
+
+            if (IsStunned)
+            {
+                if (rb != null)
+                    rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+                ApplyGravity();
+                return;
+            }
 
             HandleMovement();
 
@@ -571,20 +469,14 @@ namespace Carten
             ApplyGravity();
         }
 
-
-        // =========================================================
-        // Timer
-        // =========================================================
-
         private void HandleTimers()
         {
-            // dashTimer´Â ½ÇÁ¦ ´ë½Ã ÁøÇà ½Ã°£À» FixedUpdate¿¡¼­¸¸ °¨¼Ò½ÃÅ´
-            // Update + FixedUpdate¿¡¼­ Áßº¹ Â÷°¨µÇÁö ¾Êµµ·Ï ÇÔ
+            // dashTimerëŠ” ì‹¤ì œ ëŒ€ì‹œ ì§„í–‰ ì‹œê°„ì„ FixedUpdateì—ì„œë§Œ ê°ì†Œì‹œí‚´
+            // Update + FixedUpdateì—ì„œ ì¤‘ë³µ ì°¨ê°ë˜ì§€ ì•Šë„ë¡ í•¨
 
             if (dashCooldownTimer > 0f)
             {
-                dashCooldownTimer -=
-                    Time.deltaTime;
+                dashCooldownTimer -= Time.deltaTime;
 
                 if (dashCooldownTimer < 0f)
                 {
@@ -592,11 +484,6 @@ namespace Carten
                 }
             }
         }
-
-
-        // =========================================================
-        // Movement
-        // =========================================================
 
         private void HandleMovement()
         {
@@ -609,40 +496,20 @@ namespace Carten
             if (isSkillMovementLocked)
                 return;
 
+            float horizontal = Input.GetAxisRaw("Horizontal");
 
-            float horizontal =
-                Input.GetAxisRaw(
-                    "Horizontal"
-                );
+            rb.linearVelocity = new Vector2(horizontal * CurrentMoveSpeed, rb.linearVelocity.y);
 
-
-            rb.linearVelocity =
-                new Vector2(
-                    horizontal *
-                    CurrentMoveSpeed,
-                    rb.linearVelocity.y
-                );
-
-
-            // ÀÌµ¿ ¹æÇâ¿¡ µû¶ó ÇÃ·¹ÀÌ¾î ¹İÀü
+            // ì´ë™ ë°©í–¥ì— ë”°ë¼ í”Œë ˆì´ì–´ ë°˜ì „
             if (horizontal != 0f)
             {
-                Vector3 scale =
-                    transform.localScale;
+                Vector3 scale = transform.localScale;
 
-                scale.x =
-                    Mathf.Abs(scale.x) *
-                    Mathf.Sign(horizontal);
+                scale.x = Mathf.Abs(scale.x) * Mathf.Sign(horizontal);
 
-                transform.localScale =
-                    scale;
+                transform.localScale = scale;
             }
         }
-
-
-        // =========================================================
-        // Jump Input
-        // =========================================================
 
         private void HandleJumpInput()
         {
@@ -654,11 +521,6 @@ namespace Carten
 
             jumpRequested = true;
         }
-
-
-        // =========================================================
-        // Jump
-        // =========================================================
 
         private void HandleJump()
         {
@@ -673,8 +535,8 @@ namespace Carten
 
             bool isGrounded = CheckGround();
 
-            // ¹Ù´Ú ¶Ç´Â ¹âÀ» ¼ö ÀÖ´Â ¿ÀºêÁ§Æ®¿¡ ´ê¾Æ ÀÖÀ¸¸é
-            // Á¡ÇÁ È½¼ö¸¦ ÃÊ±âÈ­ÇÑ´Ù.
+            // ë°”ë‹¥ ë˜ëŠ” ë°Ÿì„ ìˆ˜ ìˆëŠ” ì˜¤ë¸Œì íŠ¸ì— ë‹¿ì•„ ìˆìœ¼ë©´
+            // ì í”„ íšŸìˆ˜ë¥¼ ì´ˆê¸°í™”í•œë‹¤.
             if (isGrounded)
             {
                 jumpCount = 0;
@@ -688,63 +550,36 @@ namespace Carten
             if (jumpCount >= MaxJumps)
                 return;
 
-            rb.linearVelocity =
-                new Vector2(
-                    rb.linearVelocity.x,
-                    CurrentJumpForce
-                );
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, CurrentJumpForce);
 
             jumpCount++;
         }
-
-
-        // =========================================================
-        // Ground Check
-        // =========================================================
 
         private bool CheckGround()
         {
             if (groundCheck == null)
                 return false;
 
-
-            // ÀÏ¹İ ¹Ù´Ú È®ÀÎ
+            // ì¼ë°˜ ë°”ë‹¥ í™•ì¸
             if (groundLayer.value != 0)
             {
-                Collider2D groundHit =
-                    Physics2D.OverlapCircle(
-                        groundCheck.position,
-                        groundCheckRadius,
-                        groundLayer
-                    );
+                Collider2D groundHit = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
                 if (groundHit != null)
                     return true;
             }
 
-
-            // ¹âÀ» ¼ö ÀÖ´Â ¿ÀºêÁ§Æ® È®ÀÎ
+            // ë°Ÿì„ ìˆ˜ ìˆëŠ” ì˜¤ë¸Œì íŠ¸ í™•ì¸
             if (jumpableLayer.value != 0)
             {
-                Collider2D jumpableHit =
-                    Physics2D.OverlapCircle(
-                        groundCheck.position,
-                        groundCheckRadius,
-                        jumpableLayer
-                    );
+                Collider2D jumpableHit = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, jumpableLayer);
 
                 if (jumpableHit != null)
                     return true;
             }
 
-
             return false;
         }
-
-
-        // =========================================================
-        // Dash Input
-        // =========================================================
 
         private void HandleDashInput()
         {
@@ -760,17 +595,11 @@ namespace Carten
             }
         }
 
-
-        // =========================================================
-        // Dash
-        // =========================================================
-
         private void HandleDash()
         {
             if (isDashing)
             {
-                dashTimer -=
-                    Time.fixedDeltaTime;
+                dashTimer -= Time.fixedDeltaTime;
 
                 if (dashTimer <= 0f)
                 {
@@ -804,260 +633,178 @@ namespace Carten
             StartDash();
         }
 
-
         private void StartDash()
         {
             if (rb == null)
                 return;
 
-
             isDashing = true;
 
-            dashTimer =
-                dashDuration;
+            dashTimer = dashDuration;
 
-            dashCooldownTimer =
-                dashCooldown;
+            dashCooldownTimer = dashCooldown;
 
+            float direction = transform.localScale.x >= 0f ? 1f : -1f;
 
-            float direction =
-                transform.localScale.x >= 0f
-                    ? 1f
-                    : -1f;
-
-
-            rb.linearVelocity =
-                new Vector2(
-                    direction *
-                    CurrentDashSpeed,
-                    0f
-                );
+            rb.linearVelocity = new Vector2(direction * CurrentDashSpeed, 0f);
         }
-
-
-        // =========================================================
-        // Gravity
-        // =========================================================
 
         private void ApplyGravity()
         {
             if (rb == null)
                 return;
 
-
-            // Dash Áß¿¡´Â ±âÁ¸ Áß·Â »óÅÂ À¯Áö
+            // Dash ì¤‘ì—ëŠ” ê¸°ì¡´ ì¤‘ë ¥ ìƒíƒœ ìœ ì§€
             if (isDashing)
                 return;
 
-
-            // ½ºÅ³ °­Á¦ ÀÌµ¿ Áß¿¡´Â
-            // Skill ÂÊ¿¡¼­ Áß·ÂÀ» Á¦¾îÇÑ´Ù.
+            // ìŠ¤í‚¬ ê°•ì œ ì´ë™ ì¤‘ì—ëŠ”
+            // Skill ìª½ì—ì„œ ì¤‘ë ¥ì„ ì œì–´í•œë‹¤.
             if (isSkillMovementLocked)
                 return;
 
-
             if (rb.linearVelocity.y < 0f)
             {
-                rb.gravityScale =
-                    baseGravityScale *
-                    fallGravityMultiplier;
+                rb.gravityScale = baseGravityScale * fallGravityMultiplier;
             }
             else
             {
-                rb.gravityScale =
-                    baseGravityScale *
-                    riseGravityMultiplier;
+                rb.gravityScale = baseGravityScale * riseGravityMultiplier;
             }
         }
-
-
-        // =========================================================
-        // Skill Movement
-        // =========================================================
 
         public void StartGravityBoost(
             float horizontalVelocity,
             float verticalVelocity)
         {
-            if (rb == null)
+            if (rb == null || !CanAct)
                 return;
 
-
-            isSkillMovementLocked =
-                true;
-
+            isSkillMovementLocked = true;
 
             rb.gravityScale = 0f;
 
-
-            rb.linearVelocity =
-                new Vector2(
-                    horizontalVelocity,
-                    verticalVelocity
-                );
+            rb.linearVelocity = new Vector2(horizontalVelocity, verticalVelocity);
         }
-
 
         public void EndGravityBoost()
         {
             if (rb == null)
                 return;
 
+            rb.gravityScale = baseGravityScale;
 
-            rb.gravityScale =
-                baseGravityScale;
+            rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
 
-
-            rb.linearVelocity =
-                new Vector2(
-                    0f,
-                    rb.linearVelocity.y
-                );
-
-
-            isSkillMovementLocked =
-                false;
+            isSkillMovementLocked = false;
         }
-        // =========================================================
-        // Damage
-        // =========================================================
+        // ë§µ ì´ë™ì€ ì²´ë ¥ë§Œ ë„˜ê¸´ë‹¤. ìŠ¤í„´ê³¼ ìŠ¤í‚¬ ë“± ì¼ì‹œ ìƒíƒœëŠ” ìƒˆ ì”¬ì—ì„œ ì´ˆê¸°í™”í•œë‹¤.
+        internal void RestoreHealthForMap(float health)
+        {
+            if (isDead || health <= 0f || float.IsNaN(health) || float.IsInfinity(health))
+                return;
+
+            currentHealth = Mathf.Min(health, maxHealth);
+            UpdatePhase();
+        }
+
+        public void TakeDamage(float damage, float stunDuration)
+        {
+            float previousHealth = currentHealth;
+            TakeDamage(damage);
+            if (!isDead && currentHealth < previousHealth)
+                hitReaction?.ApplyStun(stunDuration);
+        }
+
+        private void InterruptMovement()
+        {
+            isDashing = false;
+            dashTimer = 0f;
+            jumpRequested = false;
+            dashRequested = false;
+            EndGravityBoost();
+        }
+
+        private void OnDisable()
+        {
+            hitReaction?.ClearStun();
+            InterruptMovement();
+        }
+
+        private void OnDestroy()
+        {
+            if (hitReaction != null)
+                hitReaction.StunStarted -= InterruptMovement;
+        }
 
         public void TakeDamage(float damage)
         {
-            if (isDead)
+            if (isDead || !isActiveAndEnabled || float.IsNaN(damage) || float.IsInfinity(damage))
                 return;
 
+            damage = Mathf.Max(0f, damage);
+            // í˜„ì¬ ë°©ì–´ìœ¨
+            float damageReduction = DamageReduction;
+            // ìµœì¢… í”¼í•´ ê³„ì‚°
+            float finalDamage = damage * (1f - damageReduction);
+            // HP ê°ì†Œ
+            currentHealth -= finalDamage;
 
-            damage =
-                Mathf.Max(
-                    0f,
-                    damage
-                );
-
-
-            // -----------------------------------------------------
-            // ÇöÀç ¹æ¾îÀ²
-            // -----------------------------------------------------
-
-            float damageReduction =
-                DamageReduction;
-
-
-            // -----------------------------------------------------
-            // ÃÖÁ¾ ÇÇÇØ °è»ê
-            // -----------------------------------------------------
-
-            float finalDamage =
-                damage *
-                (1f - damageReduction);
-
-
-            // -----------------------------------------------------
-            // HP °¨¼Ò
-            // -----------------------------------------------------
-
-            currentHealth -=
-                finalDamage;
-
-
-            currentHealth =
-                Mathf.Max(
-                    0f,
-                    currentHealth
-                );
-
-
-            // -----------------------------------------------------
-            // Debug
-            // -----------------------------------------------------
+            currentHealth = Mathf.Max(0f, currentHealth);
 
             if (showDebugLog)
             {
                 Debug.Log(
-                    $"[PlayerController] ÇÇ°İ\n" +
+                    $"[PlayerController] í”¼ê²©\n" +
                     $"Phase: {currentPhase}\n" +
-                    $"¿øº» °ø°İ·Â: {damage:F1}\n" +
-                    $"±âº» ¹æ¾îÀ²: " +
+                    $"ì›ë³¸ ê³µê²©ë ¥: {damage:F1}\n" +
+                    $"ê¸°ë³¸ ë°©ì–´ìœ¨: " +
                     $"{BaseDamageReduction * 100f:F0}%\n" +
-                    $"Ãß°¡ ¹æ¾îÀ²: " +
+                    $"ì¶”ê°€ ë°©ì–´ìœ¨: " +
                     $"{AdditionalDamageReduction * 100f:F0}%\n" +
-                    $"ÃÖÁ¾ ¹æ¾îÀ²: " +
+                    $"ìµœì¢… ë°©ì–´ìœ¨: " +
                     $"{DefensePercent:F0}%\n" +
-                    $"ÃÖÁ¾ ÇÇÇØ: {finalDamage:F1}\n" +
+                    $"ìµœì¢… í”¼í•´: {finalDamage:F1}\n" +
                     $"HP: {currentHealth:F1}/" +
                     $"{maxHealth:F1}"
                 );
             }
-
-
-            // -----------------------------------------------------
-            // Phase ÀçÆÇÁ¤
-            // -----------------------------------------------------
-
+            // Phase ì¬íŒì •
             UpdatePhase();
-
-
-            // -----------------------------------------------------
-            // »ç¸Á
-            // -----------------------------------------------------
-
+            // ì‚¬ë§
             if (currentHealth <= 0f)
             {
                 Die();
             }
         }
 
-
-        // =========================================================
-        // Phase Update
-        // =========================================================
-
         private void UpdatePhase()
         {
-            float healthPercent =
-                maxHealth > 0f
-                    ? (currentHealth /
-                       maxHealth) * 100f
-                    : 0f;
+            float healthPercent = maxHealth > 0f ? (currentHealth / maxHealth) * 100f : 0f;
 
-
-            PlayerPhase previousPhase =
-                currentPhase;
-
+            PlayerPhase previousPhase = currentPhase;
 
             if (healthPercent <=
                 phase3HealthPercent)
             {
-                currentPhase =
-                    PlayerPhase.Phase3;
+                currentPhase = PlayerPhase.Phase3;
             }
             else if (healthPercent <=
                      phase2HealthPercent)
             {
-                currentPhase =
-                    PlayerPhase.Phase2;
+                currentPhase = PlayerPhase.Phase2;
             }
             else
             {
-                currentPhase =
-                    PlayerPhase.Phase1;
+                currentPhase = PlayerPhase.Phase1;
             }
-
 
             if (previousPhase !=
                 currentPhase)
             {
-                OnPhaseChanged(
-                    previousPhase,
-                    currentPhase
-                );
+                OnPhaseChanged(previousPhase, currentPhase);
             }
         }
-
-
-        // =========================================================
-        // Phase Changed
-        // =========================================================
 
         private void OnPhaseChanged(
             PlayerPhase previousPhase,
@@ -1066,118 +813,81 @@ namespace Carten
             if (!showDebugLog)
                 return;
 
-
             Debug.Log(
                 $"================================\n" +
                 $"[SUIT PHASE CHANGE]\n" +
-                $"»óÅÂ º¯È­: " +
-                $"{previousPhase} ¡æ {newPhase}\n" +
-                $"ÇöÀç HP: " +
+                $"ìƒíƒœ ë³€í™”: " +
+                $"{previousPhase} â†’ {newPhase}\n" +
+                $"í˜„ì¬ HP: " +
                 $"{currentHealth:F1}/{maxHealth:F1}\n" +
                 $"HP: " +
                 $"{GetHealthPercent():F1}%\n" +
-                $"±âº» ¹æ¾îÀ²: " +
+                $"ê¸°ë³¸ ë°©ì–´ìœ¨: " +
                 $"{BaseDamageReduction * 100f:F0}%\n" +
-                $"Ãß°¡ ¹æ¾îÀ²: " +
+                $"ì¶”ê°€ ë°©ì–´ìœ¨: " +
                 $"{AdditionalDamageReduction * 100f:F0}%\n" +
-                $"ÃÖÁ¾ ¹æ¾îÀ²: " +
+                $"ìµœì¢… ë°©ì–´ìœ¨: " +
                 $"{DefensePercent:F0}%\n" +
-                $"ÀÌµ¿¼Óµµ: " +
+                $"ì´ë™ì†ë„: " +
                 $"{CurrentMoveSpeed:F1}\n" +
-                $"Á¡ÇÁ È½¼ö: " +
+                $"ì í”„ íšŸìˆ˜: " +
                 $"{MaxJumps}\n" +
-                $"°ø°İ¼Óµµ ¹èÀ²: " +
+                $"ê³µê²©ì†ë„ ë°°ìœ¨: " +
                 $"x{AttackSpeedMultiplier:F1}\n" +
-                $"Å©¸®Æ¼ÄÃ ¹èÀ²: " +
+                $"í¬ë¦¬í‹°ì»¬ ë°°ìœ¨: " +
                 $"x{CriticalMultiplier:F1}\n" +
                 $"================================"
             );
         }
-
-
-        // =========================================================
-        // Death
-        // =========================================================
 
         private void Die()
         {
             if (isDead)
                 return;
 
-
             isDead = true;
-
 
             if (rb != null)
             {
-                rb.linearVelocity =
-                    Vector2.zero;
+                rb.linearVelocity = Vector2.zero;
 
-                rb.gravityScale =
-                    baseGravityScale;
+                rb.gravityScale = baseGravityScale;
             }
 
+            additionalDamageReduction = 0f;
 
-            additionalDamageReduction =
-                0f;
+            isSkillMovementLocked = false;
 
-            isSkillMovementLocked =
-                false;
+            jumpRequested = false;
 
-            jumpRequested =
-                false;
-
-            dashRequested =
-                false;
-
+            dashRequested = false;
 
             if (showDebugLog)
             {
-                Debug.Log(
-                    "[PlayerController] " +
-                    "ÇÃ·¹ÀÌ¾î »ç¸Á"
-                );
+                Debug.Log("[PlayerController] " + "í”Œë ˆì´ì–´ ì‚¬ë§");
             }
-
 
             gameObject.SetActive(false);
         }
-
-
-        // =========================================================
-        // Utility
-        // =========================================================
 
         public float GetHealthPercent()
         {
             if (maxHealth <= 0f)
                 return 0f;
 
-
             return
                 (currentHealth /
                  maxHealth) * 100f;
         }
-
-
-        // =========================================================
-        // Gizmos
-        // =========================================================
 
         private void OnDrawGizmosSelected()
         {
             if (groundCheck == null)
                 return;
 
+            Gizmos.color = Color.green;
 
-            Gizmos.color =
-                Color.green;
-
-
-            Gizmos.DrawWireSphere(
-                groundCheck.position,
-                groundCheckRadius
-            );
+            Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
         }
     }
 }

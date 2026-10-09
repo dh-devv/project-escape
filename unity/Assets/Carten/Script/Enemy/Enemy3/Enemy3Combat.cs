@@ -5,18 +5,10 @@ namespace Carten
 {
     public class Enemy3Combat : MonoBehaviour
     {
-        // ========================================================
-        // References
-        // ========================================================
 
         [Header("=== References ===")]
         [SerializeField]
         private Transform attackPoint;
-
-
-        // ========================================================
-        // Attack
-        // ========================================================
 
         [Header("=== Attack ===")]
         [SerializeField]
@@ -27,102 +19,63 @@ namespace Carten
 
         [SerializeField]
         private float attackCooldown = 1.8f;
-
-
-        // ========================================================
         // Target
-        // ========================================================
-
         [Header("=== Target ===")]
         [SerializeField]
         private LayerMask targetLayer;
-
-
-        // ========================================================
-        // Debug
-        // ========================================================
 
         [Header("=== Debug ===")]
         [SerializeField]
         private bool showDebugLog = true;
 
-
-        // ========================================================
-        // Runtime
-        // ========================================================
-
         private Enemy3Controller enemyController;
         private Enemy3AI enemyAI;
 
+        [SerializeField, Min(0f)] private float hitStunDuration = 0.45f;
         private float attackTimer;
-
-
-        // ========================================================
-        // Awake
-        // ========================================================
 
         private void Awake()
         {
-            enemyController =
-                GetComponent<Enemy3Controller>();
+            enemyController = GetComponent<Enemy3Controller>();
 
-            enemyAI =
-                GetComponent<Enemy3AI>();
+            enemyAI = GetComponent<Enemy3AI>();
 
             if (attackPoint == null)
             {
-                Transform found =
-                    transform.Find("AttackPoint");
+                Transform found = transform.Find("AttackPoint");
 
                 if (found != null)
                 {
-                    attackPoint =
-                        found;
+                    attackPoint = found;
                 }
             }
 
-            // Enemy Layer ÀÚµ¿ Å½»ö
+            // Enemy Layer ìžë™ íƒìƒ‰
             if (targetLayer.value == 0)
             {
-                int playerLayer =
-                    LayerMask.NameToLayer("Player");
+                int playerLayer = LayerMask.NameToLayer("Player");
 
                 if (playerLayer >= 0)
                 {
-                    targetLayer =
-                        1 << playerLayer;
+                    targetLayer = 1 << playerLayer;
                 }
             }
 
             if (enemyController == null)
             {
-                Debug.LogError(
-                    "[Enemy3Combat] " +
-                    "Enemy3Controller¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
-                );
+                Debug.LogError("[Enemy3Combat] " + "Enemy3Controllerë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.");
             }
 
             if (enemyAI == null)
             {
-                Debug.LogError(
-                    "[Enemy3Combat] " +
-                    "Enemy3AI¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
-                );
+                Debug.LogError("[Enemy3Combat] " + "Enemy3AIë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.");
             }
 
             if (attackPoint == null)
             {
-                Debug.LogError(
-                    "[Enemy3Combat] " +
-                    "AttackPoint¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
-                );
+                Debug.LogError("[Enemy3Combat] " + "AttackPointë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.");
             }
         }
-
-
-        // ========================================================
-        // Update
-        // ========================================================
 
         private void Update()
         {
@@ -134,8 +87,7 @@ namespace Carten
 
             if (attackTimer > 0f)
             {
-                attackTimer -=
-                    Time.deltaTime;
+                attackTimer -= Time.deltaTime;
             }
 
             if (enemyAI == null)
@@ -150,39 +102,28 @@ namespace Carten
             PerformAttack();
         }
 
-
-        // ========================================================
-        // Attack
-        // ========================================================
-
         public void PerformAttack()
         {
+            if (enemyController == null || enemyController.IsDead)
+                return;
             if (attackPoint == null)
                 return;
 
-            Collider2D[] hits =
-                Physics2D.OverlapCircleAll(
-                    attackPoint.position,
-                    attackRange,
-                    targetLayer
-                );
+            Collider2D[] hits = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, targetLayer);
 
             HashSet<IDamageable>
-                damagedTargets =
-                    new HashSet<IDamageable>();
+                damagedTargets = new HashSet<IDamageable>();
 
             int hitCount = 0;
 
             foreach (Collider2D hit in hits)
             {
-                IDamageable damageable =
-                    hit.GetComponentInParent<IDamageable>();
+                IDamageable damageable = hit.GetComponentInParent<IDamageable>();
 
                 if (damageable == null)
                     continue;
 
-                if (damagedTargets.Contains(
-                    damageable))
+                if (damagedTargets.Contains(damageable))
                 {
                     continue;
                 }
@@ -190,25 +131,23 @@ namespace Carten
                 if (damageable.IsDead)
                     continue;
 
-                damagedTargets.Add(
-                    damageable
-                );
+                damagedTargets.Add(damageable);
 
-                damageable.TakeDamage(
-                    attackDamage
-                );
+                if (damageable is PlayerController player)
+                    player.TakeDamage(attackDamage, hitStunDuration);
+                else
+                    damageable.TakeDamage(attackDamage);
 
                 hitCount++;
             }
 
-            attackTimer =
-                attackCooldown;
+            attackTimer = attackCooldown;
 
             if (showDebugLog)
             {
                 Debug.Log(
                     $"[ENEMY3 ATTACK]\n" +
-                    $"¹æ¾îÇü ±ÙÁ¢ °ø°Ý\n" +
+                    $"ë°©ì–´í˜• ê·¼ì ‘ ê³µê²©\n" +
                     $"Damage: {attackDamage:F1}\n" +
                     $"Hit: {hitCount}\n" +
                     $"Cooldown: {attackCooldown:F1}s"
@@ -216,23 +155,14 @@ namespace Carten
             }
         }
 
-
-        // ========================================================
-        // Gizmos
-        // ========================================================
-
         private void OnDrawGizmosSelected()
         {
             if (attackPoint == null)
                 return;
 
-            Gizmos.color =
-                Color.red;
+            Gizmos.color = Color.red;
 
-            Gizmos.DrawWireSphere(
-                attackPoint.position,
-                attackRange
-            );
+            Gizmos.DrawWireSphere(attackPoint.position, attackRange);
         }
     }
 }

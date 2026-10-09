@@ -4,26 +4,13 @@ namespace Carten
 {
     public class Enemy2Controller : EnemyBase
     {
-        // ========================================================
-        // Debug
-        // ========================================================
 
         [Header("=== Debug ===")]
         [SerializeField] private bool showDebugLog = true;
 
-
-        // ========================================================
-        // Runtime
-        // ========================================================
-
         private Rigidbody2D rb;
 
         public bool IsStopped { get; private set; }
-
-
-        // ========================================================
-        // Awake
-        // ========================================================
 
         protected override void Awake()
         {
@@ -33,39 +20,25 @@ namespace Carten
 
             if (rb == null)
             {
-                Debug.LogError(
-                    "[Enemy2Controller] " +
-                    "Rigidbody2D∏¶ √£¿ª ºˆ æ¯Ω¿¥œ¥Ÿ."
-                );
+                Debug.LogError("[Enemy2Controller] " + "Rigidbody2DÎ•º Ï∞æÏùÑ Ïàò ÏóÜÏäµÎãàÎã§.");
 
                 return;
             }
 
-            rb.constraints |=
-                RigidbodyConstraints2D.FreezeRotation;
+            rb.constraints |= RigidbodyConstraints2D.FreezeRotation;
 
-            rb.interpolation =
-                RigidbodyInterpolation2D.Interpolate;
+            rb.interpolation = RigidbodyInterpolation2D.Interpolate;
 
-            rb.collisionDetectionMode =
-                CollisionDetectionMode2D.Continuous;
+            rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 
             IsStopped = false;
 
             if (showDebugLog)
             {
-                Debug.Log(
-                    $"[Enemy2Controller] Enemy2 ª˝º∫ / " +
-                    $"HP: {CurrentHealth:F0}/{MaxHealth:F0}"
-                );
+                Debug.Log($"[Enemy2Controller] Enemy2 ÏÉùÏÑ± / " + $"HP: {CurrentHealth:F0}/{MaxHealth:F0}");
             }
         }
-
-
-        // ========================================================
         // Stop State
-        // ========================================================
-
         public void SetStopped(bool stopped)
         {
             IsStopped = stopped;
@@ -75,39 +48,24 @@ namespace Carten
                 StopHorizontalMovement();
             }
         }
-
-
-        // ========================================================
         // Stop Horizontal Movement
-        // ========================================================
-
         public void StopHorizontalMovement()
         {
             if (rb == null)
                 return;
 
-            Vector2 velocity =
-                rb.linearVelocity;
+            Vector2 velocity = rb.linearVelocity;
 
             velocity.x = 0f;
 
-            rb.linearVelocity =
-                velocity;
+            rb.linearVelocity = velocity;
         }
-
-
-        // ========================================================
-        // Death
-        // ========================================================
 
         protected override void Die()
         {
             if (showDebugLog)
             {
-                Debug.Log(
-                    $"[Enemy2Controller] " +
-                    $"{gameObject.name} √≥ƒ°"
-                );
+                Debug.Log($"[Enemy2Controller] " + $"{gameObject.name} Ï≤òÏπò");
             }
 
             gameObject.SetActive(false);

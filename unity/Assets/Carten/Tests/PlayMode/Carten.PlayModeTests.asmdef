@@ -1,0 +1,9 @@
+{
+  "name": "Carten.PlayModeTests",
+  "rootNamespace": "Carten.Tests",
+  "references": ["Carten"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "autoReferenced": false
+}

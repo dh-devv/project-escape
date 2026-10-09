@@ -4,151 +4,92 @@ namespace Carten
 {
     public class Enemy2Bullet : MonoBehaviour
     {
-        // ========================================================
-        // Bullet
-        // ========================================================
 
         [Header("=== Bullet ===")]
         [SerializeField] private float speed = 8f;
 
         [SerializeField] private float lifetime = 3f;
 
-
-        // ========================================================
-        // Collision
-        // ========================================================
-
         [Header("=== Collision ===")]
-        [Tooltip("≈∫»Ø¿Ã ∫Œµ˙»˜∏È ªÁ∂Û¡˙ Layer")]
+        [Tooltip("ÌÉÑÌôòÏù¥ Î∂ÄÎî™ÌûàÎ©¥ ÏÇ¨ÎùºÏßà Layer")]
         [SerializeField] private LayerMask obstacleLayer;
-
-
-        // ========================================================
-        // Runtime
-        // ========================================================
 
         private Rigidbody2D rb;
 
         private float damage;
         private LayerMask playerLayer;
 
+        [SerializeField, Min(0f)] private float hitStunDuration = 0.25f;
+        private bool consumed;
         private bool initialized;
-
-
-        // ========================================================
-        // Awake
-        // ========================================================
 
         private void Awake()
         {
-            rb =
-                GetComponent<Rigidbody2D>();
+            rb = GetComponent<Rigidbody2D>();
 
             if (rb == null)
             {
-                Debug.LogError(
-                    "[Enemy2Bullet] " +
-                    "Rigidbody2D∏¶ √£¿ª ºˆ æ¯Ω¿¥œ¥Ÿ."
-                );
+                Debug.LogError("[Enemy2Bullet] " + "Rigidbody2DÎ•º Ï∞æÏùÑ Ïàò ÏóÜÏäµÎãàÎã§.");
             }
         }
-
-
-        // ========================================================
-        // Initialize
-        // ========================================================
 
         public void Initialize(
             Vector2 direction,
             float bulletDamage,
             LayerMask targetPlayerLayer)
         {
-            damage =
-                bulletDamage;
+            damage = bulletDamage;
 
-            playerLayer =
-                targetPlayerLayer;
+            playerLayer = targetPlayerLayer;
 
-            direction =
-                direction.normalized;
+            direction = direction.normalized;
 
             if (rb != null)
             {
-                rb.linearVelocity =
-                    direction * speed;
+                rb.linearVelocity = direction * speed;
             }
 
+            consumed = false;
             initialized = true;
 
-            Destroy(
-                gameObject,
-                lifetime
-            );
+            Destroy(gameObject, lifetime);
         }
-
-
-        // ========================================================
-        // Trigger
-        // ========================================================
 
         private void OnTriggerEnter2D(
             Collider2D other)
         {
-            if (!initialized)
+            if (!initialized || consumed)
                 return;
-
-            // ----------------------------------------------------
             // Player
-            // ----------------------------------------------------
-
             if (((1 << other.gameObject.layer) &
                  playerLayer.value) != 0)
             {
-                PlayerController player =
-                    other.GetComponentInParent<PlayerController>();
+                PlayerController player = other.GetComponentInParent<PlayerController>();
 
                 if (player != null)
                 {
-                    player.TakeDamage(
-                        damage
-                    );
+                    consumed = true;
+                    player.TakeDamage(damage, hitStunDuration);
 
-                    Debug.Log(
-                        $"[Enemy2Bullet] " +
-                        $"Player ∏Ì¡ﬂ / " +
-                        $"Damage: {damage:F1}"
-                    );
+                    Debug.Log($"[Enemy2Bullet] " + $"Player Î™ÖÏ§ë / " + $"Damage: {damage:F1}");
 
-                    Destroy(
-                        gameObject
-                    );
+                    Destroy(gameObject);
 
                     return;
                 }
             }
-
-
-            // ----------------------------------------------------
             // Ground / Wall
-            // ----------------------------------------------------
-
             if (((1 << other.gameObject.layer) &
                  obstacleLayer.value) != 0)
             {
-                Destroy(
-                    gameObject
-                );
+                consumed = true;
+                Destroy(gameObject);
 
                 return;
             }
 
-
-            // ----------------------------------------------------
-            // Other
-            // ----------------------------------------------------
-
-            // Enemy µÓ ¥Ÿ∏• ø¿∫Í¡ß∆ÆøÕ¥¬
-            // √Êµπ«ÿµµ πŸ∑Œ ¡¶∞≈«œ¡ˆ æ ¿Ω.
+            // Enemy Îì± Îã§Î•∏ Ïò§Î∏åÏ†ùÌä∏ÏôÄÎäî
+            // Ï∂©ÎèåÌï¥ÎèÑ Î∞îÎ°ú Ï†úÍ±∞ÌïòÏßÄ ÏïäÏùå.
         }
     }
 }

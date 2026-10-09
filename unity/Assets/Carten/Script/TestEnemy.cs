@@ -11,23 +11,19 @@ namespace Carten
         {
             base.Awake();
 
-            Debug.Log(
-                $"[TestEnemy] »ı¼º ¡æ HP: {CurrentHealth:F0}/{MaxHealth:F0}"
-            );
+            Debug.Log($"[TestEnemy] ìƒì„± â†’ HP: {CurrentHealth:F0}/{MaxHealth:F0}");
         }
 
         protected override void OnDamaged(float damage)
         {
             base.OnDamaged(damage);
 
-            Debug.Log(
-                $"[TestEnemy] ÇÇ°İ È®ÀÎ ¡æ ¹ŞÀº µ¥¹ÌÁö: {damage:F1}"
-            );
+            Debug.Log($"[TestEnemy] í”¼ê²© í™•ì¸ â†’ ë°›ì€ ë°ë¯¸ì§€: {damage:F1}");
         }
 
         protected override void Die()
         {
-            Debug.Log("[TestEnemy] »ç¸Á");
+            Debug.Log("[TestEnemy] ì‚¬ë§");
 
             if (destroyOnDeath)
             {

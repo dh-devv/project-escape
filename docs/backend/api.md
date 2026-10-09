@@ -44,7 +44,7 @@ Content-Type: application/json
 }
 ```
 
-`username`이 없거나 빈 문자열이면 `400 Bad Request`를 반환합니다.
+`username`은 1~50자이며 앞뒤 공백을 제거하여 저장합니다. 없거나 공백뿐이면 `400 Bad Request`를 반환합니다.
 이미 사용 중인 사용자 이름도 `400 Bad Request`를 반환합니다.
 
 ### 2. 게임 결과 저장
@@ -72,9 +72,9 @@ Content-Type: application/json
 |---|---|---|
 | `userId` | `int` | 결과를 기록한 플레이어 ID |
 | `bossId` | `int` | 처치한 보스 ID |
-| `clearTime` | `double` | 클리어 시간. 단위는 현재 코드에서 검증하거나 변환하지 않음 |
+| `clearTime` | `double` | 초 단위 클리어 시간. 0보다 큰 유한한 수 |
 | `score` | `int` | 게임 점수 |
-| `maxPhase` | `int` | 게임 중 도달한 최대 Phase |
+| `maxPhase` | `int` | 플레이어가 전투 중 도달한 최대 Phase (`1~3`) |
 
 #### Response: `200 OK`
 
@@ -90,6 +90,7 @@ Content-Type: application/json
 ```
 
 존재하지 않는 `userId`로 요청하면 `404 Not Found`를 반환합니다.
+`userId`와 `bossId`는 양수, `score`는 0 이상이어야 합니다. 필수 값 누락이나 범위 위반은 `400 Bad Request`입니다.
 
 ### 3. 랭킹 조회
 
@@ -123,6 +124,9 @@ GET /api/v1/ranks?limit=10
 
 1. `score` 내림차순
 2. 점수가 같으면 `clearTime` 오름차순
+3. 시간도 같으면 `recordId` 오름차순
+
+조회 개수는 DB 쿼리에서 제한합니다. 최고 기록 조회도 같은 정렬 기준으로 1개만 읽습니다.
 
 ### 4. 개인 최고 기록 조회
 
@@ -159,6 +163,7 @@ GET /api/v1/users/{userId}/best
 | 빈 사용자 이름, 중복 사용자 이름 또는 검증 실패 | `400 Bad Request` |
 | 기록이 없는 플레이어의 최고 기록 조회 | `404 Not Found` |
 | 잘못된 JSON 형식 | `400 Bad Request` |
+| 숫자 파라미터에 문자열 사용 | `400 Bad Request` · `INVALID_REQUEST` |
 
 오류 응답 예시:
 
@@ -177,7 +182,7 @@ GET /api/v1/users/{userId}/best
 - DB 연결 정보는 `DB_URL`, `DB_USERNAME`, `DB_PASSWORD` 환경변수로 설정합니다.
 - 인증 기능은 아직 없습니다. 사용자 이름은 중복으로 생성할 수 없습니다.
 - 기본 요청 검증이 적용되어 음수 점수와 `1~3` 범위를 벗어난 `maxPhase`를 거부합니다.
-- `clearTime`의 단위는 현재 확정되거나 강제되지 않았으므로 Unity 클라이언트와 단위를 먼저 합의해야 합니다.
+- Unity는 전투 경과 시간을 초 단위로 보냅니다. 서버는 양수·유한 여부를 검증하며 실제 플레이 시간이나 점수의 진위는 검증하지 않습니다.
 - 랭킹 조회는 한 번에 최대 100개까지 반환합니다.
 - Unity 통신 클라이언트와 호출 예시는 [unity-api-integration.md](unity-api-integration.md)를 참고합니다.
 

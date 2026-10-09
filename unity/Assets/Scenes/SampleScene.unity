@@ -1048,7 +1048,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: d8c3288751371444cb5b9e6ead1bde9a, type: 2}
+  sharedProfile: {fileID: 11400000, guid: 3f9215ea0144899419cfbc0957140d3f, type: 2}
 --- !u!4 &1030235516
 Transform:
   m_ObjectHideFlags: 0
@@ -1165,7 +1165,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1933500185}
-  - component: {fileID: 1933500184}
   m_Layer: 0
   m_Name: WaveManager
   m_TagString: Untagged
@@ -1173,22 +1172,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1933500184
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1933500183}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7058d73026f605e45b7424f021d21999, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Carten::Carten.WaveManager
-  enemySpawner: {fileID: 2090837821}
-  nextWaveDelay: 2
-  startAutomatically: 1
-  showDebugLog: 1
 --- !u!4 &1933500185
 Transform:
   m_ObjectHideFlags: 0

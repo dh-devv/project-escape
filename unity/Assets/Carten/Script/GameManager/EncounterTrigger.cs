@@ -6,30 +6,27 @@ namespace Carten
     {
         [SerializeField] private EncounterController encounterController;
 
-        private void Start()
+        private void Awake()
         {
             if (encounterController == null)
             {
-                encounterController =
-                    GetComponentInParent<EncounterController>();
+                encounterController = GetComponentInParent<EncounterController>();
             }
         }
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if (!other.CompareTag("Player"))
+            if (other.GetComponentInParent<PlayerController>() == null)
                 return;
 
             if (encounterController == null)
             {
-                Debug.LogError(
-                    "[EncounterTrigger] EncounterController¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
-                );
+                Debug.LogError("[EncounterTrigger] EncounterControllerë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.");
 
                 return;
             }
 
-            // ÀÌ¹Ì ½ÃÀÛÇß°Å³ª Å¬¸®¾îµÈ Encounter¶ó¸é ´Ù½Ã ½ÃÀÛÇÏÁö ¾ÊÀ½
+            // ì´ë¯¸ ì‹œì‘í–ˆê±°ë‚˜ í´ë¦¬ì–´ëœ Encounterë¼ë©´ ë‹¤ì‹œ ì‹œì‘í•˜ì§€ ì•ŠìŒ
             if (encounterController.IsStarted())
                 return;
 

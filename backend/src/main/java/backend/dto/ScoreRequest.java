@@ -1,6 +1,7 @@
 package backend.dto;
 
 import jakarta.validation.constraints.Max;
+import jakarta.validation.constraints.AssertTrue;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;
@@ -50,6 +51,11 @@ public class ScoreRequest {
 
     public double getClearTime() {
         return clearTime;
+    }
+
+    @AssertTrue(message = "clearTime must be finite")
+    public boolean isClearTimeFinite() {
+        return clearTime == null || Double.isFinite(clearTime);
     }
 
     public void setClearTime(Double clearTime) {

@@ -13,43 +13,22 @@ namespace Carten
         [Header("=== Debug ===")]
         [SerializeField] private bool showDebugLog = true;
 
-        private readonly List<GameObject> spawnedEnemies =
-            new List<GameObject>();
-
-
-        // ========================================================
-        // Enemy Spawn
-        // ========================================================
+        private readonly List<GameObject> spawnedEnemies = new List<GameObject>();
 
         public GameObject SpawnEnemy1(Vector3 spawnPosition)
         {
-            return SpawnEnemy(
-                enemy1Prefab,
-                spawnPosition,
-                "Enemy1"
-            );
+            return SpawnEnemy(enemy1Prefab, spawnPosition, "Enemy1");
         }
-
 
         public GameObject SpawnEnemy2(Vector3 spawnPosition)
         {
-            return SpawnEnemy(
-                enemy2Prefab,
-                spawnPosition,
-                "Enemy2"
-            );
+            return SpawnEnemy(enemy2Prefab, spawnPosition, "Enemy2");
         }
-
 
         public GameObject SpawnEnemy3(Vector3 spawnPosition)
         {
-            return SpawnEnemy(
-                enemy3Prefab,
-                spawnPosition,
-                "Enemy3"
-            );
+            return SpawnEnemy(enemy3Prefab, spawnPosition, "Enemy3");
         }
-
 
         private GameObject SpawnEnemy(
             GameObject prefab,
@@ -58,41 +37,27 @@ namespace Carten
         {
             if (prefab == null)
             {
-                Debug.LogError(
-                    $"[EnemySpawner] {enemyName} PrefabÀÌ ¼³Á¤µÇÁö ¾Ê¾Ò½À´Ï´Ù."
-                );
+                Debug.LogError($"[EnemySpawner] {enemyName} Prefabì´ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.");
 
                 return null;
             }
 
-            GameObject enemy = Instantiate(
-                prefab,
-                spawnPosition,
-                Quaternion.identity
-            );
+            GameObject enemy = Instantiate(prefab, spawnPosition, Quaternion.identity);
 
             spawnedEnemies.Add(enemy);
 
             if (showDebugLog)
             {
-                Debug.Log(
-                    $"[EnemySpawner] {enemyName} »ı¼º / À§Ä¡: {spawnPosition}"
-                );
+                Debug.Log($"[EnemySpawner] {enemyName} ìƒì„± / ìœ„ì¹˜: {spawnPosition}");
             }
 
             return enemy;
         }
-
-
-        // ========================================================
-        // °ü¸®
-        // ========================================================
-
+        // ê´€ë¦¬
         public List<GameObject> GetSpawnedEnemies()
         {
             return spawnedEnemies;
         }
-
 
         public void ClearSpawnedEnemies()
         {
@@ -108,9 +73,7 @@ namespace Carten
 
             if (showDebugLog)
             {
-                Debug.Log(
-                    "[EnemySpawner] ¸ğµç »ı¼º Àû Á¦°Å"
-                );
+                Debug.Log("[EnemySpawner] ëª¨ë“  ìƒì„± ì  ì œê±°");
             }
         }
     }

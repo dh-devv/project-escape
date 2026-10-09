@@ -13,23 +13,21 @@ namespace Carten
         [SerializeField]
         private int timeoutSeconds = 10;
 
-        public string BaseUrl => baseUrl.TrimEnd('/');
+        public string BaseUrl => (baseUrl ?? string.Empty).TrimEnd('/');
 
         public void CreateUser(
             string username,
             Action<UserResponse> onSuccess,
             Action<string> onError = null)
         {
-            UserRequest request = new UserRequest
-            {
-                username = username
-            };
+            UserRequest request = new UserRequest { username = username };
 
-            StartCoroutine(SendJsonRequest(
+            StartCoroutine(SendRequest(
                 UnityWebRequest.kHttpVerbPOST,
                 "/users",
                 JsonUtility.ToJson(request),
-                response => onSuccess?.Invoke(JsonUtility.FromJson<UserResponse>(response)),
+                response => DecodeResponse(response, JsonUtility.FromJson<UserResponse>,
+                    value => value != null && value.userId > 0, onSuccess, onError),
                 onError
             ));
         }
@@ -52,11 +50,12 @@ namespace Carten
                 maxPhase = maxPhase
             };
 
-            StartCoroutine(SendJsonRequest(
+            StartCoroutine(SendRequest(
                 UnityWebRequest.kHttpVerbPOST,
                 "/scores",
                 JsonUtility.ToJson(request),
-                response => onSuccess?.Invoke(JsonUtility.FromJson<ScoreResponse>(response)),
+                response => DecodeResponse(response, JsonUtility.FromJson<ScoreResponse>,
+                    value => value != null && value.recordId > 0, onSuccess, onError),
                 onError
             ));
         }
@@ -70,7 +69,9 @@ namespace Carten
                 UnityWebRequest.kHttpVerbGET,
                 "/ranks?limit=" + Mathf.Clamp(limit, 1, 100),
                 null,
-                response => onSuccess?.Invoke(JsonHelper.FromJson<ScoreResponse>(response)),
+                response => DecodeResponse(response, JsonHelper.FromJson<ScoreResponse>,
+                    value => value != null && Array.TrueForAll(value, item => item != null && item.recordId > 0),
+                    onSuccess, onError),
                 onError
             ));
         }
@@ -84,31 +85,10 @@ namespace Carten
                 UnityWebRequest.kHttpVerbGET,
                 "/users/" + userId + "/best",
                 null,
-                response => onSuccess?.Invoke(JsonUtility.FromJson<ScoreResponse>(response)),
+                response => DecodeResponse(response, JsonUtility.FromJson<ScoreResponse>,
+                    value => value != null && value.recordId > 0, onSuccess, onError),
                 onError
             ));
-        }
-
-        private IEnumerator SendJsonRequest(
-            string method,
-            string path,
-            string json,
-            Action<string> onSuccess,
-            Action<string> onError)
-        {
-            using UnityWebRequest request = new UnityWebRequest(
-                BaseUrl + path,
-                method
-            );
-
-            byte[] body = System.Text.Encoding.UTF8.GetBytes(json);
-            request.uploadHandler = new UploadHandlerRaw(body);
-            request.downloadHandler = new DownloadHandlerBuffer();
-            request.SetRequestHeader("Content-Type", "application/json");
-            request.timeout = timeoutSeconds;
-
-            yield return request.SendWebRequest();
-            HandleResponse(request, onSuccess, onError);
         }
 
         private IEnumerator SendRequest(
@@ -118,16 +98,53 @@ namespace Carten
             Action<string> onSuccess,
             Action<string> onError)
         {
-            using UnityWebRequest request = new UnityWebRequest(
-                BaseUrl + path,
-                method
-            );
+            if (!Uri.TryCreate(BaseUrl, UriKind.Absolute, out Uri address) ||
+                (address.Scheme != Uri.UriSchemeHttp && address.Scheme != Uri.UriSchemeHttps))
+            {
+                onError?.Invoke("API URL must be an absolute HTTP or HTTPS URL");
+                yield break;
+            }
+            using UnityWebRequest request = new UnityWebRequest(BaseUrl + path, method);
 
+            if (json != null)
+            {
+                request.uploadHandler = new UploadHandlerRaw(System.Text.Encoding.UTF8.GetBytes(json));
+                request.SetRequestHeader("Content-Type", "application/json");
+            }
             request.downloadHandler = new DownloadHandlerBuffer();
-            request.timeout = timeoutSeconds;
+            request.timeout = Mathf.Max(1, timeoutSeconds);
 
-            yield return request.SendWebRequest();
+            UnityWebRequestAsyncOperation operation = null;
+            string startError = null;
+            try { operation = request.SendWebRequest(); }
+            catch (Exception error) when (error is InvalidOperationException || error is ArgumentException)
+            {
+                startError = error.Message;
+            }
+            if (operation == null)
+            {
+                onError?.Invoke("API request could not start: " + startError);
+                yield break;
+            }
+            yield return operation;
             HandleResponse(request, onSuccess, onError);
+        }
+
+        private static void DecodeResponse<T>(string json, Func<string, T> decode,
+            Func<T, bool> isValid, Action<T> onSuccess, Action<string> onError)
+        {
+            T value;
+            try
+            {
+                value = decode(json);
+                if (!isValid(value)) throw new ArgumentException("Missing response fields");
+            }
+            catch (ArgumentException)
+            {
+                onError?.Invoke("API returned an invalid JSON response");
+                return;
+            }
+            onSuccess?.Invoke(value);
         }
 
         private static void HandleResponse(
@@ -144,8 +161,17 @@ namespace Carten
             string message = string.IsNullOrEmpty(request.error)
                 ? "API request failed with status " + request.responseCode
                 : request.error;
+            try
+            {
+                ApiError error = JsonUtility.FromJson<ApiError>(request.downloadHandler.text);
+                if (error != null && !string.IsNullOrWhiteSpace(error.message)) message = error.message;
+            }
+            catch (ArgumentException) { /* A proxy may return an HTML error page. */ }
             onError?.Invoke(message);
         }
+
+        [Serializable]
+        private class ApiError { public string message; }
     }
 
     [Serializable]

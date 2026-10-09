@@ -2,220 +2,89 @@ using UnityEngine;
 
 namespace Carten
 {
+    [RequireComponent(typeof(BossController), typeof(Rigidbody2D))]
     public class BossAI : MonoBehaviour
     {
-        // ========================================================
-        // Target
-        // ========================================================
-
-        [Header("=== Target ===")]
         [SerializeField] private Transform target;
-
-        // ========================================================
-        // Movement
-        // ========================================================
-
-        [Header("=== Movement ===")]
         [SerializeField] private float phase1MoveSpeed = 1.5f;
         [SerializeField] private float phase2MoveSpeed = 2.5f;
-        [SerializeField] private float phase3MoveSpeed = 4f;
-
         [SerializeField] private float stopDistance = 1.3f;
-
-        // ========================================================
-        // Detection
-        // ========================================================
-
-        [Header("=== Detection ===")]
         [SerializeField] private float detectionDistance = 15f;
-
-        // ========================================================
-        // Facing
-        // ========================================================
-
-        [Header("=== Facing ===")]
         [SerializeField] private bool flipSprite = true;
-
-        // ========================================================
-        // Debug
-        // ========================================================
-
-        [Header("=== Debug ===")]
-        [SerializeField] private bool showDebugLog = true;
-
-        // ========================================================
-        // Runtime
-        // ========================================================
-
-        private BossController bossController;
+        private BossController boss;
         private Rigidbody2D rb;
+        private RigidbodyConstraints2D originalConstraints;
+        private bool anchored;
+
+        public Transform Target => target;
+        public bool MovementLocked { get; set; }
+        public bool HasLiveTarget => target != null && target.gameObject.activeInHierarchy &&
+            (target.GetComponentInParent<PlayerController>() == null ||
+             !target.GetComponentInParent<PlayerController>().IsDead);
+        public bool IsTargetDetected => HasLiveTarget && Vector2.Distance(transform.position, target.position) <= detectionDistance;
 
         private void Awake()
         {
-            bossController = GetComponent<BossController>();
+            boss = GetComponent<BossController>();
             rb = GetComponent<Rigidbody2D>();
-
-            if (bossController == null)
-            {
-                Debug.LogError(
-                    "[BossAI] BossController를 찾을 수 없습니다."
-                );
-            }
-
-            if (rb == null)
-            {
-                Debug.LogError(
-                    "[BossAI] Rigidbody2D를 찾을 수 없습니다."
-                );
-            }
         }
 
         private void Update()
         {
-            if (bossController == null)
+            if (!HasLiveTarget)
+            {
+                GameObject player = GameObject.FindGameObjectWithTag("Player");
+                target = player != null ? player.transform : null;
+            }
+            if (!boss.IsDead && IsTargetDetected)
+                boss.BeginEncounter();
+            if (!IsTargetDetected || boss.IsDead || MovementLocked || boss.IsStationary || !flipSprite)
                 return;
-
-            if (bossController.IsDead)
-                return;
-
-            if (target == null)
-                return;
-
-            HandleMovement();
-            HandleFacing();
+            Vector3 scale = transform.localScale;
+            scale.x = Mathf.Abs(scale.x) * (target.position.x >= transform.position.x ? 1f : -1f);
+            transform.localScale = scale;
         }
 
-        // ========================================================
-        // Movement
-        // ========================================================
-
-        private void HandleMovement()
+        private void FixedUpdate()
         {
-            float distance =
-                Vector2.Distance(
-                    transform.position,
-                    target.position
-                );
-
-            if (distance > detectionDistance)
+            if (boss.IsStationary)
+            {
+                if (!anchored)
+                {
+                    originalConstraints = rb.constraints;
+                    rb.constraints = RigidbodyConstraints2D.FreezeAll;
+                    anchored = true;
+                }
+                rb.linearVelocity = Vector2.zero;
+                return;
+            }
+            if (boss.IsDead || MovementLocked || !IsTargetDetected || IsInAttackRange())
             {
                 StopMovement();
                 return;
             }
-
-            if (distance <= stopDistance)
-            {
-                StopMovement();
-                return;
-            }
-
-            float direction =
-                target.position.x > transform.position.x
-                    ? 1f
-                    : -1f;
-
-            float moveSpeed = GetMoveSpeed();
-
-            Vector2 velocity = rb.linearVelocity;
-
-            velocity.x = direction * moveSpeed;
-
-            rb.linearVelocity = velocity;
+            float speed = boss.CurrentPhase == BossController.BossPhase.Phase1
+                ? phase1MoveSpeed : phase2MoveSpeed;
+            rb.linearVelocity = new Vector2(
+                Mathf.Sign(target.position.x - transform.position.x) * speed, rb.linearVelocity.y);
         }
 
-        // ========================================================
-        // Stop
-        // ========================================================
-
-        private void StopMovement()
+        public void SetTarget(Transform newTarget) => target = newTarget;
+        public bool IsInAttackRange() => HasLiveTarget &&
+            Vector2.Distance(transform.position, target.position) <= stopDistance + 0.3f;
+        public void StopMovement()
         {
-            Vector2 velocity = rb.linearVelocity;
-
-            velocity.x = 0f;
-
-            rb.linearVelocity = velocity;
+            if (rb != null)
+                rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
         }
 
-        // ========================================================
-        // Move Speed
-        // ========================================================
-
-        private float GetMoveSpeed()
+        private void OnDisable()
         {
-            switch (bossController.CurrentPhase)
-            {
-                case BossController.BossPhase.Phase2:
-                    return phase2MoveSpeed;
-
-                case BossController.BossPhase.Phase3:
-                    return phase3MoveSpeed;
-
-                default:
-                    return phase1MoveSpeed;
-            }
-        }
-
-        // ========================================================
-        // Facing
-        // ========================================================
-
-        private void HandleFacing()
-        {
-            if (!flipSprite)
-                return;
-
-            if (target.position.x > transform.position.x)
-            {
-                transform.localScale = new Vector3(
-                    Mathf.Abs(transform.localScale.x),
-                    transform.localScale.y,
-                    transform.localScale.z
-                );
-            }
-            else
-            {
-                transform.localScale = new Vector3(
-                    -Mathf.Abs(transform.localScale.x),
-                    transform.localScale.y,
-                    transform.localScale.z
-                );
-            }
-        }
-
-
-        public bool IsInAttackRange()
-        {
-            if (target == null)
-                return false;
-
-            float distance =
-                Vector2.Distance(
-                    transform.position,
-                    target.position
-                );
-
-            return distance <= stopDistance + 0.3f;
-        }
-
-        // ========================================================
-        // Gizmos
-        // ========================================================
-
-        private void OnDrawGizmosSelected()
-        {
-            Gizmos.color = Color.yellow;
-
-            Gizmos.DrawWireSphere(
-                transform.position,
-                detectionDistance
-            );
-
-            Gizmos.color = Color.blue;
-
-            Gizmos.DrawWireSphere(
-                transform.position,
-                stopDistance
-            );
+            MovementLocked = false;
+            StopMovement();
+            if (anchored && rb != null)
+                rb.constraints = originalConstraints;
+            anchored = false;
         }
     }
 }

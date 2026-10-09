@@ -14,7 +14,6 @@ namespace Carten
 
         private float damageTimer;
 
-
         private void Update()
         {
             if (damageTimer > 0f)
@@ -23,14 +22,12 @@ namespace Carten
             }
         }
 
-
         private void OnTriggerStay2D(Collider2D other)
         {
             if (damageTimer > 0f)
                 return;
 
-            PlayerController player =
-                other.GetComponentInParent<PlayerController>();
+            PlayerController player = other.GetComponentInParent<PlayerController>();
 
             if (player == null)
                 return;

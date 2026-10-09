@@ -20,7 +20,7 @@ namespace Carten
 
         public virtual void TakeDamage(float damage)
         {
-            if (IsDead)
+            if (IsDead || float.IsNaN(damage) || float.IsInfinity(damage))
                 return;
 
             damage = Mathf.Max(0f, damage);
@@ -39,13 +39,13 @@ namespace Carten
         protected virtual void OnDamaged(float damage)
         {
             Debug.Log(
-                $"[{gameObject.name}] ««∞› °Ê Damage: {damage:F1} / HP: {currentHealth:F1} / {maxHealth:F1}"
+                $"[{gameObject.name}] ÌîºÍ≤© ‚Üí Damage: {damage:F1} / HP: {currentHealth:F1} / {maxHealth:F1}"
             );
         }
 
         protected virtual void Die()
         {
-            Debug.Log($"[{gameObject.name}] ªÁ∏¡");
+            Debug.Log($"[{gameObject.name}] ÏÇ¨Îßù");
 
             gameObject.SetActive(false);
         }

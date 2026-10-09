@@ -4,27 +4,14 @@ namespace Carten
 {
     public class Enemy3Controller : EnemyBase
     {
-        // ========================================================
         // Enemy3 Stats
-        // ========================================================
-
         [Header("=== Enemy3 Defense ===")]
         [SerializeField]
         private float damageReduction = 0.60f;
 
-
-        // ========================================================
-        // Debug
-        // ========================================================
-
         [Header("=== Debug ===")]
         [SerializeField]
         private bool showDebugLog = true;
-
-
-        // ========================================================
-        // Runtime
-        // ========================================================
 
         private Rigidbody2D rb;
 
@@ -36,55 +23,38 @@ namespace Carten
             }
         }
 
-
-        // ========================================================
-        // Awake
-        // ========================================================
-
         protected override void Awake()
         {
             base.Awake();
 
-            rb =
-                GetComponent<Rigidbody2D>();
+            rb = GetComponent<Rigidbody2D>();
 
             if (rb == null)
             {
-                Debug.LogError(
-                    "[Enemy3Controller] " +
-                    "Rigidbody2D¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
-                );
+                Debug.LogError("[Enemy3Controller] " + "Rigidbody2Dë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.");
 
                 return;
             }
 
-            // È¸Àü ¹æÁö
-            rb.constraints |=
-                RigidbodyConstraints2D.FreezeRotation;
+            // íšŒì „ ë°©ì§€
+            rb.constraints |= RigidbodyConstraints2D.FreezeRotation;
 
-            // ¹°¸® ¿òÁ÷ÀÓ ¾ÈÁ¤È­
-            rb.interpolation =
-                RigidbodyInterpolation2D.Interpolate;
+            // ë¬¼ë¦¬ ì›€ì§ì„ ì•ˆì •í™”
+            rb.interpolation = RigidbodyInterpolation2D.Interpolate;
 
-            rb.collisionDetectionMode =
-                CollisionDetectionMode2D.Continuous;
+            rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 
             if (showDebugLog)
             {
                 Debug.Log(
                     $"[Enemy3Controller] " +
-                    $"Enemy3 »ı¼º / " +
+                    $"Enemy3 ìƒì„± / " +
                     $"HP: {CurrentHealth:F0}/{MaxHealth:F0} / " +
                     $"Damage Reduction: " +
                     $"{damageReduction * 100f:F0}%"
                 );
             }
         }
-
-
-        // ========================================================
-        // Damage
-        // ========================================================
 
         public override void TakeDamage(float damage)
         {
@@ -94,32 +64,24 @@ namespace Carten
             if (damage <= 0f)
                 return;
 
-            // ¹æ¾î·Â Àû¿ë
-            float finalDamage =
-                damage *
-                (1f - damageReduction);
+            // ë°©ì–´ë ¥ ì ìš©
+            float finalDamage = damage * (1f - damageReduction);
 
-            // ÃÖ¼Ò 1 ÇÇÇØ´Â ¹Şµµ·Ï ¼³Á¤
-            finalDamage =
-                Mathf.Max(1f, finalDamage);
+            // ìµœì†Œ 1 í”¼í•´ëŠ” ë°›ë„ë¡ ì„¤ì •
+            finalDamage = Mathf.Max(1f, finalDamage);
 
-            currentHealth -=
-                finalDamage;
+            currentHealth -= finalDamage;
 
-            currentHealth =
-                Mathf.Max(
-                    0f,
-                    currentHealth
-                );
+            currentHealth = Mathf.Max(0f, currentHealth);
 
             if (showDebugLog)
             {
                 Debug.Log(
                     $"[Enemy3 HIT]\n" +
-                    $"¹ŞÀº °ø°İ: {damage:F1}\n" +
-                    $"¹æ¾î °¨¼Ò: {damageReduction * 100f:F0}%\n" +
-                    $"½ÇÁ¦ ÇÇÇØ: {finalDamage:F1}\n" +
-                    $"ÇöÀç HP: {currentHealth:F1}/{MaxHealth:F1}"
+                    $"ë°›ì€ ê³µê²©: {damage:F1}\n" +
+                    $"ë°©ì–´ ê°ì†Œ: {damageReduction * 100f:F0}%\n" +
+                    $"ì‹¤ì œ í”¼í•´: {finalDamage:F1}\n" +
+                    $"í˜„ì¬ HP: {currentHealth:F1}/{MaxHealth:F1}"
                 );
             }
 
@@ -129,19 +91,11 @@ namespace Carten
             }
         }
 
-
-        // ========================================================
-        // Death
-        // ========================================================
-
         protected override void Die()
         {
             if (showDebugLog)
             {
-                Debug.Log(
-                    $"[Enemy3Controller] " +
-                    $"{gameObject.name} Ã³Ä¡"
-                );
+                Debug.Log($"[Enemy3Controller] " + $"{gameObject.name} ì²˜ì¹˜");
             }
 
             gameObject.SetActive(false);

@@ -5,3 +5,15 @@ backend/build
 backend/.gradle
 *.log
 .env
+**/.env
+**/.env.*
+.venv
+.utmp
+.aws
+**/__pycache__
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+**/*.jks
+**/*.keystore

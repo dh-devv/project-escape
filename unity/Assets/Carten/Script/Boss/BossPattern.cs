@@ -3,301 +3,103 @@ using UnityEngine;
 
 namespace Carten
 {
+    [RequireComponent(typeof(BossController), typeof(BossCombat), typeof(BossAI))]
     public class BossPattern : MonoBehaviour
     {
-        // ========================================================
-        // Pattern Timing
-        // ========================================================
-
-        [Header("=== Pattern Timing ===")]
         [SerializeField] private float phase1AttackInterval = 1.5f;
-        [SerializeField] private float phase2AttackInterval = 1.0f;
+        [SerializeField] private float phase2AttackInterval = 1f;
         [SerializeField] private float phase3AttackInterval = 0.5f;
-
-        // ========================================================
-        // Phase 2 Pattern
-        // ========================================================
-
-        [Header("=== Phase 2 Pattern ===")]
-        [SerializeField] private float phase2ChargeChance = 0.35f;
-
-        // ========================================================
-        // Phase 3 Pattern
-        // ========================================================
-
-        [Header("=== Phase 3 Pattern ===")]
-        [SerializeField] private float phase3ChargeChance = 0.45f;
-        [SerializeField] private float phase3AreaChance = 0.35f;
-
-        // ========================================================
-        // Debug
-        // ========================================================
-
-        [Header("=== Debug ===")]
-        [SerializeField] private bool showDebugLog = true;
-
-        // ========================================================
-        // Runtime
-        // ========================================================
-
-        private BossController bossController;
-        private BossCombat bossCombat;
-        private BossAI bossAI;
-
-        private float patternTimer;
-        private bool isExecutingPattern;
-
-        // ========================================================
-        // Awake
-        // ========================================================
+        [SerializeField, Range(0f, 1f)] private float phase2ChargeChance = 0.35f;
+        [SerializeField, Min(0.1f)] private float attackWarning = 0.65f;
+        [SerializeField, Min(0f)] private float recoveryTime = 0.35f;
+        private BossController boss;
+        private BossCombat combat;
+        private BossAI ai;
+        private float timer;
+        private bool executing;
+        private int patternIndex;
+        public bool IsExecutingPattern => executing;
 
         private void Awake()
         {
-            bossController = GetComponent<BossController>();
-            bossCombat = GetComponent<BossCombat>();
-            bossAI = GetComponent<BossAI>();
-
-            if (bossController == null)
-            {
-                Debug.LogError(
-                    "[BossPattern] BossController를 찾을 수 없습니다."
-                );
-            }
-
-            if (bossCombat == null)
-            {
-                Debug.LogError(
-                    "[BossPattern] BossCombat을 찾을 수 없습니다."
-                );
-            }
-
-            if (bossAI == null)
-            {
-                Debug.LogError(
-                    "[BossPattern] BossAI를 찾을 수 없습니다."
-                );
-            }
+            boss = GetComponent<BossController>();
+            combat = GetComponent<BossCombat>();
+            ai = GetComponent<BossAI>();
         }
-
-        // ========================================================
-        // Update
-        // ========================================================
-
+        private void OnEnable()
+        {
+            boss.PhaseChanged += OnPhaseChanged;
+            timer = phase1AttackInterval;
+        }
         private void Update()
         {
-            if (bossController == null)
+            if (boss.IsDead || executing || !ai.IsTargetDetected)
                 return;
-
-            if (bossCombat == null)
+            timer -= Time.deltaTime;
+            if (timer > 0f || (!boss.IsStationary && !ai.IsInAttackRange()))
                 return;
-
-            if (bossController.IsDead)
-                return;
-
-            if (isExecutingPattern)
-                return;
-
-            patternTimer -= Time.deltaTime;
-
-            if (patternTimer > 0f)
-                return;
-
-            // 공격 범위 안에 있을 때만 패턴 실행
-            if (bossAI != null)
-            {
-                if (!bossAI.IsInAttackRange())
-                    return;
-            }
-
+            boss.BeginEncounter();
             StartCoroutine(ExecutePattern());
         }
 
-        // ========================================================
-        // Execute Pattern
-        // ========================================================
-
         private IEnumerator ExecutePattern()
         {
-            isExecutingPattern = true;
-
-            switch (bossController.CurrentPhase)
+            executing = true;
+            ai.MovementLocked = true;
+            ai.StopMovement();
+            if (boss.IsStationary)
             {
-                case BossController.BossPhase.Phase1:
-
-                    ExecutePhase1Pattern();
-
-                    break;
-
-                case BossController.BossPhase.Phase2:
-
-                    ExecutePhase2Pattern();
-
-                    break;
-
-                case BossController.BossPhase.Phase3:
-
-                    yield return ExecutePhase3Pattern();
-
-                    break;
-            }
-
-            patternTimer = GetAttackInterval();
-
-            isExecutingPattern = false;
-        }
-
-        // ========================================================
-        // Phase 1
-        // ========================================================
-
-        private void ExecutePhase1Pattern()
-        {
-            if (showDebugLog)
-            {
-                Debug.Log(
-                    "[BOSS PATTERN] Phase 1 → 기본 공격"
-                );
-            }
-
-            bossCombat.PerformBasicAttack();
-        }
-
-        // ========================================================
-        // Phase 2
-        // ========================================================
-
-        private void ExecutePhase2Pattern()
-        {
-            float random =
-                Random.Range(0f, 1f);
-
-            if (random < phase2ChargeChance)
-            {
-                if (showDebugLog)
+                int phase = (int)boss.CurrentPhase + 1;
+                // Alternate aimed impact and arena lanes; Phase 3 adds a delayed follow-up.
+                if (patternIndex++ % 2 == 0)
+                    combat.PerformTargetedFieldAttack(ai.Target.position, attackWarning, phase);
+                else
+                    combat.PerformLaneAttack(attackWarning, phase, patternIndex);
+                yield return new WaitForSeconds(attackWarning + 0.4f);
+                if (CanContinue() && phase == 3)
                 {
-                    Debug.Log(
-                        "[BOSS PATTERN] Phase 2 → 돌진 공격"
-                    );
+                    combat.PerformTargetedFieldAttack(ai.Target.position, attackWarning, phase);
+                    yield return new WaitForSeconds(attackWarning + 0.4f);
                 }
-
-                // 현재 돌진 공격 시스템과 연결하기 전까지
-                // 기본 공격으로 임시 처리
-                bossCombat.PerformBasicAttack();
             }
             else
             {
-                if (showDebugLog)
+                bool strong = boss.CurrentPhase == BossController.BossPhase.Phase2 &&
+                    Random.value < phase2ChargeChance;
+                Vector2 lockedCenter = combat.AttackCenter;
+                combat.PerformTelegraphedMelee(lockedCenter, attackWarning, strong);
+                yield return new WaitForSeconds(attackWarning + 0.2f);
+                if (CanContinue() && !strong && boss.CurrentPhase == BossController.BossPhase.Phase2)
                 {
-                    Debug.Log(
-                        "[BOSS PATTERN] Phase 2 → 기본 공격"
-                    );
+                    combat.PerformTelegraphedMelee(combat.AttackCenter, attackWarning, false);
+                    yield return new WaitForSeconds(attackWarning + 0.2f);
                 }
-
-                bossCombat.PerformBasicAttack();
             }
+            yield return new WaitForSeconds(recoveryTime);
+            ai.MovementLocked = false;
+            executing = false;
+            float interval = boss.CurrentPhase == BossController.BossPhase.Phase1
+                ? phase1AttackInterval : boss.CurrentPhase == BossController.BossPhase.Phase2
+                ? phase2AttackInterval : phase3AttackInterval;
+            timer = Mathf.Max(0.15f, interval / Mathf.Max(0.1f, boss.AttackSpeedMultiplier));
         }
 
-        // ========================================================
-        // Phase 3
-        // ========================================================
-
-        private IEnumerator ExecutePhase3Pattern()
+        private bool CanContinue() => !boss.IsDead && ai.IsTargetDetected;
+        private void OnPhaseChanged(BossController.BossPhase phase)
         {
-            float random =
-                Random.Range(0f, 1f);
-
-            // ----------------------------------------------------
-            // Area Attack
-            // ----------------------------------------------------
-
-            if (random < phase3AreaChance)
-            {
-                if (showDebugLog)
-                {
-                    Debug.Log(
-                        "[BOSS PATTERN] Phase 3 → 광역 공격 준비"
-                    );
-                }
-
-                // 공격 전조
-                yield return new WaitForSeconds(0.5f);
-
-                if (bossController.IsDead)
-                    yield break;
-
-                bossCombat.PerformAreaAttack();
-
-                // 후딜레이
-                yield return new WaitForSeconds(0.3f);
-            }
-
-            // ----------------------------------------------------
-            // Combo Attack
-            // ----------------------------------------------------
-
-            else if (
-                random <
-                phase3AreaChance + phase3ChargeChance
-            )
-            {
-                if (showDebugLog)
-                {
-                    Debug.Log(
-                        "[BOSS PATTERN] Phase 3 → 연속 공격"
-                    );
-                }
-
-                bossCombat.PerformBasicAttack();
-
-                yield return new WaitForSeconds(0.12f);
-
-                if (bossController.IsDead)
-                    yield break;
-
-                bossCombat.PerformBasicAttack();
-
-                yield return new WaitForSeconds(0.12f);
-
-                if (bossController.IsDead)
-                    yield break;
-
-                bossCombat.PerformBasicAttack();
-            }
-
-            // ----------------------------------------------------
-            // Basic Attack
-            // ----------------------------------------------------
-
-            else
-            {
-                if (showDebugLog)
-                {
-                    Debug.Log(
-                        "[BOSS PATTERN] Phase 3 → 기본 공격"
-                    );
-                }
-
-                bossCombat.PerformBasicAttack();
-            }
+            StopAllCoroutines();
+            combat.CancelFieldAttacks();
+            ai.MovementLocked = false;
+            executing = false;
+            timer = Mathf.Max(attackWarning, recoveryTime);
         }
-
-        // ========================================================
-        // Attack Interval
-        // ========================================================
-
-        private float GetAttackInterval()
+        private void OnDisable()
         {
-            switch (bossController.CurrentPhase)
-            {
-                case BossController.BossPhase.Phase2:
-                    return phase2AttackInterval;
-
-                case BossController.BossPhase.Phase3:
-                    return phase3AttackInterval;
-
-                default:
-                    return phase1AttackInterval;
-            }
+            if (boss != null) boss.PhaseChanged -= OnPhaseChanged;
+            StopAllCoroutines();
+            if (combat != null) combat.CancelFieldAttacks();
+            if (ai != null) ai.MovementLocked = false;
+            executing = false;
         }
     }
 }

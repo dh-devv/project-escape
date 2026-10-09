@@ -32,9 +32,7 @@ namespace Carten
 
             if (playerController == null)
             {
-                Debug.LogError(
-                    "[PlayerCombat] PlayerController¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
-                );
+                Debug.LogError("[PlayerCombat] PlayerControllerë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.");
             }
         }
 
@@ -50,6 +48,8 @@ namespace Carten
 
         private void HandleAttack()
         {
+            if (playerController == null || !playerController.CanAct)
+                return;
             if (!Input.GetKeyDown(attackKey))
                 return;
 
@@ -57,9 +57,7 @@ namespace Carten
             {
                 if (showDebugLog)
                 {
-                    Debug.Log(
-                        $"[PlayerCombat] °ø°İ ÄğÅ¸ÀÓ Áß ¡æ {attackTimer:F2}ÃÊ"
-                    );
+                    Debug.Log($"[PlayerCombat] ê³µê²© ì¿¨íƒ€ì„ ì¤‘ â†’ {attackTimer:F2}ì´ˆ");
                 }
 
                 return;
@@ -70,34 +68,20 @@ namespace Carten
 
         private void PerformAttack()
         {
-            // ========================================
-            // 1. ÇöÀç Phase È®ÀÎ
-            // ========================================
-
+            // 1. í˜„ì¬ Phase í™•ì¸
             float attackSpeedMultiplier = 1f;
             float criticalMultiplier = 1f;
 
             if (playerController != null)
             {
-                attackSpeedMultiplier =
-                    playerController.AttackSpeedMultiplier;
+                attackSpeedMultiplier = playerController.AttackSpeedMultiplier;
 
-                criticalMultiplier =
-                    playerController.CriticalMultiplier;
+                criticalMultiplier = playerController.CriticalMultiplier;
             }
-
-            // ========================================
-            // 2. °ø°İ ÄğÅ¸ÀÓ °è»ê
-            // ========================================
-
-            attackTimer =
-                attackCooldown / Mathf.Max(0.01f, attackSpeedMultiplier);
-
-            // ========================================
-            // 3. Å©¸®Æ¼ÄÃ ÆÇÁ¤
-            // ========================================
-
-            // ÇöÀç´Â Phase 3¿¡¼­¸¸ Å©¸®Æ¼ÄÃ È®·ü Àû¿ë
+            // 2. ê³µê²© ì¿¨íƒ€ì„ ê³„ì‚°
+            attackTimer = attackCooldown / Mathf.Max(0.01f, attackSpeedMultiplier);
+            // 3. í¬ë¦¬í‹°ì»¬ íŒì •
+            // í˜„ì¬ëŠ” Phase 3ì—ì„œë§Œ í¬ë¦¬í‹°ì»¬ í™•ë¥  ì ìš©
             float criticalChance = 0f;
 
             if (playerController != null &&
@@ -107,53 +91,31 @@ namespace Carten
                 criticalChance = 100f;
             }
 
-            bool isCritical =
-                Random.Range(0f, 100f) < criticalChance;
-
-            // ========================================
-            // 4. ÃÖÁ¾ µ¥¹ÌÁö °è»ê
-            // ========================================
-
+            bool isCritical = Random.Range(0f, 100f) < criticalChance;
+            // 4. ìµœì¢… ë°ë¯¸ì§€ ê³„ì‚°
             float finalDamage = attackDamage;
 
             if (isCritical)
             {
                 finalDamage *= criticalMultiplier;
             }
-
-            // ========================================
-            // 5. Attack Point È®ÀÎ
-            // ========================================
-
+            // 5. Attack Point í™•ì¸
             if (attackPoint == null)
             {
-                Debug.LogWarning(
-                    "[PlayerCombat] AttackPoint°¡ ¼³Á¤µÇÁö ¾Ê¾Ò½À´Ï´Ù."
-                );
+                Debug.LogWarning("[PlayerCombat] AttackPointê°€ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.");
 
                 return;
             }
+            // 6. ê³µê²© ë²”ìœ„ íŒì •
+            Collider2D[] targets = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, targetLayer);
 
-            // ========================================
-            // 6. °ø°İ ¹üÀ§ ÆÇÁ¤
-            // ========================================
-
-            Collider2D[] targets =
-                Physics2D.OverlapCircleAll(
-                    attackPoint.position,
-                    attackRange,
-                    targetLayer
-                );
-
-            // °°Àº Àû¿¡°Ô Collider°¡ ¿©·¯ °³ ÀÖ¾îµµ
-            // ÇÑ ¹ø¸¸ µ¥¹ÌÁö¸¦ ÁÖ±â À§ÇÑ HashSet
-            HashSet<IDamageable> hitTargets =
-                new HashSet<IDamageable>();
+            // ê°™ì€ ì ì—ê²Œ Colliderê°€ ì—¬ëŸ¬ ê°œ ìˆì–´ë„
+            // í•œ ë²ˆë§Œ ë°ë¯¸ì§€ë¥¼ ì£¼ê¸° ìœ„í•œ HashSet
+            HashSet<IDamageable> hitTargets = new HashSet<IDamageable>();
 
             foreach (Collider2D target in targets)
             {
-                IDamageable damageable =
-                    target.GetComponentInParent<IDamageable>();
+                IDamageable damageable = target.GetComponentInParent<IDamageable>();
 
                 if (damageable == null)
                     continue;
@@ -168,25 +130,20 @@ namespace Carten
 
                 damageable.TakeDamage(finalDamage);
             }
-
-            // ========================================
-            // 7. µğ¹ö±× ·Î±×
-            // ========================================
-
+            // 7. ë””ë²„ê·¸ ë¡œê·¸
             if (showDebugLog)
             {
-                string criticalText =
-                    isCritical ? "¡Ú CRITICAL ¡Ú" : "ÀÏ¹İ °ø°İ";
+                string criticalText = isCritical ? "â˜… CRITICAL â˜…" : "ì¼ë°˜ ê³µê²©";
 
                 Debug.Log(
-                    $"[PlayerCombat] °ø°İ\n" +
-                    $"Å¸ÀÔ: {criticalText}\n" +
+                    $"[PlayerCombat] ê³µê²©\n" +
+                    $"íƒ€ì…: {criticalText}\n" +
                     $"Phase: {GetCurrentPhaseName()}\n" +
-                    $"°ø°İ·Â: {finalDamage:F1}\n" +
-                    $"°ø°İ¼Óµµ ¹èÀ²: x{attackSpeedMultiplier:F1}\n" +
-                    $"Å©¸®Æ¼ÄÃ ¹èÀ²: x{criticalMultiplier:F1}\n" +
-                    $"¸íÁß ´ë»ó: {hitTargets.Count}\n" +
-                    $"´ÙÀ½ °ø°İ±îÁö: {attackTimer:F2}ÃÊ"
+                    $"ê³µê²©ë ¥: {finalDamage:F1}\n" +
+                    $"ê³µê²©ì†ë„ ë°°ìœ¨: x{attackSpeedMultiplier:F1}\n" +
+                    $"í¬ë¦¬í‹°ì»¬ ë°°ìœ¨: x{criticalMultiplier:F1}\n" +
+                    $"ëª…ì¤‘ ëŒ€ìƒ: {hitTargets.Count}\n" +
+                    $"ë‹¤ìŒ ê³µê²©ê¹Œì§€: {attackTimer:F2}ì´ˆ"
                 );
             }
         }
@@ -206,15 +163,9 @@ namespace Carten
 
             Gizmos.color = Color.yellow;
 
-            Gizmos.DrawWireSphere(
-                attackPoint.position,
-                attackRange
-            );
+            Gizmos.DrawWireSphere(attackPoint.position, attackRange);
 
-            Gizmos.DrawLine(
-                transform.position,
-                attackPoint.position
-            );
+            Gizmos.DrawLine(transform.position, attackPoint.position);
         }
     }
 }

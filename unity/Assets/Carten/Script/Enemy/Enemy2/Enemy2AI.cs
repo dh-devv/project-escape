@@ -4,95 +4,49 @@ namespace Carten
 {
     public class Enemy2AI : MonoBehaviour
     {
-        // ========================================================
         // Target
-        // ========================================================
-
         [Header("=== Target ===")]
         [SerializeField] private Transform target;
-
-
-        // ========================================================
-        // Movement
-        // ========================================================
 
         [Header("=== Movement ===")]
         [SerializeField] private float moveSpeed = 1.2f;
 
-        [Tooltip("¿Ã ∞≈∏Æ∫∏¥Ÿ ∞°±ÓøÏ∏È µ⁄∑Œ π∞∑Ø≥≥¥œ¥Ÿ.")]
+        [Tooltip("Ïù¥ Í±∞Î¶¨Î≥¥Îã§ Í∞ÄÍπåÏö∞Î©¥ Îí§Î°ú Î¨ºÎü¨ÎÇ©ÎãàÎã§.")]
         [SerializeField] private float minimumAttackDistance = 4f;
 
-        [Tooltip("¿Ã ∞≈∏Æ∫∏¥Ÿ ∏÷æÓ¡ˆ∏È «√∑π¿ÃæÓø°∞‘ ¡¢±Ÿ«’¥œ¥Ÿ.")]
+        [Tooltip("Ïù¥ Í±∞Î¶¨Î≥¥Îã§ Î©ÄÏñ¥ÏßÄÎ©¥ ÌîåÎ†àÏù¥Ïñ¥ÏóêÍ≤å Ï†ëÍ∑ºÌï©ÎãàÎã§.")]
         [SerializeField] private float maximumAttackDistance = 10f;
-
-
-        // ========================================================
         // Detection
-        // ========================================================
-
         [Header("=== Detection ===")]
         [SerializeField] private float detectionDistance = 12f;
-
-
-        // ========================================================
         // Facing
-        // ========================================================
-
         [Header("=== Facing ===")]
         [SerializeField] private bool flipSprite = true;
-
-
-        // ========================================================
-        // Debug
-        // ========================================================
 
         [Header("=== Debug ===")]
         [SerializeField] private bool showDebugLog = true;
 
-
-        // ========================================================
-        // Runtime
-        // ========================================================
-
         private Enemy2Controller enemyController;
         private Rigidbody2D rb;
 
-
-        // ========================================================
-        // Awake
-        // ========================================================
-
         private void Awake()
         {
-            enemyController =
-                GetComponent<Enemy2Controller>();
+            enemyController = GetComponent<Enemy2Controller>();
 
-            rb =
-                GetComponent<Rigidbody2D>();
+            rb = GetComponent<Rigidbody2D>();
 
             if (enemyController == null)
             {
-                Debug.LogError(
-                    "[Enemy2AI] " +
-                    "Enemy2Controller∏¶ √£¿ª ºˆ æ¯Ω¿¥œ¥Ÿ."
-                );
+                Debug.LogError("[Enemy2AI] " + "Enemy2ControllerÎ•º Ï∞æÏùÑ Ïàò ÏóÜÏäµÎãàÎã§.");
             }
 
             if (rb == null)
             {
-                Debug.LogError(
-                    "[Enemy2AI] " +
-                    "Rigidbody2D∏¶ √£¿ª ºˆ æ¯Ω¿¥œ¥Ÿ."
-                );
+                Debug.LogError("[Enemy2AI] " + "Rigidbody2DÎ•º Ï∞æÏùÑ Ïàò ÏóÜÏäµÎãàÎã§.");
             }
 
             FindPlayer();
         }
-
-
-        // ========================================================
-        // Update
-        // ========================================================
 
         private void Update()
         {
@@ -110,12 +64,7 @@ namespace Carten
 
             HandleFacing();
         }
-
-
-        // ========================================================
         // Fixed Update
-        // ========================================================
-
         private void FixedUpdate()
         {
             if (enemyController == null)
@@ -129,55 +78,39 @@ namespace Carten
 
             HandleMovement();
         }
-
-
-        // ========================================================
         // Find Player
-        // ========================================================
-
         private void FindPlayer()
         {
-            GameObject player =
-                GameObject.FindGameObjectWithTag("Player");
+            GameObject player = GameObject.FindGameObjectWithTag("Player");
 
             if (player != null)
             {
-                target =
-                    player.transform;
+                target = player.transform;
             }
             else if (showDebugLog)
             {
                 Debug.LogWarning(
                     "[Enemy2AI] " +
-                    "Player Tag∏¶ ∞°¡¯ ø¿∫Í¡ß∆Æ∏¶ √£¿ª ºˆ æ¯Ω¿¥œ¥Ÿ."
+                    "Player TagÎ•º Í∞ÄÏßÑ Ïò§Î∏åÏ†ùÌä∏Î•º Ï∞æÏùÑ Ïàò ÏóÜÏäµÎãàÎã§."
                 );
             }
         }
-
-
-        // ========================================================
-        // Movement
-        // ========================================================
 
         private void HandleMovement()
         {
             if (rb == null)
                 return;
 
-            float horizontalDistance =
-                Mathf.Abs(
-                    target.position.x -
-                    transform.position.x
-                );
+            float horizontalDistance = Mathf.Abs(target.position.x - transform.position.x);
 
-            // ∞®¡ˆ ∞≈∏Æ π€
+            // Í∞êÏßÄ Í±∞Î¶¨ Î∞ñ
             if (horizontalDistance > detectionDistance)
             {
                 StopMovement();
                 return;
             }
 
-            // ≥ π´ ∞°±ÓøÚ °Ê µ⁄∑Œ π∞∑Ø≥≤
+            // ÎÑàÎ¨¥ Í∞ÄÍπåÏõÄ ‚Üí Îí§Î°ú Î¨ºÎü¨ÎÇ®
             if (horizontalDistance <
                 minimumAttackDistance)
             {
@@ -185,7 +118,7 @@ namespace Carten
                 return;
             }
 
-            // ¿˚¡§ ªÁ∞› ∞≈∏Æ
+            // Ï†ÅÏ†ï ÏÇ¨Í≤© Í±∞Î¶¨
             if (horizontalDistance <=
                 maximumAttackDistance)
             {
@@ -193,186 +126,106 @@ namespace Carten
                 return;
             }
 
-            // ≥ π´ ∏◊ °Ê ¡¢±Ÿ
+            // ÎÑàÎ¨¥ Î©Ç ‚Üí Ï†ëÍ∑º
             MoveTowardPlayer();
         }
-
-
-        // ========================================================
         // Move Toward Player
-        // ========================================================
-
         private void MoveTowardPlayer()
         {
-            float direction =
-                target.position.x >
-                transform.position.x
-                    ? 1f
-                    : -1f;
+            float direction = target.position.x > transform.position.x ? 1f : -1f;
 
-            SetHorizontalVelocity(
-                direction * moveSpeed
-            );
+            SetHorizontalVelocity(direction * moveSpeed);
         }
-
-
-        // ========================================================
         // Move Away
-        // ========================================================
-
         private void MoveAwayFromPlayer()
         {
-            float direction =
-                target.position.x >
-                transform.position.x
-                    ? -1f
-                    : 1f;
+            float direction = target.position.x > transform.position.x ? -1f : 1f;
 
-            SetHorizontalVelocity(
-                direction * moveSpeed
-            );
+            SetHorizontalVelocity(direction * moveSpeed);
         }
-
-
-        // ========================================================
         // Stop
-        // ========================================================
-
         private void StopMovement()
         {
             if (rb == null)
                 return;
 
-            Vector2 velocity =
-                rb.linearVelocity;
+            Vector2 velocity = rb.linearVelocity;
 
             velocity.x = 0f;
 
-            rb.linearVelocity =
-                velocity;
+            rb.linearVelocity = velocity;
         }
-
-
-        // ========================================================
         // Set Velocity
-        // ========================================================
-
         private void SetHorizontalVelocity(
             float horizontalVelocity)
         {
             if (rb == null)
                 return;
 
-            Vector2 velocity =
-                rb.linearVelocity;
+            Vector2 velocity = rb.linearVelocity;
 
-            velocity.x =
-                horizontalVelocity;
+            velocity.x = horizontalVelocity;
 
-            rb.linearVelocity =
-                velocity;
+            rb.linearVelocity = velocity;
         }
-
-
-        // ========================================================
         // Facing
-        // ========================================================
-
         private void HandleFacing()
         {
             if (!flipSprite)
                 return;
 
-            float direction =
-                target.position.x -
-                transform.position.x;
+            float direction = target.position.x - transform.position.x;
 
             if (Mathf.Abs(direction) < 0.01f)
                 return;
 
-            Vector3 scale =
-                transform.localScale;
+            Vector3 scale = transform.localScale;
 
-            scale.x =
-                Mathf.Abs(scale.x) *
-                Mathf.Sign(direction);
+            scale.x = Mathf.Abs(scale.x) * Mathf.Sign(direction);
 
-            transform.localScale =
-                scale;
+            transform.localScale = scale;
         }
-
-
-        // ========================================================
-        // Attack Range
-        // ========================================================
 
         public bool IsInAttackRange()
         {
             if (target == null)
                 return false;
 
-            float horizontalDistance =
-                Mathf.Abs(
-                    target.position.x -
-                    transform.position.x
-                );
+            float horizontalDistance = Mathf.Abs(target.position.x - transform.position.x);
 
             return horizontalDistance >=
                        minimumAttackDistance &&
                    horizontalDistance <=
                        maximumAttackDistance;
         }
-
-
-        // ========================================================
         // Target
-        // ========================================================
-
         public void SetTarget(
             Transform newTarget)
         {
             target = newTarget;
         }
 
-
         public Transform GetTarget()
         {
             return target;
         }
 
-
-        // ========================================================
-        // Gizmos
-        // ========================================================
-
         private void OnDrawGizmosSelected()
         {
-            // ∞®¡ˆ ∞≈∏Æ
-            Gizmos.color =
-                Color.yellow;
+            // Í∞êÏßÄ Í±∞Î¶¨
+            Gizmos.color = Color.yellow;
 
-            Gizmos.DrawWireSphere(
-                transform.position,
-                detectionDistance
-            );
+            Gizmos.DrawWireSphere(transform.position, detectionDistance);
 
-            // √÷¥Î ªÁ∞› ∞≈∏Æ
-            Gizmos.color =
-                Color.blue;
+            // ÏµúÎåÄ ÏÇ¨Í≤© Í±∞Î¶¨
+            Gizmos.color = Color.blue;
 
-            Gizmos.DrawWireSphere(
-                transform.position,
-                maximumAttackDistance
-            );
+            Gizmos.DrawWireSphere(transform.position, maximumAttackDistance);
 
-            // √÷º“ ªÁ∞› ∞≈∏Æ
-            Gizmos.color =
-                Color.red;
+            // ÏµúÏÜå ÏÇ¨Í≤© Í±∞Î¶¨
+            Gizmos.color = Color.red;
 
-            Gizmos.DrawWireSphere(
-                transform.position,
-                minimumAttackDistance
-            );
+            Gizmos.DrawWireSphere(transform.position, minimumAttackDistance);
         }
     }
 }

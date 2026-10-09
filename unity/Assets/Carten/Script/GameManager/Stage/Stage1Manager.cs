@@ -18,38 +18,38 @@ namespace Carten
 
         private void InitializeStage()
         {
-            // Player ÀÚµ¿ Ã£±â
+            // Player ìë™ ì°¾ê¸°
             if (player == null)
             {
                 player = GameObject.FindGameObjectWithTag("Player");
             }
 
-            // Player È®ÀÎ
+            // Player í™•ì¸
             if (player == null)
             {
-                Debug.LogError(
-                    "[Stage1Manager] Player¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
-                );
+                Debug.LogError("[Stage1Manager] Playerë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.");
 
                 return;
             }
 
-            // PlayerStart È®ÀÎ
+            // PlayerStart í™•ì¸
             if (playerStart == null)
             {
-                Debug.LogError(
-                    "[Stage1Manager] PlayerStart°¡ ¼³Á¤µÇÁö ¾Ê¾Ò½À´Ï´Ù."
-                );
+                Debug.LogError("[Stage1Manager] PlayerStartê°€ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.");
 
                 return;
             }
 
-            // Player ½ÃÀÛ À§Ä¡ ¼³Á¤
+            // ì¶œêµ¬ë¡œ ë“¤ì–´ì˜¨ ê²½ìš° MapTransitionManagerê°€ ì§€ì •í•œ ìœ„ì¹˜ë¥¼ ìœ ì§€í•œë‹¤.
+            if (MapTransitionManager.Instance != null &&
+                MapTransitionManager.Instance.HasPlacedPlayer(gameObject.scene))
+                return;
+
+            // Player ì‹œì‘ ìœ„ì¹˜ ì„¤ì •
             player.transform.position = playerStart.position;
 
-            // Rigidbody ÃÊ±âÈ­
-            Rigidbody2D playerRb =
-                player.GetComponent<Rigidbody2D>();
+            // Rigidbody ì´ˆê¸°í™”
+            Rigidbody2D playerRb = player.GetComponent<Rigidbody2D>();
 
             if (playerRb != null)
             {
@@ -59,13 +59,9 @@ namespace Carten
 
             if (showDebugLog)
             {
-                Debug.Log(
-                    "[Stage1Manager] Stage 1 ÃÊ±âÈ­ ¿Ï·á"
-                );
+                Debug.Log("[Stage1Manager] Stage 1 ì´ˆê¸°í™” ì™„ë£Œ");
 
-                Debug.Log(
-                    $"[Stage1Manager] Player ½ÃÀÛ À§Ä¡: {playerStart.position}"
-                );
+                Debug.Log($"[Stage1Manager] Player ì‹œì‘ ìœ„ì¹˜: {playerStart.position}");
             }
         }
     }

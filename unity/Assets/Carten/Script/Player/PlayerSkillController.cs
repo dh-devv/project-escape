@@ -6,9 +6,6 @@ namespace Carten
 {
     public class PlayerSkillController : MonoBehaviour
     {
-        // =========================================================
-        // References
-        // =========================================================
 
         [Header("=== References ===")]
 
@@ -19,12 +16,7 @@ namespace Carten
         private Transform attackPoint;
 
         private Rigidbody2D rb;
-
-
-        // =========================================================
         // Skill Input
-        // =========================================================
-
         [Header("=== Skill Input ===")]
 
         [SerializeField]
@@ -35,12 +27,7 @@ namespace Carten
 
         [SerializeField]
         private KeyCode skill3Key = KeyCode.E;
-
-
-        // =========================================================
         // Phase 1 - Q : Heavy Strike
-        // =========================================================
-
         [Header("=== Phase 1 : Heavy Strike ===")]
 
         [SerializeField]
@@ -53,12 +40,7 @@ namespace Carten
         private float heavyStrikeCooldown = 2f;
 
         private float heavyStrikeTimer;
-
-
-        // =========================================================
         // Phase 1 - W : Defense System
-        // =========================================================
-
         [Header("=== Phase 1 : Defense System ===")]
 
         [Range(0f, 1f)]
@@ -75,12 +57,7 @@ namespace Carten
         private float defenseSkillDurationTimer;
 
         private bool isDefenseSkillActive;
-
-
-        // =========================================================
         // Phase 1 - E : Gravity Boost
-        // =========================================================
-
         [Header("=== Phase 1 : Gravity Boost ===")]
 
         [SerializeField]
@@ -99,12 +76,7 @@ namespace Carten
         private float gravityBoostDurationTimer;
 
         private bool isGravityBoostActive;
-
-
-        // =========================================================
         // Phase 2 - Q : Overdrive
-        // =========================================================
-
         [Header("=== Phase 2 : Overdrive ===")]
 
         [SerializeField]
@@ -123,12 +95,7 @@ namespace Carten
         private float overdriveCooldown = 4f;
 
         private float overdriveTimer;
-
-
-        // =========================================================
         // Phase 2 - W : Dash Slash
-        // =========================================================
-
         [Header("=== Phase 2 : Dash Slash ===")]
 
         [SerializeField]
@@ -149,12 +116,7 @@ namespace Carten
         private float dashSlashTimer;
 
         private bool isDashSlashActive;
-
-
-        // =========================================================
         // Phase 2 - E : Boost Explosion
-        // =========================================================
-
         [Header("=== Phase 2 : Boost Explosion ===")]
 
         [SerializeField]
@@ -178,12 +140,7 @@ namespace Carten
         private float boostExplosionTimer;
 
         private bool isBoostExplosionActive;
-
-
-        // =========================================================
         // Phase 3 - Q : Limit Break
-        // =========================================================
-
         [Header("=== Phase 3 : Limit Break ===")]
 
         [SerializeField]
@@ -196,12 +153,7 @@ namespace Carten
         private float limitBreakCooldown = 5f;
 
         private float limitBreakTimer;
-
-
-        // =========================================================
         // Phase 3 - W : Blink Dash
-        // =========================================================
-
         [Header("=== Phase 3 : Blink Dash ===")]
 
         [SerializeField]
@@ -217,12 +169,7 @@ namespace Carten
         private float blinkDashCooldown = 3.5f;
 
         private float blinkDashTimer;
-
-
-        // =========================================================
         // Phase 3 - E : Overload Blast
-        // =========================================================
-
         [Header("=== Phase 3 : Overload Blast ===")]
 
         [SerializeField]
@@ -235,102 +182,67 @@ namespace Carten
         private float overloadBlastCooldown = 6f;
 
         private float overloadBlastTimer;
-
-
-        // =========================================================
         // Target Layer
-        // =========================================================
-
         [Header("=== Target Layer ===")]
 
         [SerializeField]
         private LayerMask targetLayer;
 
-
-        // =========================================================
-        // Debug
-        // =========================================================
-
         [Header("=== Debug ===")]
 
         [SerializeField]
         private bool showDebugLog = true;
-
-
-        // =========================================================
         // Internal State
-        // =========================================================
-
         private bool skillExecuting;
 
         private PlayerController.PlayerPhase previousPhase;
-
-
-        // =========================================================
-        // Awake
-        // =========================================================
 
         private void Awake()
         {
             if (playerController == null)
             {
-                playerController =
-                    GetComponent<PlayerController>();
+                playerController = GetComponent<PlayerController>();
             }
 
             if (rb == null)
             {
-                rb =
-                    GetComponent<Rigidbody2D>();
+                rb = GetComponent<Rigidbody2D>();
             }
 
             if (attackPoint == null)
             {
-                Transform foundAttackPoint =
-                    transform.Find("AttackPoint");
+                Transform foundAttackPoint = transform.Find("AttackPoint");
 
                 if (foundAttackPoint != null)
                 {
-                    attackPoint =
-                        foundAttackPoint;
+                    attackPoint = foundAttackPoint;
                 }
             }
 
-            // Enemy Layer ¿⁄µø ≈Ωªˆ
+            // Enemy Layer ÏûêÎèô ÌÉêÏÉâ
             if (targetLayer.value == 0)
             {
-                int enemyLayer =
-                    LayerMask.NameToLayer("Enemy");
+                int enemyLayer = LayerMask.NameToLayer("Enemy");
 
                 if (enemyLayer >= 0)
                 {
-                    targetLayer =
-                        1 << enemyLayer;
+                    targetLayer = 1 << enemyLayer;
                 }
             }
 
             if (playerController == null)
             {
-                Debug.LogError(
-                    "[PlayerSkillController] " +
-                    "PlayerController∏¶ √£¿ª ºˆ æ¯Ω¿¥œ¥Ÿ."
-                );
+                Debug.LogError("[PlayerSkillController] " + "PlayerControllerÎ•º Ï∞æÏùÑ Ïàò ÏóÜÏäµÎãàÎã§.");
             }
 
             if (rb == null)
             {
-                Debug.LogError(
-                    "[PlayerSkillController] " +
-                    "Rigidbody2D∏¶ √£¿ª ºˆ æ¯Ω¿¥œ¥Ÿ."
-                );
+                Debug.LogError("[PlayerSkillController] " + "Rigidbody2DÎ•º Ï∞æÏùÑ Ïàò ÏóÜÏäµÎãàÎã§.");
             }
 
             if (attackPoint == null)
             {
-                Debug.LogError(
-                    "[PlayerSkillController] " +
-                    "AttackPoint∏¶ √£¿ª ºˆ æ¯Ω¿¥œ¥Ÿ."
-                );
+                Debug.LogError("[PlayerSkillController] " + "AttackPointÎ•º Ï∞æÏùÑ Ïàò ÏóÜÏäµÎãàÎã§.");
             }
 
             previousPhase =
@@ -338,11 +250,6 @@ namespace Carten
                     ? playerController.CurrentPhase
                     : PlayerController.PlayerPhase.Phase1;
         }
-
-
-        // =========================================================
-        // Update
-        // =========================================================
 
         private void Update()
         {
@@ -356,12 +263,7 @@ namespace Carten
             HandlePhaseChange();
             HandleSkillInput();
         }
-
-
-        // =========================================================
         // Timers
-        // =========================================================
-
         private void HandleTimers()
         {
             if (heavyStrikeTimer > 0f)
@@ -372,8 +274,7 @@ namespace Carten
 
             if (defenseSkillDurationTimer > 0f)
             {
-                defenseSkillDurationTimer -=
-                    Time.deltaTime;
+                defenseSkillDurationTimer -= Time.deltaTime;
 
                 if (defenseSkillDurationTimer <= 0f)
                 {
@@ -386,8 +287,7 @@ namespace Carten
 
             if (gravityBoostDurationTimer > 0f)
             {
-                gravityBoostDurationTimer -=
-                    Time.deltaTime;
+                gravityBoostDurationTimer -= Time.deltaTime;
 
                 if (gravityBoostDurationTimer <= 0f)
                 {
@@ -413,39 +313,52 @@ namespace Carten
             if (overloadBlastTimer > 0f)
                 overloadBlastTimer -= Time.deltaTime;
         }
-
-
-        // =========================================================
         // Phase Change Safety
-        // =========================================================
-
         private void HandlePhaseChange()
         {
-            PlayerController.PlayerPhase currentPhase =
-                playerController.CurrentPhase;
+            PlayerController.PlayerPhase currentPhase = playerController.CurrentPhase;
 
             if (currentPhase == previousPhase)
                 return;
 
-            // Phase 1ø°º≠ W ªÁøÎ ¡ﬂ Phase∞° πŸ≤Ó∏È
-            // √ﬂ∞° πÊæÓ∑¬ ¡¶∞≈
+            // Phase 1ÏóêÏÑú W ÏÇ¨Ïö© Ï§ë PhaseÍ∞Ä Î∞îÎÄåÎ©¥
+            // Ï∂îÍ∞Ä Î∞©Ïñ¥Î†• Ï†úÍ±∞
             if (isDefenseSkillActive &&
                 currentPhase != PlayerController.PlayerPhase.Phase1)
             {
                 EndDefenseSkill();
             }
 
-            previousPhase =
-                currentPhase;
+            previousPhase = currentPhase;
+        }
+        // Input
+        private void OnEnable()
+        {
+            if (playerController == null)
+                playerController = GetComponent<PlayerController>();
+            PlayerHitReaction reaction = GetComponent<PlayerHitReaction>();
+            if (reaction == null)
+                reaction = gameObject.AddComponent<PlayerHitReaction>();
+            reaction.StunStarted += InterruptForHit;
         }
 
-
-        // =========================================================
-        // Input
-        // =========================================================
+        private void InterruptForHit()
+        {
+            StopAllCoroutines();
+            if (playerController != null &&
+                (isGravityBoostActive || isDashSlashActive || isBoostExplosionActive))
+                playerController.EndGravityBoost();
+            isGravityBoostActive = false;
+            isDashSlashActive = false;
+            isBoostExplosionActive = false;
+            gravityBoostDurationTimer = 0f;
+            skillExecuting = false;
+        }
 
         private void HandleSkillInput()
         {
+            if (!playerController.CanAct)
+                return;
             if (skillExecuting)
                 return;
 
@@ -465,11 +378,6 @@ namespace Carten
             }
         }
 
-
-        // =========================================================
-        // Skill 1
-        // =========================================================
-
         private void UseSkill1()
         {
             switch (playerController.CurrentPhase)
@@ -487,11 +395,6 @@ namespace Carten
                     break;
             }
         }
-
-
-        // =========================================================
-        // Skill 2
-        // =========================================================
 
         private void UseSkill2()
         {
@@ -511,11 +414,6 @@ namespace Carten
             }
         }
 
-
-        // =========================================================
-        // Skill 3
-        // =========================================================
-
         private void UseSkill3()
         {
             switch (playerController.CurrentPhase)
@@ -533,31 +431,18 @@ namespace Carten
                     break;
             }
         }
-
-
-        // =========================================================
         // Phase 1
-        // =========================================================
-
         private void Phase1Skill1()
         {
             if (heavyStrikeTimer > 0f)
                 return;
 
-            PerformAreaDamage(
-                heavyStrikeDamage,
-                heavyStrikeRange
-            );
+            PerformAreaDamage(heavyStrikeDamage, heavyStrikeRange);
 
-            heavyStrikeTimer =
-                heavyStrikeCooldown;
+            heavyStrikeTimer = heavyStrikeCooldown;
 
-            DebugSkillLog(
-                "Phase 1",
-                "Q - ¡ﬂ¿Â∞© ∞≠≈∏"
-            );
+            DebugSkillLog("Phase 1", "Q - Ï§ëÏû•Í∞ë Í∞ïÌÉÄ");
         }
-
 
         private void Phase1Skill2()
         {
@@ -570,93 +455,64 @@ namespace Carten
             StartDefenseSkill();
         }
 
-
         private void Phase1Skill3()
         {
             if (gravityBoostTimer > 0f)
                 return;
 
-            StartGravityBoostSkill(
-                gravityBoostHorizontal,
-                gravityBoostVertical,
-                gravityBoostDuration
-            );
+            StartGravityBoostSkill(gravityBoostHorizontal, gravityBoostVertical, gravityBoostDuration);
 
-            gravityBoostTimer =
-                gravityBoostCooldown;
+            gravityBoostTimer = gravityBoostCooldown;
 
-            DebugSkillLog(
-                "Phase 1",
-                "E - ¡ﬂ∑¬ √ﬂ¡¯"
-            );
+            DebugSkillLog("Phase 1", "E - Ï§ëÎ†• Ï∂îÏßÑ");
         }
-
-
-        // =========================================================
         // Phase 1 - W
-        // =========================================================
-
         private void StartDefenseSkill()
         {
-            isDefenseSkillActive =
-                true;
+            isDefenseSkillActive = true;
 
-            defenseSkillTimer =
-                defenseSkillCooldown;
+            defenseSkillTimer = defenseSkillCooldown;
 
-            defenseSkillDurationTimer =
-                defenseSkillDuration;
+            defenseSkillDurationTimer = defenseSkillDuration;
 
-            // Ω«¡¶ PlayerController πÊæÓ∑¬ ¿˚øÎ
-            playerController
-                .SetAdditionalDamageReduction(
-                    defenseSkillBonus
-                );
+            // Ïã§Ï†ú PlayerController Î∞©Ïñ¥Î†• Ï†ÅÏö©
+            playerController .SetAdditionalDamageReduction(defenseSkillBonus);
 
             if (showDebugLog)
             {
                 Debug.Log(
                     $"[PlayerSkillController] " +
-                    $"Phase 1 W »∞º∫»≠ / " +
-                    $"√ﬂ∞° πÊæÓ: " +
+                    $"Phase 1 W ÌôúÏÑ±Ìôî / " +
+                    $"Ï∂îÍ∞Ä Î∞©Ïñ¥: " +
                     $"{defenseSkillBonus * 100f:F0}% / " +
-                    $"«ˆ¿Á πÊæÓ: " +
+                    $"ÌòÑÏû¨ Î∞©Ïñ¥: " +
                     $"{playerController.DefensePercent:F0}%"
                 );
             }
         }
-
 
         private void EndDefenseSkill()
         {
             if (!isDefenseSkillActive)
                 return;
 
-            isDefenseSkillActive =
-                false;
+            isDefenseSkillActive = false;
 
-            defenseSkillDurationTimer =
-                0f;
+            defenseSkillDurationTimer = 0f;
 
-            playerController
-                .ClearAdditionalDamageReduction();
+            playerController .ClearAdditionalDamageReduction();
 
             if (showDebugLog)
             {
                 Debug.Log(
                     $"[PlayerSkillController] " +
-                    $"Phase 1 W ¡æ∑· / " +
-                    $"«ˆ¿Á πÊæÓ: " +
+                    $"Phase 1 W Ï¢ÖÎ£å / " +
+                    $"ÌòÑÏû¨ Î∞©Ïñ¥: " +
                     $"{playerController.DefensePercent:F0}%"
                 );
             }
         }
-
-
-        // =========================================================
         // Phase 1 - E Gravity Boost
-        // =========================================================
-
         private void StartGravityBoostSkill(
             float horizontal,
             float vertical,
@@ -668,43 +524,27 @@ namespace Carten
             if (isGravityBoostActive)
                 return;
 
-            isGravityBoostActive =
-                true;
+            isGravityBoostActive = true;
 
-            gravityBoostDurationTimer =
-                duration;
+            gravityBoostDurationTimer = duration;
 
-            float direction =
-                transform.localScale.x >= 0f
-                    ? 1f
-                    : -1f;
+            float direction = transform.localScale.x >= 0f ? 1f : -1f;
 
-            playerController.StartGravityBoost(
-                horizontal * direction,
-                vertical
-            );
+            playerController.StartGravityBoost(horizontal * direction, vertical);
         }
-
 
         private void EndGravityBoost()
         {
             if (!isGravityBoostActive)
                 return;
 
-            isGravityBoostActive =
-                false;
+            isGravityBoostActive = false;
 
-            gravityBoostDurationTimer =
-                0f;
+            gravityBoostDurationTimer = 0f;
 
             playerController.EndGravityBoost();
         }
-
-
-        // =========================================================
         // Phase 2
-        // =========================================================
-
         private void Phase2Skill1()
         {
             if (overdriveTimer > 0f)
@@ -713,11 +553,8 @@ namespace Carten
             if (skillExecuting)
                 return;
 
-            StartCoroutine(
-                OverdriveRoutine()
-            );
+            StartCoroutine(OverdriveRoutine());
         }
-
 
         private void Phase2Skill2()
         {
@@ -727,11 +564,8 @@ namespace Carten
             if (skillExecuting)
                 return;
 
-            StartCoroutine(
-                DashSlashRoutine()
-            );
+            StartCoroutine(DashSlashRoutine());
         }
-
 
         private void Phase2Skill3()
         {
@@ -741,44 +575,25 @@ namespace Carten
             if (skillExecuting)
                 return;
 
-            StartCoroutine(
-                BoostExplosionRoutine()
-            );
+            StartCoroutine(BoostExplosionRoutine());
         }
-
-
-        // =========================================================
         // Phase 2 - Q Overdrive
-        // =========================================================
-
         private IEnumerator OverdriveRoutine()
         {
-            skillExecuting =
-                true;
+            skillExecuting = true;
 
-            overdriveTimer =
-                overdriveCooldown;
+            overdriveTimer = overdriveCooldown;
 
             if (showDebugLog)
             {
-                Debug.Log(
-                    "[PlayerSkillController] " +
-                    "Phase 2 Q - ø¿πˆµÂ∂Û¿Ã∫Í Ω√¿€"
-                );
+                Debug.Log("[PlayerSkillController] " + "Phase 2 Q - Ïò§Î≤ÑÎìúÎùºÏù¥Î∏å ÏãúÏûë");
             }
 
-            int hits =
-                Mathf.Max(
-                    1,
-                    overdriveHitCount
-                );
+            int hits = Mathf.Max(1, overdriveHitCount);
 
             for (int i = 0; i < hits; i++)
             {
-                PerformAreaDamage(
-                    overdriveDamage,
-                    overdriveRange
-                );
+                PerformAreaDamage(overdriveDamage, overdriveRange);
 
                 yield return new WaitForSeconds(
                     overdriveHitInterval
@@ -787,53 +602,28 @@ namespace Carten
 
             if (showDebugLog)
             {
-                Debug.Log(
-                    "[PlayerSkillController] " +
-                    "Phase 2 Q - ø¿πˆµÂ∂Û¿Ã∫Í ¡æ∑·"
-                );
+                Debug.Log("[PlayerSkillController] " + "Phase 2 Q - Ïò§Î≤ÑÎìúÎùºÏù¥Î∏å Ï¢ÖÎ£å");
             }
 
-            skillExecuting =
-                false;
+            skillExecuting = false;
         }
-
-
-        // =========================================================
         // Phase 2 - W Dash Slash
-        // =========================================================
-
         private IEnumerator DashSlashRoutine()
         {
-            skillExecuting =
-                true;
+            skillExecuting = true;
 
-            isDashSlashActive =
-                true;
+            isDashSlashActive = true;
 
-            dashSlashTimer =
-                dashSlashCooldown;
+            dashSlashTimer = dashSlashCooldown;
 
-            float direction =
-                transform.localScale.x >= 0f
-                    ? 1f
-                    : -1f;
+            float direction = transform.localScale.x >= 0f ? 1f : -1f;
 
-            float duration =
-                Mathf.Max(
-                    0.01f,
-                    dashSlashDuration
-                );
+            float duration = Mathf.Max(0.01f, dashSlashDuration);
 
-            playerController.StartGravityBoost(
-                direction * dashSlashSpeed,
-                0f
-            );
+            playerController.StartGravityBoost(direction * dashSlashSpeed, 0f);
 
-            // µπ¡¯ ¡ﬂø°µµ ¿˚ø°∞‘ ∞¯∞›
-            PerformAreaDamage(
-                dashSlashDamage,
-                dashSlashRange
-            );
+            // ÎèåÏßÑ Ï§ëÏóêÎèÑ Ï†ÅÏóêÍ≤å Í≥µÍ≤©
+            PerformAreaDamage(dashSlashDamage, dashSlashRange);
 
             yield return new WaitForSeconds(
                 duration
@@ -841,36 +631,22 @@ namespace Carten
 
             playerController.EndGravityBoost();
 
-            isDashSlashActive =
-                false;
+            isDashSlashActive = false;
 
-            skillExecuting =
-                false;
+            skillExecuting = false;
 
-            DebugSkillLog(
-                "Phase 2",
-                "W - ¥ÎΩ√ ΩΩ∑°Ω√"
-            );
+            DebugSkillLog("Phase 2", "W - ÎåÄÏãú Ïä¨ÎûòÏãú");
         }
-        // =========================================================
         // Phase 2 - E Boost Explosion
-        // =========================================================
-
         private IEnumerator BoostExplosionRoutine()
         {
-            skillExecuting =
-                true;
+            skillExecuting = true;
 
-            isBoostExplosionActive =
-                true;
+            isBoostExplosionActive = true;
 
-            boostExplosionTimer =
-                boostExplosionCooldown;
+            boostExplosionTimer = boostExplosionCooldown;
 
-            float direction =
-                transform.localScale.x >= 0f
-                    ? 1f
-                    : -1f;
+            float direction = transform.localScale.x >= 0f ? 1f : -1f;
 
             playerController.StartGravityBoost(
                 direction * boostExplosionHorizontal,
@@ -879,66 +655,39 @@ namespace Carten
 
             if (showDebugLog)
             {
-                Debug.Log(
-                    "[PlayerSkillController] " +
-                    "Phase 2 E - √ﬂ¡¯ Ω√¿€"
-                );
+                Debug.Log("[PlayerSkillController] " + "Phase 2 E - Ï∂îÏßÑ ÏãúÏûë");
             }
 
             yield return new WaitForSeconds(
-                Mathf.Max(
-                    0.01f,
-                    boostExplosionMoveDuration
-                )
+                Mathf.Max(0.01f, boostExplosionMoveDuration)
             );
 
             playerController.EndGravityBoost();
 
-            // √ﬂ¡¯ ¡æ∑· ¡ˆ¡°ø°º≠ ∆¯πﬂ
-            PerformAreaDamage(
-                boostExplosionDamage,
-                boostExplosionRange
-            );
+            // Ï∂îÏßÑ Ï¢ÖÎ£å ÏßÄÏ†êÏóêÏÑú Ìè≠Î∞ú
+            PerformAreaDamage(boostExplosionDamage, boostExplosionRange);
 
             if (showDebugLog)
             {
-                Debug.Log(
-                    "[PlayerSkillController] " +
-                    "Phase 2 E - √ﬂ¡¯ ∆¯πﬂ"
-                );
+                Debug.Log("[PlayerSkillController] " + "Phase 2 E - Ï∂îÏßÑ Ìè≠Î∞ú");
             }
 
-            isBoostExplosionActive =
-                false;
+            isBoostExplosionActive = false;
 
-            skillExecuting =
-                false;
+            skillExecuting = false;
         }
-
-
-        // =========================================================
         // Phase 3
-        // =========================================================
-
         private void Phase3Skill1()
         {
             if (limitBreakTimer > 0f)
                 return;
 
-            PerformAreaDamage(
-                limitBreakDamage,
-                limitBreakRange
-            );
+            PerformAreaDamage(limitBreakDamage, limitBreakRange);
 
-            limitBreakTimer =
-                limitBreakCooldown;
+            limitBreakTimer = limitBreakCooldown;
 
-            DebugSkillLog(
-                "Phase 3",
-                "Q - ∏ÆπÃ∆Æ ∫Í∑π¿Ã≈©"
-            );
+            DebugSkillLog("Phase 3", "Q - Î¶¨ÎØ∏Ìä∏ Î∏åÎ†àÏù¥ÌÅ¨");
         }
-
 
         private void Phase3Skill2()
         {
@@ -948,53 +697,30 @@ namespace Carten
             BlinkDash();
         }
 
-
         private void Phase3Skill3()
         {
             if (overloadBlastTimer > 0f)
                 return;
 
-            PerformAreaDamage(
-                overloadBlastDamage,
-                overloadBlastRange
-            );
+            PerformAreaDamage(overloadBlastDamage, overloadBlastRange);
 
-            overloadBlastTimer =
-                overloadBlastCooldown;
+            overloadBlastTimer = overloadBlastCooldown;
 
-            DebugSkillLog(
-                "Phase 3",
-                "E - ∞˙∫Œ«œ πÊ√‚"
-            );
+            DebugSkillLog("Phase 3", "E - Í≥ºÎ∂ÄÌïò Î∞©Ï∂ú");
         }
-
-
-        // =========================================================
         // Phase 3 - W Blink Dash
-        // =========================================================
-
         private void BlinkDash()
         {
             if (rb == null)
                 return;
 
-            float direction =
-                transform.localScale.x >= 0f
-                    ? 1f
-                    : -1f;
+            float direction = transform.localScale.x >= 0f ? 1f : -1f;
 
-            Vector2 startPosition =
-                rb.position;
+            Vector2 startPosition = rb.position;
 
-            Vector2 targetPosition =
-                startPosition +
-                new Vector2(
-                    direction *
-                    blinkDashDistance,
-                    0f
-                );
+            Vector2 targetPosition = startPosition + new Vector2(direction * blinkDashDistance, 0f);
 
-            // ∫Æ¿Ã≥™ ¿Âæ÷π∞ø° π⁄»˜¥¬ ∞Õ¿ª æÓ¥¿ ¡§µµ πÊ¡ˆ
+            // Î≤ΩÏù¥ÎÇò Ïû•Ïï†Î¨ºÏóê Î∞ïÌûàÎäî Í≤ÉÏùÑ Ïñ¥Îäê Ï†ïÎèÑ Î∞©ÏßÄ
             RaycastHit2D obstacle =
                 Physics2D.Raycast(
                     startPosition,
@@ -1005,44 +731,21 @@ namespace Carten
 
             if (obstacle.collider != null)
             {
-                float safeDistance =
-                    Mathf.Max(
-                        0f,
-                        obstacle.distance - 0.35f
-                    );
+                float safeDistance = Mathf.Max(0f, obstacle.distance - 0.35f);
 
-                targetPosition =
-                    startPosition +
-                    new Vector2(
-                        direction *
-                        safeDistance,
-                        0f
-                    );
+                targetPosition = startPosition + new Vector2(direction * safeDistance, 0f);
             }
 
-            rb.position =
-                targetPosition;
+            rb.position = targetPosition;
 
-            // ¿Ãµø ¡˜»ƒ ∏Ò¿˚¡ˆ ∞¯∞›
-            PerformAreaDamage(
-                blinkDashDamage,
-                blinkDashRange
-            );
+            // Ïù¥Îèô ÏßÅÌõÑ Î™©Ï†ÅÏßÄ Í≥µÍ≤©
+            PerformAreaDamage(blinkDashDamage, blinkDashRange);
 
-            blinkDashTimer =
-                blinkDashCooldown;
+            blinkDashTimer = blinkDashCooldown;
 
-            DebugSkillLog(
-                "Phase 3",
-                "W - ∫Ì∏µ≈© ¥ÎΩ√"
-            );
+            DebugSkillLog("Phase 3", "W - Î∏îÎßÅÌÅ¨ ÎåÄÏãú");
         }
-
-
-        // =========================================================
         // Area Damage
-        // =========================================================
-
         private void PerformAreaDamage(
             float damage,
             float range)
@@ -1053,28 +756,20 @@ namespace Carten
             if (targetLayer.value == 0)
                 return;
 
-            Collider2D[] targets =
-                Physics2D.OverlapCircleAll(
-                    attackPoint.position,
-                    range,
-                    targetLayer
-                );
+            Collider2D[] targets = Physics2D.OverlapCircleAll(attackPoint.position, range, targetLayer);
 
-            HashSet<IDamageable> hitTargets =
-                new HashSet<IDamageable>();
+            HashSet<IDamageable> hitTargets = new HashSet<IDamageable>();
 
             foreach (Collider2D target in targets)
             {
                 if (target == null)
                     continue;
 
-                IDamageable damageable =
-                    target.GetComponent<IDamageable>();
+                IDamageable damageable = target.GetComponent<IDamageable>();
 
                 if (damageable == null)
                 {
-                    damageable =
-                        target.GetComponentInParent<IDamageable>();
+                    damageable = target.GetComponentInParent<IDamageable>();
                 }
 
                 if (damageable == null)
@@ -1086,19 +781,15 @@ namespace Carten
                 if (hitTargets.Contains(damageable))
                     continue;
 
-                hitTargets.Add(
-                    damageable
-                );
+                hitTargets.Add(damageable);
 
-                damageable.TakeDamage(
-                    damage
-                );
+                damageable.TakeDamage(damage);
 
                 if (showDebugLog)
                 {
                     Debug.Log(
                         $"[PlayerSkillController] " +
-                        $"Ω∫≈≥ ¿˚¡ﬂ: " +
+                        $"Ïä§ÌÇ¨ Ï†ÅÏ§ë: " +
                         $"{target.gameObject.name} / " +
                         $"Damage: {damage:F1}"
                     );
@@ -1106,21 +797,15 @@ namespace Carten
             }
         }
 
-
-        // =========================================================
-        // Defense
-        // =========================================================
-
         public float GetCurrentDefenseReduction()
         {
             if (playerController == null)
                 return 0f;
 
-            // PlayerController∞°
-            // ±‚∫ª πÊæÓ + √ﬂ∞° πÊæÓ∏¶ ∞ËªÍ
+            // PlayerControllerÍ∞Ä
+            // Í∏∞Î≥∏ Î∞©Ïñ¥ + Ï∂îÍ∞Ä Î∞©Ïñ¥Î•º Í≥ÑÏÇ∞
             return playerController.DamageReduction;
         }
-
 
         public float GetCurrentDefensePercent()
         {
@@ -1129,90 +814,33 @@ namespace Carten
                 100f;
         }
 
-
-        public bool IsDefenseSkillActive =>
-            isDefenseSkillActive;
-
-
-        // =========================================================
+        public bool IsDefenseSkillActive => isDefenseSkillActive;
         // Skill Status
-        // =========================================================
+        public bool IsSkillExecuting => skillExecuting;
 
-        public bool IsSkillExecuting =>
-            skillExecuting;
+        public bool IsGravityBoostActive => isGravityBoostActive;
 
-        public bool IsGravityBoostActive =>
-            isGravityBoostActive;
+        public bool IsDashSlashActive => isDashSlashActive;
 
-        public bool IsDashSlashActive =>
-            isDashSlashActive;
-
-        public bool IsBoostExplosionActive =>
-            isBoostExplosionActive;
-
-
-        // =========================================================
+        public bool IsBoostExplosionActive => isBoostExplosionActive;
         // Cooldown Getters
-        // =========================================================
+        public float HeavyStrikeCooldownRemaining => Mathf.Max(0f, heavyStrikeTimer);
 
-        public float HeavyStrikeCooldownRemaining =>
-            Mathf.Max(
-                0f,
-                heavyStrikeTimer
-            );
+        public float DefenseCooldownRemaining => Mathf.Max(0f, defenseSkillTimer);
 
-        public float DefenseCooldownRemaining =>
-            Mathf.Max(
-                0f,
-                defenseSkillTimer
-            );
+        public float GravityBoostCooldownRemaining => Mathf.Max(0f, gravityBoostTimer);
 
-        public float GravityBoostCooldownRemaining =>
-            Mathf.Max(
-                0f,
-                gravityBoostTimer
-            );
+        public float OverdriveCooldownRemaining => Mathf.Max(0f, overdriveTimer);
 
-        public float OverdriveCooldownRemaining =>
-            Mathf.Max(
-                0f,
-                overdriveTimer
-            );
+        public float DashSlashCooldownRemaining => Mathf.Max(0f, dashSlashTimer);
 
-        public float DashSlashCooldownRemaining =>
-            Mathf.Max(
-                0f,
-                dashSlashTimer
-            );
+        public float BoostExplosionCooldownRemaining => Mathf.Max(0f, boostExplosionTimer);
 
-        public float BoostExplosionCooldownRemaining =>
-            Mathf.Max(
-                0f,
-                boostExplosionTimer
-            );
+        public float LimitBreakCooldownRemaining => Mathf.Max(0f, limitBreakTimer);
 
-        public float LimitBreakCooldownRemaining =>
-            Mathf.Max(
-                0f,
-                limitBreakTimer
-            );
+        public float BlinkDashCooldownRemaining => Mathf.Max(0f, blinkDashTimer);
 
-        public float BlinkDashCooldownRemaining =>
-            Mathf.Max(
-                0f,
-                blinkDashTimer
-            );
-
-        public float OverloadBlastCooldownRemaining =>
-            Mathf.Max(
-                0f,
-                overloadBlastTimer
-            );
-
-
-        // =========================================================
-        // Debug
-        // =========================================================
+        public float OverloadBlastCooldownRemaining => Mathf.Max(0f, overloadBlastTimer);
 
         private void DebugSkillLog(
             string phase,
@@ -1221,68 +849,48 @@ namespace Carten
             if (!showDebugLog)
                 return;
 
-            Debug.Log(
-                $"[PlayerSkillController] " +
-                $"{phase} / {skillName}"
-            );
+            Debug.Log($"[PlayerSkillController] " + $"{phase} / {skillName}");
         }
-
-
-        // =========================================================
-        // Gizmos
-        // =========================================================
 
         private void OnDrawGizmosSelected()
         {
             if (attackPoint == null)
                 return;
 
-            Gizmos.color =
-                Color.cyan;
+            Gizmos.color = Color.cyan;
 
-            Gizmos.DrawWireSphere(
-                attackPoint.position,
-                heavyStrikeRange
-            );
+            Gizmos.DrawWireSphere(attackPoint.position, heavyStrikeRange);
 
-            Gizmos.DrawLine(
-                transform.position,
-                attackPoint.position
-            );
+            Gizmos.DrawLine(transform.position, attackPoint.position);
         }
-
-
-        // =========================================================
-        // Disable Safety
-        // =========================================================
 
         private void OnDisable()
         {
+            PlayerHitReaction reaction = GetComponent<PlayerHitReaction>();
+            if (reaction != null)
+                reaction.StunStarted -= InterruptForHit;
             StopAllCoroutines();
 
             if (playerController != null)
             {
-                // W πÊæÓ∑¬ ¡§∏Æ
+                // W Î∞©Ïñ¥Î†• Ï†ïÎ¶¨
                 if (isDefenseSkillActive)
                 {
-                    playerController
-                        .ClearAdditionalDamageReduction();
+                    playerController .ClearAdditionalDamageReduction();
                 }
 
-                // ¡ﬂ∑¬ √ﬂ¡¯ ¡§∏Æ
+                // Ï§ëÎ†• Ï∂îÏßÑ Ï†ïÎ¶¨
                 if (isGravityBoostActive)
                 {
-                    playerController
-                        .EndGravityBoost();
+                    playerController .EndGravityBoost();
                 }
 
-                // ¥ÎΩ√ ΩΩ∑°Ω√ / √ﬂ¡¯ ∆¯πﬂ µµ¡ﬂ¿Ã∏È
-                // ¡ﬂ∑¬ ¡¶æÓ∏¶ ø¯ªÛ∫π±∏
+                // ÎåÄÏãú Ïä¨ÎûòÏãú / Ï∂îÏßÑ Ìè≠Î∞ú ÎèÑÏ§ëÏù¥Î©¥
+                // Ï§ëÎ†• Ï†úÏñ¥Î•º ÏõêÏÉÅÎ≥µÍµ¨
                 if (isDashSlashActive ||
                     isBoostExplosionActive)
                 {
-                    playerController
-                        .EndGravityBoost();
+                    playerController .EndGravityBoost();
                 }
             }
 

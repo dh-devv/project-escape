@@ -77,6 +77,77 @@ namespace Carten.Tests
         }
 
         [Test]
+        public void SceneStartKeepsTransferredHealthAndDamageUpdatesPersistentState()
+        {
+            GameStateManager state = NewObject("Game state").AddComponent<GameStateManager>();
+            PlayerController player = Player();
+            typeof(PlayerController).GetMethod("RestoreHealthForMap", BindingFlags.Instance | BindingFlags.NonPublic)
+                .Invoke(player, new object[] { 25f });
+            player.SendMessage("Start");
+            Assert.That(player.CurrentHealth, Is.EqualTo(25f));
+            player.TakeDamage(5f);
+            Assert.That(state.PlayerHP, Is.EqualTo(20f));
+            Assert.That(state.PlayerPhase, Is.EqualTo(3));
+            PlayerController next = Player();
+            next.SendMessage("Start");
+            Assert.That(next.CurrentHealth, Is.EqualTo(20f));
+            Assert.That(next.CurrentPhase, Is.EqualTo(PlayerController.PlayerPhase.Phase3));
+        }
+
+        [Test]
+        public void AllSkillCooldownsRestoreAndUsingSkillPersistsItsCooldown()
+        {
+            GameStateManager state = NewObject("Game state").AddComponent<GameStateManager>();
+            string[] timers = { "heavyStrikeTimer", "defenseSkillTimer", "gravityBoostTimer",
+                "overdriveTimer", "dashSlashTimer", "boostExplosionTimer",
+                "limitBreakTimer", "blinkDashTimer", "overloadBlastTimer" };
+            for (int i = 0; i < timers.Length; i++)
+                state.StartSkillCooldown((GameStateManager.SkillCooldownType)i, 10f + i);
+            PlayerController player = Player();
+            NewObject("AttackPoint").transform.SetParent(player.transform);
+            PlayerSkillController skills = player.gameObject.AddComponent<PlayerSkillController>();
+            skills.SendMessage("Start");
+            for (int i = 0; i < timers.Length; i++)
+                Assert.That((float)typeof(PlayerSkillController).GetField(timers[i], BindingFlags.Instance | BindingFlags.NonPublic)
+                    .GetValue(skills), Is.EqualTo(10f + i).Within(0.01f));
+            state.ResetSkillCooldowns();
+            skills.SendMessage("Start");
+            typeof(PlayerSkillController).GetMethod("UseSkill1", BindingFlags.Instance | BindingFlags.NonPublic)
+                .Invoke(skills, null);
+            Assert.That(state.GetSkillCooldownRemaining(GameStateManager.SkillCooldownType.HeavyStrike), Is.GreaterThan(0f));
+        }
+
+        [Test]
+        public void EncounterPersistsOnlyAfterSpawnAndParentCannotBypassOneTimeTrigger()
+        {
+            GameStateManager state = NewObject("Game state").AddComponent<GameStateManager>();
+            PlayerController player = Player();
+            EncounterController encounter = NewObject("Encounter").AddComponent<EncounterController>();
+            GameObject child = NewObject("Trigger");
+            child.transform.SetParent(encounter.transform);
+            EncounterTrigger trigger = child.AddComponent<EncounterTrigger>();
+            SetField(trigger, "triggerId", "test-encounter");
+            LogAssert.Expect(LogType.Error, "[EncounterController] Spawner, spawn points and a positive enemy count are required.");
+            encounter.SendMessage("OnTriggerEnter2D", player.GetComponent<Collider2D>());
+            Assert.That(state.HasTriggered("test-encounter"), Is.False);
+            GameObject template = NewObject("Enemy template");
+            template.AddComponent<Rigidbody2D>();
+            template.AddComponent<Enemy1Controller>();
+            EnemySpawner spawner = NewObject("Spawner").AddComponent<EnemySpawner>();
+            SetField(spawner, "enemy1Prefab", template);
+            SetField(encounter, "enemySpawner", spawner);
+            SetField(encounter, "spawnPoints", new[] { NewObject("Spawn").transform });
+            encounter.SendMessage("OnTriggerEnter2D", player.GetComponent<Collider2D>());
+            Assert.That(state.HasTriggered("test-encounter"), Is.True);
+            Assert.That(spawner.GetSpawnedEnemies().Count, Is.EqualTo(2));
+            SetField(encounter, "encounterStarted", false);
+            encounter.SendMessage("OnTriggerEnter2D", player.GetComponent<Collider2D>());
+            Assert.That(encounter.IsStarted(), Is.False);
+            Assert.That(spawner.GetSpawnedEnemies().Count, Is.EqualTo(2));
+            foreach (GameObject enemy in spawner.GetSpawnedEnemies()) objects.Add(enemy);
+        }
+
+        [Test]
         public void OfflineBossResultBelongsToSessionAfterBossObjectIsDestroyed()
         {
             PlayerController player = Player();

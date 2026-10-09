@@ -47,6 +47,13 @@ namespace Carten
             if (other.GetComponentInParent<PlayerController>() == null)
                 return;
 
+            EncounterTrigger trigger = GetComponentInChildren<EncounterTrigger>();
+            if (trigger != null)
+            {
+                trigger.TryStartEncounter();
+                return;
+            }
+
             StartEncounter();
         }
         // Encounter 시작

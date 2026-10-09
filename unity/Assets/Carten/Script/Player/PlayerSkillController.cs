@@ -251,6 +251,22 @@ namespace Carten
                     : PlayerController.PlayerPhase.Phase1;
         }
 
+        private void Start()
+        {
+            GameStateManager state = GameStateManager.Instance;
+            if (state == null) return;
+
+            heavyStrikeTimer = state.GetSkillCooldownRemaining(GameStateManager.SkillCooldownType.HeavyStrike);
+            defenseSkillTimer = state.GetSkillCooldownRemaining(GameStateManager.SkillCooldownType.Defense);
+            gravityBoostTimer = state.GetSkillCooldownRemaining(GameStateManager.SkillCooldownType.GravityBoost);
+            overdriveTimer = state.GetSkillCooldownRemaining(GameStateManager.SkillCooldownType.Overdrive);
+            dashSlashTimer = state.GetSkillCooldownRemaining(GameStateManager.SkillCooldownType.DashSlash);
+            boostExplosionTimer = state.GetSkillCooldownRemaining(GameStateManager.SkillCooldownType.BoostExplosion);
+            limitBreakTimer = state.GetSkillCooldownRemaining(GameStateManager.SkillCooldownType.LimitBreak);
+            blinkDashTimer = state.GetSkillCooldownRemaining(GameStateManager.SkillCooldownType.BlinkDash);
+            overloadBlastTimer = state.GetSkillCooldownRemaining(GameStateManager.SkillCooldownType.OverloadBlast);
+        }
+
         private void Update()
         {
             if (playerController == null)
@@ -440,6 +456,7 @@ namespace Carten
             PerformAreaDamage(heavyStrikeDamage, heavyStrikeRange);
 
             heavyStrikeTimer = heavyStrikeCooldown;
+            GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.HeavyStrike, heavyStrikeCooldown);
 
             DebugSkillLog("Phase 1", "Q - 중장갑 강타");
         }
@@ -463,6 +480,7 @@ namespace Carten
             StartGravityBoostSkill(gravityBoostHorizontal, gravityBoostVertical, gravityBoostDuration);
 
             gravityBoostTimer = gravityBoostCooldown;
+            GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.GravityBoost, gravityBoostCooldown);
 
             DebugSkillLog("Phase 1", "E - 중력 추진");
         }
@@ -472,6 +490,7 @@ namespace Carten
             isDefenseSkillActive = true;
 
             defenseSkillTimer = defenseSkillCooldown;
+            GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.Defense, defenseSkillCooldown);
 
             defenseSkillDurationTimer = defenseSkillDuration;
 
@@ -583,6 +602,7 @@ namespace Carten
             skillExecuting = true;
 
             overdriveTimer = overdriveCooldown;
+            GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.Overdrive, overdriveCooldown);
 
             if (showDebugLog)
             {
@@ -615,6 +635,7 @@ namespace Carten
             isDashSlashActive = true;
 
             dashSlashTimer = dashSlashCooldown;
+            GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.DashSlash, dashSlashCooldown);
 
             float direction = transform.localScale.x >= 0f ? 1f : -1f;
 
@@ -645,6 +666,7 @@ namespace Carten
             isBoostExplosionActive = true;
 
             boostExplosionTimer = boostExplosionCooldown;
+            GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.BoostExplosion, boostExplosionCooldown);
 
             float direction = transform.localScale.x >= 0f ? 1f : -1f;
 
@@ -685,6 +707,7 @@ namespace Carten
             PerformAreaDamage(limitBreakDamage, limitBreakRange);
 
             limitBreakTimer = limitBreakCooldown;
+            GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.LimitBreak, limitBreakCooldown);
 
             DebugSkillLog("Phase 3", "Q - 리미트 브레이크");
         }
@@ -705,6 +728,7 @@ namespace Carten
             PerformAreaDamage(overloadBlastDamage, overloadBlastRange);
 
             overloadBlastTimer = overloadBlastCooldown;
+            GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.OverloadBlast, overloadBlastCooldown);
 
             DebugSkillLog("Phase 3", "E - 과부하 방출");
         }
@@ -742,6 +766,7 @@ namespace Carten
             PerformAreaDamage(blinkDashDamage, blinkDashRange);
 
             blinkDashTimer = blinkDashCooldown;
+            GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.BlinkDash, blinkDashCooldown);
 
             DebugSkillLog("Phase 3", "W - 블링크 대시");
         }

@@ -434,6 +434,23 @@ namespace Carten
             }
         }
 
+        private void Start()
+        {
+            GameStateManager state = GameStateManager.Instance;
+            if (state == null || float.IsNaN(state.PlayerHP) || float.IsInfinity(state.PlayerHP))
+                return;
+
+            currentHealth = Mathf.Clamp(state.PlayerHP, 0f, maxHealth);
+            UpdatePhase();
+            if (currentHealth <= 0f)
+                Die();
+        }
+
+        private void SaveGameState()
+        {
+            GameStateManager.Instance?.SetPlayerState(currentHealth, (int)currentPhase + 1);
+        }
+
         private void Update()
         {
             if (isDead)
@@ -706,6 +723,7 @@ namespace Carten
 
             currentHealth = Mathf.Min(health, maxHealth);
             UpdatePhase();
+            SaveGameState();
         }
 
         public void TakeDamage(float damage, float stunDuration)
@@ -771,6 +789,7 @@ namespace Carten
             }
             // Phase 재판정
             UpdatePhase();
+            SaveGameState();
             // 사망
             if (currentHealth <= 0f)
             {

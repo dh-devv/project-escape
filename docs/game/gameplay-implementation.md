@@ -62,7 +62,9 @@ Unity **6000.5.0f1**에서 `unity` 폴더를 열고 아래 씬을 실행합니�
 - 로컬 **MySQL 8.0.46**의 `last_spark` 테이블·컬럼·사용자 고유키·결과 외래키·랭킹 인덱스를 확인했습니다.
 - 실제 MySQL 통합 테스트 **1개 통과**. `ddl-auto=validate`로 기동하고 임시 사용자 생성·보스 결과 저장·DB 직접 확인·최고 기록/랭킹 조회·중복 이름 거부를 검증했습니다. 테스트가 만든 행은 삭제했고 기존 기록은 수정하지 않았습니다. 비밀번호는 파일에 저장하지 않았습니다.
 - Unity YAML 45개와 C# 소스 38개, 메타데이터·로컬 참조·Build Settings 등록을 정적으로 검사했습니다. C# 구문 검사는 Unity 타입 검사나 엔진 컴파일을 대신하지 않습니다. Editor에 포함된 렌더링 패키지 참조는 Unity에서 복원·확인해야 합니다.
-- Unity PlayMode 회귀 테스트 **17개**는 `Assets/Carten/Tests/PlayMode/GameplayBehaviorTests.cs`에 있습니다. 이 PC에는 Unity Editor가 없어 엔진 컴파일·PlayMode 테스트·화면 검증을 실행하지 못했습니다. Unity에서 `Window > General > Test Runner > PlayMode > Run All`로 실행하세요.
+- Unity PlayMode 회귀 테스트 **20개**는 `Assets/Carten/Tests/PlayMode/GameplayBehaviorTests.cs`에 있습니다. 이 PC에는 Unity Editor가 없어 엔진 컴파일·PlayMode 테스트·화면 검증을 실행하지 못했습니다. Unity에서 `Window > General > Test Runner > PlayMode > Run All`로 실행하세요.
+
+2026-10-09 원격 맵 제작 변경을 병합했습니다. `Stage1_Map01`에 배치된 `GameStateManager`가 체력·페이즈·9개 스킬의 쿨다운과 일회성 전투 트리거 ID를 맵 간 유지합니다. 전환 직후 복원된 체력은 `PlayerController.Start`에서 덮어쓰지 않도록 상태 저장과 연결했습니다. 트리거 ID `01-01`, `01-02`는 실제 적 소환이 성공한 뒤에 기록하며, 전투 부모 오브젝트의 충돌 처리도 같은 검사를 거칩니다. 이 세 동작의 회귀 테스트를 추가했고 병합 후 C# 소스 40개·Unity YAML 45개의 정적 검사를 통과했습니다. 기본 맵에는 일반 적 전투가 추가되었으며 보스 데모와의 전체 게임 흐름 연결은 남아 있습니다.
 
 검사 명령과 제출 전 확인 순서는 [프로젝트 점검 결과](../project-review.md)를 참고합니다.
 

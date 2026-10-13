@@ -9,7 +9,7 @@ namespace Carten
         private string targetSpawnPoint;
         private string targetScene;
         private float? carriedHealth;
-        private int placedSceneHandle = -1;
+        private SceneHandle placedSceneHandle = SceneHandle.None;
         public bool IsTransitioning { get; private set; }
 
         [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
@@ -80,7 +80,8 @@ namespace Carten
             targetSpawnPoint = null;
             carriedHealth = null;
         }
-        public bool HasPlacedPlayer(Scene scene) => placedSceneHandle == scene.handle;
+        public bool HasPlacedPlayer(Scene scene) =>
+            placedSceneHandle != SceneHandle.None && placedSceneHandle == scene.handle;
         private void OnDestroy()
         {
             SceneManager.sceneLoaded -= OnSceneLoaded;

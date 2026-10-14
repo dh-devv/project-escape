@@ -1,0 +1,2717 @@
+fileFormatVersion: 2
+guid: be5d4236de9418f45a292efb298d5de2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9024062597793974589
+    second: VFX_P1_PhaseExplosion_0
+  - first:
+      213: 285153580321460859
+    second: VFX_P1_PhaseExplosion_1
+  - first:
+      213: 3521957458886397085
+    second: VFX_P1_PhaseExplosion_2
+  - first:
+      213: -6117147750560134076
+    second: VFX_P1_PhaseExplosion_3
+  - first:
+      213: 2727769545198479429
+    second: VFX_P1_PhaseExplosion_4
+  - first:
+      213: -8852951798598464800
+    second: VFX_P1_PhaseExplosion_5
+  - first:
+      213: 7166931080112322023
+    second: VFX_P1_PhaseExplosion_6
+  - first:
+      213: 4072965048332585342
+    second: VFX_P1_PhaseExplosion_7
+  - first:
+      213: -63340689094091681
+    second: VFX_P1_PhaseExplosion_8
+  - first:
+      213: -1249235769750501648
+    second: VFX_P1_PhaseExplosion_9
+  - first:
+      213: 1652377180381760403
+    second: VFX_P1_PhaseExplosion_10
+  - first:
+      213: -8723458634611128888
+    second: VFX_P1_PhaseExplosion_11
+  - first:
+      213: 2897810913869691705
+    second: VFX_P1_PhaseExplosion_12
+  - first:
+      213: 355562801225687940
+    second: VFX_P1_PhaseExplosion_13
+  - first:
+      213: 4392444421856292034
+    second: VFX_P1_PhaseExplosion_14
+  - first:
+      213: -8799636845533142981
+    second: VFX_P1_PhaseExplosion_15
+  - first:
+      213: 2601386532946515490
+    second: VFX_P1_PhaseExplosion_16
+  - first:
+      213: 6642346412072991294
+    second: VFX_P1_PhaseExplosion_17
+  - first:
+      213: 7784237766454004239
+    second: VFX_P1_PhaseExplosion_18
+  - first:
+      213: -7479713353101096493
+    second: VFX_P1_PhaseExplosion_19
+  - first:
+      213: -5960536329561570671
+    second: VFX_P1_PhaseExplosion_20
+  - first:
+      213: -2445936890538327762
+    second: VFX_P1_PhaseExplosion_21
+  - first:
+      213: 4557153895906903804
+    second: VFX_P1_PhaseExplosion_22
+  - first:
+      213: 8052594915436016847
+    second: VFX_P1_PhaseExplosion_23
+  - first:
+      213: -6576918022413455193
+    second: VFX_P1_PhaseExplosion_24
+  - first:
+      213: -863085763913031699
+    second: VFX_P1_PhaseExplosion_25
+  - first:
+      213: -4239850911820262707
+    second: VFX_P1_PhaseExplosion_26
+  - first:
+      213: 3866469231447442598
+    second: VFX_P1_PhaseExplosion_27
+  - first:
+      213: 7922894865497423909
+    second: VFX_P1_PhaseExplosion_28
+  - first:
+      213: 3888782220791274819
+    second: VFX_P1_PhaseExplosion_29
+  - first:
+      213: 6619349442249195724
+    second: VFX_P1_PhaseExplosion_30
+  - first:
+      213: 791353531336226693
+    second: VFX_P1_PhaseExplosion_31
+  - first:
+      213: -8899125450932768119
+    second: VFX_P1_PhaseExplosion_32
+  - first:
+      213: 8911554217564625130
+    second: VFX_P1_PhaseExplosion_33
+  - first:
+      213: -2567881752276146648
+    second: VFX_P1_PhaseExplosion_34
+  - first:
+      213: -551316634430133600
+    second: VFX_P1_PhaseExplosion_35
+  - first:
+      213: -9209752664711966159
+    second: VFX_P1_PhaseExplosion_36
+  - first:
+      213: -4337033998620202977
+    second: VFX_P1_PhaseExplosion_37
+  - first:
+      213: 4074831741429299805
+    second: VFX_P1_PhaseExplosion_38
+  - first:
+      213: 6355371468946170371
+    second: VFX_P1_PhaseExplosion_39
+  - first:
+      213: 1621031170427175124
+    second: VFX_P1_PhaseExplosion_40
+  - first:
+      213: 6281187549289456965
+    second: VFX_P1_PhaseExplosion_41
+  - first:
+      213: 7015519777048584787
+    second: VFX_P1_PhaseExplosion_42
+  - first:
+      213: -2171749634523200886
+    second: VFX_P1_PhaseExplosion_43
+  - first:
+      213: 8335352237595959337
+    second: VFX_P1_PhaseExplosion_44
+  - first:
+      213: 6941110149145671648
+    second: VFX_P1_PhaseExplosion_45
+  - first:
+      213: 4105673732015868634
+    second: VFX_P1_PhaseExplosion_46
+  - first:
+      213: 6725015671891007112
+    second: VFX_P1_PhaseExplosion_47
+  - first:
+      213: 7498793097972492212
+    second: VFX_P1_PhaseExplosion_48
+  - first:
+      213: 3508911523982674276
+    second: VFX_P1_PhaseExplosion_49
+  - first:
+      213: 4575642914929204345
+    second: VFX_P1_PhaseExplosion_50
+  - first:
+      213: -4356795930989746160
+    second: VFX_P1_PhaseExplosion_51
+  - first:
+      213: 4919775067799477437
+    second: VFX_P1_PhaseExplosion_52
+  - first:
+      213: -445907714428616921
+    second: VFX_P1_PhaseExplosion_53
+  - first:
+      213: 142304129306860153
+    second: VFX_P1_PhaseExplosion_54
+  - first:
+      213: 6234469027614004953
+    second: VFX_P1_PhaseExplosion_55
+  - first:
+      213: -1634900913236824620
+    second: VFX_P1_PhaseExplosion_56
+  - first:
+      213: -5481767361179253518
+    second: VFX_P1_PhaseExplosion_57
+  - first:
+      213: 7610885090077682922
+    second: VFX_P1_PhaseExplosion_58
+  - first:
+      213: -7698104667419651646
+    second: VFX_P1_PhaseExplosion_59
+  - first:
+      213: 4215378626911790776
+    second: VFX_P1_PhaseExplosion_60
+  - first:
+      213: -1551325660945462368
+    second: VFX_P1_PhaseExplosion_61
+  - first:
+      213: -7184850959089733369
+    second: VFX_P1_PhaseExplosion_62
+  - first:
+      213: -2111088579779767542
+    second: VFX_P1_PhaseExplosion_63
+  - first:
+      213: -4777473907625788600
+    second: VFX_P1_PhaseExplosion_64
+  - first:
+      213: -227617509445716621
+    second: VFX_P1_PhaseExplosion_65
+  - first:
+      213: -4748288820361523702
+    second: VFX_P1_PhaseExplosion_66
+  - first:
+      213: 9172256224340115071
+    second: VFX_P1_PhaseExplosion_67
+  - first:
+      213: -2529836972230242265
+    second: VFX_P1_PhaseExplosion_68
+  - first:
+      213: -87638803686659666
+    second: VFX_P1_PhaseExplosion_69
+  - first:
+      213: -5222598035291989090
+    second: VFX_P1_PhaseExplosion_70
+  - first:
+      213: 3174270297429303936
+    second: VFX_P1_PhaseExplosion_71
+  - first:
+      213: 8675807736078674964
+    second: VFX_P1_PhaseExplosion_72
+  - first:
+      213: 1345290022881815432
+    second: VFX_P1_PhaseExplosion_73
+  - first:
+      213: -8324650869964338050
+    second: VFX_P1_PhaseExplosion_74
+  - first:
+      213: 4969932772036678858
+    second: VFX_P1_PhaseExplosion_75
+  - first:
+      213: -1552195218136272800
+    second: VFX_P1_PhaseExplosion_76
+  - first:
+      213: -3525791784053741720
+    second: VFX_P1_PhaseExplosion_77
+  - first:
+      213: 4635258846493486331
+    second: VFX_P1_PhaseExplosion_78
+  - first:
+      213: 3931692829957174709
+    second: VFX_P1_PhaseExplosion_79
+  - first:
+      213: -7126571400980993063
+    second: VFX_P1_PhaseExplosion_80
+  - first:
+      213: -6764661022808316656
+    second: VFX_P1_PhaseExplosion_81
+  - first:
+      213: 6458995182202979483
+    second: VFX_P1_PhaseExplosion_82
+  - first:
+      213: 8425452068025193501
+    second: VFX_P1_PhaseExplosion_83
+  - first:
+      213: -6622425604553749982
+    second: VFX_P1_PhaseExplosion_84
+  - first:
+      213: -8491432274562242108
+    second: VFX_P1_PhaseExplosion_85
+  - first:
+      213: 7919621623518811745
+    second: VFX_P1_PhaseExplosion_86
+  - first:
+      213: -1736863509113377621
+    second: VFX_P1_PhaseExplosion_87
+  - first:
+      213: 6275366676722496686
+    second: VFX_P1_PhaseExplosion_88
+  - first:
+      213: -4739396161809959467
+    second: VFX_P1_PhaseExplosion_89
+  - first:
+      213: 799005762943079690
+    second: VFX_P1_PhaseExplosion_90
+  - first:
+      213: 3057396465457800287
+    second: VFX_P1_PhaseExplosion_91
+  - first:
+      213: -6045624225549097301
+    second: VFX_P1_PhaseExplosion_92
+  - first:
+      213: -795758787932317349
+    second: VFX_P1_PhaseExplosion_93
+  - first:
+      213: 4659052355775415729
+    second: VFX_P1_PhaseExplosion_94
+  - first:
+      213: -3610601134417122748
+    second: VFX_P1_PhaseExplosion_95
+  - first:
+      213: 8844818538933791498
+    second: VFX_P1_PhaseExplosion_96
+  - first:
+      213: -6531559712825057820
+    second: VFX_P1_PhaseExplosion_97
+  - first:
+      213: -1974224593423185584
+    second: VFX_P1_PhaseExplosion_98
+  - first:
+      213: -8322983421750765877
+    second: VFX_P1_PhaseExplosion_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 824
+        width: 207
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3906640f19eb3d70800000000000000
+      internalID: 9024062597793974589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 979
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72dd75aba115f300800000000000000
+      internalID: 285153580321460859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 981
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c06f216a180e030800000000000000
+      internalID: 3521957458886397085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 793
+        width: 207
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c8849e7868b1ba0800000000000000
+      internalID: -6117147750560134076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 989
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5482fa2f2fbfad520800000000000000
+      internalID: 2727769545198479429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 959
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea02ee7e3ff32580800000000000000
+      internalID: -8852951798598464800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 980
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e53dc768dd067360800000000000000
+      internalID: 7166931080112322023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 970
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e790278c124168830800000000000000
+      internalID: 4072965048332585342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 964
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cd7b69af7fe1ff0800000000000000
+      internalID: -63340689094091681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 793
+        width: 192
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f64f47afa2d9aee0800000000000000
+      internalID: -1249235769750501648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 934
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bcd977a4c6ee610800000000000000
+      internalID: 1652377180381760403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 953
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c58037379c00f680800000000000000
+      internalID: -8723458634611128888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 909
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bf3734ca7173820800000000000000
+      internalID: 2897810913869691705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 925
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483666edb763fe400800000000000000
+      internalID: 355562801225687940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 890
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cce364fde815fc30800000000000000
+      internalID: 4392444421856292034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 883
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30ee8559e861e580800000000000000
+      internalID: -8799636845533142981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 801
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22613cbd44bf91420800000000000000
+      internalID: 2601386532946515490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 866
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a73be7eda5e2c50800000000000000
+      internalID: 6642346412072991294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 810
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0acba4810b270c60800000000000000
+      internalID: 7784237766454004239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 854
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9c9a6a558b23890800000000000000
+      internalID: -7479713353101096493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 843
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1920cadd9cbe74da0800000000000000
+      internalID: -5960536329561570671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 849
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2180707b594e0ed0800000000000000
+      internalID: -2445936890538327762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 855
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf68150d2534e3f30800000000000000
+      internalID: 4557153895906903804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 846
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc43eae396090cf60800000000000000
+      internalID: 8052594915436016847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 820
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a07e2597e71ab4a0800000000000000
+      internalID: -6576918022413455193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 803
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def544f0214b504f0800000000000000
+      internalID: -863085763913031699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 827
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc256543f060925c0800000000000000
+      internalID: -4239850911820262707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 833
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a40763d74578a530800000000000000
+      internalID: 3866469231447442598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 817
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5208db227e6c3fd60800000000000000
+      internalID: 7922894865497423909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 793
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d5e1f73dab7f530800000000000000
+      internalID: 3888782220791274819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 826
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc081753f37acdb50800000000000000
+      internalID: 6619349442249195724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 809
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587fb0f08d37bfa00800000000000000
+      internalID: 791353531336226693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 793
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982b38d4d84ff7480800000000000000
+      internalID: -8899125450932768119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 811
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8d29e68533cab70800000000000000
+      internalID: 8911554217564625130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_34
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 793
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8266f5ac62d0d5cd0800000000000000
+      internalID: -2567881752276146648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 799
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa270621745958f0800000000000000
+      internalID: -551316634430133600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_36
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 793
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132d2ae2fb2603080800000000000000
+      internalID: -9209752664711966159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_37
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 799
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18637d8e82cfc3c0800000000000000
+      internalID: -4337033998620202977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 793
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a316321e5bc8830800000000000000
+      internalID: 4074831741429299805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 793
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3026036cda0d23850800000000000000
+      internalID: 6355371468946170371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 793
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0c52bc24f0f7610800000000000000
+      internalID: 1621031170427175124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 793
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54521030cc24b2750800000000000000
+      internalID: 6281187549289456965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_42
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 793
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35265b141122c5160800000000000000
+      internalID: 7015519777048584787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 793
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82092db6356cd1e0800000000000000
+      internalID: -2171749634523200886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_44
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 793
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9202aaf82be1da370800000000000000
+      internalID: 8335352237595959337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 793
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7bfa2b7e6c35060800000000000000
+      internalID: 6941110149145671648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_46
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 793
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada4578a1884af830800000000000000
+      internalID: 4105673732015868634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_47
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 793
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8869ff77f1e045d50800000000000000
+      internalID: 6725015671891007112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_48
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 793
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b72dc0a790111860800000000000000
+      internalID: 7498793097972492212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_49
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 793
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4690347a07822b030800000000000000
+      internalID: 3508911523982674276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_50
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 793
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c53630df2ff7f30800000000000000
+      internalID: 4575642914929204345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_51
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 793
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0182d7e1f2d8983c0800000000000000
+      internalID: -4356795930989746160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 537
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcd20bab5d864440800000000000000
+      internalID: 4919775067799477437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_53
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 537
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f30e6db41dfc9f0800000000000000
+      internalID: -445907714428616921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_54
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 537
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a18650ad099f100800000000000000
+      internalID: 142304129306860153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_55
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 281
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d69b1a8c88458650800000000000000
+      internalID: 6234469027614004953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddae8f084aaf49e0800000000000000
+      internalID: -1634900913236824620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_57
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 454
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4849fe0a9dce3b0800000000000000
+      internalID: -5481767361179253518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_58
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 207
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeca56c4aab4f9960800000000000000
+      internalID: 7610885090077682922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_59
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 469
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1dcae5796da2590800000000000000
+      internalID: -7698104667419651646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_60
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 480
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e9d2f688008a30800000000000000
+      internalID: 4215378626911790776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_61
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 468
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abc568d785987ae0800000000000000
+      internalID: -1551325660945462368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_62
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 468
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701f453ae184a4c90800000000000000
+      internalID: -7184850959089733369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_63
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 477
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03d7d82f18e3b2e0800000000000000
+      internalID: -2111088579779767542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_64
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 468
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b744c0bc003bdb0800000000000000
+      internalID: -4777473907625788600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_65
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 444
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37534d4c41757dcf0800000000000000
+      internalID: -227617509445716621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_66
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 437
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e8463b970ba1eb0800000000000000
+      internalID: -4748288820361523702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_67
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 430
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e78a870766a4f70800000000000000
+      internalID: 9172256224340115071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_68
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 414
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720119a6da634ecd0800000000000000
+      internalID: -2529836972230242265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_69
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 403
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea967bde8f4a8cef0800000000000000
+      internalID: -87638803686659666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_70
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 381
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b94c5e1ca9587b0800000000000000
+      internalID: -5222598035291989090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_71
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 381
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082e85b74064d0c20800000000000000
+      internalID: 3174270297429303936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 368
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c2e886b29a66870800000000000000
+      internalID: 8675807736078674964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_73
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 323
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b6fbde52e6ba210800000000000000
+      internalID: 1345290022881815432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_74
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 331
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c01a0c326e87c80800000000000000
+      internalID: -8324650869964338050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_75
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 321
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac491da368fb8f440800000000000000
+      internalID: 4969932772036678858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_76
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 305
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0607de84cae757ae0800000000000000
+      internalID: -1552195218136272800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_77
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 301
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8676c778d0fd11fc0800000000000000
+      internalID: -3525791784053741720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_78
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 290
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc2b3bbc5fb35040800000000000000
+      internalID: 4635258846493486331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_79
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 313
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b53c8f3ccd209630800000000000000
+      internalID: 3931692829957174709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_80
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 295
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbe11aa115591d90800000000000000
+      internalID: -7126571400980993063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_81
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 281
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0156495f3a81f12a0800000000000000
+      internalID: -6764661022808316656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_82
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 287
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b940b21a5e5f2a950800000000000000
+      internalID: 6458995182202979483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_83
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 292
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14d8b214083de470800000000000000
+      internalID: 8425452068025193501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_84
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 290
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a4f11fffa6814a0800000000000000
+      internalID: -6622425604553749982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_85
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 281
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c92e68f55f582a80800000000000000
+      internalID: -8491432274562242108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_86
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 281
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166575918e528ed60800000000000000
+      internalID: 7919621623518811745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_87
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 281
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac65fb37db65e7e0800000000000000
+      internalID: -1736863509113377621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_88
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 215
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea43e518eb4961750800000000000000
+      internalID: 6275366676722496686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_89
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 94
+        width: 185
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5b77d1d484a3eb0800000000000000
+      internalID: -4739396161809959467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 225
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0556b11283a61b00800000000000000
+      internalID: 799005762943079690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_91
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 224
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54a525f2ed0e6a20800000000000000
+      internalID: 3057396465457800287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_92
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 205
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba666a64cc0a91ca0800000000000000
+      internalID: -6045624225549097301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_93
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 220
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5916663995e4f4f0800000000000000
+      internalID: -795758787932317349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_94
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 157
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5c0ffce6748a040800000000000000
+      internalID: 4659052355775415729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_95
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 151
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ae175e56194edc0800000000000000
+      internalID: -3610601134417122748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_96
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 143
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b20fb699b1fba70800000000000000
+      internalID: 8844818538933791498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_97
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 202
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed5fcffb0d3b55a0800000000000000
+      internalID: -6531559712825057820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_98
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 97
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059cb2231352a94e0800000000000000
+      internalID: -1974224593423185584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_PhaseExplosion_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6941bcca2de7c80800000000000000
+      internalID: -8322983421750765877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P1_PhaseExplosion_0: 9024062597793974589
+      VFX_P1_PhaseExplosion_1: 285153580321460859
+      VFX_P1_PhaseExplosion_10: 1652377180381760403
+      VFX_P1_PhaseExplosion_11: -8723458634611128888
+      VFX_P1_PhaseExplosion_12: 2897810913869691705
+      VFX_P1_PhaseExplosion_13: 355562801225687940
+      VFX_P1_PhaseExplosion_14: 4392444421856292034
+      VFX_P1_PhaseExplosion_15: -8799636845533142981
+      VFX_P1_PhaseExplosion_16: 2601386532946515490
+      VFX_P1_PhaseExplosion_17: 6642346412072991294
+      VFX_P1_PhaseExplosion_18: 7784237766454004239
+      VFX_P1_PhaseExplosion_19: -7479713353101096493
+      VFX_P1_PhaseExplosion_2: 3521957458886397085
+      VFX_P1_PhaseExplosion_20: -5960536329561570671
+      VFX_P1_PhaseExplosion_21: -2445936890538327762
+      VFX_P1_PhaseExplosion_22: 4557153895906903804
+      VFX_P1_PhaseExplosion_23: 8052594915436016847
+      VFX_P1_PhaseExplosion_24: -6576918022413455193
+      VFX_P1_PhaseExplosion_25: -863085763913031699
+      VFX_P1_PhaseExplosion_26: -4239850911820262707
+      VFX_P1_PhaseExplosion_27: 3866469231447442598
+      VFX_P1_PhaseExplosion_28: 7922894865497423909
+      VFX_P1_PhaseExplosion_29: 3888782220791274819
+      VFX_P1_PhaseExplosion_3: -6117147750560134076
+      VFX_P1_PhaseExplosion_30: 6619349442249195724
+      VFX_P1_PhaseExplosion_31: 791353531336226693
+      VFX_P1_PhaseExplosion_32: -8899125450932768119
+      VFX_P1_PhaseExplosion_33: 8911554217564625130
+      VFX_P1_PhaseExplosion_34: -2567881752276146648
+      VFX_P1_PhaseExplosion_35: -551316634430133600
+      VFX_P1_PhaseExplosion_36: -9209752664711966159
+      VFX_P1_PhaseExplosion_37: -4337033998620202977
+      VFX_P1_PhaseExplosion_38: 4074831741429299805
+      VFX_P1_PhaseExplosion_39: 6355371468946170371
+      VFX_P1_PhaseExplosion_4: 2727769545198479429
+      VFX_P1_PhaseExplosion_40: 1621031170427175124
+      VFX_P1_PhaseExplosion_41: 6281187549289456965
+      VFX_P1_PhaseExplosion_42: 7015519777048584787
+      VFX_P1_PhaseExplosion_43: -2171749634523200886
+      VFX_P1_PhaseExplosion_44: 8335352237595959337
+      VFX_P1_PhaseExplosion_45: 6941110149145671648
+      VFX_P1_PhaseExplosion_46: 4105673732015868634
+      VFX_P1_PhaseExplosion_47: 6725015671891007112
+      VFX_P1_PhaseExplosion_48: 7498793097972492212
+      VFX_P1_PhaseExplosion_49: 3508911523982674276
+      VFX_P1_PhaseExplosion_5: -8852951798598464800
+      VFX_P1_PhaseExplosion_50: 4575642914929204345
+      VFX_P1_PhaseExplosion_51: -4356795930989746160
+      VFX_P1_PhaseExplosion_52: 4919775067799477437
+      VFX_P1_PhaseExplosion_53: -445907714428616921
+      VFX_P1_PhaseExplosion_54: 142304129306860153
+      VFX_P1_PhaseExplosion_55: 6234469027614004953
+      VFX_P1_PhaseExplosion_56: -1634900913236824620
+      VFX_P1_PhaseExplosion_57: -5481767361179253518
+      VFX_P1_PhaseExplosion_58: 7610885090077682922
+      VFX_P1_PhaseExplosion_59: -7698104667419651646
+      VFX_P1_PhaseExplosion_6: 7166931080112322023
+      VFX_P1_PhaseExplosion_60: 4215378626911790776
+      VFX_P1_PhaseExplosion_61: -1551325660945462368
+      VFX_P1_PhaseExplosion_62: -7184850959089733369
+      VFX_P1_PhaseExplosion_63: -2111088579779767542
+      VFX_P1_PhaseExplosion_64: -4777473907625788600
+      VFX_P1_PhaseExplosion_65: -227617509445716621
+      VFX_P1_PhaseExplosion_66: -4748288820361523702
+      VFX_P1_PhaseExplosion_67: 9172256224340115071
+      VFX_P1_PhaseExplosion_68: -2529836972230242265
+      VFX_P1_PhaseExplosion_69: -87638803686659666
+      VFX_P1_PhaseExplosion_7: 4072965048332585342
+      VFX_P1_PhaseExplosion_70: -5222598035291989090
+      VFX_P1_PhaseExplosion_71: 3174270297429303936
+      VFX_P1_PhaseExplosion_72: 8675807736078674964
+      VFX_P1_PhaseExplosion_73: 1345290022881815432
+      VFX_P1_PhaseExplosion_74: -8324650869964338050
+      VFX_P1_PhaseExplosion_75: 4969932772036678858
+      VFX_P1_PhaseExplosion_76: -1552195218136272800
+      VFX_P1_PhaseExplosion_77: -3525791784053741720
+      VFX_P1_PhaseExplosion_78: 4635258846493486331
+      VFX_P1_PhaseExplosion_79: 3931692829957174709
+      VFX_P1_PhaseExplosion_8: -63340689094091681
+      VFX_P1_PhaseExplosion_80: -7126571400980993063
+      VFX_P1_PhaseExplosion_81: -6764661022808316656
+      VFX_P1_PhaseExplosion_82: 6458995182202979483
+      VFX_P1_PhaseExplosion_83: 8425452068025193501
+      VFX_P1_PhaseExplosion_84: -6622425604553749982
+      VFX_P1_PhaseExplosion_85: -8491432274562242108
+      VFX_P1_PhaseExplosion_86: 7919621623518811745
+      VFX_P1_PhaseExplosion_87: -1736863509113377621
+      VFX_P1_PhaseExplosion_88: 6275366676722496686
+      VFX_P1_PhaseExplosion_89: -4739396161809959467
+      VFX_P1_PhaseExplosion_9: -1249235769750501648
+      VFX_P1_PhaseExplosion_90: 799005762943079690
+      VFX_P1_PhaseExplosion_91: 3057396465457800287
+      VFX_P1_PhaseExplosion_92: -6045624225549097301
+      VFX_P1_PhaseExplosion_93: -795758787932317349
+      VFX_P1_PhaseExplosion_94: 4659052355775415729
+      VFX_P1_PhaseExplosion_95: -3610601134417122748
+      VFX_P1_PhaseExplosion_96: 8844818538933791498
+      VFX_P1_PhaseExplosion_97: -6531559712825057820
+      VFX_P1_PhaseExplosion_98: -1974224593423185584
+      VFX_P1_PhaseExplosion_99: -8322983421750765877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2405 @@
+fileFormatVersion: 2
+guid: b015fd6fca1314a49a0cda84f25aee48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 28820894973880617
+    second: VFX_P1_HeavyShockwave_0
+  - first:
+      213: -852514451729409194
+    second: VFX_P1_HeavyShockwave_1
+  - first:
+      213: 6553976781043715235
+    second: VFX_P1_HeavyShockwave_2
+  - first:
+      213: -363950182817753522
+    second: VFX_P1_HeavyShockwave_3
+  - first:
+      213: -3491214078742233890
+    second: VFX_P1_HeavyShockwave_4
+  - first:
+      213: -3419855680374150084
+    second: VFX_P1_HeavyShockwave_5
+  - first:
+      213: -1129036793903912304
+    second: VFX_P1_HeavyShockwave_6
+  - first:
+      213: -1097148503471446407
+    second: VFX_P1_HeavyShockwave_7
+  - first:
+      213: -8829836735915655238
+    second: VFX_P1_HeavyShockwave_8
+  - first:
+      213: -1258346976062650040
+    second: VFX_P1_HeavyShockwave_9
+  - first:
+      213: -2014760971089501595
+    second: VFX_P1_HeavyShockwave_10
+  - first:
+      213: -341550604830867627
+    second: VFX_P1_HeavyShockwave_11
+  - first:
+      213: 8744184397193102801
+    second: VFX_P1_HeavyShockwave_12
+  - first:
+      213: 7620324483954637369
+    second: VFX_P1_HeavyShockwave_13
+  - first:
+      213: 5460558712092609115
+    second: VFX_P1_HeavyShockwave_14
+  - first:
+      213: 1753543410883631016
+    second: VFX_P1_HeavyShockwave_15
+  - first:
+      213: -1842651148092991413
+    second: VFX_P1_HeavyShockwave_16
+  - first:
+      213: -3484920591771757332
+    second: VFX_P1_HeavyShockwave_17
+  - first:
+      213: -1558706369107379159
+    second: VFX_P1_HeavyShockwave_18
+  - first:
+      213: 7509478425427558065
+    second: VFX_P1_HeavyShockwave_19
+  - first:
+      213: -9073494873826014781
+    second: VFX_P1_HeavyShockwave_20
+  - first:
+      213: -6755527561869616953
+    second: VFX_P1_HeavyShockwave_21
+  - first:
+      213: 2841882205077943494
+    second: VFX_P1_HeavyShockwave_22
+  - first:
+      213: 7898408474165006735
+    second: VFX_P1_HeavyShockwave_23
+  - first:
+      213: -6314586197585833766
+    second: VFX_P1_HeavyShockwave_24
+  - first:
+      213: -8755108140962952002
+    second: VFX_P1_HeavyShockwave_25
+  - first:
+      213: -619920200348380124
+    second: VFX_P1_HeavyShockwave_26
+  - first:
+      213: -3194478712144542981
+    second: VFX_P1_HeavyShockwave_27
+  - first:
+      213: -7234688953872051593
+    second: VFX_P1_HeavyShockwave_28
+  - first:
+      213: -3583913566220890643
+    second: VFX_P1_HeavyShockwave_29
+  - first:
+      213: 2983929548520533614
+    second: VFX_P1_HeavyShockwave_30
+  - first:
+      213: -3135773278550221032
+    second: VFX_P1_HeavyShockwave_31
+  - first:
+      213: -6628322052792244396
+    second: VFX_P1_HeavyShockwave_32
+  - first:
+      213: 4253766159723915022
+    second: VFX_P1_HeavyShockwave_33
+  - first:
+      213: 2297101979231558143
+    second: VFX_P1_HeavyShockwave_34
+  - first:
+      213: 3360443313570392725
+    second: VFX_P1_HeavyShockwave_35
+  - first:
+      213: -3615221862575300777
+    second: VFX_P1_HeavyShockwave_36
+  - first:
+      213: 7457650104751180115
+    second: VFX_P1_HeavyShockwave_37
+  - first:
+      213: 8611365418294856511
+    second: VFX_P1_HeavyShockwave_38
+  - first:
+      213: -5055798540867015174
+    second: VFX_P1_HeavyShockwave_39
+  - first:
+      213: 7514482963865632943
+    second: VFX_P1_HeavyShockwave_40
+  - first:
+      213: 8655097181692260237
+    second: VFX_P1_HeavyShockwave_41
+  - first:
+      213: 7868875450263715568
+    second: VFX_P1_HeavyShockwave_42
+  - first:
+      213: -5212945732403648490
+    second: VFX_P1_HeavyShockwave_43
+  - first:
+      213: -5758261599794375737
+    second: VFX_P1_HeavyShockwave_44
+  - first:
+      213: -2754517406875273902
+    second: VFX_P1_HeavyShockwave_45
+  - first:
+      213: 3553868811856907896
+    second: VFX_P1_HeavyShockwave_46
+  - first:
+      213: 2195376563677578508
+    second: VFX_P1_HeavyShockwave_47
+  - first:
+      213: 5438532795510834729
+    second: VFX_P1_HeavyShockwave_48
+  - first:
+      213: -5830706978180531354
+    second: VFX_P1_HeavyShockwave_49
+  - first:
+      213: 6604103350982340149
+    second: VFX_P1_HeavyShockwave_50
+  - first:
+      213: -8423070508952926914
+    second: VFX_P1_HeavyShockwave_51
+  - first:
+      213: -5075800224000780829
+    second: VFX_P1_HeavyShockwave_52
+  - first:
+      213: -548180829236107178
+    second: VFX_P1_HeavyShockwave_53
+  - first:
+      213: 6580125017230851685
+    second: VFX_P1_HeavyShockwave_54
+  - first:
+      213: 6333188900230686974
+    second: VFX_P1_HeavyShockwave_55
+  - first:
+      213: 7405905450470369174
+    second: VFX_P1_HeavyShockwave_56
+  - first:
+      213: 3992190936251922964
+    second: VFX_P1_HeavyShockwave_57
+  - first:
+      213: 3987323112899082496
+    second: VFX_P1_HeavyShockwave_58
+  - first:
+      213: -4091118266408653311
+    second: VFX_P1_HeavyShockwave_59
+  - first:
+      213: 2315115672152282050
+    second: VFX_P1_HeavyShockwave_60
+  - first:
+      213: -5329370691554952424
+    second: VFX_P1_HeavyShockwave_61
+  - first:
+      213: -2373871641284964290
+    second: VFX_P1_HeavyShockwave_62
+  - first:
+      213: -8635639396761199554
+    second: VFX_P1_HeavyShockwave_63
+  - first:
+      213: -3891420691723383708
+    second: VFX_P1_HeavyShockwave_64
+  - first:
+      213: 2354345215370106386
+    second: VFX_P1_HeavyShockwave_65
+  - first:
+      213: 2307137279079884771
+    second: VFX_P1_HeavyShockwave_66
+  - first:
+      213: -637128020055140965
+    second: VFX_P1_HeavyShockwave_67
+  - first:
+      213: 6533972924471897536
+    second: VFX_P1_HeavyShockwave_68
+  - first:
+      213: 6897367249416441485
+    second: VFX_P1_HeavyShockwave_69
+  - first:
+      213: -680476669505341614
+    second: VFX_P1_HeavyShockwave_70
+  - first:
+      213: -7993290319645539761
+    second: VFX_P1_HeavyShockwave_71
+  - first:
+      213: 61560814059670041
+    second: VFX_P1_HeavyShockwave_72
+  - first:
+      213: -7249608921456064350
+    second: VFX_P1_HeavyShockwave_73
+  - first:
+      213: 3017335983342607016
+    second: VFX_P1_HeavyShockwave_74
+  - first:
+      213: 2158554330507179689
+    second: VFX_P1_HeavyShockwave_75
+  - first:
+      213: 1675620544998801655
+    second: VFX_P1_HeavyShockwave_76
+  - first:
+      213: 8848139126812756774
+    second: VFX_P1_HeavyShockwave_77
+  - first:
+      213: -8985348876367440474
+    second: VFX_P1_HeavyShockwave_78
+  - first:
+      213: -6256642913291309094
+    second: VFX_P1_HeavyShockwave_79
+  - first:
+      213: 1288396768854873101
+    second: VFX_P1_HeavyShockwave_80
+  - first:
+      213: -7720844961565798969
+    second: VFX_P1_HeavyShockwave_81
+  - first:
+      213: 3109095002439083246
+    second: VFX_P1_HeavyShockwave_82
+  - first:
+      213: -2349335108464403110
+    second: VFX_P1_HeavyShockwave_83
+  - first:
+      213: -1555939008267738538
+    second: VFX_P1_HeavyShockwave_84
+  - first:
+      213: -4166558165852219172
+    second: VFX_P1_HeavyShockwave_85
+  - first:
+      213: 6264177951927555946
+    second: VFX_P1_HeavyShockwave_86
+  - first:
+      213: 8809488261699225163
+    second: VFX_P1_HeavyShockwave_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 719
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929e6078374666000800000000000000
+      internalID: 28820894973880617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 694
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b18ca7f924b24f0800000000000000
+      internalID: -852514451729409194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 726
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc44c682764fa50800000000000000
+      internalID: 6553976781043715235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 722
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46953dac3df2faf0800000000000000
+      internalID: -363950182817753522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 726
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcf9b9ea47bc8fc0800000000000000
+      internalID: -3491214078742233890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 712
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c623cb06b3a80d0800000000000000
+      internalID: -3419855680374150084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 718
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ae201940bd450f0800000000000000
+      internalID: -1129036793903912304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 542
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976abb0cf3526c0f0800000000000000
+      internalID: -1097148503471446407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 713
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf7d0b654e167580800000000000000
+      internalID: -8829836735915655238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 718
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849499f9714798ee0800000000000000
+      internalID: -1258346976062650040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 683
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562a3ea42912a04e0800000000000000
+      internalID: -2014760971089501595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 704
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f7c36d881924bf0800000000000000
+      internalID: -341550604830867627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_12
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 694
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5453d6165995970800000000000000
+      internalID: 8744184397193102801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_13
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 710
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93af3537eb4d0c960800000000000000
+      internalID: 7620324483954637369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 672
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ac175a73dc7cb40800000000000000
+      internalID: 5460558712092609115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_15
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 690
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a712f70176d55810800000000000000
+      internalID: 1753543410883631016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 695
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4893f82b869d66e0800000000000000
+      internalID: -1842651148092991413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_17
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 681
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce410098f2313afc0800000000000000
+      internalID: -3484920591771757332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 681
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c3730d0dc5e5ae0800000000000000
+      internalID: -1558706369107379159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 680
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beb11c47d6073860800000000000000
+      internalID: 7509478425427558065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 663
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9c5465c78741280800000000000000
+      internalID: -9073494873826014781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_21
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 680
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8966c897b8f32a0800000000000000
+      internalID: -6755527561869616953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_22
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 672
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4bc2ffec4607720800000000000000
+      internalID: 2841882205077943494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_23
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 669
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f815a81e8a8cc9d60800000000000000
+      internalID: 7898408474165006735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 548
+        width: 207
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0df453f451e58a0800000000000000
+      internalID: -6314586197585833766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_25
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 668
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcc5c7488b9f7680800000000000000
+      internalID: -8755108140962952002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 648
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424552dbcd99567f0800000000000000
+      internalID: -619920200348380124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_27
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 552
+        width: 207
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2c310598eeaa3d0800000000000000
+      internalID: -3194478712144542981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 610
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772930c3ab8399b90800000000000000
+      internalID: -7234688953872051593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 406
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded43b39991634ec0800000000000000
+      internalID: -3583913566220890643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 439
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eab566d1c096920800000000000000
+      internalID: 2983929548520533614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 414
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f1ad331de7b74d0800000000000000
+      internalID: -3135773278550221032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 470
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4572e6a16387304a0800000000000000
+      internalID: -6628322052792244396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 469
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07ebebe8c9680b30800000000000000
+      internalID: 4253766159723915022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 431
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff991fc5412f0ef10800000000000000
+      internalID: 2297101979231558143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 424
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a2339a361b2ae20800000000000000
+      internalID: 3360443313570392725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_36
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 415
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f19f8ced624ddc0800000000000000
+      internalID: -3615221862575300777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 434
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35949d80245ee7760800000000000000
+      internalID: 7457650104751180115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 304
+        width: 207
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b4c841937b18770800000000000000
+      internalID: 8611365418294856511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 422
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdeeab830236d9b0800000000000000
+      internalID: -5055798540867015174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_40
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 416
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa08fe3317ec84860800000000000000
+      internalID: 7514482963865632943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 302
+        width: 207
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f6043b7051d1870800000000000000
+      internalID: 8655097181692260237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 402
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feb2cae78cd33d60800000000000000
+      internalID: 7868875450263715568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 302
+        width: 207
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61821bac975e7a7b0800000000000000
+      internalID: -5212945732403648490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_44
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 392
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3db74659b8610b0800000000000000
+      internalID: -5758261599794375737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255b193330df5c9d0800000000000000
+      internalID: -2754517406875273902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 175
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e021dead0e15130800000000000000
+      internalID: 3553868811856907896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_47
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 208
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0548326a5b877e10800000000000000
+      internalID: 2195376563677578508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_48
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 154
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9264cbf43cc897b40800000000000000
+      internalID: 5438532795510834729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 190
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b782055ea251fa0800000000000000
+      internalID: -5830706978180531354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_50
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 200
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee447f10d76ab50800000000000000
+      internalID: 6604103350982340149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_51
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 203
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35cacbdffd3b1b80800000000000000
+      internalID: -8423070508952926914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 151
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5d599c6922f89b0800000000000000
+      internalID: -5075800224000780829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 175
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658e3b0b0787468f0800000000000000
+      internalID: -548180829236107178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 189
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eb4b517dc415b50800000000000000
+      internalID: 6580125017230851685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_55
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 182
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef862b500c104e750800000000000000
+      internalID: 6333188900230686974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 132
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6976a6fd4cf07c660800000000000000
+      internalID: 7405905450470369174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_57
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 145
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a74d6418c176730800000000000000
+      internalID: 3992190936251922964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_58
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 100
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009fd05de31d55730800000000000000
+      internalID: 3987323112899082496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_59
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 30
+        width: 163
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ea994cc9d6937c0800000000000000
+      internalID: -4091118266408653311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_60
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 138
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c393941071f02020800000000000000
+      internalID: 2315115672152282050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_61
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 138
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b3d7d97954a06b0800000000000000
+      internalID: -5329370691554952424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_62
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 171
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3016dec1505e0fd0800000000000000
+      internalID: -2373871641284964290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_63
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 140
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c1ea3e8bb082880800000000000000
+      internalID: -8635639396761199554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_64
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 143
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c093e9f75eef9c0800000000000000
+      internalID: -3891420691723383708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 151
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21696c0ef705ca020800000000000000
+      internalID: 2354345215370106386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_66
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 142
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e72e9fa129940020800000000000000
+      internalID: 2307137279079884771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 168
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b955a2001777827f0800000000000000
+      internalID: -637128020055140965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_68
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 159
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdea2f91c55daa50800000000000000
+      internalID: 6533972924471897536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_69
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 139
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e41e238fe58bf50800000000000000
+      internalID: 6897367249416441485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_70
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 171
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257713c03167e86f0800000000000000
+      internalID: -680476669505341614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_71
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 143
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4285f6fdc0221190800000000000000
+      internalID: -7993290319645539761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_72
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 51
+        width: 189
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a4c16fb35bad000800000000000000
+      internalID: 61560814059670041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_73
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 128
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8cb149817346b90800000000000000
+      internalID: -7249608921456064350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_74
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aad32f171bbfd920800000000000000
+      internalID: 3017335983342607016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_75
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 127
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6f2422ab9b4fd10800000000000000
+      internalID: 2158554330507179689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_76
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 111
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f000030200014710800000000000000
+      internalID: 1675620544998801655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_77
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 130
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bc8e808a7eaca70800000000000000
+      internalID: 8848139126812756774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_78
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 97
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5d929adc0ad4380800000000000000
+      internalID: -8985348876367440474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_79
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 62
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf6ec26b60fb29a0800000000000000
+      internalID: -6256642913291309094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_80
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 74
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d041b59f80e41e110800000000000000
+      internalID: 1288396768854873101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 53
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd810c0a6c0ad490800000000000000
+      internalID: -7720844961565798969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_82
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 62
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4e2599e69b52b20800000000000000
+      internalID: 3109095002439083246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_83
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 54
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d10a98a2c756fd0800000000000000
+      internalID: -2349335108464403110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_84
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 55
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652270837b1386ae0800000000000000
+      internalID: -1555939008267738538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_85
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 56
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8106c6c696d26c0800000000000000
+      internalID: -4166558165852219172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_86
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 40
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67d97288a4dee650800000000000000
+      internalID: 6264177951927555946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_HeavyShockwave_87
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 36
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b464e8b36e6914a70800000000000000
+      internalID: 8809488261699225163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P1_HeavyShockwave_0: 28820894973880617
+      VFX_P1_HeavyShockwave_1: -852514451729409194
+      VFX_P1_HeavyShockwave_10: -2014760971089501595
+      VFX_P1_HeavyShockwave_11: -341550604830867627
+      VFX_P1_HeavyShockwave_12: 8744184397193102801
+      VFX_P1_HeavyShockwave_13: 7620324483954637369
+      VFX_P1_HeavyShockwave_14: 5460558712092609115
+      VFX_P1_HeavyShockwave_15: 1753543410883631016
+      VFX_P1_HeavyShockwave_16: -1842651148092991413
+      VFX_P1_HeavyShockwave_17: -3484920591771757332
+      VFX_P1_HeavyShockwave_18: -1558706369107379159
+      VFX_P1_HeavyShockwave_19: 7509478425427558065
+      VFX_P1_HeavyShockwave_2: 6553976781043715235
+      VFX_P1_HeavyShockwave_20: -9073494873826014781
+      VFX_P1_HeavyShockwave_21: -6755527561869616953
+      VFX_P1_HeavyShockwave_22: 2841882205077943494
+      VFX_P1_HeavyShockwave_23: 7898408474165006735
+      VFX_P1_HeavyShockwave_24: -6314586197585833766
+      VFX_P1_HeavyShockwave_25: -8755108140962952002
+      VFX_P1_HeavyShockwave_26: -619920200348380124
+      VFX_P1_HeavyShockwave_27: -3194478712144542981
+      VFX_P1_HeavyShockwave_28: -7234688953872051593
+      VFX_P1_HeavyShockwave_29: -3583913566220890643
+      VFX_P1_HeavyShockwave_3: -363950182817753522
+      VFX_P1_HeavyShockwave_30: 2983929548520533614
+      VFX_P1_HeavyShockwave_31: -3135773278550221032
+      VFX_P1_HeavyShockwave_32: -6628322052792244396
+      VFX_P1_HeavyShockwave_33: 4253766159723915022
+      VFX_P1_HeavyShockwave_34: 2297101979231558143
+      VFX_P1_HeavyShockwave_35: 3360443313570392725
+      VFX_P1_HeavyShockwave_36: -3615221862575300777
+      VFX_P1_HeavyShockwave_37: 7457650104751180115
+      VFX_P1_HeavyShockwave_38: 8611365418294856511
+      VFX_P1_HeavyShockwave_39: -5055798540867015174
+      VFX_P1_HeavyShockwave_4: -3491214078742233890
+      VFX_P1_HeavyShockwave_40: 7514482963865632943
+      VFX_P1_HeavyShockwave_41: 8655097181692260237
+      VFX_P1_HeavyShockwave_42: 7868875450263715568
+      VFX_P1_HeavyShockwave_43: -5212945732403648490
+      VFX_P1_HeavyShockwave_44: -5758261599794375737
+      VFX_P1_HeavyShockwave_45: -2754517406875273902
+      VFX_P1_HeavyShockwave_46: 3553868811856907896
+      VFX_P1_HeavyShockwave_47: 2195376563677578508
+      VFX_P1_HeavyShockwave_48: 5438532795510834729
+      VFX_P1_HeavyShockwave_49: -5830706978180531354
+      VFX_P1_HeavyShockwave_5: -3419855680374150084
+      VFX_P1_HeavyShockwave_50: 6604103350982340149
+      VFX_P1_HeavyShockwave_51: -8423070508952926914
+      VFX_P1_HeavyShockwave_52: -5075800224000780829
+      VFX_P1_HeavyShockwave_53: -548180829236107178
+      VFX_P1_HeavyShockwave_54: 6580125017230851685
+      VFX_P1_HeavyShockwave_55: 6333188900230686974
+      VFX_P1_HeavyShockwave_56: 7405905450470369174
+      VFX_P1_HeavyShockwave_57: 3992190936251922964
+      VFX_P1_HeavyShockwave_58: 3987323112899082496
+      VFX_P1_HeavyShockwave_59: -4091118266408653311
+      VFX_P1_HeavyShockwave_6: -1129036793903912304
+      VFX_P1_HeavyShockwave_60: 2315115672152282050
+      VFX_P1_HeavyShockwave_61: -5329370691554952424
+      VFX_P1_HeavyShockwave_62: -2373871641284964290
+      VFX_P1_HeavyShockwave_63: -8635639396761199554
+      VFX_P1_HeavyShockwave_64: -3891420691723383708
+      VFX_P1_HeavyShockwave_65: 2354345215370106386
+      VFX_P1_HeavyShockwave_66: 2307137279079884771
+      VFX_P1_HeavyShockwave_67: -637128020055140965
+      VFX_P1_HeavyShockwave_68: 6533972924471897536
+      VFX_P1_HeavyShockwave_69: 6897367249416441485
+      VFX_P1_HeavyShockwave_7: -1097148503471446407
+      VFX_P1_HeavyShockwave_70: -680476669505341614
+      VFX_P1_HeavyShockwave_71: -7993290319645539761
+      VFX_P1_HeavyShockwave_72: 61560814059670041
+      VFX_P1_HeavyShockwave_73: -7249608921456064350
+      VFX_P1_HeavyShockwave_74: 3017335983342607016
+      VFX_P1_HeavyShockwave_75: 2158554330507179689
+      VFX_P1_HeavyShockwave_76: 1675620544998801655
+      VFX_P1_HeavyShockwave_77: 8848139126812756774
+      VFX_P1_HeavyShockwave_78: -8985348876367440474
+      VFX_P1_HeavyShockwave_79: -6256642913291309094
+      VFX_P1_HeavyShockwave_8: -8829836735915655238
+      VFX_P1_HeavyShockwave_80: 1288396768854873101
+      VFX_P1_HeavyShockwave_81: -7720844961565798969
+      VFX_P1_HeavyShockwave_82: 3109095002439083246
+      VFX_P1_HeavyShockwave_83: -2349335108464403110
+      VFX_P1_HeavyShockwave_84: -1555939008267738538
+      VFX_P1_HeavyShockwave_85: -4166558165852219172
+      VFX_P1_HeavyShockwave_86: 6264177951927555946
+      VFX_P1_HeavyShockwave_87: 8809488261699225163
+      VFX_P1_HeavyShockwave_9: -1258346976062650040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

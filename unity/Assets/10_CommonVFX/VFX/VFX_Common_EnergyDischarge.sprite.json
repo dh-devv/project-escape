@@ -1,0 +1,74 @@
+{
+  "name": "VFX_Common_EnergyDischarge",
+  "sourcePage": 13,
+  "frameCount": 10,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 4,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1312,
+    1199
+  ],
+  "sourceScale": 0.4682926829268293,
+  "sourceOffset": [
+    25,
+    58
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "cce034bb9c8c9e7028a780b173e5150312960b320d46d4cf87df6544e5f41520",
+  "spriteSha256": "a622ef284d2aa27c76d615458498a5aba883ae8ee3d06e740b5cfae2a97b72e0"
+}

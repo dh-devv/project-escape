@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: 0719bb637a681494580c09f8f76a625d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5825454831737502702
+    second: HealingItem_PickupEffect_0
+  - first:
+      213: -6455064021630616425
+    second: HealingItem_PickupEffect_1
+  - first:
+      213: -5193962536684264718
+    second: HealingItem_PickupEffect_2
+  - first:
+      213: -7082008189371438167
+    second: HealingItem_PickupEffect_3
+  - first:
+      213: -3551206286593349352
+    second: HealingItem_PickupEffect_4
+  - first:
+      213: -7004103839776312439
+    second: HealingItem_PickupEffect_5
+  - first:
+      213: 3495587100632845594
+    second: HealingItem_PickupEffect_6
+  - first:
+      213: 2140522907721546219
+    second: HealingItem_PickupEffect_7
+  - first:
+      213: 9152284112405700339
+    second: HealingItem_PickupEffect_8
+  - first:
+      213: -8133330137326126031
+    second: HealingItem_PickupEffect_9
+  - first:
+      213: -757474697259046144
+    second: HealingItem_PickupEffect_10
+  - first:
+      213: -3491034842016056327
+    second: HealingItem_PickupEffect_11
+  - first:
+      213: -631139825759873630
+    second: HealingItem_PickupEffect_12
+  - first:
+      213: -8234784746528207228
+    second: HealingItem_PickupEffect_13
+  - first:
+      213: -9110531135139734605
+    second: HealingItem_PickupEffect_14
+  - first:
+      213: -4413986653683851454
+    second: HealingItem_PickupEffect_15
+  - first:
+      213: -5331465841348450292
+    second: HealingItem_PickupEffect_16
+  - first:
+      213: 8222626809766973188
+    second: HealingItem_PickupEffect_17
+  - first:
+      213: 1806696327865677592
+    second: HealingItem_PickupEffect_18
+  - first:
+      213: -7672117962508312967
+    second: HealingItem_PickupEffect_19
+  - first:
+      213: -4155521078438887146
+    second: HealingItem_PickupEffect_20
+  - first:
+      213: 8337928351931265526
+    second: HealingItem_PickupEffect_21
+  - first:
+      213: -5660104457091597937
+    second: HealingItem_PickupEffect_22
+  - first:
+      213: -4833408381447635995
+    second: HealingItem_PickupEffect_23
+  - first:
+      213: 1935372247588943773
+    second: HealingItem_PickupEffect_24
+  - first:
+      213: 2695771536834756739
+    second: HealingItem_PickupEffect_25
+  - first:
+      213: -3451476333025376471
+    second: HealingItem_PickupEffect_26
+  - first:
+      213: -7899850031636257456
+    second: HealingItem_PickupEffect_27
+  - first:
+      213: 2728788949808384151
+    second: HealingItem_PickupEffect_28
+  - first:
+      213: -3259316467756605143
+    second: HealingItem_PickupEffect_29
+  - first:
+      213: 7362639201021301142
+    second: HealingItem_PickupEffect_30
+  - first:
+      213: 2912850931991828661
+    second: HealingItem_PickupEffect_31
+  - first:
+      213: -2421043565651875933
+    second: HealingItem_PickupEffect_32
+  - first:
+      213: 9062722705596032035
+    second: HealingItem_PickupEffect_33
+  - first:
+      213: -1695912384619282672
+    second: HealingItem_PickupEffect_34
+  - first:
+      213: 6802620295968550064
+    second: HealingItem_PickupEffect_35
+  - first:
+      213: -7318369297419769272
+    second: HealingItem_PickupEffect_36
+  - first:
+      213: 2239168217665718448
+    second: HealingItem_PickupEffect_37
+  - first:
+      213: -7313240242287926923
+    second: HealingItem_PickupEffect_38
+  - first:
+      213: -5279786637251729209
+    second: HealingItem_PickupEffect_39
+  - first:
+      213: 386344828690213817
+    second: HealingItem_PickupEffect_40
+  - first:
+      213: 8863661146071611699
+    second: HealingItem_PickupEffect_41
+  - first:
+      213: 1973959014452498973
+    second: HealingItem_PickupEffect_42
+  - first:
+      213: -6133587160208028949
+    second: HealingItem_PickupEffect_43
+  - first:
+      213: 2159726251078039156
+    second: HealingItem_PickupEffect_44
+  - first:
+      213: -6837386343544463947
+    second: HealingItem_PickupEffect_45
+  - first:
+      213: -7704591537878761416
+    second: HealingItem_PickupEffect_46
+  - first:
+      213: 611507212488110111
+    second: HealingItem_PickupEffect_47
+  - first:
+      213: -2136394307848712315
+    second: HealingItem_PickupEffect_48
+  - first:
+      213: -9093236692548559034
+    second: HealingItem_PickupEffect_49
+  - first:
+      213: 7300299179317800219
+    second: HealingItem_PickupEffect_50
+  - first:
+      213: -2583064457975089980
+    second: HealingItem_PickupEffect_51
+  - first:
+      213: 4696235230271056925
+    second: HealingItem_PickupEffect_52
+  - first:
+      213: -4526837798756070678
+    second: HealingItem_PickupEffect_53
+  - first:
+      213: 1983584730814568893
+    second: HealingItem_PickupEffect_54
+  - first:
+      213: 4437985076652018546
+    second: HealingItem_PickupEffect_55
+  - first:
+      213: -67909015333612124
+    second: HealingItem_PickupEffect_56
+  - first:
+      213: 2211121133945984418
+    second: HealingItem_PickupEffect_57
+  - first:
+      213: 8075854665733190045
+    second: HealingItem_PickupEffect_58
+  - first:
+      213: 5891446203152493753
+    second: HealingItem_PickupEffect_59
+  - first:
+      213: -7547014257240689854
+    second: HealingItem_PickupEffect_60
+  - first:
+      213: -6424398702935324166
+    second: HealingItem_PickupEffect_61
+  - first:
+      213: 7979555771322222553
+    second: HealingItem_PickupEffect_62
+  - first:
+      213: -3780395817807159465
+    second: HealingItem_PickupEffect_63
+  - first:
+      213: -4330565431498282101
+    second: HealingItem_PickupEffect_64
+  - first:
+      213: -2699356250519834861
+    second: HealingItem_PickupEffect_65
+  - first:
+      213: 8093296894937324682
+    second: HealingItem_PickupEffect_66
+  - first:
+      213: -1070718990566206604
+    second: HealingItem_PickupEffect_67
+  - first:
+      213: -1365018884550329411
+    second: HealingItem_PickupEffect_68
+  - first:
+      213: -4528578165844115605
+    second: HealingItem_PickupEffect_69
+  - first:
+      213: -9006076746189042628
+    second: HealingItem_PickupEffect_70
+  - first:
+      213: -2438799379452030674
+    second: HealingItem_PickupEffect_71
+  - first:
+      213: 5106866542906820693
+    second: HealingItem_PickupEffect_72
+  - first:
+      213: -7989051390625311201
+    second: HealingItem_PickupEffect_73
+  - first:
+      213: 1839424319701568940
+    second: HealingItem_PickupEffect_74
+  - first:
+      213: 3677195118771052227
+    second: HealingItem_PickupEffect_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 425
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebfbcc0e4c28d050800000000000000
+      internalID: 5825454831737502702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 432
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c7d4409710b66a0800000000000000
+      internalID: -6455064021630616425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 283
+        width: 206
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f26f3877965be7b0800000000000000
+      internalID: -5193962536684264718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 467
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abab18e217a7bd90800000000000000
+      internalID: -7082008189371438167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 468
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819287b82b497bec0800000000000000
+      internalID: -3551206286593349352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 393
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983fe24caac6cce90800000000000000
+      internalID: -7004103839776312439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 465
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d88a692f1d28030800000000000000
+      internalID: 3495587100632845594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 283
+        width: 201
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9345c5e3aa4bd10800000000000000
+      internalID: 2140522907721546219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 420
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe946bc8e1730f70800000000000000
+      internalID: 9152284112405700339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_9
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 454
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c72b3155b902f80800000000000000
+      internalID: -8133330137326126031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_10
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 456
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b278fa6c8ec75f0800000000000000
+      internalID: -757474697259046144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 444
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbfe17be4a5d8fc0800000000000000
+      internalID: -3491034842016056327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 431
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a51bf12cadbd37f0800000000000000
+      internalID: -631139825759873630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 424
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e816d17ea28bd80800000000000000
+      internalID: -8234784746528207228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 424
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb1cd6c334e09180800000000000000
+      internalID: -9110531135139734605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 435
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fdbd7568e5eb2c0800000000000000
+      internalID: -4413986653683851454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 282
+        width: 159
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08eb4a8014d206b0800000000000000
+      internalID: -5331465841348450292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 371
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f83c4a483ac1270800000000000000
+      internalID: 8222626809766973188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 416
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817bf67ecbca21910800000000000000
+      internalID: 1806696327865677592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 412
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e5cc99c59278590800000000000000
+      internalID: -7672117962508312967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 404
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6118007989f9456c0800000000000000
+      internalID: -4155521078438887146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 360
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1758be8a546b370800000000000000
+      internalID: 8337928351931265526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_22
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 411
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89337b1cf44371b0800000000000000
+      internalID: -5660104457091597937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 392
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebfa618fa84cecb0800000000000000
+      internalID: -4833408381447635995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 329
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9730bd1ec2dbda10800000000000000
+      internalID: 1935372247588943773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 377
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38005a01eed496520800000000000000
+      internalID: 2695771536834756739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927ca53df84e910d0800000000000000
+      internalID: -3451476333025376471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 347
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055667d50481e5290800000000000000
+      internalID: -7899850031636257456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 31
+        width: 206
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7980754971b9ed520800000000000000
+      internalID: 2728788949808384151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 209
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92169c0f0f494c2d0800000000000000
+      internalID: -3259316467756605143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 200
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6919d3a28595d2660800000000000000
+      internalID: 7362639201021301142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 208
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8d90d5d768c6820800000000000000
+      internalID: 2912850931991828661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 181
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7239b44b9b66ed0800000000000000
+      internalID: -2421043565651875933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 39
+        width: 137
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3242becc84245cd70800000000000000
+      internalID: 9062722705596032035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_34
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 216
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ff498eba8e678e0800000000000000
+      internalID: -1695912384619282672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 191
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc611b0e13c76e50800000000000000
+      internalID: 6802620295968550064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_36
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 213
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a6b2cf5edef6a90800000000000000
+      internalID: -7318369297419769272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 88
+        width: 32
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b84f4e51af131f10800000000000000
+      internalID: 2239168217665718448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_38
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 162
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57126513fb6228a90800000000000000
+      internalID: -7313240242287926923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 177
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a1c4e60e6ab6b0800000000000000
+      internalID: -5279786637251729209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_40
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 104
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bba3e223929c5500800000000000000
+      internalID: 386344828690213817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 161
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339b705c9dc020b70800000000000000
+      internalID: 8863661146071611699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_42
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 137
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d121f91e349e46b10800000000000000
+      internalID: 1973959014452498973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_43
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 168
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea47e499fe11eaa0800000000000000
+      internalID: -6133587160208028949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_44
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 140
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476b7972593e8fd10800000000000000
+      internalID: 2159726251078039156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_45
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bddce8b859bc11a0800000000000000
+      internalID: -6837386343544463947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_46
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 152
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830814521dac31590800000000000000
+      internalID: -7704591537878761416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_47
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 25
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1071f1e1928c7800800000000000000
+      internalID: 611507212488110111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_48
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 162
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fc28432b00a52e0800000000000000
+      internalID: -2136394307848712315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_49
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 160
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f581af7655ec180800000000000000
+      internalID: -9093236692548559034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_50
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 140
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d2059cc6fdf4560800000000000000
+      internalID: 7300299179317800219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_51
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 135
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c43576af8c172cd0800000000000000
+      internalID: -2583064457975089980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_52
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 128
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c2bf96f016c2140800000000000000
+      internalID: 4696235230271056925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_53
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 185
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea455991017d21c0800000000000000
+      internalID: -4526837798756070678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_54
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 150
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9571e9dcb178b10800000000000000
+      internalID: 1983584730814568893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b045ce9e3e69d30800000000000000
+      internalID: 4437985076652018546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_56
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 81
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a55eff3c1dbe0ff0800000000000000
+      internalID: -67909015333612124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_57
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 79
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a59530d4fa7fae10800000000000000
+      internalID: 2211121133945984418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_58
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 71
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9135b0e703331070800000000000000
+      internalID: 8075854665733190045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_59
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 92
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc6a388b1f92c150800000000000000
+      internalID: 5891446203152493753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 35
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2433c52d48e934790800000000000000
+      internalID: -7547014257240689854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_61
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 59
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af94f08ea63f7d6a0800000000000000
+      internalID: -6424398702935324166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_62
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 55
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7441f42b31dbe60800000000000000
+      internalID: 7979555771322222553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_63
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 70
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f5b397806598bc0800000000000000
+      internalID: -3780395817807159465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_64
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 44
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b65f23fadb6e3c0800000000000000
+      internalID: -4330565431498282101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_65
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe88dbac5f98ad0800000000000000
+      internalID: -2699356250519834861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_66
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 37
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd28455aa215070800000000000000
+      internalID: 8093296894937324682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473590140ca0421f0800000000000000
+      internalID: -1070718990566206604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb7da28e8a7e0de0800000000000000
+      internalID: -1365018884550329411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_69
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f754fc6224721c0800000000000000
+      internalID: -4528578165844115605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_70
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 30
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c0f736aecf30380800000000000000
+      internalID: -9006076746189042628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_71
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 39
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21915db2e4a72ed0800000000000000
+      internalID: -2438799379452030674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_72
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558c94d301c3fd640800000000000000
+      internalID: 5106866542906820693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_73
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1610798610312190800000000000000
+      internalID: -7989051390625311201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_74
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 28
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadc60f4ca2f68910800000000000000
+      internalID: 1839424319701568940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealingItem_PickupEffect_75
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce16285a75080330800000000000000
+      internalID: 3677195118771052227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HealingItem_PickupEffect_0: 5825454831737502702
+      HealingItem_PickupEffect_1: -6455064021630616425
+      HealingItem_PickupEffect_10: -757474697259046144
+      HealingItem_PickupEffect_11: -3491034842016056327
+      HealingItem_PickupEffect_12: -631139825759873630
+      HealingItem_PickupEffect_13: -8234784746528207228
+      HealingItem_PickupEffect_14: -9110531135139734605
+      HealingItem_PickupEffect_15: -4413986653683851454
+      HealingItem_PickupEffect_16: -5331465841348450292
+      HealingItem_PickupEffect_17: 8222626809766973188
+      HealingItem_PickupEffect_18: 1806696327865677592
+      HealingItem_PickupEffect_19: -7672117962508312967
+      HealingItem_PickupEffect_2: -5193962536684264718
+      HealingItem_PickupEffect_20: -4155521078438887146
+      HealingItem_PickupEffect_21: 8337928351931265526
+      HealingItem_PickupEffect_22: -5660104457091597937
+      HealingItem_PickupEffect_23: -4833408381447635995
+      HealingItem_PickupEffect_24: 1935372247588943773
+      HealingItem_PickupEffect_25: 2695771536834756739
+      HealingItem_PickupEffect_26: -3451476333025376471
+      HealingItem_PickupEffect_27: -7899850031636257456
+      HealingItem_PickupEffect_28: 2728788949808384151
+      HealingItem_PickupEffect_29: -3259316467756605143
+      HealingItem_PickupEffect_3: -7082008189371438167
+      HealingItem_PickupEffect_30: 7362639201021301142
+      HealingItem_PickupEffect_31: 2912850931991828661
+      HealingItem_PickupEffect_32: -2421043565651875933
+      HealingItem_PickupEffect_33: 9062722705596032035
+      HealingItem_PickupEffect_34: -1695912384619282672
+      HealingItem_PickupEffect_35: 6802620295968550064
+      HealingItem_PickupEffect_36: -7318369297419769272
+      HealingItem_PickupEffect_37: 2239168217665718448
+      HealingItem_PickupEffect_38: -7313240242287926923
+      HealingItem_PickupEffect_39: -5279786637251729209
+      HealingItem_PickupEffect_4: -3551206286593349352
+      HealingItem_PickupEffect_40: 386344828690213817
+      HealingItem_PickupEffect_41: 8863661146071611699
+      HealingItem_PickupEffect_42: 1973959014452498973
+      HealingItem_PickupEffect_43: -6133587160208028949
+      HealingItem_PickupEffect_44: 2159726251078039156
+      HealingItem_PickupEffect_45: -6837386343544463947
+      HealingItem_PickupEffect_46: -7704591537878761416
+      HealingItem_PickupEffect_47: 611507212488110111
+      HealingItem_PickupEffect_48: -2136394307848712315
+      HealingItem_PickupEffect_49: -9093236692548559034
+      HealingItem_PickupEffect_5: -7004103839776312439
+      HealingItem_PickupEffect_50: 7300299179317800219
+      HealingItem_PickupEffect_51: -2583064457975089980
+      HealingItem_PickupEffect_52: 4696235230271056925
+      HealingItem_PickupEffect_53: -4526837798756070678
+      HealingItem_PickupEffect_54: 1983584730814568893
+      HealingItem_PickupEffect_55: 4437985076652018546
+      HealingItem_PickupEffect_56: -67909015333612124
+      HealingItem_PickupEffect_57: 2211121133945984418
+      HealingItem_PickupEffect_58: 8075854665733190045
+      HealingItem_PickupEffect_59: 5891446203152493753
+      HealingItem_PickupEffect_6: 3495587100632845594
+      HealingItem_PickupEffect_60: -7547014257240689854
+      HealingItem_PickupEffect_61: -6424398702935324166
+      HealingItem_PickupEffect_62: 7979555771322222553
+      HealingItem_PickupEffect_63: -3780395817807159465
+      HealingItem_PickupEffect_64: -4330565431498282101
+      HealingItem_PickupEffect_65: -2699356250519834861
+      HealingItem_PickupEffect_66: 8093296894937324682
+      HealingItem_PickupEffect_67: -1070718990566206604
+      HealingItem_PickupEffect_68: -1365018884550329411
+      HealingItem_PickupEffect_69: -4528578165844115605
+      HealingItem_PickupEffect_7: 2140522907721546219
+      HealingItem_PickupEffect_70: -9006076746189042628
+      HealingItem_PickupEffect_71: -2438799379452030674
+      HealingItem_PickupEffect_72: 5106866542906820693
+      HealingItem_PickupEffect_73: -7989051390625311201
+      HealingItem_PickupEffect_74: 1839424319701568940
+      HealingItem_PickupEffect_75: 3677195118771052227
+      HealingItem_PickupEffect_8: 9152284112405700339
+      HealingItem_PickupEffect_9: -8133330137326126031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5109 @@
+fileFormatVersion: 2
+guid: 74b400af6ffebde4489cc928f08c8deb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6077094252598683182
+    second: VFX_P3_LimitBreakCharge_0
+  - first:
+      213: 4686234370547735801
+    second: VFX_P3_LimitBreakCharge_1
+  - first:
+      213: -1796164953354085169
+    second: VFX_P3_LimitBreakCharge_2
+  - first:
+      213: -8429755533136374718
+    second: VFX_P3_LimitBreakCharge_3
+  - first:
+      213: -3233020047990438738
+    second: VFX_P3_LimitBreakCharge_4
+  - first:
+      213: 1018135182379674610
+    second: VFX_P3_LimitBreakCharge_5
+  - first:
+      213: -1824542921756798428
+    second: VFX_P3_LimitBreakCharge_6
+  - first:
+      213: -3622642381709239879
+    second: VFX_P3_LimitBreakCharge_7
+  - first:
+      213: 2454925506340430161
+    second: VFX_P3_LimitBreakCharge_8
+  - first:
+      213: 7486766964791264702
+    second: VFX_P3_LimitBreakCharge_9
+  - first:
+      213: -1715698350899934866
+    second: VFX_P3_LimitBreakCharge_10
+  - first:
+      213: -5030188210683315379
+    second: VFX_P3_LimitBreakCharge_11
+  - first:
+      213: 5658407020046131036
+    second: VFX_P3_LimitBreakCharge_12
+  - first:
+      213: 5390954878141703890
+    second: VFX_P3_LimitBreakCharge_13
+  - first:
+      213: 9211685450630153229
+    second: VFX_P3_LimitBreakCharge_14
+  - first:
+      213: 3381246058066594182
+    second: VFX_P3_LimitBreakCharge_15
+  - first:
+      213: -956011056096613934
+    second: VFX_P3_LimitBreakCharge_16
+  - first:
+      213: 8185316007007799766
+    second: VFX_P3_LimitBreakCharge_17
+  - first:
+      213: -3377517257730597100
+    second: VFX_P3_LimitBreakCharge_18
+  - first:
+      213: -3870663803696817712
+    second: VFX_P3_LimitBreakCharge_19
+  - first:
+      213: -3883636361132770178
+    second: VFX_P3_LimitBreakCharge_20
+  - first:
+      213: -7844668429239777021
+    second: VFX_P3_LimitBreakCharge_21
+  - first:
+      213: 1363808100459499596
+    second: VFX_P3_LimitBreakCharge_22
+  - first:
+      213: -6389339477587137897
+    second: VFX_P3_LimitBreakCharge_23
+  - first:
+      213: 2544070722032714273
+    second: VFX_P3_LimitBreakCharge_24
+  - first:
+      213: -7289431563822192287
+    second: VFX_P3_LimitBreakCharge_25
+  - first:
+      213: 6848131111891146419
+    second: VFX_P3_LimitBreakCharge_26
+  - first:
+      213: 6066740142662711110
+    second: VFX_P3_LimitBreakCharge_27
+  - first:
+      213: -7577557184238215366
+    second: VFX_P3_LimitBreakCharge_28
+  - first:
+      213: 9164101007801894571
+    second: VFX_P3_LimitBreakCharge_29
+  - first:
+      213: -268007322515317268
+    second: VFX_P3_LimitBreakCharge_30
+  - first:
+      213: 5617241035746265020
+    second: VFX_P3_LimitBreakCharge_31
+  - first:
+      213: -7632040691290426171
+    second: VFX_P3_LimitBreakCharge_32
+  - first:
+      213: -7165509896428396767
+    second: VFX_P3_LimitBreakCharge_33
+  - first:
+      213: -5019432850680474293
+    second: VFX_P3_LimitBreakCharge_34
+  - first:
+      213: -8047758531168355590
+    second: VFX_P3_LimitBreakCharge_35
+  - first:
+      213: -4770258891336250982
+    second: VFX_P3_LimitBreakCharge_36
+  - first:
+      213: 4746163933563225844
+    second: VFX_P3_LimitBreakCharge_37
+  - first:
+      213: -7655571559543315126
+    second: VFX_P3_LimitBreakCharge_38
+  - first:
+      213: 9016768056027739599
+    second: VFX_P3_LimitBreakCharge_39
+  - first:
+      213: 8053853621774557798
+    second: VFX_P3_LimitBreakCharge_40
+  - first:
+      213: -308696094962888658
+    second: VFX_P3_LimitBreakCharge_41
+  - first:
+      213: -7499786717020586259
+    second: VFX_P3_LimitBreakCharge_42
+  - first:
+      213: 1937311915818630408
+    second: VFX_P3_LimitBreakCharge_43
+  - first:
+      213: 4647383708015887017
+    second: VFX_P3_LimitBreakCharge_44
+  - first:
+      213: -151417005547105976
+    second: VFX_P3_LimitBreakCharge_45
+  - first:
+      213: 7210831088831643244
+    second: VFX_P3_LimitBreakCharge_46
+  - first:
+      213: 7291314156671095346
+    second: VFX_P3_LimitBreakCharge_47
+  - first:
+      213: 8263025418092314419
+    second: VFX_P3_LimitBreakCharge_48
+  - first:
+      213: 9017763142071565669
+    second: VFX_P3_LimitBreakCharge_49
+  - first:
+      213: 3690089401508335622
+    second: VFX_P3_LimitBreakCharge_50
+  - first:
+      213: 505232629968394074
+    second: VFX_P3_LimitBreakCharge_51
+  - first:
+      213: 4343941204127889270
+    second: VFX_P3_LimitBreakCharge_52
+  - first:
+      213: 1001655292284852921
+    second: VFX_P3_LimitBreakCharge_53
+  - first:
+      213: -5793567618981999391
+    second: VFX_P3_LimitBreakCharge_54
+  - first:
+      213: -3374544554187091520
+    second: VFX_P3_LimitBreakCharge_55
+  - first:
+      213: -4911053369681930443
+    second: VFX_P3_LimitBreakCharge_56
+  - first:
+      213: -2555665876926276562
+    second: VFX_P3_LimitBreakCharge_57
+  - first:
+      213: 3367097197641369058
+    second: VFX_P3_LimitBreakCharge_58
+  - first:
+      213: -3227084428716006997
+    second: VFX_P3_LimitBreakCharge_59
+  - first:
+      213: 6189902255078302318
+    second: VFX_P3_LimitBreakCharge_60
+  - first:
+      213: 1099409603429418693
+    second: VFX_P3_LimitBreakCharge_61
+  - first:
+      213: 2366197071026776920
+    second: VFX_P3_LimitBreakCharge_62
+  - first:
+      213: 7220470766259823602
+    second: VFX_P3_LimitBreakCharge_63
+  - first:
+      213: 6548971334434353287
+    second: VFX_P3_LimitBreakCharge_64
+  - first:
+      213: -6239021377381103573
+    second: VFX_P3_LimitBreakCharge_65
+  - first:
+      213: -3393361308939447976
+    second: VFX_P3_LimitBreakCharge_66
+  - first:
+      213: -7927165015285185935
+    second: VFX_P3_LimitBreakCharge_67
+  - first:
+      213: 803441277442211455
+    second: VFX_P3_LimitBreakCharge_68
+  - first:
+      213: -3381756330849823916
+    second: VFX_P3_LimitBreakCharge_69
+  - first:
+      213: -5022007299225500091
+    second: VFX_P3_LimitBreakCharge_70
+  - first:
+      213: -2547125449926470598
+    second: VFX_P3_LimitBreakCharge_71
+  - first:
+      213: -2116748655965435927
+    second: VFX_P3_LimitBreakCharge_72
+  - first:
+      213: -3673117160294800897
+    second: VFX_P3_LimitBreakCharge_73
+  - first:
+      213: 6440409363601455745
+    second: VFX_P3_LimitBreakCharge_74
+  - first:
+      213: 5024026993911749653
+    second: VFX_P3_LimitBreakCharge_75
+  - first:
+      213: -8013042229785328786
+    second: VFX_P3_LimitBreakCharge_76
+  - first:
+      213: 1949980605865486265
+    second: VFX_P3_LimitBreakCharge_77
+  - first:
+      213: 1600506028793285010
+    second: VFX_P3_LimitBreakCharge_78
+  - first:
+      213: 8088907324117547893
+    second: VFX_P3_LimitBreakCharge_79
+  - first:
+      213: 8495772377962702822
+    second: VFX_P3_LimitBreakCharge_80
+  - first:
+      213: -7974200579210726170
+    second: VFX_P3_LimitBreakCharge_81
+  - first:
+      213: -3615006954364711477
+    second: VFX_P3_LimitBreakCharge_82
+  - first:
+      213: 1089699108376211199
+    second: VFX_P3_LimitBreakCharge_83
+  - first:
+      213: 1211025908327752865
+    second: VFX_P3_LimitBreakCharge_84
+  - first:
+      213: 8535672327094665395
+    second: VFX_P3_LimitBreakCharge_85
+  - first:
+      213: -8839464973351022457
+    second: VFX_P3_LimitBreakCharge_86
+  - first:
+      213: -2447640248753488895
+    second: VFX_P3_LimitBreakCharge_87
+  - first:
+      213: 3708219722989218656
+    second: VFX_P3_LimitBreakCharge_88
+  - first:
+      213: 1659001373083146774
+    second: VFX_P3_LimitBreakCharge_89
+  - first:
+      213: -3652525819927581135
+    second: VFX_P3_LimitBreakCharge_90
+  - first:
+      213: 3358172487150030715
+    second: VFX_P3_LimitBreakCharge_91
+  - first:
+      213: 7709374325644537275
+    second: VFX_P3_LimitBreakCharge_92
+  - first:
+      213: -8731931867010164187
+    second: VFX_P3_LimitBreakCharge_93
+  - first:
+      213: 2968739326073120834
+    second: VFX_P3_LimitBreakCharge_94
+  - first:
+      213: -302851081974923304
+    second: VFX_P3_LimitBreakCharge_95
+  - first:
+      213: -4626883184923066143
+    second: VFX_P3_LimitBreakCharge_96
+  - first:
+      213: 2659026008031572007
+    second: VFX_P3_LimitBreakCharge_97
+  - first:
+      213: 3528465194103586525
+    second: VFX_P3_LimitBreakCharge_98
+  - first:
+      213: 7681367724845334243
+    second: VFX_P3_LimitBreakCharge_99
+  - first:
+      213: -2449422872324726894
+    second: VFX_P3_LimitBreakCharge_100
+  - first:
+      213: 595904905346913200
+    second: VFX_P3_LimitBreakCharge_101
+  - first:
+      213: -974829567164338007
+    second: VFX_P3_LimitBreakCharge_102
+  - first:
+      213: 7290715812514764850
+    second: VFX_P3_LimitBreakCharge_103
+  - first:
+      213: 8536048266778100372
+    second: VFX_P3_LimitBreakCharge_104
+  - first:
+      213: 2828443346171363365
+    second: VFX_P3_LimitBreakCharge_105
+  - first:
+      213: 921947707688001380
+    second: VFX_P3_LimitBreakCharge_106
+  - first:
+      213: -8316391190914446370
+    second: VFX_P3_LimitBreakCharge_107
+  - first:
+      213: -6746960340139640706
+    second: VFX_P3_LimitBreakCharge_108
+  - first:
+      213: -38630878134431416
+    second: VFX_P3_LimitBreakCharge_109
+  - first:
+      213: 7555196931884762719
+    second: VFX_P3_LimitBreakCharge_110
+  - first:
+      213: -7108563974830808533
+    second: VFX_P3_LimitBreakCharge_111
+  - first:
+      213: -878371203513375394
+    second: VFX_P3_LimitBreakCharge_112
+  - first:
+      213: 3385776690464528241
+    second: VFX_P3_LimitBreakCharge_113
+  - first:
+      213: 4858470468688278940
+    second: VFX_P3_LimitBreakCharge_114
+  - first:
+      213: -4553874794224782578
+    second: VFX_P3_LimitBreakCharge_115
+  - first:
+      213: -6683526052808400460
+    second: VFX_P3_LimitBreakCharge_116
+  - first:
+      213: -4616580253716192135
+    second: VFX_P3_LimitBreakCharge_117
+  - first:
+      213: -5975412742606711195
+    second: VFX_P3_LimitBreakCharge_118
+  - first:
+      213: 6747834356685326174
+    second: VFX_P3_LimitBreakCharge_119
+  - first:
+      213: -2780268479736721865
+    second: VFX_P3_LimitBreakCharge_120
+  - first:
+      213: -2877800520913118175
+    second: VFX_P3_LimitBreakCharge_121
+  - first:
+      213: 5728875444129224205
+    second: VFX_P3_LimitBreakCharge_122
+  - first:
+      213: -2942589141202869514
+    second: VFX_P3_LimitBreakCharge_123
+  - first:
+      213: -12416940583056197
+    second: VFX_P3_LimitBreakCharge_124
+  - first:
+      213: 4971458945675650662
+    second: VFX_P3_LimitBreakCharge_125
+  - first:
+      213: 7611880283100051184
+    second: VFX_P3_LimitBreakCharge_126
+  - first:
+      213: -1545384691217441789
+    second: VFX_P3_LimitBreakCharge_127
+  - first:
+      213: -5100782500033441104
+    second: VFX_P3_LimitBreakCharge_128
+  - first:
+      213: 6173847795552656259
+    second: VFX_P3_LimitBreakCharge_129
+  - first:
+      213: -9059155739615357348
+    second: VFX_P3_LimitBreakCharge_130
+  - first:
+      213: 4966693544002689198
+    second: VFX_P3_LimitBreakCharge_131
+  - first:
+      213: 317066033402878972
+    second: VFX_P3_LimitBreakCharge_132
+  - first:
+      213: -4596649874506003942
+    second: VFX_P3_LimitBreakCharge_133
+  - first:
+      213: -6379328214294379089
+    second: VFX_P3_LimitBreakCharge_134
+  - first:
+      213: -8111320444078984042
+    second: VFX_P3_LimitBreakCharge_135
+  - first:
+      213: -5526121941092276416
+    second: VFX_P3_LimitBreakCharge_136
+  - first:
+      213: 5805342297238673492
+    second: VFX_P3_LimitBreakCharge_137
+  - first:
+      213: -817855298969224635
+    second: VFX_P3_LimitBreakCharge_138
+  - first:
+      213: 689674939034065185
+    second: VFX_P3_LimitBreakCharge_139
+  - first:
+      213: 6544226325410102804
+    second: VFX_P3_LimitBreakCharge_140
+  - first:
+      213: -2083698985258935783
+    second: VFX_P3_LimitBreakCharge_141
+  - first:
+      213: 3686607762524979031
+    second: VFX_P3_LimitBreakCharge_142
+  - first:
+      213: 2989761910728200402
+    second: VFX_P3_LimitBreakCharge_143
+  - first:
+      213: 2874100352555786928
+    second: VFX_P3_LimitBreakCharge_144
+  - first:
+      213: 4595274269098834302
+    second: VFX_P3_LimitBreakCharge_145
+  - first:
+      213: -473834839910977146
+    second: VFX_P3_LimitBreakCharge_146
+  - first:
+      213: -5923744302023889199
+    second: VFX_P3_LimitBreakCharge_147
+  - first:
+      213: -7275736538212499797
+    second: VFX_P3_LimitBreakCharge_148
+  - first:
+      213: -6176876032907032497
+    second: VFX_P3_LimitBreakCharge_149
+  - first:
+      213: 1344733908727120831
+    second: VFX_P3_LimitBreakCharge_150
+  - first:
+      213: 8443813494086305345
+    second: VFX_P3_LimitBreakCharge_151
+  - first:
+      213: -7366270019344738298
+    second: VFX_P3_LimitBreakCharge_152
+  - first:
+      213: -5161535857186082030
+    second: VFX_P3_LimitBreakCharge_153
+  - first:
+      213: -6691242448769810090
+    second: VFX_P3_LimitBreakCharge_154
+  - first:
+      213: 8332097868054159386
+    second: VFX_P3_LimitBreakCharge_155
+  - first:
+      213: 1403052208012219521
+    second: VFX_P3_LimitBreakCharge_156
+  - first:
+      213: 2304733363312059416
+    second: VFX_P3_LimitBreakCharge_157
+  - first:
+      213: 6715288422913391279
+    second: VFX_P3_LimitBreakCharge_158
+  - first:
+      213: -1528402814770796370
+    second: VFX_P3_LimitBreakCharge_159
+  - first:
+      213: 6844223430934081893
+    second: VFX_P3_LimitBreakCharge_160
+  - first:
+      213: -3605938519478631817
+    second: VFX_P3_LimitBreakCharge_161
+  - first:
+      213: 5268759498192343242
+    second: VFX_P3_LimitBreakCharge_162
+  - first:
+      213: -2070091255886755298
+    second: VFX_P3_LimitBreakCharge_163
+  - first:
+      213: 528918987510442346
+    second: VFX_P3_LimitBreakCharge_164
+  - first:
+      213: 4204367763787854842
+    second: VFX_P3_LimitBreakCharge_165
+  - first:
+      213: 477490560390435377
+    second: VFX_P3_LimitBreakCharge_166
+  - first:
+      213: -5083177433752714679
+    second: VFX_P3_LimitBreakCharge_167
+  - first:
+      213: 8403089437955561512
+    second: VFX_P3_LimitBreakCharge_168
+  - first:
+      213: -9161732994721424276
+    second: VFX_P3_LimitBreakCharge_169
+  - first:
+      213: 7313751080868098240
+    second: VFX_P3_LimitBreakCharge_170
+  - first:
+      213: -8155598089854365767
+    second: VFX_P3_LimitBreakCharge_171
+  - first:
+      213: 5113162138158961831
+    second: VFX_P3_LimitBreakCharge_172
+  - first:
+      213: 4841404494140699622
+    second: VFX_P3_LimitBreakCharge_173
+  - first:
+      213: -3528808995388992952
+    second: VFX_P3_LimitBreakCharge_174
+  - first:
+      213: 6608634329302543112
+    second: VFX_P3_LimitBreakCharge_175
+  - first:
+      213: 8637395560363123781
+    second: VFX_P3_LimitBreakCharge_176
+  - first:
+      213: -987501888381548412
+    second: VFX_P3_LimitBreakCharge_177
+  - first:
+      213: -1554961907266055776
+    second: VFX_P3_LimitBreakCharge_178
+  - first:
+      213: -1909033599208845559
+    second: VFX_P3_LimitBreakCharge_179
+  - first:
+      213: 7416509089289882870
+    second: VFX_P3_LimitBreakCharge_180
+  - first:
+      213: 15930800513779415
+    second: VFX_P3_LimitBreakCharge_181
+  - first:
+      213: -1753822464529777079
+    second: VFX_P3_LimitBreakCharge_182
+  - first:
+      213: -4939331134080261337
+    second: VFX_P3_LimitBreakCharge_183
+  - first:
+      213: 6756278233677864256
+    second: VFX_P3_LimitBreakCharge_184
+  - first:
+      213: -146602203381179879
+    second: VFX_P3_LimitBreakCharge_185
+  - first:
+      213: -5428982926403553629
+    second: VFX_P3_LimitBreakCharge_186
+  - first:
+      213: -826106021971110939
+    second: VFX_P3_LimitBreakCharge_187
+  - first:
+      213: 6007013852537621543
+    second: VFX_P3_LimitBreakCharge_188
+  - first:
+      213: 634604562646486743
+    second: VFX_P3_LimitBreakCharge_189
+  - first:
+      213: -7683282933130558965
+    second: VFX_P3_LimitBreakCharge_190
+  - first:
+      213: 8316460916536602070
+    second: VFX_P3_LimitBreakCharge_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 682
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9994f99f2d9aba0800000000000000
+      internalID: -6077094252598683182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 718
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc59bec459d80140800000000000000
+      internalID: 4686234370547735801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 711
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccd25dcd7db217e0800000000000000
+      internalID: -1796164953354085169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 702
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244d500610e730b80800000000000000
+      internalID: -8429755533136374718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 703
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea440d745610223d0800000000000000
+      internalID: -3233020047990438738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 710
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb6117dd84212e00800000000000000
+      internalID: 1018135182379674610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 703
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4229b3721ebeda6e0800000000000000
+      internalID: -1824542921756798428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 537
+        width: 180
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b912f982f9c9bdc0800000000000000
+      internalID: -3622642381709239879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 718
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151a773cdb5a11220800000000000000
+      internalID: 2454925506340430161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 712
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5438c43e656e760800000000000000
+      internalID: 7486766964791264702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 708
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69c2e4a07d9038e0800000000000000
+      internalID: -1715698350899934866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 719
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bfcd4397e213ab0800000000000000
+      internalID: -5030188210683315379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_12
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 710
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f1d688433b68e40800000000000000
+      internalID: 5658407020046131036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 690
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6abcf26e480da40800000000000000
+      internalID: 5390954878141703890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 653
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04c17b9c1b76df70800000000000000
+      internalID: 9211685450630153229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 702
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689cf3d00699cee20800000000000000
+      internalID: 3381246058066594182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 703
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9e30872019bb2f0800000000000000
+      internalID: -956011056096613934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 705
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9c40c6a85189170800000000000000
+      internalID: 8185316007007799766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 703
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f573ee2f5a021d0800000000000000
+      internalID: -3377517257730597100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_19
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 689
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d950b737c3a84ac0800000000000000
+      internalID: -3870663803696817712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 545
+        width: 175
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf3e15e4d8a1ac0800000000000000
+      internalID: -3883636361132770178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 702
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309017e50a3222390800000000000000
+      internalID: -7844668429239777021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_22
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 696
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4050b9dd383de210800000000000000
+      internalID: 1363808100459499596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_23
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 704
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ae909e8918457a0800000000000000
+      internalID: -6389339477587137897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_24
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 697
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1224b36b7da5e4320800000000000000
+      internalID: 2544070722032714273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 634
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169abdf1d9cb6da90800000000000000
+      internalID: -7289431563822192287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 688
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6929b96f2790f50800000000000000
+      internalID: 6848131111891146419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 687
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647730c4404613450800000000000000
+      internalID: 6066740142662711110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_28
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 655
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f954873eb17d690800000000000000
+      internalID: -7577557184238215366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_29
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 694
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6c4d7205d6d2f70800000000000000
+      internalID: 9164101007801894571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_30
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 693
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced554892c8d74cf0800000000000000
+      internalID: -268007322515317268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_31
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 684
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb74769e5f274fd40800000000000000
+      internalID: 5617241035746265020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 677
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4be447d6b851690800000000000000
+      internalID: -7632040691290426171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 670
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fd6d4b6befe8c90800000000000000
+      internalID: -7165509896428396767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_34
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 683
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4593499a64675ab0800000000000000
+      internalID: -5019432850680474293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 687
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa3797314e905090800000000000000
+      internalID: -8047758531168355590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 676
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99014fefc2accdb0800000000000000
+      internalID: -4770258891336250982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_37
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 672
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f68ec983f2cdd140800000000000000
+      internalID: 4746163933563225844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 658
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4566d04a32f1c590800000000000000
+      internalID: -7655571559543315126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 537
+        width: 88
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc57f9926cef12d70800000000000000
+      internalID: 9016768056027739599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_40
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 643
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662add6a23905cf60800000000000000
+      internalID: 8053853621774557798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 666
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20df24898a47bbf0800000000000000
+      internalID: -308696094962888658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_42
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 664
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee7bc867b76be790800000000000000
+      internalID: -7499786717020586259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_43
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 655
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d30815ce6b2ea10800000000000000
+      internalID: 1937311915818630408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_44
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 651
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2893b0cd2de7040800000000000000
+      internalID: 4647383708015887017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 635
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8415963290f06edf0800000000000000
+      internalID: -151417005547105976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_46
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 645
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e3721bba4021460800000000000000
+      internalID: 7210831088831643244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_47
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 577
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232582e2893ff2560800000000000000
+      internalID: 7291314156671095346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_48
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 588
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f7a6f96d92ca270800000000000000
+      internalID: 8263025418092314419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 560
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d39cfacc7852d70800000000000000
+      internalID: 9017763142071565669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 618
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600965e72c4d53330800000000000000
+      internalID: 3690089401508335622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 601
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57d33e6662f20700800000000000000
+      internalID: 505232629968394074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 607
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677b93d8287c84c30800000000000000
+      internalID: 4343941204127889270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 578
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba570c6e2896ed00800000000000000
+      internalID: 1001655292284852921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 584
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec4f5832fc199fa0800000000000000
+      internalID: -5793567618981999391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 573
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c113f86b953b21d0800000000000000
+      internalID: -3374544554187091520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_56
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 568
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5379f1beafe68dbb0800000000000000
+      internalID: -4911053369681930443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_57
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 583
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cd839ec63788cd0800000000000000
+      internalID: -2555665876926276562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_58
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 568
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e580a5cf055abe20800000000000000
+      internalID: 3367097197641369058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_59
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 584
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba120365fc71733d0800000000000000
+      internalID: -3227084428716006997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_60
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 578
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62e4543e43f6e550800000000000000
+      internalID: 6189902255078302318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_61
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 583
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6401b9533e14f00800000000000000
+      internalID: 1099409603429418693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 576
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bee1f03bb66d020800000000000000
+      internalID: 2366197071026776920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_63
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 567
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3620ef7e3443460800000000000000
+      internalID: 7220470766259823602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 563
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780fc211bbe92ea50800000000000000
+      internalID: 6548971334434353287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_65
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 571
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28812fec1b8a69a0800000000000000
+      internalID: -6239021377381103573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_66
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 537
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8511c1a4edb58e0d0800000000000000
+      internalID: -3393361308939447976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_67
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 558
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172c5042b6d0df190800000000000000
+      internalID: -7927165015285185935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_68
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 537
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e34d3c595662b00800000000000000
+      internalID: 803441277442211455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_69
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 552
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45394cec8869111d0800000000000000
+      internalID: -3381756330849823916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_70
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 563
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546ce3618fe3e4ab0800000000000000
+      internalID: -5022007299225500091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_71
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 537
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3496c606eac6acd0800000000000000
+      internalID: -2547125449926470598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_72
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 549
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7056aff4ccf92e0800000000000000
+      internalID: -2116748655965435927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_73
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 554
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1ac3a5767760dc0800000000000000
+      internalID: -3673117160294800897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_74
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 553
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a7095813ee06950800000000000000
+      internalID: 6440409363601455745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 537
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c551abeede8b540800000000000000
+      internalID: 5024026993911749653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_76
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 537
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6301730c84fbc090800000000000000
+      internalID: -8013042229785328786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_77
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 537
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b763839709bf0b10800000000000000
+      internalID: 1949980605865486265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 537
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299481bd0c3263610800000000000000
+      internalID: 1600506028793285010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_79
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 537
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bf41bba52914070800000000000000
+      internalID: 8088907324117547893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_80
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 537
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7ea0917fb07e570800000000000000
+      internalID: 8495772377962702822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 478
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e43e6482d2f55190800000000000000
+      internalID: -7974200579210726170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_82
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 468
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd4680045ae4ddc0800000000000000
+      internalID: -3615006954364711477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_83
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 465
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffee2dac0936f1f00800000000000000
+      internalID: 1089699108376211199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 471
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4aba7b5ad6ec010800000000000000
+      internalID: 1211025908327752865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_85
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 462
+        width: 63
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b00c9fe1ccc47670800000000000000
+      internalID: 8535672327094665395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_86
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 475
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78097e2b079e35580800000000000000
+      internalID: -8839464973351022457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_87
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 292
+        width: 207
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c7913792c380ed0800000000000000
+      internalID: -2447640248753488895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_88
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 469
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06baed9e03e367330800000000000000
+      internalID: 3708219722989218656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_89
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 482
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a918485f4f50710800000000000000
+      internalID: 1659001373083146774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_90
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 472
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e26426e1f9f4dc0800000000000000
+      internalID: -3652525819927581135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_91
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 469
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f411fa510aa9e20800000000000000
+      internalID: 3358172487150030715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_92
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 478
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd2f886a133dfa60800000000000000
+      internalID: 7709374325644537275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 468
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a12ff0b32f1d680800000000000000
+      internalID: -8731931867010164187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_94
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 285
+        width: 196
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248225120b4133920800000000000000
+      internalID: 2968739326073120834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_95
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 434
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfba07ab8e0ccbf0800000000000000
+      internalID: -302851081974923304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_96
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 465
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0ce61f1420acfb0800000000000000
+      internalID: -4626883184923066143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_97
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 462
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7203f31f012c6e420800000000000000
+      internalID: 2659026008031572007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_98
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 207
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddebfd04660a7f030800000000000000
+      internalID: 3528465194103586525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_99
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 466
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee7e848f33b99a60800000000000000
+      internalID: 7681367724845334243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_100
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 461
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f1e5e00e6e10ed0800000000000000
+      internalID: -2449422872324726894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_101
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 448
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b39d1baa54154800800000000000000
+      internalID: 595904905346913200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_102
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 450
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a03f9c6ca5b872f0800000000000000
+      internalID: -974829567164338007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_103
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 439
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23814435763dd2560800000000000000
+      internalID: 7290715812514764850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_104
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 440
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492c5e63ca2267670800000000000000
+      internalID: 8536048266778100372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_105
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 430
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5208cd3dc36a04720800000000000000
+      internalID: 2828443346171363365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_106
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 427
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9a323e8a6bcc00800000000000000
+      internalID: 921947707688001380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_107
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 408
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb4b54264e369c80800000000000000
+      internalID: -8316391190914446370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_108
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 393
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78f35c415bfd52a0800000000000000
+      internalID: -6746960340139640706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_109
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 414
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8419f67cb61c67ff0800000000000000
+      internalID: -38630878134431416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_110
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 391
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56cc15949379d860800000000000000
+      internalID: 7555196931884762719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_111
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 377
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2222194abe495d90800000000000000
+      internalID: -7108563974830808533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_112
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 372
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5527a15b066fc3f0800000000000000
+      internalID: -878371203513375394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_113
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 359
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1779feb16f1bcfe20800000000000000
+      internalID: 3385776690464528241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_114
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 355
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95f3e56621cc6340800000000000000
+      internalID: 4858470468688278940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_115
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0370aa80036dc0c0800000000000000
+      internalID: -4553874794224782578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_116
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 340
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1694f37785f33a0800000000000000
+      internalID: -6683526052808400460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_117
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 347
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974e92c08bc9eefb0800000000000000
+      internalID: -4616580253716192135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_118
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 339
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566959a05c1131da0800000000000000
+      internalID: -5975412742606711195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_119
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 347
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57c769889f15ad50800000000000000
+      internalID: 6747834356685326174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_120
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 327
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ec3155c808a69d0800000000000000
+      internalID: -2780268479736721865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_121
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 336
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c1a886cafff08d0800000000000000
+      internalID: -2877800520913118175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_122
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 312
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06d7c11ddd018f40800000000000000
+      internalID: 5728875444129224205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_123
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f26eae34c2d927d0800000000000000
+      internalID: -2942589141202869514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_124
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 300
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc895bbbd2e3dff0800000000000000
+      internalID: -12416940583056197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_125
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 300
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6666f68329b2ef440800000000000000
+      internalID: 4971458945675650662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_126
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 303
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f67afab9c4d2a960800000000000000
+      internalID: 7611880283100051184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_127
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 298
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c58a6afc0bd8ae0800000000000000
+      internalID: -1545384691217441789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_128
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 294
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b25af067516639b0800000000000000
+      internalID: -5100782500033441104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_129
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 300
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b9e3f0cd9eda550800000000000000
+      internalID: 6173847795552656259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_130
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 300
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56194f2ad9674280800000000000000
+      internalID: -9059155739615357348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_131
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 299
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8918ea67d3de440800000000000000
+      internalID: 4966693544002689198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_132
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 281
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb1253a0e1766400800000000000000
+      internalID: 317066033402878972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_133
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 281
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ac9311b4b6530c0800000000000000
+      internalID: -4596649874506003942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_134
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 281
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa54b59c9c21877a0800000000000000
+      internalID: -6379328214294379089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_135
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 281
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694fe4f180dce6f80800000000000000
+      internalID: -8111320444078984042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_136
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 293
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047e3bb8f554f43b0800000000000000
+      internalID: -5526121941092276416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_137
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 289
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4581672bf08b09050800000000000000
+      internalID: 5805342297238673492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_138
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 281
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ab44350f466a4f0800000000000000
+      internalID: -817855298969224635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_139
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 206
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1295d97f3b7329900800000000000000
+      internalID: 689674939034065185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_140
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e34df8b23c1da50800000000000000
+      internalID: 6544226325410102804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_141
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 209
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a9cc410d63513e0800000000000000
+      internalID: -2083698985258935783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_142
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 217
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fbf7f3a36792330800000000000000
+      internalID: 3686607762524979031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_143
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 149
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d092fb0e94cd7920800000000000000
+      internalID: 2989761910728200402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_144
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 214
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2a9e20b0bd2e720800000000000000
+      internalID: 2874100352555786928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_145
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79f027d991b5cf30800000000000000
+      internalID: 4595274269098834302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_146
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 203
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681f6ec39b99c69f0800000000000000
+      internalID: -473834839910977146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_147
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de2f9151f1aacda0800000000000000
+      internalID: -5923744302023889199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_148
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 194
+        width: 79
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae7380ca24670b90800000000000000
+      internalID: -7275736538212499797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_149
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48c3fc79f3574aa0800000000000000
+      internalID: -6176876032907032497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_150
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 199
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb34a138d5479a210800000000000000
+      internalID: 1344733908727120831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_151
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 201
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1460aa8b2a37e2570800000000000000
+      internalID: 8443813494086305345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_152
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 206
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608d8511270c5c990800000000000000
+      internalID: -7366270019344738298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_153
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 202
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2137bf02c7a8e58b0800000000000000
+      internalID: -5161535857186082030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_154
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6518f0fc17ee323a0800000000000000
+      internalID: -6691242448769810090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_155
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 182
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10682b9dde81a370800000000000000
+      internalID: 8332097868054159386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_156
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18455ebac84a87310800000000000000
+      internalID: 1403052208012219521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_157
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 167
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814e43e68ce0cff10800000000000000
+      internalID: 2304733363312059416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_158
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 169
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faabb04dd3f713d50800000000000000
+      internalID: 6715288422913391279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_159
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 172
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea821efdcb50acae0800000000000000
+      internalID: -1528402814770796370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_160
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 172
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5613b3cb2f09bfe50800000000000000
+      internalID: 6844223430934081893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_161
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 190
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7720498850225fdc0800000000000000
+      internalID: -3605938519478631817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_162
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 125
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac058b839d46e1940800000000000000
+      internalID: 5268759498192343242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_163
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 163
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a4a3878fe8543e0800000000000000
+      internalID: -2070091255886755298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_164
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 175
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69e48d4409175700800000000000000
+      internalID: 528918987510442346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_165
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 174
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3bda9943ae85a30800000000000000
+      internalID: 4204367763787854842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_166
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 147
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1329ca3822360a600800000000000000
+      internalID: 477490560390435377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_167
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 148
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94243ea4e0de479b0800000000000000
+      internalID: -5083177433752714679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_168
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 101
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8289d258255cd9470800000000000000
+      internalID: 8403089437955561512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_169
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 161
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c57aad16cfad080800000000000000
+      internalID: -9161732994721424276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_170
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0b5ceabd9af7560800000000000000
+      internalID: 7313751080868098240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_171
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 120
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf406b5fbe71de80800000000000000
+      internalID: -8155598089854365767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_172
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 104
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a411fbbfd995f640800000000000000
+      internalID: 5113162138158961831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_173
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 102
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e37c3f8cbf103340800000000000000
+      internalID: 4841404494140699622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_174
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 98
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842d2a54ae6270fc0800000000000000
+      internalID: -3528808995388992952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_175
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 42
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ba78098e596bb50800000000000000
+      internalID: 6608634329302543112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_176
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 79
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544eaffcf713ed770800000000000000
+      internalID: 8637395560363123781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_177
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 67
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4888df7b340bb42f0800000000000000
+      internalID: -987501888381548412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_178
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 59
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a19426426aab6ae0800000000000000
+      internalID: -1554961907266055776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_179
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f0fd65e00c185e0800000000000000
+      internalID: -1909033599208845559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_180
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 67
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc449ce8bbbce660800000000000000
+      internalID: 7416509089289882870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_181
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 33
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d68c998af8983000800000000000000
+      internalID: 15930800513779415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_182
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 78
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e3a9ab2cb29a7e0800000000000000
+      internalID: -1753822464529777079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_183
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 79
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7236e15d088f37bb0800000000000000
+      internalID: -4939331134080261337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_184
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 75
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d921ad14f13cd50800000000000000
+      internalID: 6756278233677864256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_185
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 54
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91adc20a21a27fdf0800000000000000
+      internalID: -146602203381179879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_186
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 42
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a63e0cdac068a4b0800000000000000
+      internalID: -5428982926403553629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_187
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 57
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3d99d23f41984f0800000000000000
+      internalID: -826106021971110939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_188
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 25
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c0b59b5433d5350800000000000000
+      internalID: 6007013852537621543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_189
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 41
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dec269cc719ec800800000000000000
+      internalID: 634604562646486743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_190
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 41
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b028eed41ee7f5590800000000000000
+      internalID: -7683282933130558965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_LimitBreakCharge_191
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 25
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd659e14210a6370800000000000000
+      internalID: 8316460916536602070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P3_LimitBreakCharge_0: -6077094252598683182
+      VFX_P3_LimitBreakCharge_1: 4686234370547735801
+      VFX_P3_LimitBreakCharge_10: -1715698350899934866
+      VFX_P3_LimitBreakCharge_100: -2449422872324726894
+      VFX_P3_LimitBreakCharge_101: 595904905346913200
+      VFX_P3_LimitBreakCharge_102: -974829567164338007
+      VFX_P3_LimitBreakCharge_103: 7290715812514764850
+      VFX_P3_LimitBreakCharge_104: 8536048266778100372
+      VFX_P3_LimitBreakCharge_105: 2828443346171363365
+      VFX_P3_LimitBreakCharge_106: 921947707688001380
+      VFX_P3_LimitBreakCharge_107: -8316391190914446370
+      VFX_P3_LimitBreakCharge_108: -6746960340139640706
+      VFX_P3_LimitBreakCharge_109: -38630878134431416
+      VFX_P3_LimitBreakCharge_11: -5030188210683315379
+      VFX_P3_LimitBreakCharge_110: 7555196931884762719
+      VFX_P3_LimitBreakCharge_111: -7108563974830808533
+      VFX_P3_LimitBreakCharge_112: -878371203513375394
+      VFX_P3_LimitBreakCharge_113: 3385776690464528241
+      VFX_P3_LimitBreakCharge_114: 4858470468688278940
+      VFX_P3_LimitBreakCharge_115: -4553874794224782578
+      VFX_P3_LimitBreakCharge_116: -6683526052808400460
+      VFX_P3_LimitBreakCharge_117: -4616580253716192135
+      VFX_P3_LimitBreakCharge_118: -5975412742606711195
+      VFX_P3_LimitBreakCharge_119: 6747834356685326174
+      VFX_P3_LimitBreakCharge_12: 5658407020046131036
+      VFX_P3_LimitBreakCharge_120: -2780268479736721865
+      VFX_P3_LimitBreakCharge_121: -2877800520913118175
+      VFX_P3_LimitBreakCharge_122: 5728875444129224205
+      VFX_P3_LimitBreakCharge_123: -2942589141202869514
+      VFX_P3_LimitBreakCharge_124: -12416940583056197
+      VFX_P3_LimitBreakCharge_125: 4971458945675650662
+      VFX_P3_LimitBreakCharge_126: 7611880283100051184
+      VFX_P3_LimitBreakCharge_127: -1545384691217441789
+      VFX_P3_LimitBreakCharge_128: -5100782500033441104
+      VFX_P3_LimitBreakCharge_129: 6173847795552656259
+      VFX_P3_LimitBreakCharge_13: 5390954878141703890
+      VFX_P3_LimitBreakCharge_130: -9059155739615357348
+      VFX_P3_LimitBreakCharge_131: 4966693544002689198
+      VFX_P3_LimitBreakCharge_132: 317066033402878972
+      VFX_P3_LimitBreakCharge_133: -4596649874506003942
+      VFX_P3_LimitBreakCharge_134: -6379328214294379089
+      VFX_P3_LimitBreakCharge_135: -8111320444078984042
+      VFX_P3_LimitBreakCharge_136: -5526121941092276416
+      VFX_P3_LimitBreakCharge_137: 5805342297238673492
+      VFX_P3_LimitBreakCharge_138: -817855298969224635
+      VFX_P3_LimitBreakCharge_139: 689674939034065185
+      VFX_P3_LimitBreakCharge_14: 9211685450630153229
+      VFX_P3_LimitBreakCharge_140: 6544226325410102804
+      VFX_P3_LimitBreakCharge_141: -2083698985258935783
+      VFX_P3_LimitBreakCharge_142: 3686607762524979031
+      VFX_P3_LimitBreakCharge_143: 2989761910728200402
+      VFX_P3_LimitBreakCharge_144: 2874100352555786928
+      VFX_P3_LimitBreakCharge_145: 4595274269098834302
+      VFX_P3_LimitBreakCharge_146: -473834839910977146
+      VFX_P3_LimitBreakCharge_147: -5923744302023889199
+      VFX_P3_LimitBreakCharge_148: -7275736538212499797
+      VFX_P3_LimitBreakCharge_149: -6176876032907032497
+      VFX_P3_LimitBreakCharge_15: 3381246058066594182
+      VFX_P3_LimitBreakCharge_150: 1344733908727120831
+      VFX_P3_LimitBreakCharge_151: 8443813494086305345
+      VFX_P3_LimitBreakCharge_152: -7366270019344738298
+      VFX_P3_LimitBreakCharge_153: -5161535857186082030
+      VFX_P3_LimitBreakCharge_154: -6691242448769810090
+      VFX_P3_LimitBreakCharge_155: 8332097868054159386
+      VFX_P3_LimitBreakCharge_156: 1403052208012219521
+      VFX_P3_LimitBreakCharge_157: 2304733363312059416
+      VFX_P3_LimitBreakCharge_158: 6715288422913391279
+      VFX_P3_LimitBreakCharge_159: -1528402814770796370
+      VFX_P3_LimitBreakCharge_16: -956011056096613934
+      VFX_P3_LimitBreakCharge_160: 6844223430934081893
+      VFX_P3_LimitBreakCharge_161: -3605938519478631817
+      VFX_P3_LimitBreakCharge_162: 5268759498192343242
+      VFX_P3_LimitBreakCharge_163: -2070091255886755298
+      VFX_P3_LimitBreakCharge_164: 528918987510442346
+      VFX_P3_LimitBreakCharge_165: 4204367763787854842
+      VFX_P3_LimitBreakCharge_166: 477490560390435377
+      VFX_P3_LimitBreakCharge_167: -5083177433752714679
+      VFX_P3_LimitBreakCharge_168: 8403089437955561512
+      VFX_P3_LimitBreakCharge_169: -9161732994721424276
+      VFX_P3_LimitBreakCharge_17: 8185316007007799766
+      VFX_P3_LimitBreakCharge_170: 7313751080868098240
+      VFX_P3_LimitBreakCharge_171: -8155598089854365767
+      VFX_P3_LimitBreakCharge_172: 5113162138158961831
+      VFX_P3_LimitBreakCharge_173: 4841404494140699622
+      VFX_P3_LimitBreakCharge_174: -3528808995388992952
+      VFX_P3_LimitBreakCharge_175: 6608634329302543112
+      VFX_P3_LimitBreakCharge_176: 8637395560363123781
+      VFX_P3_LimitBreakCharge_177: -987501888381548412
+      VFX_P3_LimitBreakCharge_178: -1554961907266055776
+      VFX_P3_LimitBreakCharge_179: -1909033599208845559
+      VFX_P3_LimitBreakCharge_18: -3377517257730597100
+      VFX_P3_LimitBreakCharge_180: 7416509089289882870
+      VFX_P3_LimitBreakCharge_181: 15930800513779415
+      VFX_P3_LimitBreakCharge_182: -1753822464529777079
+      VFX_P3_LimitBreakCharge_183: -4939331134080261337
+      VFX_P3_LimitBreakCharge_184: 6756278233677864256
+      VFX_P3_LimitBreakCharge_185: -146602203381179879
+      VFX_P3_LimitBreakCharge_186: -5428982926403553629
+      VFX_P3_LimitBreakCharge_187: -826106021971110939
+      VFX_P3_LimitBreakCharge_188: 6007013852537621543
+      VFX_P3_LimitBreakCharge_189: 634604562646486743
+      VFX_P3_LimitBreakCharge_19: -3870663803696817712
+      VFX_P3_LimitBreakCharge_190: -7683282933130558965
+      VFX_P3_LimitBreakCharge_191: 8316460916536602070
+      VFX_P3_LimitBreakCharge_2: -1796164953354085169
+      VFX_P3_LimitBreakCharge_20: -3883636361132770178
+      VFX_P3_LimitBreakCharge_21: -7844668429239777021
+      VFX_P3_LimitBreakCharge_22: 1363808100459499596
+      VFX_P3_LimitBreakCharge_23: -6389339477587137897
+      VFX_P3_LimitBreakCharge_24: 2544070722032714273
+      VFX_P3_LimitBreakCharge_25: -7289431563822192287
+      VFX_P3_LimitBreakCharge_26: 6848131111891146419
+      VFX_P3_LimitBreakCharge_27: 6066740142662711110
+      VFX_P3_LimitBreakCharge_28: -7577557184238215366
+      VFX_P3_LimitBreakCharge_29: 9164101007801894571
+      VFX_P3_LimitBreakCharge_3: -8429755533136374718
+      VFX_P3_LimitBreakCharge_30: -268007322515317268
+      VFX_P3_LimitBreakCharge_31: 5617241035746265020
+      VFX_P3_LimitBreakCharge_32: -7632040691290426171
+      VFX_P3_LimitBreakCharge_33: -7165509896428396767
+      VFX_P3_LimitBreakCharge_34: -5019432850680474293
+      VFX_P3_LimitBreakCharge_35: -8047758531168355590
+      VFX_P3_LimitBreakCharge_36: -4770258891336250982
+      VFX_P3_LimitBreakCharge_37: 4746163933563225844
+      VFX_P3_LimitBreakCharge_38: -7655571559543315126
+      VFX_P3_LimitBreakCharge_39: 9016768056027739599
+      VFX_P3_LimitBreakCharge_4: -3233020047990438738
+      VFX_P3_LimitBreakCharge_40: 8053853621774557798
+      VFX_P3_LimitBreakCharge_41: -308696094962888658
+      VFX_P3_LimitBreakCharge_42: -7499786717020586259
+      VFX_P3_LimitBreakCharge_43: 1937311915818630408
+      VFX_P3_LimitBreakCharge_44: 4647383708015887017
+      VFX_P3_LimitBreakCharge_45: -151417005547105976
+      VFX_P3_LimitBreakCharge_46: 7210831088831643244
+      VFX_P3_LimitBreakCharge_47: 7291314156671095346
+      VFX_P3_LimitBreakCharge_48: 8263025418092314419
+      VFX_P3_LimitBreakCharge_49: 9017763142071565669
+      VFX_P3_LimitBreakCharge_5: 1018135182379674610
+      VFX_P3_LimitBreakCharge_50: 3690089401508335622
+      VFX_P3_LimitBreakCharge_51: 505232629968394074
+      VFX_P3_LimitBreakCharge_52: 4343941204127889270
+      VFX_P3_LimitBreakCharge_53: 1001655292284852921
+      VFX_P3_LimitBreakCharge_54: -5793567618981999391
+      VFX_P3_LimitBreakCharge_55: -3374544554187091520
+      VFX_P3_LimitBreakCharge_56: -4911053369681930443
+      VFX_P3_LimitBreakCharge_57: -2555665876926276562
+      VFX_P3_LimitBreakCharge_58: 3367097197641369058
+      VFX_P3_LimitBreakCharge_59: -3227084428716006997
+      VFX_P3_LimitBreakCharge_6: -1824542921756798428
+      VFX_P3_LimitBreakCharge_60: 6189902255078302318
+      VFX_P3_LimitBreakCharge_61: 1099409603429418693
+      VFX_P3_LimitBreakCharge_62: 2366197071026776920
+      VFX_P3_LimitBreakCharge_63: 7220470766259823602
+      VFX_P3_LimitBreakCharge_64: 6548971334434353287
+      VFX_P3_LimitBreakCharge_65: -6239021377381103573
+      VFX_P3_LimitBreakCharge_66: -3393361308939447976
+      VFX_P3_LimitBreakCharge_67: -7927165015285185935
+      VFX_P3_LimitBreakCharge_68: 803441277442211455
+      VFX_P3_LimitBreakCharge_69: -3381756330849823916
+      VFX_P3_LimitBreakCharge_7: -3622642381709239879
+      VFX_P3_LimitBreakCharge_70: -5022007299225500091
+      VFX_P3_LimitBreakCharge_71: -2547125449926470598
+      VFX_P3_LimitBreakCharge_72: -2116748655965435927
+      VFX_P3_LimitBreakCharge_73: -3673117160294800897
+      VFX_P3_LimitBreakCharge_74: 6440409363601455745
+      VFX_P3_LimitBreakCharge_75: 5024026993911749653
+      VFX_P3_LimitBreakCharge_76: -8013042229785328786
+      VFX_P3_LimitBreakCharge_77: 1949980605865486265
+      VFX_P3_LimitBreakCharge_78: 1600506028793285010
+      VFX_P3_LimitBreakCharge_79: 8088907324117547893
+      VFX_P3_LimitBreakCharge_8: 2454925506340430161
+      VFX_P3_LimitBreakCharge_80: 8495772377962702822
+      VFX_P3_LimitBreakCharge_81: -7974200579210726170
+      VFX_P3_LimitBreakCharge_82: -3615006954364711477
+      VFX_P3_LimitBreakCharge_83: 1089699108376211199
+      VFX_P3_LimitBreakCharge_84: 1211025908327752865
+      VFX_P3_LimitBreakCharge_85: 8535672327094665395
+      VFX_P3_LimitBreakCharge_86: -8839464973351022457
+      VFX_P3_LimitBreakCharge_87: -2447640248753488895
+      VFX_P3_LimitBreakCharge_88: 3708219722989218656
+      VFX_P3_LimitBreakCharge_89: 1659001373083146774
+      VFX_P3_LimitBreakCharge_9: 7486766964791264702
+      VFX_P3_LimitBreakCharge_90: -3652525819927581135
+      VFX_P3_LimitBreakCharge_91: 3358172487150030715
+      VFX_P3_LimitBreakCharge_92: 7709374325644537275
+      VFX_P3_LimitBreakCharge_93: -8731931867010164187
+      VFX_P3_LimitBreakCharge_94: 2968739326073120834
+      VFX_P3_LimitBreakCharge_95: -302851081974923304
+      VFX_P3_LimitBreakCharge_96: -4626883184923066143
+      VFX_P3_LimitBreakCharge_97: 2659026008031572007
+      VFX_P3_LimitBreakCharge_98: 3528465194103586525
+      VFX_P3_LimitBreakCharge_99: 7681367724845334243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

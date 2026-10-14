@@ -1,0 +1,5369 @@
+fileFormatVersion: 2
+guid: 8e8b6437e215cd34e9e6414a3ea2f91e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1734014336707878248
+    second: VFX_P3_OverloadProjectile_0
+  - first:
+      213: 197892438844221158
+    second: VFX_P3_OverloadProjectile_1
+  - first:
+      213: 5027210848005143145
+    second: VFX_P3_OverloadProjectile_2
+  - first:
+      213: 8840182816799273627
+    second: VFX_P3_OverloadProjectile_3
+  - first:
+      213: 6593062384278533431
+    second: VFX_P3_OverloadProjectile_4
+  - first:
+      213: 8621040723325265486
+    second: VFX_P3_OverloadProjectile_5
+  - first:
+      213: 342064694278052483
+    second: VFX_P3_OverloadProjectile_6
+  - first:
+      213: -1953623978805355280
+    second: VFX_P3_OverloadProjectile_7
+  - first:
+      213: 2616178578956583056
+    second: VFX_P3_OverloadProjectile_8
+  - first:
+      213: -9119303724617143025
+    second: VFX_P3_OverloadProjectile_9
+  - first:
+      213: 7568145998919314955
+    second: VFX_P3_OverloadProjectile_10
+  - first:
+      213: 2973535019063663558
+    second: VFX_P3_OverloadProjectile_11
+  - first:
+      213: 5434503989931242755
+    second: VFX_P3_OverloadProjectile_12
+  - first:
+      213: 7291027095285728519
+    second: VFX_P3_OverloadProjectile_13
+  - first:
+      213: -1998393733264143090
+    second: VFX_P3_OverloadProjectile_14
+  - first:
+      213: -3277310262154985339
+    second: VFX_P3_OverloadProjectile_15
+  - first:
+      213: 4670517520886556703
+    second: VFX_P3_OverloadProjectile_16
+  - first:
+      213: -2312517639014846883
+    second: VFX_P3_OverloadProjectile_17
+  - first:
+      213: 6335570666914860429
+    second: VFX_P3_OverloadProjectile_18
+  - first:
+      213: -8053031363905405935
+    second: VFX_P3_OverloadProjectile_19
+  - first:
+      213: 570664706373664352
+    second: VFX_P3_OverloadProjectile_20
+  - first:
+      213: -2568721761576990709
+    second: VFX_P3_OverloadProjectile_21
+  - first:
+      213: 6777112468938984487
+    second: VFX_P3_OverloadProjectile_22
+  - first:
+      213: -9165147693202067604
+    second: VFX_P3_OverloadProjectile_23
+  - first:
+      213: 2449866747456243845
+    second: VFX_P3_OverloadProjectile_24
+  - first:
+      213: -5382710242761811095
+    second: VFX_P3_OverloadProjectile_25
+  - first:
+      213: 2882694253008866016
+    second: VFX_P3_OverloadProjectile_26
+  - first:
+      213: 8524965170573504776
+    second: VFX_P3_OverloadProjectile_27
+  - first:
+      213: -948576246568235844
+    second: VFX_P3_OverloadProjectile_28
+  - first:
+      213: -165017710608844741
+    second: VFX_P3_OverloadProjectile_29
+  - first:
+      213: 3365835459568516499
+    second: VFX_P3_OverloadProjectile_30
+  - first:
+      213: -5978038632904073540
+    second: VFX_P3_OverloadProjectile_31
+  - first:
+      213: 7681806604735241748
+    second: VFX_P3_OverloadProjectile_32
+  - first:
+      213: -1270650609567529228
+    second: VFX_P3_OverloadProjectile_33
+  - first:
+      213: 6605403817321300306
+    second: VFX_P3_OverloadProjectile_34
+  - first:
+      213: -2351431752356859943
+    second: VFX_P3_OverloadProjectile_35
+  - first:
+      213: -7379859840869476314
+    second: VFX_P3_OverloadProjectile_36
+  - first:
+      213: 6680680085062301812
+    second: VFX_P3_OverloadProjectile_37
+  - first:
+      213: 1317819798014786887
+    second: VFX_P3_OverloadProjectile_38
+  - first:
+      213: -4425710726890306677
+    second: VFX_P3_OverloadProjectile_39
+  - first:
+      213: 4437704664198125721
+    second: VFX_P3_OverloadProjectile_40
+  - first:
+      213: 5202384434502702367
+    second: VFX_P3_OverloadProjectile_41
+  - first:
+      213: 7320761179876320975
+    second: VFX_P3_OverloadProjectile_42
+  - first:
+      213: 3419369113175996936
+    second: VFX_P3_OverloadProjectile_43
+  - first:
+      213: 3722290894271485327
+    second: VFX_P3_OverloadProjectile_44
+  - first:
+      213: 8450067746754615834
+    second: VFX_P3_OverloadProjectile_45
+  - first:
+      213: 1255921770126576748
+    second: VFX_P3_OverloadProjectile_46
+  - first:
+      213: 5507682172182932919
+    second: VFX_P3_OverloadProjectile_47
+  - first:
+      213: 7382357124895653231
+    second: VFX_P3_OverloadProjectile_48
+  - first:
+      213: 2080493795009156985
+    second: VFX_P3_OverloadProjectile_49
+  - first:
+      213: -1333612054772182713
+    second: VFX_P3_OverloadProjectile_50
+  - first:
+      213: 4273455808210603115
+    second: VFX_P3_OverloadProjectile_51
+  - first:
+      213: 4119045333523019472
+    second: VFX_P3_OverloadProjectile_52
+  - first:
+      213: -6536306885805875614
+    second: VFX_P3_OverloadProjectile_53
+  - first:
+      213: 6729716323353022199
+    second: VFX_P3_OverloadProjectile_54
+  - first:
+      213: -6024937236140256666
+    second: VFX_P3_OverloadProjectile_55
+  - first:
+      213: 2568201809058869432
+    second: VFX_P3_OverloadProjectile_56
+  - first:
+      213: -4932340540956732022
+    second: VFX_P3_OverloadProjectile_57
+  - first:
+      213: 4426610106757073866
+    second: VFX_P3_OverloadProjectile_58
+  - first:
+      213: 9018020714695397355
+    second: VFX_P3_OverloadProjectile_59
+  - first:
+      213: 7267893751810435026
+    second: VFX_P3_OverloadProjectile_60
+  - first:
+      213: 9004143496847471219
+    second: VFX_P3_OverloadProjectile_61
+  - first:
+      213: -6748938891243712756
+    second: VFX_P3_OverloadProjectile_62
+  - first:
+      213: -3412342278314988343
+    second: VFX_P3_OverloadProjectile_63
+  - first:
+      213: 5330221430374256258
+    second: VFX_P3_OverloadProjectile_64
+  - first:
+      213: -1906337064858708087
+    second: VFX_P3_OverloadProjectile_65
+  - first:
+      213: -8477864334800994764
+    second: VFX_P3_OverloadProjectile_66
+  - first:
+      213: 2379020150682349877
+    second: VFX_P3_OverloadProjectile_67
+  - first:
+      213: -8460897229540152396
+    second: VFX_P3_OverloadProjectile_68
+  - first:
+      213: -3287739316781184173
+    second: VFX_P3_OverloadProjectile_69
+  - first:
+      213: 5787755775333020546
+    second: VFX_P3_OverloadProjectile_70
+  - first:
+      213: 3825520362783822001
+    second: VFX_P3_OverloadProjectile_71
+  - first:
+      213: 2106506880017328049
+    second: VFX_P3_OverloadProjectile_72
+  - first:
+      213: 3203562095699804652
+    second: VFX_P3_OverloadProjectile_73
+  - first:
+      213: -1411372582079285531
+    second: VFX_P3_OverloadProjectile_74
+  - first:
+      213: -7445331201851118813
+    second: VFX_P3_OverloadProjectile_75
+  - first:
+      213: 7101454643131977086
+    second: VFX_P3_OverloadProjectile_76
+  - first:
+      213: -154302758547306885
+    second: VFX_P3_OverloadProjectile_77
+  - first:
+      213: 6588492867159517738
+    second: VFX_P3_OverloadProjectile_78
+  - first:
+      213: 815459315505751215
+    second: VFX_P3_OverloadProjectile_79
+  - first:
+      213: 4303900784612197961
+    second: VFX_P3_OverloadProjectile_80
+  - first:
+      213: 8267325383249448333
+    second: VFX_P3_OverloadProjectile_81
+  - first:
+      213: -577748127821200885
+    second: VFX_P3_OverloadProjectile_82
+  - first:
+      213: -3196410889569497793
+    second: VFX_P3_OverloadProjectile_83
+  - first:
+      213: -6677232167354536901
+    second: VFX_P3_OverloadProjectile_84
+  - first:
+      213: -5821396191406576187
+    second: VFX_P3_OverloadProjectile_85
+  - first:
+      213: 796515993859115530
+    second: VFX_P3_OverloadProjectile_86
+  - first:
+      213: 4404925677200548841
+    second: VFX_P3_OverloadProjectile_87
+  - first:
+      213: -1555867514473924418
+    second: VFX_P3_OverloadProjectile_88
+  - first:
+      213: 6202943054451615758
+    second: VFX_P3_OverloadProjectile_89
+  - first:
+      213: -5141747291757985963
+    second: VFX_P3_OverloadProjectile_90
+  - first:
+      213: 3226219126639847406
+    second: VFX_P3_OverloadProjectile_91
+  - first:
+      213: -6039746267932117664
+    second: VFX_P3_OverloadProjectile_92
+  - first:
+      213: -3387790528592023274
+    second: VFX_P3_OverloadProjectile_93
+  - first:
+      213: -6146538367843889372
+    second: VFX_P3_OverloadProjectile_94
+  - first:
+      213: 4511563959327769966
+    second: VFX_P3_OverloadProjectile_95
+  - first:
+      213: 8141438559425597484
+    second: VFX_P3_OverloadProjectile_96
+  - first:
+      213: -2499944976482384241
+    second: VFX_P3_OverloadProjectile_97
+  - first:
+      213: -5845159891229170193
+    second: VFX_P3_OverloadProjectile_98
+  - first:
+      213: 4228915045594802426
+    second: VFX_P3_OverloadProjectile_99
+  - first:
+      213: 8416249448141157121
+    second: VFX_P3_OverloadProjectile_100
+  - first:
+      213: -8366811918029505981
+    second: VFX_P3_OverloadProjectile_101
+  - first:
+      213: 1948539670800491530
+    second: VFX_P3_OverloadProjectile_102
+  - first:
+      213: -1390162559818071584
+    second: VFX_P3_OverloadProjectile_103
+  - first:
+      213: -1140105756077707453
+    second: VFX_P3_OverloadProjectile_104
+  - first:
+      213: 4925492391167375808
+    second: VFX_P3_OverloadProjectile_105
+  - first:
+      213: -3727776156528458941
+    second: VFX_P3_OverloadProjectile_106
+  - first:
+      213: -4846453616051909322
+    second: VFX_P3_OverloadProjectile_107
+  - first:
+      213: 1821299390184044638
+    second: VFX_P3_OverloadProjectile_108
+  - first:
+      213: -8303793234841206186
+    second: VFX_P3_OverloadProjectile_109
+  - first:
+      213: -1675849697687926043
+    second: VFX_P3_OverloadProjectile_110
+  - first:
+      213: 850783485188316055
+    second: VFX_P3_OverloadProjectile_111
+  - first:
+      213: -6129364595241692370
+    second: VFX_P3_OverloadProjectile_112
+  - first:
+      213: -173348223324445376
+    second: VFX_P3_OverloadProjectile_113
+  - first:
+      213: 5631559644315895062
+    second: VFX_P3_OverloadProjectile_114
+  - first:
+      213: -1130278077374656695
+    second: VFX_P3_OverloadProjectile_115
+  - first:
+      213: 7567365203535988484
+    second: VFX_P3_OverloadProjectile_116
+  - first:
+      213: -335693922598956571
+    second: VFX_P3_OverloadProjectile_117
+  - first:
+      213: 2342568746947428855
+    second: VFX_P3_OverloadProjectile_118
+  - first:
+      213: 2284476104033376937
+    second: VFX_P3_OverloadProjectile_119
+  - first:
+      213: 2743267500663650320
+    second: VFX_P3_OverloadProjectile_120
+  - first:
+      213: -5658217317687598060
+    second: VFX_P3_OverloadProjectile_121
+  - first:
+      213: 4863636173761274056
+    second: VFX_P3_OverloadProjectile_122
+  - first:
+      213: -3077008528757833506
+    second: VFX_P3_OverloadProjectile_123
+  - first:
+      213: -2371756719392359672
+    second: VFX_P3_OverloadProjectile_124
+  - first:
+      213: -8671281922183141249
+    second: VFX_P3_OverloadProjectile_125
+  - first:
+      213: 6429732391970363299
+    second: VFX_P3_OverloadProjectile_126
+  - first:
+      213: -6569962890240346164
+    second: VFX_P3_OverloadProjectile_127
+  - first:
+      213: 7554663257533067806
+    second: VFX_P3_OverloadProjectile_128
+  - first:
+      213: 7370472500377067451
+    second: VFX_P3_OverloadProjectile_129
+  - first:
+      213: 299274998121758225
+    second: VFX_P3_OverloadProjectile_130
+  - first:
+      213: 8291787490784564626
+    second: VFX_P3_OverloadProjectile_131
+  - first:
+      213: 5388278273656148100
+    second: VFX_P3_OverloadProjectile_132
+  - first:
+      213: -4408402916923620754
+    second: VFX_P3_OverloadProjectile_133
+  - first:
+      213: 8492644282362187273
+    second: VFX_P3_OverloadProjectile_134
+  - first:
+      213: -3285072887017027163
+    second: VFX_P3_OverloadProjectile_135
+  - first:
+      213: -8088575143792497777
+    second: VFX_P3_OverloadProjectile_136
+  - first:
+      213: 4118633628837676343
+    second: VFX_P3_OverloadProjectile_137
+  - first:
+      213: 5193689530942548695
+    second: VFX_P3_OverloadProjectile_138
+  - first:
+      213: 7633080038443179153
+    second: VFX_P3_OverloadProjectile_139
+  - first:
+      213: -8502525441929717269
+    second: VFX_P3_OverloadProjectile_140
+  - first:
+      213: -5764307116744119437
+    second: VFX_P3_OverloadProjectile_141
+  - first:
+      213: 3135173839115587931
+    second: VFX_P3_OverloadProjectile_142
+  - first:
+      213: -967981830331512716
+    second: VFX_P3_OverloadProjectile_143
+  - first:
+      213: -6441956898793021326
+    second: VFX_P3_OverloadProjectile_144
+  - first:
+      213: -269024433891868778
+    second: VFX_P3_OverloadProjectile_145
+  - first:
+      213: -8808179670332667010
+    second: VFX_P3_OverloadProjectile_146
+  - first:
+      213: -5045769210054050793
+    second: VFX_P3_OverloadProjectile_147
+  - first:
+      213: -2609347061255029210
+    second: VFX_P3_OverloadProjectile_148
+  - first:
+      213: 4390508090673329286
+    second: VFX_P3_OverloadProjectile_149
+  - first:
+      213: -6089687145062100282
+    second: VFX_P3_OverloadProjectile_150
+  - first:
+      213: 6108603847030213371
+    second: VFX_P3_OverloadProjectile_151
+  - first:
+      213: 6854242987430427423
+    second: VFX_P3_OverloadProjectile_152
+  - first:
+      213: -2092382096943735582
+    second: VFX_P3_OverloadProjectile_153
+  - first:
+      213: -8358183145833104082
+    second: VFX_P3_OverloadProjectile_154
+  - first:
+      213: -6520459402845856939
+    second: VFX_P3_OverloadProjectile_155
+  - first:
+      213: 3280189196880759208
+    second: VFX_P3_OverloadProjectile_156
+  - first:
+      213: 2415160141160346136
+    second: VFX_P3_OverloadProjectile_157
+  - first:
+      213: 5077483557878311318
+    second: VFX_P3_OverloadProjectile_158
+  - first:
+      213: 5518956954509389071
+    second: VFX_P3_OverloadProjectile_159
+  - first:
+      213: -5925795674576918715
+    second: VFX_P3_OverloadProjectile_160
+  - first:
+      213: -5985383701264310195
+    second: VFX_P3_OverloadProjectile_161
+  - first:
+      213: -4161454035942178810
+    second: VFX_P3_OverloadProjectile_162
+  - first:
+      213: 4306543010727411987
+    second: VFX_P3_OverloadProjectile_163
+  - first:
+      213: -5026061529332474909
+    second: VFX_P3_OverloadProjectile_164
+  - first:
+      213: -5420854254509542598
+    second: VFX_P3_OverloadProjectile_165
+  - first:
+      213: -8040559257834384762
+    second: VFX_P3_OverloadProjectile_166
+  - first:
+      213: 5617703421570478116
+    second: VFX_P3_OverloadProjectile_167
+  - first:
+      213: -1292938195372279750
+    second: VFX_P3_OverloadProjectile_168
+  - first:
+      213: -3999503244398921193
+    second: VFX_P3_OverloadProjectile_169
+  - first:
+      213: 7705986420985813475
+    second: VFX_P3_OverloadProjectile_170
+  - first:
+      213: -3091761719322612091
+    second: VFX_P3_OverloadProjectile_171
+  - first:
+      213: -2092192283823608542
+    second: VFX_P3_OverloadProjectile_172
+  - first:
+      213: 3150393036783559658
+    second: VFX_P3_OverloadProjectile_173
+  - first:
+      213: -5428285004884375351
+    second: VFX_P3_OverloadProjectile_174
+  - first:
+      213: 2221924327324640811
+    second: VFX_P3_OverloadProjectile_175
+  - first:
+      213: 7848405870419605928
+    second: VFX_P3_OverloadProjectile_176
+  - first:
+      213: -3333405380210952862
+    second: VFX_P3_OverloadProjectile_177
+  - first:
+      213: -4345469889582459982
+    second: VFX_P3_OverloadProjectile_178
+  - first:
+      213: -7684818500495991852
+    second: VFX_P3_OverloadProjectile_179
+  - first:
+      213: 675896689700140647
+    second: VFX_P3_OverloadProjectile_180
+  - first:
+      213: 8123174009434646661
+    second: VFX_P3_OverloadProjectile_181
+  - first:
+      213: 4870485727624969406
+    second: VFX_P3_OverloadProjectile_182
+  - first:
+      213: -521138525768168267
+    second: VFX_P3_OverloadProjectile_183
+  - first:
+      213: -4706921033085553765
+    second: VFX_P3_OverloadProjectile_184
+  - first:
+      213: -8424584786260175348
+    second: VFX_P3_OverloadProjectile_185
+  - first:
+      213: -381572890396921379
+    second: VFX_P3_OverloadProjectile_186
+  - first:
+      213: 7281486547676504893
+    second: VFX_P3_OverloadProjectile_187
+  - first:
+      213: 3559613842240884165
+    second: VFX_P3_OverloadProjectile_188
+  - first:
+      213: -1567652202775273279
+    second: VFX_P3_OverloadProjectile_189
+  - first:
+      213: 1324575111287655768
+    second: VFX_P3_OverloadProjectile_190
+  - first:
+      213: -2506191868809155871
+    second: VFX_P3_OverloadProjectile_191
+  - first:
+      213: 8916504098619532986
+    second: VFX_P3_OverloadProjectile_192
+  - first:
+      213: -8526336640674737192
+    second: VFX_P3_OverloadProjectile_193
+  - first:
+      213: 7245523027097967352
+    second: VFX_P3_OverloadProjectile_194
+  - first:
+      213: 2346021690263714374
+    second: VFX_P3_OverloadProjectile_195
+  - first:
+      213: -8427762352345589733
+    second: VFX_P3_OverloadProjectile_196
+  - first:
+      213: 8558653202984623178
+    second: VFX_P3_OverloadProjectile_197
+  - first:
+      213: 8587246296828251987
+    second: VFX_P3_OverloadProjectile_198
+  - first:
+      213: -4866956261895475273
+    second: VFX_P3_OverloadProjectile_199
+  - first:
+      213: 6198951813563970774
+    second: VFX_P3_OverloadProjectile_200
+  - first:
+      213: -7995084693477653934
+    second: VFX_P3_OverloadProjectile_201
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 682
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d58ee1ad4701810800000000000000
+      internalID: 1734014336707878248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 710
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6ab09ef1e0fb200800000000000000
+      internalID: 197892438844221158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 700
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a365681ad34c540800000000000000
+      internalID: 5027210848005143145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 657
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9235d04f63aeaa70800000000000000
+      internalID: 8840182816799273627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 690
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73579e49e434f7b50800000000000000
+      internalID: 6593062384278533431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 718
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46aaf39cd614a770800000000000000
+      internalID: 8621040723325265486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 710
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a55a0f6024fb400800000000000000
+      internalID: 342064694278052483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 706
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc1f9e875553e4e0800000000000000
+      internalID: -1953623978805355280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 692
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09081b37e888e4420800000000000000
+      internalID: 2616178578956583056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_9
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 689
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d6c4f1499b17180800000000000000
+      internalID: -9119303724617143025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 705
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e21e130b4770960800000000000000
+      internalID: 7568145998919314955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 711
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb597a685e144920800000000000000
+      internalID: 2973535019063663558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_12
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 711
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3057b4ae59c3b6b40800000000000000
+      internalID: 5434503989931242755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_13
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 687
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705014e738eee2560800000000000000
+      internalID: 7291027095285728519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 720
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d8c6fcc774444e0800000000000000
+      internalID: -1998393733264143090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_15
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 717
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58082853ea7a482d0800000000000000
+      internalID: -3277310262154985339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 686
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f186ea590f201d040800000000000000
+      internalID: 4670517520886556703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 687
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ee1b5a57948efd0800000000000000
+      internalID: -2312517639014846883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 683
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d48da44f77ce750800000000000000
+      internalID: 6335570666914860429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 687
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cb65d24a2ed3090800000000000000
+      internalID: -8053031363905405935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 672
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e3145e6886be700800000000000000
+      internalID: 570664706373664352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 696
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b084362ea211a5cd0800000000000000
+      internalID: -2568721761576990709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 690
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c8af142e32d0e50800000000000000
+      internalID: 6777112468938984487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 679
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f23b86bbadec080800000000000000
+      internalID: -9165147693202067604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 686
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588cb2da3dcaff120800000000000000
+      internalID: 2449866747456243845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_25
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 683
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b53539d85cc45b0800000000000000
+      internalID: -5382710242761811095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_26
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 656
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea47a26623610820800000000000000
+      internalID: 2882694253008866016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_27
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 680
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8017c9ac7a2ce4670800000000000000
+      internalID: 8524965170573504776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 657
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc4de4fdeaf5d2f0800000000000000
+      internalID: -948576246568235844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 675
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38f289344db5bdf0800000000000000
+      internalID: -165017710608844741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 639
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dbefb7489d5be20800000000000000
+      internalID: 3365835459568516499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_31
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 538
+        width: 196
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbed030598db90da0800000000000000
+      internalID: -5978038632904073540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_32
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 663
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e5e7438624b9a60800000000000000
+      internalID: 7681806604735241748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 545
+        width: 154
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f60817b00ebd5ee0800000000000000
+      internalID: -1270650609567529228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 655
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251027166cb1bab50800000000000000
+      internalID: 6605403817321300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_35
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 658
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfe13797490e5fd0800000000000000
+      internalID: -2351431752356859943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_36
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 542
+        width: 180
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628ddcc2398759990800000000000000
+      internalID: -7379859840869476314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_37
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 655
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4783a20442b86bc50800000000000000
+      internalID: 6680680085062301812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_38
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 632
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74df5aacf16d94210800000000000000
+      internalID: 1317819798014786887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_39
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 629
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b834115da87b492c0800000000000000
+      internalID: -4425710726890306677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 592
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9989f9f41e4e59d30800000000000000
+      internalID: 4437704664198125721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_41
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 569
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f151e8b6415923840800000000000000
+      internalID: 5202384434502702367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 563
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc66ffb8181989560800000000000000
+      internalID: 7320761179876320975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 576
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a3cc2871a047f20800000000000000
+      internalID: 3419369113175996936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_44
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 558
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8519b7c8db38a330800000000000000
+      internalID: 3722290894271485327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 546
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a5b4568dba44570800000000000000
+      internalID: 8450067746754615834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_46
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 554
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c031e123eed6110800000000000000
+      internalID: 1255921770126576748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 557
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd27b031c73f6c40800000000000000
+      internalID: 5507682172182932919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_48
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dba7211b6637660800000000000000
+      internalID: 7382357124895653231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_49
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 561
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977dce865166fdc10800000000000000
+      internalID: 2080493795009156985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_50
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 551
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7411027e6ee0e7de0800000000000000
+      internalID: -1333612054772182713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 537
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c09b37a6d5e4b30800000000000000
+      internalID: 4273455808210603115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_52
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 537
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6be5e38e9c92930800000000000000
+      internalID: 4119045333523019472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_53
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 541
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ed998a48f5a45a0800000000000000
+      internalID: -6536306885805875614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_54
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 539
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feca9c2751c46d50800000000000000
+      internalID: 6729716323353022199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 470
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66216d5518f136ca0800000000000000
+      internalID: -6024937236140256666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 478
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0387c30f514a320800000000000000
+      internalID: 2568201809058869432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 478
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a851401296ecc8bb0800000000000000
+      internalID: -4932340540956732022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_58
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 478
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbc86c507a7e6d30800000000000000
+      internalID: 4426610106757073866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_59
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 470
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef888c7f02762d70800000000000000
+      internalID: 9018020714695397355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 430
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d721fd3cdebcd460800000000000000
+      internalID: 7267893751810435026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_61
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 440
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372bc3cedc425fc70800000000000000
+      internalID: 9004143496847471219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_62
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 478
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f8998f5d3f652a0800000000000000
+      internalID: -6748938891243712756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_63
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 479
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccecf8f6cce4a0d0800000000000000
+      internalID: -3412342278314988343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_64
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 482
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec1a37620c8f940800000000000000
+      internalID: 5330221430374256258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 427
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9879fea2a845b85e0800000000000000
+      internalID: -1906337064858708087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_66
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 462
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ebb3e1e43985a80800000000000000
+      internalID: -8477864334800994764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_67
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 459
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531fae2f83af30120800000000000000
+      internalID: 2379020150682349877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_68
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 461
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb2c282ccad49a80800000000000000
+      internalID: -8460897229540152396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 450
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b0c25b28a9f52d0800000000000000
+      internalID: -3287739316781184173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 459
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283b07b763d325050800000000000000
+      internalID: 5787755775333020546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_71
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 283
+        width: 185
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0d0c0608af61530800000000000000
+      internalID: 3825520362783822001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_72
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 431
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7695cb8d0db3d10800000000000000
+      internalID: 2106506880017328049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_73
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 446
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1c71ab0c6557c20800000000000000
+      internalID: 3203562095699804652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_74
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 430
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e630774d1cc96ce0800000000000000
+      internalID: -1411372582079285531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_75
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 431
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b288e08bedca890800000000000000
+      internalID: -7445331201851118813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_76
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 432
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d0e607f5f6d8260800000000000000
+      internalID: 7101454643131977086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_77
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 437
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76cce8657ecbddf0800000000000000
+      internalID: -154302758547306885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_78
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 435
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aec38fa570f6b50800000000000000
+      internalID: 6588492867159517738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_79
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 443
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4e08d4de7115b00800000000000000
+      internalID: 815459315505751215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_80
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 428
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946c557e5f68abb30800000000000000
+      internalID: 4303900784612197961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_81
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 438
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d472742a07bb270800000000000000
+      internalID: 8267325383249448333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_82
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 426
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b020297832d6bf7f0800000000000000
+      internalID: -577748127821200885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_83
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 424
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d05033b3114a3d0800000000000000
+      internalID: -3196410889569497793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_84
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 426
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c6506a8b4b553a0800000000000000
+      internalID: -6677232167354536901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_85
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 433
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd266ac10f363fa0800000000000000
+      internalID: -5821396191406576187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_86
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ac3e7831bcd0b00800000000000000
+      internalID: 796515993859115530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_87
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 401
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3298ba090712d30800000000000000
+      internalID: 4404925677200548841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_88
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 426
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8363a2db2786ae0800000000000000
+      internalID: -1555867514473924418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_89
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 401
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a09ae7d7451650800000000000000
+      internalID: 6202943054451615758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_90
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 422
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f30fd8418d4a8b0800000000000000
+      internalID: -5141747291757985963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_91
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 423
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee760f2d335d5cc20800000000000000
+      internalID: 3226219126639847406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_92
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 423
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0653a6ee4c28e2ca0800000000000000
+      internalID: -6039746267932117664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_93
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 427
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611f6d9a6762cf0d0800000000000000
+      internalID: -3387790528592023274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_94
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 428
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f0b529beb13baa0800000000000000
+      internalID: -6146538367843889372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_95
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 399
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65cf29848b4c9e30800000000000000
+      internalID: 4511563959327769966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_96
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 281
+        width: 204
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c201b3f0c333cf070800000000000000
+      internalID: 8141438559425597484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_97
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 410
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86ceb60a496e4dd0800000000000000
+      internalID: -2499944976482384241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_98
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 317
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5ace34c02d1eea0800000000000000
+      internalID: -5845159891229170193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_99
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 418
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8abf504df10ba30800000000000000
+      internalID: 4228915045594802426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_100
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 405
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103f78928468cc470800000000000000
+      internalID: 8416249448141157121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_101
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ab85bc3ec13eb80800000000000000
+      internalID: -8366811918029505981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_102
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 399
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04e1dcb18a9a0b10800000000000000
+      internalID: 1948539670800491530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_103
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 390
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e10ff9648625bce0800000000000000
+      internalID: -1390162559818071584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_104
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 393
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f2c9afad78d20f0800000000000000
+      internalID: -1140105756077707453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_105
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 400
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9bb6fbb3dda5440800000000000000
+      internalID: 4925492391167375808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_106
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 348
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34343f31657444cc0800000000000000
+      internalID: -3727776156528458941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_107
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d81d22d10fdbcb0800000000000000
+      internalID: -4846453616051909322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_108
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 352
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e583e8d452e864910800000000000000
+      internalID: 1821299390184044638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_109
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 343
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6528ffc5c0003cc80800000000000000
+      internalID: -8303793234841206186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_110
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 295
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea8d58349f2eb8e0800000000000000
+      internalID: -1675849697687926043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_111
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 332
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b1b6772179ecb00800000000000000
+      internalID: 850783485188316055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_112
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 344
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2353c9106f10faa0800000000000000
+      internalID: -6129364595241692370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_113
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 334
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0452d4695b4289df0800000000000000
+      internalID: -173348223324445376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_114
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 323
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615cfd2c8a1572e40800000000000000
+      internalID: 5631559644315895062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_115
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 304
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f0cacb3127050f0800000000000000
+      internalID: -1130278077374656695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_116
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 311
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4070a6a1f8ea40960800000000000000
+      internalID: 7567365203535988484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_117
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 323
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e15b3ee720675bf0800000000000000
+      internalID: -335693922598956571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_118
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 319
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1cbb72dd9728020800000000000000
+      internalID: 2342568746947428855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_119
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 324
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa17c6b9e614bf10800000000000000
+      internalID: 2284476104033376937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_120
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 327
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0183ee4e14b021620800000000000000
+      internalID: 2743267500663650320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_121
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 281
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414644df359f971b0800000000000000
+      internalID: -5658217317687598060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_122
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 313
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0e7c5d45b1f7340800000000000000
+      internalID: 4863636173761274056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_123
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 320
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0ca88bb054c45d0800000000000000
+      internalID: -3077008528757833506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_124
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 307
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf8fe64d3d51fd0800000000000000
+      internalID: -2371756719392359672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_125
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 312
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78e101c80b69a780800000000000000
+      internalID: -8671281922183141249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_126
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 177
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a757385b8ffa3950800000000000000
+      internalID: 6429732391970363299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_127
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 282
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7b9bb7f8dc2d4a0800000000000000
+      internalID: -6569962890240346164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_128
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 281
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1234f6d43e87d860800000000000000
+      internalID: 7554663257533067806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_129
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf92cb40bd294660800000000000000
+      internalID: 7370472500377067451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_130
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 282
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ef331760d372400800000000000000
+      internalID: 299274998121758225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_131
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 305
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295dd358ac8521370800000000000000
+      internalID: 8291787490784564626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_132
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 281
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480da34aa8207ca40800000000000000
+      internalID: 5388278273656148100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_133
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 305
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c8fd57e432d2c0800000000000000
+      internalID: -4408402916923620754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_134
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e43f59afeebd570800000000000000
+      internalID: 8492644282362187273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_135
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 282
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a945144d931962d0800000000000000
+      internalID: -3285072887017027163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_136
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ba13703cb9fbf80800000000000000
+      internalID: -8088575143792497777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_137
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 281
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73509d6c673582930800000000000000
+      internalID: 4118633628837676343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_138
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daee7d6c11b31840800000000000000
+      internalID: 5193689530942548695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_139
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 207
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cd7896ad52ee960800000000000000
+      internalID: 7633080038443179153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_140
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 214
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9de0ca826f00a80800000000000000
+      internalID: -8502525441929717269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_141
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 218
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37be53ac7311100b0800000000000000
+      internalID: -5764307116744119437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_142
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 160
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51159deeff528b20800000000000000
+      internalID: 3135173839115587931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_143
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 210
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ce0667a90192f0800000000000000
+      internalID: -967981830331512716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_144
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 219
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270a01dd4529996a0800000000000000
+      internalID: -6441956898793021326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_145
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 179
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f79f5e3bb344cf0800000000000000
+      internalID: -269024433891868778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_146
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b0100f14f03c580800000000000000
+      internalID: -8808179670332667010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_147
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 162
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cff1813a3d9f9b0800000000000000
+      internalID: -5045769210054050793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_148
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 200
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e3f263cacb9cbd0800000000000000
+      internalID: -2609347061255029210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_149
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 183
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684ff08b8d73eec30800000000000000
+      internalID: 4390508090673329286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_150
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 168
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c29f4d5ec51d7ba0800000000000000
+      internalID: -6089687145062100282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_151
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 168
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa02d785de16c450800000000000000
+      internalID: 6108603847030213371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_152
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bb0068ea92f1f50800000000000000
+      internalID: 6854242987430427423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_153
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 142
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec1849919d56f2e0800000000000000
+      internalID: -2092382096943735582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_154
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 156
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2df5f066b4c10c80800000000000000
+      internalID: -8358183145833104082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_155
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 172
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b540158bca285a0800000000000000
+      internalID: -6520459402845856939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_156
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 168
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9c62402b2958d20800000000000000
+      internalID: 3280189196880759208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_157
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 170
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8127b813a5f548120800000000000000
+      internalID: 2415160141160346136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_158
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 160
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699293ce468d67640800000000000000
+      internalID: 5077483557878311318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_159
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 138
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d24340c16479c40800000000000000
+      internalID: 5518956954509389071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_160
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 170
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547eb4dea3853cda0800000000000000
+      internalID: -5925795674576918715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_161
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 161
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d406ab15c35afeca0800000000000000
+      internalID: -5985383701264310195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_162
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 104
+        width: 121
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6000d864a9b8f36c0800000000000000
+      internalID: -4161454035942178810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_163
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 150
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311495c1d0ae3cb30800000000000000
+      internalID: 4306543010727411987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_164
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 112
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb91e41ba7df3ab0800000000000000
+      internalID: -5026061529332474909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_165
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 127
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a333bc4c6c145c4b0800000000000000
+      internalID: -5420854254509542598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_166
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 127
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6829d49a4f13a6090800000000000000
+      internalID: -8040559257834384762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_167
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 114
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42074308f7716fd40800000000000000
+      internalID: 5617703421570478116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_168
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 106
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38fc44cf8f8e0ee0800000000000000
+      internalID: -1292938195372279750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_169
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 89
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a749f4df8ee78c0800000000000000
+      internalID: -3999503244398921193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_170
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 96
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9d7d262d921fa60800000000000000
+      internalID: 7705986420985813475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_171
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58eef9dd81bd715d0800000000000000
+      internalID: -3091761719322612091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_172
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 82
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d61e8e33a07f2e0800000000000000
+      internalID: -2092192283823608542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_173
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3295486c178bb20800000000000000
+      internalID: 3150393036783559658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_174
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 50
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c889406c8bdaa4b0800000000000000
+      internalID: -5428285004884375351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_175
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 87
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26ebf7476cd5de10800000000000000
+      internalID: 2221924327324640811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_176
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 95
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a973777e832bec60800000000000000
+      internalID: 7848405870419605928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_177
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 94
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2657624c77d5db1d0800000000000000
+      internalID: -3333405380210952862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_178
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 64
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b31841a82ac1b3c0800000000000000
+      internalID: -4345469889582459982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_179
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 85
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db169a2a4a0a5590800000000000000
+      internalID: -7684818500495991852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_180
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 84
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766707e4574416900800000000000000
+      internalID: 675896689700140647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_181
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 89
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588a90129bf4bb070800000000000000
+      internalID: 8123174009434646661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_182
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 66
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc32bed6f0779340800000000000000
+      internalID: 4870485727624969406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_183
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc41dc954b84c8f0800000000000000
+      internalID: -521138525768168267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 75
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93fe1d3248adaeb0800000000000000
+      internalID: -4706921033085553765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_185
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c065dc2b5ccd51b80800000000000000
+      internalID: -8424584786260175348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_186
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 37
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1f8f35a7164baf0800000000000000
+      internalID: -381572890396921379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_187
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 77
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d332b07af690d0560800000000000000
+      internalID: 7281486547676504893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_188
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 67
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdc45c0ee9466130800000000000000
+      internalID: 3559613842240884165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_189
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 35
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0a83a90a49e3ae0800000000000000
+      internalID: -1567652202775273279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_190
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 56
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dcf9abb06d16210800000000000000
+      internalID: 1324575111287655768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_191
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 59
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea68a016c7383dd0800000000000000
+      internalID: -2506191868809155871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_192
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 64
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6288c6c39cdbb70800000000000000
+      internalID: 8916504098619532986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_193
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 54
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d35f21fffd5ca980800000000000000
+      internalID: -8526336640674737192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_194
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 50
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa56120ec44d8460800000000000000
+      internalID: 7245523027097967352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_195
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 56
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ab78b2c4ebe8020800000000000000
+      internalID: 2346021690263714374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_196
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 33
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18d701fac29a0b80800000000000000
+      internalID: -8427762352345589733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_197
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 49
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c58af0eb176c670800000000000000
+      internalID: 8558653202984623178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_198
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f8c3182070c2770800000000000000
+      internalID: 8587246296828251987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_199
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 33
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf6b58e019157cb0800000000000000
+      internalID: -4866956261895475273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_200
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d47e3bb4d9170650800000000000000
+      internalID: 6198951813563970774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadProjectile_201
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2520a10c4d0cb0190800000000000000
+      internalID: -7995084693477653934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P3_OverloadProjectile_0: 1734014336707878248
+      VFX_P3_OverloadProjectile_1: 197892438844221158
+      VFX_P3_OverloadProjectile_10: 7568145998919314955
+      VFX_P3_OverloadProjectile_100: 8416249448141157121
+      VFX_P3_OverloadProjectile_101: -8366811918029505981
+      VFX_P3_OverloadProjectile_102: 1948539670800491530
+      VFX_P3_OverloadProjectile_103: -1390162559818071584
+      VFX_P3_OverloadProjectile_104: -1140105756077707453
+      VFX_P3_OverloadProjectile_105: 4925492391167375808
+      VFX_P3_OverloadProjectile_106: -3727776156528458941
+      VFX_P3_OverloadProjectile_107: -4846453616051909322
+      VFX_P3_OverloadProjectile_108: 1821299390184044638
+      VFX_P3_OverloadProjectile_109: -8303793234841206186
+      VFX_P3_OverloadProjectile_11: 2973535019063663558
+      VFX_P3_OverloadProjectile_110: -1675849697687926043
+      VFX_P3_OverloadProjectile_111: 850783485188316055
+      VFX_P3_OverloadProjectile_112: -6129364595241692370
+      VFX_P3_OverloadProjectile_113: -173348223324445376
+      VFX_P3_OverloadProjectile_114: 5631559644315895062
+      VFX_P3_OverloadProjectile_115: -1130278077374656695
+      VFX_P3_OverloadProjectile_116: 7567365203535988484
+      VFX_P3_OverloadProjectile_117: -335693922598956571
+      VFX_P3_OverloadProjectile_118: 2342568746947428855
+      VFX_P3_OverloadProjectile_119: 2284476104033376937
+      VFX_P3_OverloadProjectile_12: 5434503989931242755
+      VFX_P3_OverloadProjectile_120: 2743267500663650320
+      VFX_P3_OverloadProjectile_121: -5658217317687598060
+      VFX_P3_OverloadProjectile_122: 4863636173761274056
+      VFX_P3_OverloadProjectile_123: -3077008528757833506
+      VFX_P3_OverloadProjectile_124: -2371756719392359672
+      VFX_P3_OverloadProjectile_125: -8671281922183141249
+      VFX_P3_OverloadProjectile_126: 6429732391970363299
+      VFX_P3_OverloadProjectile_127: -6569962890240346164
+      VFX_P3_OverloadProjectile_128: 7554663257533067806
+      VFX_P3_OverloadProjectile_129: 7370472500377067451
+      VFX_P3_OverloadProjectile_13: 7291027095285728519
+      VFX_P3_OverloadProjectile_130: 299274998121758225
+      VFX_P3_OverloadProjectile_131: 8291787490784564626
+      VFX_P3_OverloadProjectile_132: 5388278273656148100
+      VFX_P3_OverloadProjectile_133: -4408402916923620754
+      VFX_P3_OverloadProjectile_134: 8492644282362187273
+      VFX_P3_OverloadProjectile_135: -3285072887017027163
+      VFX_P3_OverloadProjectile_136: -8088575143792497777
+      VFX_P3_OverloadProjectile_137: 4118633628837676343
+      VFX_P3_OverloadProjectile_138: 5193689530942548695
+      VFX_P3_OverloadProjectile_139: 7633080038443179153
+      VFX_P3_OverloadProjectile_14: -1998393733264143090
+      VFX_P3_OverloadProjectile_140: -8502525441929717269
+      VFX_P3_OverloadProjectile_141: -5764307116744119437
+      VFX_P3_OverloadProjectile_142: 3135173839115587931
+      VFX_P3_OverloadProjectile_143: -967981830331512716
+      VFX_P3_OverloadProjectile_144: -6441956898793021326
+      VFX_P3_OverloadProjectile_145: -269024433891868778
+      VFX_P3_OverloadProjectile_146: -8808179670332667010
+      VFX_P3_OverloadProjectile_147: -5045769210054050793
+      VFX_P3_OverloadProjectile_148: -2609347061255029210
+      VFX_P3_OverloadProjectile_149: 4390508090673329286
+      VFX_P3_OverloadProjectile_15: -3277310262154985339
+      VFX_P3_OverloadProjectile_150: -6089687145062100282
+      VFX_P3_OverloadProjectile_151: 6108603847030213371
+      VFX_P3_OverloadProjectile_152: 6854242987430427423
+      VFX_P3_OverloadProjectile_153: -2092382096943735582
+      VFX_P3_OverloadProjectile_154: -8358183145833104082
+      VFX_P3_OverloadProjectile_155: -6520459402845856939
+      VFX_P3_OverloadProjectile_156: 3280189196880759208
+      VFX_P3_OverloadProjectile_157: 2415160141160346136
+      VFX_P3_OverloadProjectile_158: 5077483557878311318
+      VFX_P3_OverloadProjectile_159: 5518956954509389071
+      VFX_P3_OverloadProjectile_16: 4670517520886556703
+      VFX_P3_OverloadProjectile_160: -5925795674576918715
+      VFX_P3_OverloadProjectile_161: -5985383701264310195
+      VFX_P3_OverloadProjectile_162: -4161454035942178810
+      VFX_P3_OverloadProjectile_163: 4306543010727411987
+      VFX_P3_OverloadProjectile_164: -5026061529332474909
+      VFX_P3_OverloadProjectile_165: -5420854254509542598
+      VFX_P3_OverloadProjectile_166: -8040559257834384762
+      VFX_P3_OverloadProjectile_167: 5617703421570478116
+      VFX_P3_OverloadProjectile_168: -1292938195372279750
+      VFX_P3_OverloadProjectile_169: -3999503244398921193
+      VFX_P3_OverloadProjectile_17: -2312517639014846883
+      VFX_P3_OverloadProjectile_170: 7705986420985813475
+      VFX_P3_OverloadProjectile_171: -3091761719322612091
+      VFX_P3_OverloadProjectile_172: -2092192283823608542
+      VFX_P3_OverloadProjectile_173: 3150393036783559658
+      VFX_P3_OverloadProjectile_174: -5428285004884375351
+      VFX_P3_OverloadProjectile_175: 2221924327324640811
+      VFX_P3_OverloadProjectile_176: 7848405870419605928
+      VFX_P3_OverloadProjectile_177: -3333405380210952862
+      VFX_P3_OverloadProjectile_178: -4345469889582459982
+      VFX_P3_OverloadProjectile_179: -7684818500495991852
+      VFX_P3_OverloadProjectile_18: 6335570666914860429
+      VFX_P3_OverloadProjectile_180: 675896689700140647
+      VFX_P3_OverloadProjectile_181: 8123174009434646661
+      VFX_P3_OverloadProjectile_182: 4870485727624969406
+      VFX_P3_OverloadProjectile_183: -521138525768168267
+      VFX_P3_OverloadProjectile_184: -4706921033085553765
+      VFX_P3_OverloadProjectile_185: -8424584786260175348
+      VFX_P3_OverloadProjectile_186: -381572890396921379
+      VFX_P3_OverloadProjectile_187: 7281486547676504893
+      VFX_P3_OverloadProjectile_188: 3559613842240884165
+      VFX_P3_OverloadProjectile_189: -1567652202775273279
+      VFX_P3_OverloadProjectile_19: -8053031363905405935
+      VFX_P3_OverloadProjectile_190: 1324575111287655768
+      VFX_P3_OverloadProjectile_191: -2506191868809155871
+      VFX_P3_OverloadProjectile_192: 8916504098619532986
+      VFX_P3_OverloadProjectile_193: -8526336640674737192
+      VFX_P3_OverloadProjectile_194: 7245523027097967352
+      VFX_P3_OverloadProjectile_195: 2346021690263714374
+      VFX_P3_OverloadProjectile_196: -8427762352345589733
+      VFX_P3_OverloadProjectile_197: 8558653202984623178
+      VFX_P3_OverloadProjectile_198: 8587246296828251987
+      VFX_P3_OverloadProjectile_199: -4866956261895475273
+      VFX_P3_OverloadProjectile_2: 5027210848005143145
+      VFX_P3_OverloadProjectile_20: 570664706373664352
+      VFX_P3_OverloadProjectile_200: 6198951813563970774
+      VFX_P3_OverloadProjectile_201: -7995084693477653934
+      VFX_P3_OverloadProjectile_21: -2568721761576990709
+      VFX_P3_OverloadProjectile_22: 6777112468938984487
+      VFX_P3_OverloadProjectile_23: -9165147693202067604
+      VFX_P3_OverloadProjectile_24: 2449866747456243845
+      VFX_P3_OverloadProjectile_25: -5382710242761811095
+      VFX_P3_OverloadProjectile_26: 2882694253008866016
+      VFX_P3_OverloadProjectile_27: 8524965170573504776
+      VFX_P3_OverloadProjectile_28: -948576246568235844
+      VFX_P3_OverloadProjectile_29: -165017710608844741
+      VFX_P3_OverloadProjectile_3: 8840182816799273627
+      VFX_P3_OverloadProjectile_30: 3365835459568516499
+      VFX_P3_OverloadProjectile_31: -5978038632904073540
+      VFX_P3_OverloadProjectile_32: 7681806604735241748
+      VFX_P3_OverloadProjectile_33: -1270650609567529228
+      VFX_P3_OverloadProjectile_34: 6605403817321300306
+      VFX_P3_OverloadProjectile_35: -2351431752356859943
+      VFX_P3_OverloadProjectile_36: -7379859840869476314
+      VFX_P3_OverloadProjectile_37: 6680680085062301812
+      VFX_P3_OverloadProjectile_38: 1317819798014786887
+      VFX_P3_OverloadProjectile_39: -4425710726890306677
+      VFX_P3_OverloadProjectile_4: 6593062384278533431
+      VFX_P3_OverloadProjectile_40: 4437704664198125721
+      VFX_P3_OverloadProjectile_41: 5202384434502702367
+      VFX_P3_OverloadProjectile_42: 7320761179876320975
+      VFX_P3_OverloadProjectile_43: 3419369113175996936
+      VFX_P3_OverloadProjectile_44: 3722290894271485327
+      VFX_P3_OverloadProjectile_45: 8450067746754615834
+      VFX_P3_OverloadProjectile_46: 1255921770126576748
+      VFX_P3_OverloadProjectile_47: 5507682172182932919
+      VFX_P3_OverloadProjectile_48: 7382357124895653231
+      VFX_P3_OverloadProjectile_49: 2080493795009156985
+      VFX_P3_OverloadProjectile_5: 8621040723325265486
+      VFX_P3_OverloadProjectile_50: -1333612054772182713
+      VFX_P3_OverloadProjectile_51: 4273455808210603115
+      VFX_P3_OverloadProjectile_52: 4119045333523019472
+      VFX_P3_OverloadProjectile_53: -6536306885805875614
+      VFX_P3_OverloadProjectile_54: 6729716323353022199
+      VFX_P3_OverloadProjectile_55: -6024937236140256666
+      VFX_P3_OverloadProjectile_56: 2568201809058869432
+      VFX_P3_OverloadProjectile_57: -4932340540956732022
+      VFX_P3_OverloadProjectile_58: 4426610106757073866
+      VFX_P3_OverloadProjectile_59: 9018020714695397355
+      VFX_P3_OverloadProjectile_6: 342064694278052483
+      VFX_P3_OverloadProjectile_60: 7267893751810435026
+      VFX_P3_OverloadProjectile_61: 9004143496847471219
+      VFX_P3_OverloadProjectile_62: -6748938891243712756
+      VFX_P3_OverloadProjectile_63: -3412342278314988343
+      VFX_P3_OverloadProjectile_64: 5330221430374256258
+      VFX_P3_OverloadProjectile_65: -1906337064858708087
+      VFX_P3_OverloadProjectile_66: -8477864334800994764
+      VFX_P3_OverloadProjectile_67: 2379020150682349877
+      VFX_P3_OverloadProjectile_68: -8460897229540152396
+      VFX_P3_OverloadProjectile_69: -3287739316781184173
+      VFX_P3_OverloadProjectile_7: -1953623978805355280
+      VFX_P3_OverloadProjectile_70: 5787755775333020546
+      VFX_P3_OverloadProjectile_71: 3825520362783822001
+      VFX_P3_OverloadProjectile_72: 2106506880017328049
+      VFX_P3_OverloadProjectile_73: 3203562095699804652
+      VFX_P3_OverloadProjectile_74: -1411372582079285531
+      VFX_P3_OverloadProjectile_75: -7445331201851118813
+      VFX_P3_OverloadProjectile_76: 7101454643131977086
+      VFX_P3_OverloadProjectile_77: -154302758547306885
+      VFX_P3_OverloadProjectile_78: 6588492867159517738
+      VFX_P3_OverloadProjectile_79: 815459315505751215
+      VFX_P3_OverloadProjectile_8: 2616178578956583056
+      VFX_P3_OverloadProjectile_80: 4303900784612197961
+      VFX_P3_OverloadProjectile_81: 8267325383249448333
+      VFX_P3_OverloadProjectile_82: -577748127821200885
+      VFX_P3_OverloadProjectile_83: -3196410889569497793
+      VFX_P3_OverloadProjectile_84: -6677232167354536901
+      VFX_P3_OverloadProjectile_85: -5821396191406576187
+      VFX_P3_OverloadProjectile_86: 796515993859115530
+      VFX_P3_OverloadProjectile_87: 4404925677200548841
+      VFX_P3_OverloadProjectile_88: -1555867514473924418
+      VFX_P3_OverloadProjectile_89: 6202943054451615758
+      VFX_P3_OverloadProjectile_9: -9119303724617143025
+      VFX_P3_OverloadProjectile_90: -5141747291757985963
+      VFX_P3_OverloadProjectile_91: 3226219126639847406
+      VFX_P3_OverloadProjectile_92: -6039746267932117664
+      VFX_P3_OverloadProjectile_93: -3387790528592023274
+      VFX_P3_OverloadProjectile_94: -6146538367843889372
+      VFX_P3_OverloadProjectile_95: 4511563959327769966
+      VFX_P3_OverloadProjectile_96: 8141438559425597484
+      VFX_P3_OverloadProjectile_97: -2499944976482384241
+      VFX_P3_OverloadProjectile_98: -5845159891229170193
+      VFX_P3_OverloadProjectile_99: 4228915045594802426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3237 @@
+fileFormatVersion: 2
+guid: 13ec75a267cd95945a3603d1b842a2b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2305248902323707869
+    second: VFX_P3_OverloadSparks_0
+  - first:
+      213: -2607852522799544876
+    second: VFX_P3_OverloadSparks_1
+  - first:
+      213: 1957555549474224721
+    second: VFX_P3_OverloadSparks_2
+  - first:
+      213: -3303969888852535473
+    second: VFX_P3_OverloadSparks_3
+  - first:
+      213: 3575145788380526630
+    second: VFX_P3_OverloadSparks_4
+  - first:
+      213: 3523507196152943948
+    second: VFX_P3_OverloadSparks_5
+  - first:
+      213: 3493734819867589781
+    second: VFX_P3_OverloadSparks_6
+  - first:
+      213: 3070423929945422369
+    second: VFX_P3_OverloadSparks_7
+  - first:
+      213: 75747179569704831
+    second: VFX_P3_OverloadSparks_8
+  - first:
+      213: 6250181924081452606
+    second: VFX_P3_OverloadSparks_9
+  - first:
+      213: -5716338444544981411
+    second: VFX_P3_OverloadSparks_10
+  - first:
+      213: -6749917164399050679
+    second: VFX_P3_OverloadSparks_11
+  - first:
+      213: 964446309297883363
+    second: VFX_P3_OverloadSparks_12
+  - first:
+      213: 8025742578585190028
+    second: VFX_P3_OverloadSparks_13
+  - first:
+      213: 5857412409982791730
+    second: VFX_P3_OverloadSparks_14
+  - first:
+      213: -2271529148506835390
+    second: VFX_P3_OverloadSparks_15
+  - first:
+      213: 5427158019529766628
+    second: VFX_P3_OverloadSparks_16
+  - first:
+      213: -4748618664186514083
+    second: VFX_P3_OverloadSparks_17
+  - first:
+      213: 7515006814666544157
+    second: VFX_P3_OverloadSparks_18
+  - first:
+      213: -7670855280040941625
+    second: VFX_P3_OverloadSparks_19
+  - first:
+      213: -1898024897004050457
+    second: VFX_P3_OverloadSparks_20
+  - first:
+      213: -6765551820891192211
+    second: VFX_P3_OverloadSparks_21
+  - first:
+      213: -2114658297988694924
+    second: VFX_P3_OverloadSparks_22
+  - first:
+      213: 6982170503064947170
+    second: VFX_P3_OverloadSparks_23
+  - first:
+      213: 2122482482436987445
+    second: VFX_P3_OverloadSparks_24
+  - first:
+      213: 8542725203480079295
+    second: VFX_P3_OverloadSparks_25
+  - first:
+      213: -7203003988522638263
+    second: VFX_P3_OverloadSparks_26
+  - first:
+      213: 1900674312212568778
+    second: VFX_P3_OverloadSparks_27
+  - first:
+      213: -6872551410978115123
+    second: VFX_P3_OverloadSparks_28
+  - first:
+      213: 8413047068509347469
+    second: VFX_P3_OverloadSparks_29
+  - first:
+      213: 233528555593440779
+    second: VFX_P3_OverloadSparks_30
+  - first:
+      213: -4584369340810674746
+    second: VFX_P3_OverloadSparks_31
+  - first:
+      213: -5407160323996400269
+    second: VFX_P3_OverloadSparks_32
+  - first:
+      213: 7380936918393826155
+    second: VFX_P3_OverloadSparks_33
+  - first:
+      213: -8350040622342666242
+    second: VFX_P3_OverloadSparks_34
+  - first:
+      213: -3459480949198346916
+    second: VFX_P3_OverloadSparks_35
+  - first:
+      213: 4053808639291023267
+    second: VFX_P3_OverloadSparks_36
+  - first:
+      213: -731556929958961722
+    second: VFX_P3_OverloadSparks_37
+  - first:
+      213: -3751404802774695096
+    second: VFX_P3_OverloadSparks_38
+  - first:
+      213: -1318144022830303943
+    second: VFX_P3_OverloadSparks_39
+  - first:
+      213: 8287499547772093528
+    second: VFX_P3_OverloadSparks_40
+  - first:
+      213: 4014180618931191781
+    second: VFX_P3_OverloadSparks_41
+  - first:
+      213: -5580110176724242294
+    second: VFX_P3_OverloadSparks_42
+  - first:
+      213: -7641858578473711817
+    second: VFX_P3_OverloadSparks_43
+  - first:
+      213: 8800505591425885250
+    second: VFX_P3_OverloadSparks_44
+  - first:
+      213: 6738321951436055901
+    second: VFX_P3_OverloadSparks_45
+  - first:
+      213: -8612683946485293273
+    second: VFX_P3_OverloadSparks_46
+  - first:
+      213: 813371973251959488
+    second: VFX_P3_OverloadSparks_47
+  - first:
+      213: -2130689287140439372
+    second: VFX_P3_OverloadSparks_48
+  - first:
+      213: 703255054451571111
+    second: VFX_P3_OverloadSparks_49
+  - first:
+      213: -9169016227234916659
+    second: VFX_P3_OverloadSparks_50
+  - first:
+      213: -6267625618619200093
+    second: VFX_P3_OverloadSparks_51
+  - first:
+      213: -7017605664472995057
+    second: VFX_P3_OverloadSparks_52
+  - first:
+      213: -1640471941515356440
+    second: VFX_P3_OverloadSparks_53
+  - first:
+      213: -16046439660821934
+    second: VFX_P3_OverloadSparks_54
+  - first:
+      213: 4948045517198531648
+    second: VFX_P3_OverloadSparks_55
+  - first:
+      213: -5933236658668354848
+    second: VFX_P3_OverloadSparks_56
+  - first:
+      213: 3128063304695904002
+    second: VFX_P3_OverloadSparks_57
+  - first:
+      213: -3153845632025916180
+    second: VFX_P3_OverloadSparks_58
+  - first:
+      213: 7072017154103521036
+    second: VFX_P3_OverloadSparks_59
+  - first:
+      213: 4469156099207018709
+    second: VFX_P3_OverloadSparks_60
+  - first:
+      213: 6023592595806954667
+    second: VFX_P3_OverloadSparks_61
+  - first:
+      213: -5927263642118158444
+    second: VFX_P3_OverloadSparks_62
+  - first:
+      213: 5401749155104940563
+    second: VFX_P3_OverloadSparks_63
+  - first:
+      213: -1942880888549477230
+    second: VFX_P3_OverloadSparks_64
+  - first:
+      213: -6887552190489727260
+    second: VFX_P3_OverloadSparks_65
+  - first:
+      213: 1732298135611664332
+    second: VFX_P3_OverloadSparks_66
+  - first:
+      213: -1937384469970563351
+    second: VFX_P3_OverloadSparks_67
+  - first:
+      213: 295797398842912325
+    second: VFX_P3_OverloadSparks_68
+  - first:
+      213: 9192859151171182699
+    second: VFX_P3_OverloadSparks_69
+  - first:
+      213: -799544851696292530
+    second: VFX_P3_OverloadSparks_70
+  - first:
+      213: 7921589935470063530
+    second: VFX_P3_OverloadSparks_71
+  - first:
+      213: 2105606060461709746
+    second: VFX_P3_OverloadSparks_72
+  - first:
+      213: 8016120599843963502
+    second: VFX_P3_OverloadSparks_73
+  - first:
+      213: -5512545207386563628
+    second: VFX_P3_OverloadSparks_74
+  - first:
+      213: -3163865744412564620
+    second: VFX_P3_OverloadSparks_75
+  - first:
+      213: 747901312484204930
+    second: VFX_P3_OverloadSparks_76
+  - first:
+      213: 8831316420994920481
+    second: VFX_P3_OverloadSparks_77
+  - first:
+      213: -6216087267930879723
+    second: VFX_P3_OverloadSparks_78
+  - first:
+      213: 7884253987051303773
+    second: VFX_P3_OverloadSparks_79
+  - first:
+      213: -1607842492627213926
+    second: VFX_P3_OverloadSparks_80
+  - first:
+      213: 6692709210259109778
+    second: VFX_P3_OverloadSparks_81
+  - first:
+      213: 800579937278576523
+    second: VFX_P3_OverloadSparks_82
+  - first:
+      213: -706754046089213305
+    second: VFX_P3_OverloadSparks_83
+  - first:
+      213: -1316514486197641400
+    second: VFX_P3_OverloadSparks_84
+  - first:
+      213: -3166696688648535909
+    second: VFX_P3_OverloadSparks_85
+  - first:
+      213: -2732318768646878772
+    second: VFX_P3_OverloadSparks_86
+  - first:
+      213: 4743886876031014337
+    second: VFX_P3_OverloadSparks_87
+  - first:
+      213: 70276978108397952
+    second: VFX_P3_OverloadSparks_88
+  - first:
+      213: -8228012838290223581
+    second: VFX_P3_OverloadSparks_89
+  - first:
+      213: -4777485832652020609
+    second: VFX_P3_OverloadSparks_90
+  - first:
+      213: -4707436822068903108
+    second: VFX_P3_OverloadSparks_91
+  - first:
+      213: -1562797499692509242
+    second: VFX_P3_OverloadSparks_92
+  - first:
+      213: 4801145333302200314
+    second: VFX_P3_OverloadSparks_93
+  - first:
+      213: -4772428951890545098
+    second: VFX_P3_OverloadSparks_94
+  - first:
+      213: -8917143889737532275
+    second: VFX_P3_OverloadSparks_95
+  - first:
+      213: 8750499840178201958
+    second: VFX_P3_OverloadSparks_96
+  - first:
+      213: -5248839912583858447
+    second: VFX_P3_OverloadSparks_97
+  - first:
+      213: -8349697318255535812
+    second: VFX_P3_OverloadSparks_98
+  - first:
+      213: 2981502191765134897
+    second: VFX_P3_OverloadSparks_99
+  - first:
+      213: -9089650503347318075
+    second: VFX_P3_OverloadSparks_100
+  - first:
+      213: 1206005401720498572
+    second: VFX_P3_OverloadSparks_101
+  - first:
+      213: 8407094435052494253
+    second: VFX_P3_OverloadSparks_102
+  - first:
+      213: 2461290685025325027
+    second: VFX_P3_OverloadSparks_103
+  - first:
+      213: -402741412543689189
+    second: VFX_P3_OverloadSparks_104
+  - first:
+      213: 4735743300111875516
+    second: VFX_P3_OverloadSparks_105
+  - first:
+      213: 6752875580714166494
+    second: VFX_P3_OverloadSparks_106
+  - first:
+      213: -7529911758976587603
+    second: VFX_P3_OverloadSparks_107
+  - first:
+      213: 5135355552645449981
+    second: VFX_P3_OverloadSparks_108
+  - first:
+      213: -1559424654714786286
+    second: VFX_P3_OverloadSparks_109
+  - first:
+      213: 4980345309915092176
+    second: VFX_P3_OverloadSparks_110
+  - first:
+      213: 5856333562993957154
+    second: VFX_P3_OverloadSparks_111
+  - first:
+      213: 8923778232677156666
+    second: VFX_P3_OverloadSparks_112
+  - first:
+      213: -4952266873639944550
+    second: VFX_P3_OverloadSparks_113
+  - first:
+      213: -3178721662541115370
+    second: VFX_P3_OverloadSparks_114
+  - first:
+      213: 245046820464877962
+    second: VFX_P3_OverloadSparks_115
+  - first:
+      213: 4233969995230006166
+    second: VFX_P3_OverloadSparks_116
+  - first:
+      213: 5241037670062950215
+    second: VFX_P3_OverloadSparks_117
+  - first:
+      213: -2832271804370620865
+    second: VFX_P3_OverloadSparks_118
+  - first:
+      213: 4246000214470231310
+    second: VFX_P3_OverloadSparks_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 611
+        width: 127
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320e22a465c1200e0800000000000000
+      internalID: -2305248902323707869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 720
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d54def82fb0fcbd0800000000000000
+      internalID: -2607852522799544876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 702
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a71829662aa2b10800000000000000
+      internalID: 1957555549474224721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 719
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f479b5a24e0f522d0800000000000000
+      internalID: -3303969888852535473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 539
+        width: 207
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628b7a017287d9130800000000000000
+      internalID: 3575145788380526630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 537
+        width: 207
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c459a36602306e030800000000000000
+      internalID: 3523507196152943948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 724
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cfe9dde4d3c7030800000000000000
+      internalID: 3493734819867589781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_7
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 724
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a7146eb465c9a20800000000000000
+      internalID: 3070423929945422369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 700
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f6df298ab1d0100800000000000000
+      internalID: 75747179569704831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 698
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e364176585b1db650800000000000000
+      internalID: 6250181924081452606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 639
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56ccfc987c7ba0b0800000000000000
+      internalID: -5716338444544981411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 702
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940cea00a1a7352a0800000000000000
+      internalID: -6749917164399050679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_12
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 683
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e803a6fec6626d00800000000000000
+      internalID: 964446309297883363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 701
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e3c4f5a5a216f60800000000000000
+      internalID: 8025742578585190028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 683
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2303dff8d85b94150800000000000000
+      internalID: 5857412409982791730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 685
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246fd464648e970e0800000000000000
+      internalID: -2271529148506835390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 672
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6fbf5e673215b40800000000000000
+      internalID: 5427158019529766628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 563
+        width: 138
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d557f53fb74891eb0800000000000000
+      internalID: -4748618664186514083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 652
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14d6d8b1eaaa4860800000000000000
+      internalID: 7515006814666544157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 658
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7eab5c3c5ab8590800000000000000
+      internalID: -7670855280040941625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 662
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7e93f896cd8a5e0800000000000000
+      internalID: -1898024897004050457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 636
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64884ed67eeb12a0800000000000000
+      internalID: -6765551820891192211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 603
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c3d0f5b7937a2e0800000000000000
+      internalID: -2114658297988694924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 608
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e985645417a5e060800000000000000
+      internalID: 6982170503064947170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 603
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a55a78292947d10800000000000000
+      internalID: 2122482482436987445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_25
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 597
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbe43faf4bdd8670800000000000000
+      internalID: 8542725203480079295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_26
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 612
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944e26c190ac90c90800000000000000
+      internalID: -7203003988522638263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_27
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 595
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acad32d773d806a10800000000000000
+      internalID: 1900674312212568778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 537
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc13a0077eacf90a0800000000000000
+      internalID: -6872551410978115123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 600
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e142d0cb521c470800000000000000
+      internalID: 8413047068509347469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 595
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e9e09ebf8ad3300800000000000000
+      internalID: 233528555593440779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 581
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdb9c1af5c0160c0800000000000000
+      internalID: -4584369340810674746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_32
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 546
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375cb9c6558e5f4b0800000000000000
+      internalID: -5407160323996400269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 537
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b2e6a750b5e6660800000000000000
+      internalID: 7380936918393826155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 560
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef70f2d5b42be1c80800000000000000
+      internalID: -8350040622342666242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 563
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c552dc3e7647dffc0800000000000000
+      internalID: -3459480949198346916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 557
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afd95cba75024830800000000000000
+      internalID: 4053808639291023267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 538
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd12d029dcf8d5f0800000000000000
+      internalID: -731556929958961722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 554
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8438be9253550fbc0800000000000000
+      internalID: -3751404802774695096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 546
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935356cbef205bde0800000000000000
+      internalID: -1318144022830303943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 544
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8548a2dfdec130370800000000000000
+      internalID: 8287499547772093528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 549
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efb6af310c35b730800000000000000
+      internalID: 4014180618931191781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 549
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a803fc4eb577f82b0800000000000000
+      internalID: -5580110176724242294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 537
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7378d467c1aa2f590800000000000000
+      internalID: -7641858578473711817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_44
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 552
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24467c4553da12a70800000000000000
+      internalID: 8800505591425885250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_45
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 537
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5520991d14538d50800000000000000
+      internalID: 6738321951436055901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_46
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 546
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fd8072599997880800000000000000
+      internalID: -8612683946485293273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_47
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 545
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca01ff008da94b00800000000000000
+      internalID: 813371973251959488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_48
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 537
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba8349d1654e62e0800000000000000
+      internalID: -2130689287140439372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_49
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 540
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9751bfeb672c900800000000000000
+      internalID: 703255054451571111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 537
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6ded3225c11c080800000000000000
+      internalID: -9169016227234916659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 281
+        width: 203
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad801905bbe409a0800000000000000
+      internalID: -6267625618619200093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b615b34d47c9e90800000000000000
+      internalID: -7017605664472995057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_53
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 416
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e65bf5f57fdb39e0800000000000000
+      internalID: -1640471941515356440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_54
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 471
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2526b1029ddf6cff0800000000000000
+      internalID: -16046439660821934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_55
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c15199e2dfaa440800000000000000
+      internalID: 4948045517198531648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_56
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 282
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e24fbfc1b8e8ada0800000000000000
+      internalID: -5933236658668354848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 281
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207755f900d196b20800000000000000
+      internalID: 3128063304695904002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_58
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec8da28b1a4b34d0800000000000000
+      internalID: -3153845632025916180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 209
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f2fcbe12ad42260800000000000000
+      internalID: 7072017154103521036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_60
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 214
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8310b2bc1a50e30800000000000000
+      internalID: 4469156099207018709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_61
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 214
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba42fb03d89189350800000000000000
+      internalID: 6023592595806954667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_62
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 200
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49785791f112ebda0800000000000000
+      internalID: -5927263642118158444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_63
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 207
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312ebc3ac3ed6fa40800000000000000
+      internalID: 5401749155104940563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_64
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 214
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294fc1d20208905e0800000000000000
+      internalID: -1942880888549477230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 146
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee65e946cf7a60a0800000000000000
+      internalID: -6887552190489727260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_66
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 198
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7643ae9fb5a0810800000000000000
+      internalID: 1732298135611664332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_67
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 223
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eecb0ad6170d15e0800000000000000
+      internalID: -1937384469970563351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_68
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 194
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e2483ca22ea1400800000000000000
+      internalID: 295797398842912325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 205
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e1cf21b8939f70800000000000000
+      internalID: 9192859151171182699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_70
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 206
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d66ac813277e4f0800000000000000
+      internalID: -799544851696292530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_71
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 213
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafa00073142fed60800000000000000
+      internalID: 7921589935470063530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_72
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 206
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9dab65e8d983d10800000000000000
+      internalID: 2105606060461709746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_73
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 174
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62046ed63bfe3f60800000000000000
+      internalID: 8016120599843963502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 168
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db117137518f73b0800000000000000
+      internalID: -5512545207386563628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_75
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 195
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473234b4ed0b714d0800000000000000
+      internalID: -3163865744412564620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_76
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 192
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2816ba9f744116a00800000000000000
+      internalID: 747901312484204930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_77
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 185
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120f97c9e732f8a70800000000000000
+      internalID: 8831316420994920481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_78
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 177
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519c62660950cb9a0800000000000000
+      internalID: -6216087267930879723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_79
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 128
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5376298a3f7a6d60800000000000000
+      internalID: 7884253987051303773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 147
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a912d2c85cbcfa9e0800000000000000
+      internalID: -1607842492627213926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_81
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 170
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297ba76319741ec50800000000000000
+      internalID: 6692709210259109778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_82
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 135
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b874bc7163b3c1b00800000000000000
+      internalID: 800579937278576523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 139
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a484b80fa1136f0800000000000000
+      internalID: -706754046089213305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_84
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 88
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f988ccc0dcabde0800000000000000
+      internalID: -1316514486197641400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_85
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 149
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90c2b9b322ad04d0800000000000000
+      internalID: -3166696688648535909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 154
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc98bad6e8ad41ad0800000000000000
+      internalID: -2732318768646878772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_87
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c55774cafba5d140800000000000000
+      internalID: 4743886876031014337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_88
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 160
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089f90c0a8ca9f000800000000000000
+      internalID: 70276978108397952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 122
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e8b5edae930dd80800000000000000
+      internalID: -8228012838290223581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 138
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a05982f5f2bdb0800000000000000
+      internalID: -4777485832652020609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_91
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 146
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c334df1c623dbaeb0800000000000000
+      internalID: -4707436822068903108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 138
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c795fe34f3df4ae0800000000000000
+      internalID: -1562797499692509242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_93
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 143
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7808a3e3811a240800000000000000
+      internalID: 4801145333302200314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_94
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 100
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63636c6572de4cdb0800000000000000
+      internalID: -4772428951890545098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_95
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 104
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c362990e0ff3480800000000000000
+      internalID: -8917143889737532275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_96
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 112
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6652fe41e35007970800000000000000
+      internalID: 8750499840178201958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_97
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 130
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6fb87b8ef5827b0800000000000000
+      internalID: -5248839912583858447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_98
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 71
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39d853178aef1c80800000000000000
+      internalID: -8349697318255535812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_99
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 117
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e953d527c606920800000000000000
+      internalID: 2981502191765134897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_100
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 41
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c25887b6031bd180800000000000000
+      internalID: -9089650503347318075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_101
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 34
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89a0cee5879cb010800000000000000
+      internalID: 1206005401720498572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_102
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 104
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad977298dffba470800000000000000
+      internalID: 8407094435052494253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_103
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 96
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef89e966d2482220800000000000000
+      internalID: 2461290685025325027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_104
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 49
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e8ef0b1dc296af0800000000000000
+      internalID: -402741412543689189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_105
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 51
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdba9eb07db8b140800000000000000
+      internalID: 4735743300111875516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_106
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 64
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8a0e8ff8807bd50800000000000000
+      internalID: 6752875580714166494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_107
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e9208621608790800000000000000
+      internalID: -7529911758976587603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df803c6baa2744740800000000000000
+      internalID: 5135355552645449981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 50
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e2db9e98fcb5ae0800000000000000
+      internalID: -1559424654714786286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_110
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 67
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d495402cadbd1540800000000000000
+      internalID: 4980345309915092176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_111
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229d37ce850e54150800000000000000
+      internalID: 5856333562993957154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_112
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 51
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37c51db501a7db70800000000000000
+      internalID: 8923778232677156666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_113
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 55
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eb1c34483064bb0800000000000000
+      internalID: -4952266873639944550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_114
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 63
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d5605d79e2e3d0800000000000000
+      internalID: -3178721662541115370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_115
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 63
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81e52fe8c4966300800000000000000
+      internalID: 245046820464877962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_116
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 25
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bc853374512ca30800000000000000
+      internalID: 4233969995230006166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_117
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 37
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7470b822ef7ebb840800000000000000
+      internalID: 5241037670062950215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_118
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e6229cccfb1b8d0800000000000000
+      internalID: -2832271804370620865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadSparks_119
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e050bb3e2b2dcea30800000000000000
+      internalID: 4246000214470231310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P3_OverloadSparks_0: -2305248902323707869
+      VFX_P3_OverloadSparks_1: -2607852522799544876
+      VFX_P3_OverloadSparks_10: -5716338444544981411
+      VFX_P3_OverloadSparks_100: -9089650503347318075
+      VFX_P3_OverloadSparks_101: 1206005401720498572
+      VFX_P3_OverloadSparks_102: 8407094435052494253
+      VFX_P3_OverloadSparks_103: 2461290685025325027
+      VFX_P3_OverloadSparks_104: -402741412543689189
+      VFX_P3_OverloadSparks_105: 4735743300111875516
+      VFX_P3_OverloadSparks_106: 6752875580714166494
+      VFX_P3_OverloadSparks_107: -7529911758976587603
+      VFX_P3_OverloadSparks_108: 5135355552645449981
+      VFX_P3_OverloadSparks_109: -1559424654714786286
+      VFX_P3_OverloadSparks_11: -6749917164399050679
+      VFX_P3_OverloadSparks_110: 4980345309915092176
+      VFX_P3_OverloadSparks_111: 5856333562993957154
+      VFX_P3_OverloadSparks_112: 8923778232677156666
+      VFX_P3_OverloadSparks_113: -4952266873639944550
+      VFX_P3_OverloadSparks_114: -3178721662541115370
+      VFX_P3_OverloadSparks_115: 245046820464877962
+      VFX_P3_OverloadSparks_116: 4233969995230006166
+      VFX_P3_OverloadSparks_117: 5241037670062950215
+      VFX_P3_OverloadSparks_118: -2832271804370620865
+      VFX_P3_OverloadSparks_119: 4246000214470231310
+      VFX_P3_OverloadSparks_12: 964446309297883363
+      VFX_P3_OverloadSparks_13: 8025742578585190028
+      VFX_P3_OverloadSparks_14: 5857412409982791730
+      VFX_P3_OverloadSparks_15: -2271529148506835390
+      VFX_P3_OverloadSparks_16: 5427158019529766628
+      VFX_P3_OverloadSparks_17: -4748618664186514083
+      VFX_P3_OverloadSparks_18: 7515006814666544157
+      VFX_P3_OverloadSparks_19: -7670855280040941625
+      VFX_P3_OverloadSparks_2: 1957555549474224721
+      VFX_P3_OverloadSparks_20: -1898024897004050457
+      VFX_P3_OverloadSparks_21: -6765551820891192211
+      VFX_P3_OverloadSparks_22: -2114658297988694924
+      VFX_P3_OverloadSparks_23: 6982170503064947170
+      VFX_P3_OverloadSparks_24: 2122482482436987445
+      VFX_P3_OverloadSparks_25: 8542725203480079295
+      VFX_P3_OverloadSparks_26: -7203003988522638263
+      VFX_P3_OverloadSparks_27: 1900674312212568778
+      VFX_P3_OverloadSparks_28: -6872551410978115123
+      VFX_P3_OverloadSparks_29: 8413047068509347469
+      VFX_P3_OverloadSparks_3: -3303969888852535473
+      VFX_P3_OverloadSparks_30: 233528555593440779
+      VFX_P3_OverloadSparks_31: -4584369340810674746
+      VFX_P3_OverloadSparks_32: -5407160323996400269
+      VFX_P3_OverloadSparks_33: 7380936918393826155
+      VFX_P3_OverloadSparks_34: -8350040622342666242
+      VFX_P3_OverloadSparks_35: -3459480949198346916
+      VFX_P3_OverloadSparks_36: 4053808639291023267
+      VFX_P3_OverloadSparks_37: -731556929958961722
+      VFX_P3_OverloadSparks_38: -3751404802774695096
+      VFX_P3_OverloadSparks_39: -1318144022830303943
+      VFX_P3_OverloadSparks_4: 3575145788380526630
+      VFX_P3_OverloadSparks_40: 8287499547772093528
+      VFX_P3_OverloadSparks_41: 4014180618931191781
+      VFX_P3_OverloadSparks_42: -5580110176724242294
+      VFX_P3_OverloadSparks_43: -7641858578473711817
+      VFX_P3_OverloadSparks_44: 8800505591425885250
+      VFX_P3_OverloadSparks_45: 6738321951436055901
+      VFX_P3_OverloadSparks_46: -8612683946485293273
+      VFX_P3_OverloadSparks_47: 813371973251959488
+      VFX_P3_OverloadSparks_48: -2130689287140439372
+      VFX_P3_OverloadSparks_49: 703255054451571111
+      VFX_P3_OverloadSparks_5: 3523507196152943948
+      VFX_P3_OverloadSparks_50: -9169016227234916659
+      VFX_P3_OverloadSparks_51: -6267625618619200093
+      VFX_P3_OverloadSparks_52: -7017605664472995057
+      VFX_P3_OverloadSparks_53: -1640471941515356440
+      VFX_P3_OverloadSparks_54: -16046439660821934
+      VFX_P3_OverloadSparks_55: 4948045517198531648
+      VFX_P3_OverloadSparks_56: -5933236658668354848
+      VFX_P3_OverloadSparks_57: 3128063304695904002
+      VFX_P3_OverloadSparks_58: -3153845632025916180
+      VFX_P3_OverloadSparks_59: 7072017154103521036
+      VFX_P3_OverloadSparks_6: 3493734819867589781
+      VFX_P3_OverloadSparks_60: 4469156099207018709
+      VFX_P3_OverloadSparks_61: 6023592595806954667
+      VFX_P3_OverloadSparks_62: -5927263642118158444
+      VFX_P3_OverloadSparks_63: 5401749155104940563
+      VFX_P3_OverloadSparks_64: -1942880888549477230
+      VFX_P3_OverloadSparks_65: -6887552190489727260
+      VFX_P3_OverloadSparks_66: 1732298135611664332
+      VFX_P3_OverloadSparks_67: -1937384469970563351
+      VFX_P3_OverloadSparks_68: 295797398842912325
+      VFX_P3_OverloadSparks_69: 9192859151171182699
+      VFX_P3_OverloadSparks_7: 3070423929945422369
+      VFX_P3_OverloadSparks_70: -799544851696292530
+      VFX_P3_OverloadSparks_71: 7921589935470063530
+      VFX_P3_OverloadSparks_72: 2105606060461709746
+      VFX_P3_OverloadSparks_73: 8016120599843963502
+      VFX_P3_OverloadSparks_74: -5512545207386563628
+      VFX_P3_OverloadSparks_75: -3163865744412564620
+      VFX_P3_OverloadSparks_76: 747901312484204930
+      VFX_P3_OverloadSparks_77: 8831316420994920481
+      VFX_P3_OverloadSparks_78: -6216087267930879723
+      VFX_P3_OverloadSparks_79: 7884253987051303773
+      VFX_P3_OverloadSparks_8: 75747179569704831
+      VFX_P3_OverloadSparks_80: -1607842492627213926
+      VFX_P3_OverloadSparks_81: 6692709210259109778
+      VFX_P3_OverloadSparks_82: 800579937278576523
+      VFX_P3_OverloadSparks_83: -706754046089213305
+      VFX_P3_OverloadSparks_84: -1316514486197641400
+      VFX_P3_OverloadSparks_85: -3166696688648535909
+      VFX_P3_OverloadSparks_86: -2732318768646878772
+      VFX_P3_OverloadSparks_87: 4743886876031014337
+      VFX_P3_OverloadSparks_88: 70276978108397952
+      VFX_P3_OverloadSparks_89: -8228012838290223581
+      VFX_P3_OverloadSparks_9: 6250181924081452606
+      VFX_P3_OverloadSparks_90: -4777485832652020609
+      VFX_P3_OverloadSparks_91: -4707436822068903108
+      VFX_P3_OverloadSparks_92: -1562797499692509242
+      VFX_P3_OverloadSparks_93: 4801145333302200314
+      VFX_P3_OverloadSparks_94: -4772428951890545098
+      VFX_P3_OverloadSparks_95: -8917143889737532275
+      VFX_P3_OverloadSparks_96: 8750499840178201958
+      VFX_P3_OverloadSparks_97: -5248839912583858447
+      VFX_P3_OverloadSparks_98: -8349697318255535812
+      VFX_P3_OverloadSparks_99: 2981502191765134897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

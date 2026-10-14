@@ -1,0 +1,123 @@
+{
+  "name": "BossFinal_Attack2",
+  "sourcePage": 10,
+  "frameCount": 8,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.9799043062200957,
+  "sourceOffset": [
+    51,
+    88
+  ],
+  "sourceRegions": [
+    [
+      78,
+      134,
+      360,
+      399
+    ],
+    [
+      483,
+      134,
+      772,
+      399
+    ],
+    [
+      860,
+      134,
+      1208,
+      399
+    ],
+    [
+      40,
+      519,
+      395,
+      788
+    ],
+    [
+      450,
+      519,
+      807,
+      788
+    ],
+    [
+      891,
+      519,
+      1181,
+      788
+    ],
+    [
+      73,
+      913,
+      362,
+      1178
+    ],
+    [
+      483,
+      913,
+      772,
+      1178
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "dadec924f7ce0e5e3d290626d95932d1aba3efa2278911cdd220262c597e2423",
+  "spriteSha256": "40534bc359f3648392ac6374d7abece30bd099f941262b22163139fc5344d59b",
+  "proposedCombatTiming": {
+    "hitFrames": [],
+    "projectileSpawnFrames": [
+      4
+    ],
+    "note": "포대 발광에 구체/미사일 생성 동기화; 패턴 배치는 기존 로직"
+  },
+  "combatTimingFrameIndexBase": 1
+}

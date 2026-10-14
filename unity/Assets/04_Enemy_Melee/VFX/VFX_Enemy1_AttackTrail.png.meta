@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: fe5c6de6a81963c4db65887a1094134e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2324554695569212981
+    second: VFX_Enemy1_AttackTrail_0
+  - first:
+      213: -5993293459225148572
+    second: VFX_Enemy1_AttackTrail_1
+  - first:
+      213: 8178854550605872515
+    second: VFX_Enemy1_AttackTrail_2
+  - first:
+      213: -6459105880010044599
+    second: VFX_Enemy1_AttackTrail_3
+  - first:
+      213: 1791909143416257228
+    second: VFX_Enemy1_AttackTrail_4
+  - first:
+      213: -543190908850443217
+    second: VFX_Enemy1_AttackTrail_5
+  - first:
+      213: 7727567042267559639
+    second: VFX_Enemy1_AttackTrail_6
+  - first:
+      213: 1405846489130534628
+    second: VFX_Enemy1_AttackTrail_7
+  - first:
+      213: -6755838563396147655
+    second: VFX_Enemy1_AttackTrail_8
+  - first:
+      213: -310839890591674012
+    second: VFX_Enemy1_AttackTrail_9
+  - first:
+      213: -6591789880009681118
+    second: VFX_Enemy1_AttackTrail_10
+  - first:
+      213: -3449781286374595802
+    second: VFX_Enemy1_AttackTrail_11
+  - first:
+      213: -9175369871627148114
+    second: VFX_Enemy1_AttackTrail_12
+  - first:
+      213: -8639806909053310013
+    second: VFX_Enemy1_AttackTrail_13
+  - first:
+      213: 3864853644469460774
+    second: VFX_Enemy1_AttackTrail_14
+  - first:
+      213: -4207744058695414449
+    second: VFX_Enemy1_AttackTrail_15
+  - first:
+      213: 6072682209652932760
+    second: VFX_Enemy1_AttackTrail_16
+  - first:
+      213: 2072215284793721977
+    second: VFX_Enemy1_AttackTrail_17
+  - first:
+      213: 5029559274525916819
+    second: VFX_Enemy1_AttackTrail_18
+  - first:
+      213: 1264655301752264774
+    second: VFX_Enemy1_AttackTrail_19
+  - first:
+      213: -2310875868930536721
+    second: VFX_Enemy1_AttackTrail_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc971a502d58dbfd0800000000000000
+      internalID: -2324554695569212981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 182
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46386384a5b83dca0800000000000000
+      internalID: -5993293459225148572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 435
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d337e51e0218170800000000000000
+      internalID: 8178854550605872515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 425
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b4d578c65ac56a0800000000000000
+      internalID: -6459105880010044599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 282
+        width: 200
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab91b3fd32ed810800000000000000
+      internalID: 1791909143416257228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 423
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c6fb01fb23678f0800000000000000
+      internalID: -543190908850443217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 299
+        width: 202
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6bf545845dd3b60800000000000000
+      internalID: 7727567042267559639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_7
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 442
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e60b51fee1928310800000000000000
+      internalID: 1405846489130534628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 193
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93623ecde907e32a0800000000000000
+      internalID: -6755838563396147655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 40
+        width: 201
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461134334ccafabf0800000000000000
+      internalID: -310839890591674012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 203
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227120867024584a0800000000000000
+      internalID: -6591789880009681118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 123
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6232ad0a23aef10d0800000000000000
+      internalID: -3449781286374595802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_12
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 31
+        width: 123
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4a7d607b98aa080800000000000000
+      internalID: -9175369871627148114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 160
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb69e1546d391880800000000000000
+      internalID: -8639806909053310013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_14
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 157
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fd97ba9e7b2a530800000000000000
+      internalID: 3864853644469460774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_15
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 160
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d03bb72171b95c0800000000000000
+      internalID: -4207744058695414449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_16
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 121
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89082349b40864450800000000000000
+      internalID: 6072682209652932760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 106
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974c34c82dcf1cc10800000000000000
+      internalID: 2072215284793721977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 107
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e73ee23859cc540800000000000000
+      internalID: 5029559274525916819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6481248eb45fc8110800000000000000
+      internalID: 1264655301752264774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_AttackTrail_20
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 34
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea8f5804ae1eefd0800000000000000
+      internalID: -2310875868930536721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Enemy1_AttackTrail_0: -2324554695569212981
+      VFX_Enemy1_AttackTrail_1: -5993293459225148572
+      VFX_Enemy1_AttackTrail_10: -6591789880009681118
+      VFX_Enemy1_AttackTrail_11: -3449781286374595802
+      VFX_Enemy1_AttackTrail_12: -9175369871627148114
+      VFX_Enemy1_AttackTrail_13: -8639806909053310013
+      VFX_Enemy1_AttackTrail_14: 3864853644469460774
+      VFX_Enemy1_AttackTrail_15: -4207744058695414449
+      VFX_Enemy1_AttackTrail_16: 6072682209652932760
+      VFX_Enemy1_AttackTrail_17: 2072215284793721977
+      VFX_Enemy1_AttackTrail_18: 5029559274525916819
+      VFX_Enemy1_AttackTrail_19: 1264655301752264774
+      VFX_Enemy1_AttackTrail_2: 8178854550605872515
+      VFX_Enemy1_AttackTrail_20: -2310875868930536721
+      VFX_Enemy1_AttackTrail_3: -6459105880010044599
+      VFX_Enemy1_AttackTrail_4: 1791909143416257228
+      VFX_Enemy1_AttackTrail_5: -543190908850443217
+      VFX_Enemy1_AttackTrail_6: 7727567042267559639
+      VFX_Enemy1_AttackTrail_7: 1405846489130534628
+      VFX_Enemy1_AttackTrail_8: -6755838563396147655
+      VFX_Enemy1_AttackTrail_9: -310839890591674012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

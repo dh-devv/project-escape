@@ -1,0 +1,3913 @@
+fileFormatVersion: 2
+guid: 6149ae3a9970a4c499a62f31ba0d841f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -481934381495823634
+    second: BossMissile_Flight_0
+  - first:
+      213: -1860522466336246635
+    second: BossMissile_Flight_1
+  - first:
+      213: 276463489959703232
+    second: BossMissile_Flight_2
+  - first:
+      213: 77655328640773121
+    second: BossMissile_Flight_3
+  - first:
+      213: -6349613762636769672
+    second: BossMissile_Flight_4
+  - first:
+      213: 4936941911263366465
+    second: BossMissile_Flight_5
+  - first:
+      213: 619222291493370980
+    second: BossMissile_Flight_6
+  - first:
+      213: 5135665144332342208
+    second: BossMissile_Flight_7
+  - first:
+      213: 658783417015583565
+    second: BossMissile_Flight_8
+  - first:
+      213: -4171920566096617837
+    second: BossMissile_Flight_9
+  - first:
+      213: -3134319054985159969
+    second: BossMissile_Flight_10
+  - first:
+      213: 146810180735650167
+    second: BossMissile_Flight_11
+  - first:
+      213: 5941085324390193010
+    second: BossMissile_Flight_12
+  - first:
+      213: -648945749812077643
+    second: BossMissile_Flight_13
+  - first:
+      213: -5127675689720915118
+    second: BossMissile_Flight_14
+  - first:
+      213: 2325320792410853645
+    second: BossMissile_Flight_15
+  - first:
+      213: 978463635784674434
+    second: BossMissile_Flight_16
+  - first:
+      213: -8188665156103333424
+    second: BossMissile_Flight_17
+  - first:
+      213: 6754995693557832750
+    second: BossMissile_Flight_18
+  - first:
+      213: -278354065052579845
+    second: BossMissile_Flight_19
+  - first:
+      213: 3061893016904888091
+    second: BossMissile_Flight_20
+  - first:
+      213: -7020037310651602883
+    second: BossMissile_Flight_21
+  - first:
+      213: 5773091350118772245
+    second: BossMissile_Flight_22
+  - first:
+      213: -1826173425406688581
+    second: BossMissile_Flight_23
+  - first:
+      213: -4907894914156214181
+    second: BossMissile_Flight_24
+  - first:
+      213: -8328525409945333044
+    second: BossMissile_Flight_25
+  - first:
+      213: -8370131470782744352
+    second: BossMissile_Flight_26
+  - first:
+      213: -1467628931192420520
+    second: BossMissile_Flight_27
+  - first:
+      213: -5864665830214079630
+    second: BossMissile_Flight_28
+  - first:
+      213: 991000495643626204
+    second: BossMissile_Flight_29
+  - first:
+      213: 2338456996482412916
+    second: BossMissile_Flight_30
+  - first:
+      213: -8499448360772249425
+    second: BossMissile_Flight_31
+  - first:
+      213: 5933602453556302237
+    second: BossMissile_Flight_32
+  - first:
+      213: 343016681268356286
+    second: BossMissile_Flight_33
+  - first:
+      213: -8304942784111062323
+    second: BossMissile_Flight_34
+  - first:
+      213: -5097561028285707964
+    second: BossMissile_Flight_35
+  - first:
+      213: -5132575802785101591
+    second: BossMissile_Flight_36
+  - first:
+      213: 1267040691660867528
+    second: BossMissile_Flight_37
+  - first:
+      213: -5167529410766479537
+    second: BossMissile_Flight_38
+  - first:
+      213: -1121869115368376867
+    second: BossMissile_Flight_39
+  - first:
+      213: 3253632011603466369
+    second: BossMissile_Flight_40
+  - first:
+      213: -5581455286764804340
+    second: BossMissile_Flight_41
+  - first:
+      213: 7011046672117683255
+    second: BossMissile_Flight_42
+  - first:
+      213: 6654427305734409396
+    second: BossMissile_Flight_43
+  - first:
+      213: -3763341594074538422
+    second: BossMissile_Flight_44
+  - first:
+      213: 738002380308648274
+    second: BossMissile_Flight_45
+  - first:
+      213: 616594321526853121
+    second: BossMissile_Flight_46
+  - first:
+      213: 8800906760255364338
+    second: BossMissile_Flight_47
+  - first:
+      213: -4258373164323970101
+    second: BossMissile_Flight_48
+  - first:
+      213: -6629498858971382167
+    second: BossMissile_Flight_49
+  - first:
+      213: -6954309897760989043
+    second: BossMissile_Flight_50
+  - first:
+      213: -9153972263775211610
+    second: BossMissile_Flight_51
+  - first:
+      213: -5980585785617835670
+    second: BossMissile_Flight_52
+  - first:
+      213: 1775888660003068367
+    second: BossMissile_Flight_53
+  - first:
+      213: 3192112424134823192
+    second: BossMissile_Flight_54
+  - first:
+      213: -4160525911037182689
+    second: BossMissile_Flight_55
+  - first:
+      213: 7807556061168508372
+    second: BossMissile_Flight_56
+  - first:
+      213: -1399787178592913114
+    second: BossMissile_Flight_57
+  - first:
+      213: 242886126575113370
+    second: BossMissile_Flight_58
+  - first:
+      213: -448138256081446750
+    second: BossMissile_Flight_59
+  - first:
+      213: 501761544651440331
+    second: BossMissile_Flight_60
+  - first:
+      213: -4687870488821673243
+    second: BossMissile_Flight_61
+  - first:
+      213: 2053294540446058728
+    second: BossMissile_Flight_62
+  - first:
+      213: -3589821927176940220
+    second: BossMissile_Flight_63
+  - first:
+      213: -3562964633432504025
+    second: BossMissile_Flight_64
+  - first:
+      213: -6214546929044537736
+    second: BossMissile_Flight_65
+  - first:
+      213: 6019353522673998457
+    second: BossMissile_Flight_66
+  - first:
+      213: -8245818054601178986
+    second: BossMissile_Flight_67
+  - first:
+      213: -7197570832848300177
+    second: BossMissile_Flight_68
+  - first:
+      213: -6767427662958743279
+    second: BossMissile_Flight_69
+  - first:
+      213: -8635337056121556418
+    second: BossMissile_Flight_70
+  - first:
+      213: -8852799603183216974
+    second: BossMissile_Flight_71
+  - first:
+      213: 6718079532691318158
+    second: BossMissile_Flight_72
+  - first:
+      213: 6559875743645854149
+    second: BossMissile_Flight_73
+  - first:
+      213: -2186756448054020354
+    second: BossMissile_Flight_74
+  - first:
+      213: 4842430413004905610
+    second: BossMissile_Flight_75
+  - first:
+      213: 2305925376548415292
+    second: BossMissile_Flight_76
+  - first:
+      213: -4952915280568569629
+    second: BossMissile_Flight_77
+  - first:
+      213: -3870836069751853763
+    second: BossMissile_Flight_78
+  - first:
+      213: 8812651727241789801
+    second: BossMissile_Flight_79
+  - first:
+      213: -6728107532200963877
+    second: BossMissile_Flight_80
+  - first:
+      213: 5518943363270588145
+    second: BossMissile_Flight_81
+  - first:
+      213: -6018071833475052031
+    second: BossMissile_Flight_82
+  - first:
+      213: -2354605561947026765
+    second: BossMissile_Flight_83
+  - first:
+      213: -782444670603066982
+    second: BossMissile_Flight_84
+  - first:
+      213: -1069327503107043181
+    second: BossMissile_Flight_85
+  - first:
+      213: -5973507609807182173
+    second: BossMissile_Flight_86
+  - first:
+      213: -7010172779376330716
+    second: BossMissile_Flight_87
+  - first:
+      213: 587774234006671363
+    second: BossMissile_Flight_88
+  - first:
+      213: -1859984340142218468
+    second: BossMissile_Flight_89
+  - first:
+      213: 2829615239615960831
+    second: BossMissile_Flight_90
+  - first:
+      213: 7755276556724039041
+    second: BossMissile_Flight_91
+  - first:
+      213: 5262335631514711992
+    second: BossMissile_Flight_92
+  - first:
+      213: -8328128673254731942
+    second: BossMissile_Flight_93
+  - first:
+      213: 2645131604837117027
+    second: BossMissile_Flight_94
+  - first:
+      213: 5938670688263291063
+    second: BossMissile_Flight_95
+  - first:
+      213: -160538398530988491
+    second: BossMissile_Flight_96
+  - first:
+      213: -6794449170137287401
+    second: BossMissile_Flight_97
+  - first:
+      213: 2816126040182025744
+    second: BossMissile_Flight_98
+  - first:
+      213: 8083842605523255936
+    second: BossMissile_Flight_99
+  - first:
+      213: -7619093406780587664
+    second: BossMissile_Flight_100
+  - first:
+      213: -3967190447900512454
+    second: BossMissile_Flight_101
+  - first:
+      213: 6518161233527475733
+    second: BossMissile_Flight_102
+  - first:
+      213: -9121324235985771941
+    second: BossMissile_Flight_103
+  - first:
+      213: 2062068603950046286
+    second: BossMissile_Flight_104
+  - first:
+      213: -4200267161644356385
+    second: BossMissile_Flight_105
+  - first:
+      213: -2786854396714383437
+    second: BossMissile_Flight_106
+  - first:
+      213: 6660350211310303392
+    second: BossMissile_Flight_107
+  - first:
+      213: 6230444847919343488
+    second: BossMissile_Flight_108
+  - first:
+      213: -2539443248040710298
+    second: BossMissile_Flight_109
+  - first:
+      213: -3243236575799216534
+    second: BossMissile_Flight_110
+  - first:
+      213: -4393322694400010618
+    second: BossMissile_Flight_111
+  - first:
+      213: 3299995593671899366
+    second: BossMissile_Flight_112
+  - first:
+      213: -1348998081297431033
+    second: BossMissile_Flight_113
+  - first:
+      213: -1454061368494112176
+    second: BossMissile_Flight_114
+  - first:
+      213: 6284080705999619078
+    second: BossMissile_Flight_115
+  - first:
+      213: 6701314651858486659
+    second: BossMissile_Flight_116
+  - first:
+      213: 8599510243290169315
+    second: BossMissile_Flight_117
+  - first:
+      213: 1374651635588602259
+    second: BossMissile_Flight_118
+  - first:
+      213: -8018138827644071858
+    second: BossMissile_Flight_119
+  - first:
+      213: 2281874217532683065
+    second: BossMissile_Flight_120
+  - first:
+      213: 3457309891560348435
+    second: BossMissile_Flight_121
+  - first:
+      213: -2638960950783950918
+    second: BossMissile_Flight_122
+  - first:
+      213: -9133676931083466320
+    second: BossMissile_Flight_123
+  - first:
+      213: -5478133124229012543
+    second: BossMissile_Flight_124
+  - first:
+      213: 4906320943733643187
+    second: BossMissile_Flight_125
+  - first:
+      213: -5586903684231544864
+    second: BossMissile_Flight_126
+  - first:
+      213: -3243552033560440080
+    second: BossMissile_Flight_127
+  - first:
+      213: -7772911607313593209
+    second: BossMissile_Flight_128
+  - first:
+      213: 7822050721614807211
+    second: BossMissile_Flight_129
+  - first:
+      213: -4078048543694360315
+    second: BossMissile_Flight_130
+  - first:
+      213: 5101229504118546825
+    second: BossMissile_Flight_131
+  - first:
+      213: -2147195195103681816
+    second: BossMissile_Flight_132
+  - first:
+      213: 1282303605507452181
+    second: BossMissile_Flight_133
+  - first:
+      213: -3520446613585187432
+    second: BossMissile_Flight_134
+  - first:
+      213: 6520797328210203652
+    second: BossMissile_Flight_135
+  - first:
+      213: 8521694530221321675
+    second: BossMissile_Flight_136
+  - first:
+      213: 7723611273969552509
+    second: BossMissile_Flight_137
+  - first:
+      213: -8166611192631127646
+    second: BossMissile_Flight_138
+  - first:
+      213: 462040645756788558
+    second: BossMissile_Flight_139
+  - first:
+      213: -5615800353146197992
+    second: BossMissile_Flight_140
+  - first:
+      213: 6629964239139055232
+    second: BossMissile_Flight_141
+  - first:
+      213: -3945826541411021464
+    second: BossMissile_Flight_142
+  - first:
+      213: 8760605734074194643
+    second: BossMissile_Flight_143
+  - first:
+      213: 8454630083317411127
+    second: BossMissile_Flight_144
+  - first:
+      213: -3101221086645177517
+    second: BossMissile_Flight_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossMissile_Flight_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 430
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2d4e1cb33df49f0800000000000000
+      internalID: -481934381495823634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 464
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594f461aca81e26e0800000000000000
+      internalID: -1860522466336246635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 464
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2b960541236d300800000000000000
+      internalID: 276463489959703232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 424
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cac862c13e31100800000000000000
+      internalID: 77655328640773121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 466
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8769a11bce3a1e7a0800000000000000
+      internalID: -6349613762636769672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 408
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d4791e28a838440800000000000000
+      internalID: 4936941911263366465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 425
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c3771b46be79800800000000000000
+      internalID: 619222291493370980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 468
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3d8452d3c854740800000000000000
+      internalID: 5135665144332342208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 448
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43c1230708742900800000000000000
+      internalID: 658783417015583565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 428
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e1aa2595c5a16c0800000000000000
+      internalID: -4171920566096617837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 458
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda1fd20d69a084d0800000000000000
+      internalID: -3134319054985159969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 432
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779c820e413990200800000000000000
+      internalID: 146810180735650167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 471
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277509410a9f27250800000000000000
+      internalID: 5941085324390193010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 457
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb93ff574b7ef6f0800000000000000
+      internalID: -648945749812077643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 464
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b57c6b026d6d8b0800000000000000
+      internalID: -5127675689720915118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 464
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d019a7cc0f2354020800000000000000
+      internalID: 2325320792410853645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_16
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 439
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c259c1e73349d00800000000000000
+      internalID: 978463635784674434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_17
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 420
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d997d90d640c5e80800000000000000
+      internalID: -8188665156103333424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 467
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cdec53bc09ebd50800000000000000
+      internalID: 6754995693557832750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 452
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf741ced376132cf0800000000000000
+      internalID: -278354065052579845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 440
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f6ddce9770e7a20800000000000000
+      internalID: 3061893016904888091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 441
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d386f9c7241d39e90800000000000000
+      internalID: -7020037310651602883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 428
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ea5bbeef32e1050800000000000000
+      internalID: 5773091350118772245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_23
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 436
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb24060f1f028a6e0800000000000000
+      internalID: -1826173425406688581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 293
+        width: 201
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58c5c62497a3ebb0800000000000000
+      internalID: -4907894914156214181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_25
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 435
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2d46d14422b6c80800000000000000
+      internalID: -8328525409945333044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_26
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 429
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e83da036c157db80800000000000000
+      internalID: -8370131470782744352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 421
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857803e434fe1abe0800000000000000
+      internalID: -1467628931192420520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 430
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27be7bfef758c9ea0800000000000000
+      internalID: -5864665830214079630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 428
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda031343bdb0cd00800000000000000
+      internalID: 991000495643626204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 281
+        width: 193
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4717cd5af3ed37020800000000000000
+      internalID: 2338456996482412916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 412
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8d4657fb4eb0a80800000000000000
+      internalID: -8499448360772249425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 206
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d911c927ef3685250800000000000000
+      internalID: 5933602453556302237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_33
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 412
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4a80faad3a2c400800000000000000
+      internalID: 343016681268356286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 281
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2dd111a8aeebc80800000000000000
+      internalID: -8304942784111062323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 315
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449c728b043d149b0800000000000000
+      internalID: -5097561028285707964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 321
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e88a3c308d65c8b0800000000000000
+      internalID: -5132575802785101591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_37
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 307
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c74966cbce659110800000000000000
+      internalID: 1267040691660867528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_38
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 328
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f51e0316f3948b0800000000000000
+      internalID: -5167529410766479537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_39
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 319
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd57cf5cbf15e60f0800000000000000
+      internalID: -1121869115368376867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_40
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 307
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188d6797319372d20800000000000000
+      internalID: 3253632011603466369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_41
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 327
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0768ae0dffaa82b0800000000000000
+      internalID: -5581455286764804340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_42
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 330
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734524b5dcd3c4160800000000000000
+      internalID: 7011046672117683255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_43
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 331
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc85fdb066495c50800000000000000
+      internalID: 6654427305734409396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_44
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 319
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e1cbc52cce5cbc0800000000000000
+      internalID: -3763341594074538422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_45
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 325
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25190b93149ed3a00800000000000000
+      internalID: 738002380308648274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e8121c4459e8800800000000000000
+      internalID: 616594321526853121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 301
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcda5ab11a132a70800000000000000
+      internalID: 8800906760255364338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_48
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 312
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3e96b3b2837e4c0800000000000000
+      internalID: -4258373164323970101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_49
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 295
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e372099e94ff3a0800000000000000
+      internalID: -6629498858971382167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_50
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 281
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8029f55ef35d7f90800000000000000
+      internalID: -6954309897760989043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_51
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 313
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af66e5d9be86f080800000000000000
+      internalID: -9153972263775211610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_52
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 307
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a699f7b1ae0b00da0800000000000000
+      internalID: -5980585785617835670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_53
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 306
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc99024c35935a810800000000000000
+      internalID: 1775888660003068367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 295
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dcaa35659ac4c20800000000000000
+      internalID: 3192112424134823192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_55
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 300
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1df1d13ab7d246c0800000000000000
+      internalID: -4160525911037182689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_56
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 293
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd95e51fd20a5c60800000000000000
+      internalID: 7807556061168508372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_57
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 305
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b2da3af4f29ce0800000000000000
+      internalID: -1399787178592913114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_58
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 306
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94516f25a7ee5300800000000000000
+      internalID: 242886126575113370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_59
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 300
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8900461a4e7c9f0800000000000000
+      internalID: -448138256081446750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_60
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 305
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc086e6677d96f600800000000000000
+      internalID: 501761544651440331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_61
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 300
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e25fb8b0a651feb0800000000000000
+      internalID: -4687870488821673243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_62
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 293
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e849867184ce7c10800000000000000
+      internalID: 2053294540446058728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 296
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445d5b71af36e2ec0800000000000000
+      internalID: -3589821927176940220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_64
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 293
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c9f41b8ecd8ec0800000000000000
+      internalID: -3562964633432504025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_65
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 299
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e3e4e7e7e71c9a0800000000000000
+      internalID: -6214546929044537736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_66
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 294
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ada70132a098350800000000000000
+      internalID: 6019353522673998457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_67
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 295
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6908ef4ea28f09d80800000000000000
+      internalID: -8245818054601178986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_68
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 281
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f675d5e36771d1c90800000000000000
+      internalID: -7197570832848300177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_69
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 281
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111313a55644512a0800000000000000
+      internalID: -6767427662958743279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_70
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 200
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e327b1e03be192880800000000000000
+      internalID: -8635337056121556418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b69b804aa9842580800000000000000
+      internalID: -8852799603183216974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 172
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8563e6bdb96b3d50800000000000000
+      internalID: 6718079532691318158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c966beab3c590b50800000000000000
+      internalID: 6559875743645854149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_74
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 175
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6f17fa89417a1e0800000000000000
+      internalID: -2186756448054020354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_75
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 185
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c94b8edc4c33340800000000000000
+      internalID: 4842430413004905610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 211
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c372ab3a9ea400020800000000000000
+      internalID: 2305925376548415292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_77
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 216
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e03b134bc5b34bb0800000000000000
+      internalID: -4952915280568569629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_78
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3deba66a17084ac0800000000000000
+      internalID: -3870836069751853763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_79
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 207
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961ca73fd04dc4a70800000000000000
+      internalID: 8812651727241789801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_80
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 184
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd01884b8d5f0a2a0800000000000000
+      internalID: -6728107532200963877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_81
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 172
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f63e3f8fb9379c40800000000000000
+      internalID: 5518943363270588145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_82
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 208
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e8fe47d838b7ca0800000000000000
+      internalID: -6018071833475052031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_83
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 217
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba0df577b2c25fd0800000000000000
+      internalID: -2354605561947026765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_84
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 172
+        width: 87
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a918e48b7b23425f0800000000000000
+      internalID: -782444670603066982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_85
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 195
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390dfbc2d4cf821f0800000000000000
+      internalID: -1069327503107043181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 198
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6a9565a76d91da0800000000000000
+      internalID: -5973507609807182173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_87
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 173
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4283927affcd6be90800000000000000
+      internalID: -7010172779376330716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_88
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 168
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300581a3d81382800800000000000000
+      internalID: 587774234006671363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_89
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13a806e8120036e0800000000000000
+      internalID: -1859984340142218468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_90
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 172
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff657588110d44720800000000000000
+      internalID: 2829615239615960831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 181
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d637a60f640ab60800000000000000
+      internalID: 7755276556724039041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_92
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 171
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7b0553062970940800000000000000
+      internalID: 5262335631514711992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 186
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f08e2981b8c6c80800000000000000
+      internalID: -8328128673254731942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_94
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 159
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ca97a1e2565b420800000000000000
+      internalID: 2645131604837117027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_95
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 137
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b045fbc6856a6250800000000000000
+      internalID: 5938670688263291063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_96
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 161
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53610c65d27a5cdf0800000000000000
+      internalID: -160538398530988491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_97
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 138
+        width: 24
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715f4817a7445b1a0800000000000000
+      internalID: -6794449170137287401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_98
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 32
+        width: 206
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ee6cb86b3e41720800000000000000
+      internalID: 2816126040182025744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_99
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 179
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082c16a05049f2070800000000000000
+      internalID: 8083842605523255936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_100
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 175
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071825a0aea834690800000000000000
+      internalID: -7619093406780587664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_101
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f21948e45b1f8c0800000000000000
+      internalID: -3967190447900512454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_102
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 181
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e80217b19257a50800000000000000
+      internalID: 6518161233527475733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_103
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 152
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5228e82feb8a6180800000000000000
+      internalID: -9121324235985771941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_104
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 119
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c9de05870fd9c10800000000000000
+      internalID: 2062068603950046286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_105
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 31
+        width: 201
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc237c3547a5b5c0800000000000000
+      internalID: -4200267161644356385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 172
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b78a1b01ba1359d0800000000000000
+      internalID: -2786854396714383437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_107
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 176
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a839d8aa315e6c50800000000000000
+      internalID: 6660350211310303392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_108
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 163
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08725e0349cf67650800000000000000
+      internalID: 6230444847919343488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_109
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 167
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fe44902d512ccd0800000000000000
+      internalID: -2539443248040710298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_110
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 25
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66fee88485bdf2d0800000000000000
+      internalID: -3243236575799216534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_111
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 72
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68610a84948c703c0800000000000000
+      internalID: -4393322694400010618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_112
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8fa212280fbcd20800000000000000
+      internalID: 3299995593671899366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_113
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 67
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70645917465674de0800000000000000
+      internalID: -1348998081297431033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0524a49a3e222dbe0800000000000000
+      internalID: -1454061368494112176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_115
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 62
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6044efc8b1a853750800000000000000
+      internalID: 6284080705999619078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_116
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3854528bb2adffc50800000000000000
+      internalID: 6701314651858486659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_117
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 76
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efb4ad0109975770800000000000000
+      internalID: 8599510243290169315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_118
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 59
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3991b2d116eb31310800000000000000
+      internalID: 1374651635588602259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_119
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 44
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40128ad739d9b090800000000000000
+      internalID: -8018138827644071858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 60
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933782ec288daaf10800000000000000
+      internalID: 2281874217532683065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_121
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b16ec5705daff20800000000000000
+      internalID: 3457309891560348435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf35604ff6806bd0800000000000000
+      internalID: -2638960950783950918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_123
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 49
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b907953939ae3180800000000000000
+      internalID: -9133676931083466320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_124
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 55
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3670aa2f2c9f3b0800000000000000
+      internalID: -5478133124229012543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_125
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 64
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b79d4d47e0c61440800000000000000
+      internalID: 4906320943733643187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_126
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 39
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efbe0b23b45772b0800000000000000
+      internalID: -5586903684231544864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_127
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 51
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2522d4c969cf2d0800000000000000
+      internalID: -3243552033560440080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_128
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 38
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c00976312112490800000000000000
+      internalID: -7772911607313593209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_129
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 47
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba040f430b18d8c60800000000000000
+      internalID: 7822050721614807211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_130
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 38
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5017c48b47cd767c0800000000000000
+      internalID: -4078048543694360315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_131
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 39
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9816abed4353bc640800000000000000
+      internalID: 5101229504118546825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_132
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 51
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e26b6ca851a332e0800000000000000
+      internalID: -2147195195103681816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_133
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 51
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d6974d558abc110800000000000000
+      internalID: 1282303605507452181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_134
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 47
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d2782057cd42fc0800000000000000
+      internalID: -3520446613585187432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_135
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 43
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40419401f968e7a50800000000000000
+      internalID: 6520797328210203652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_136
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd2b3e7604234670800000000000000
+      internalID: 8521694530221321675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_137
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 33
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c48204887cf2b60800000000000000
+      internalID: 7723611273969552509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_138
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 32
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a11e7c836e5aae80800000000000000
+      internalID: -8166611192631127646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_139
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 38
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f1022f48f796600800000000000000
+      internalID: 462040645756788558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_140
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8182535255ba012b0800000000000000
+      internalID: -5615800353146197992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_141
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 42
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0862d63395d520c50800000000000000
+      internalID: 6629964239139055232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_142
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 43
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d43ed9aab9d39c0800000000000000
+      internalID: -3945826541411021464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_143
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 32
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da1ebcdf7ce39970800000000000000
+      internalID: 8760605734074194643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_144
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d27772441e45570800000000000000
+      internalID: 8454630083317411127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Flight_145
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 31
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35330984adf36f4d0800000000000000
+      internalID: -3101221086645177517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossMissile_Flight_0: -481934381495823634
+      BossMissile_Flight_1: -1860522466336246635
+      BossMissile_Flight_10: -3134319054985159969
+      BossMissile_Flight_100: -7619093406780587664
+      BossMissile_Flight_101: -3967190447900512454
+      BossMissile_Flight_102: 6518161233527475733
+      BossMissile_Flight_103: -9121324235985771941
+      BossMissile_Flight_104: 2062068603950046286
+      BossMissile_Flight_105: -4200267161644356385
+      BossMissile_Flight_106: -2786854396714383437
+      BossMissile_Flight_107: 6660350211310303392
+      BossMissile_Flight_108: 6230444847919343488
+      BossMissile_Flight_109: -2539443248040710298
+      BossMissile_Flight_11: 146810180735650167
+      BossMissile_Flight_110: -3243236575799216534
+      BossMissile_Flight_111: -4393322694400010618
+      BossMissile_Flight_112: 3299995593671899366
+      BossMissile_Flight_113: -1348998081297431033
+      BossMissile_Flight_114: -1454061368494112176
+      BossMissile_Flight_115: 6284080705999619078
+      BossMissile_Flight_116: 6701314651858486659
+      BossMissile_Flight_117: 8599510243290169315
+      BossMissile_Flight_118: 1374651635588602259
+      BossMissile_Flight_119: -8018138827644071858
+      BossMissile_Flight_12: 5941085324390193010
+      BossMissile_Flight_120: 2281874217532683065
+      BossMissile_Flight_121: 3457309891560348435
+      BossMissile_Flight_122: -2638960950783950918
+      BossMissile_Flight_123: -9133676931083466320
+      BossMissile_Flight_124: -5478133124229012543
+      BossMissile_Flight_125: 4906320943733643187
+      BossMissile_Flight_126: -5586903684231544864
+      BossMissile_Flight_127: -3243552033560440080
+      BossMissile_Flight_128: -7772911607313593209
+      BossMissile_Flight_129: 7822050721614807211
+      BossMissile_Flight_13: -648945749812077643
+      BossMissile_Flight_130: -4078048543694360315
+      BossMissile_Flight_131: 5101229504118546825
+      BossMissile_Flight_132: -2147195195103681816
+      BossMissile_Flight_133: 1282303605507452181
+      BossMissile_Flight_134: -3520446613585187432
+      BossMissile_Flight_135: 6520797328210203652
+      BossMissile_Flight_136: 8521694530221321675
+      BossMissile_Flight_137: 7723611273969552509
+      BossMissile_Flight_138: -8166611192631127646
+      BossMissile_Flight_139: 462040645756788558
+      BossMissile_Flight_14: -5127675689720915118
+      BossMissile_Flight_140: -5615800353146197992
+      BossMissile_Flight_141: 6629964239139055232
+      BossMissile_Flight_142: -3945826541411021464
+      BossMissile_Flight_143: 8760605734074194643
+      BossMissile_Flight_144: 8454630083317411127
+      BossMissile_Flight_145: -3101221086645177517
+      BossMissile_Flight_15: 2325320792410853645
+      BossMissile_Flight_16: 978463635784674434
+      BossMissile_Flight_17: -8188665156103333424
+      BossMissile_Flight_18: 6754995693557832750
+      BossMissile_Flight_19: -278354065052579845
+      BossMissile_Flight_2: 276463489959703232
+      BossMissile_Flight_20: 3061893016904888091
+      BossMissile_Flight_21: -7020037310651602883
+      BossMissile_Flight_22: 5773091350118772245
+      BossMissile_Flight_23: -1826173425406688581
+      BossMissile_Flight_24: -4907894914156214181
+      BossMissile_Flight_25: -8328525409945333044
+      BossMissile_Flight_26: -8370131470782744352
+      BossMissile_Flight_27: -1467628931192420520
+      BossMissile_Flight_28: -5864665830214079630
+      BossMissile_Flight_29: 991000495643626204
+      BossMissile_Flight_3: 77655328640773121
+      BossMissile_Flight_30: 2338456996482412916
+      BossMissile_Flight_31: -8499448360772249425
+      BossMissile_Flight_32: 5933602453556302237
+      BossMissile_Flight_33: 343016681268356286
+      BossMissile_Flight_34: -8304942784111062323
+      BossMissile_Flight_35: -5097561028285707964
+      BossMissile_Flight_36: -5132575802785101591
+      BossMissile_Flight_37: 1267040691660867528
+      BossMissile_Flight_38: -5167529410766479537
+      BossMissile_Flight_39: -1121869115368376867
+      BossMissile_Flight_4: -6349613762636769672
+      BossMissile_Flight_40: 3253632011603466369
+      BossMissile_Flight_41: -5581455286764804340
+      BossMissile_Flight_42: 7011046672117683255
+      BossMissile_Flight_43: 6654427305734409396
+      BossMissile_Flight_44: -3763341594074538422
+      BossMissile_Flight_45: 738002380308648274
+      BossMissile_Flight_46: 616594321526853121
+      BossMissile_Flight_47: 8800906760255364338
+      BossMissile_Flight_48: -4258373164323970101
+      BossMissile_Flight_49: -6629498858971382167
+      BossMissile_Flight_5: 4936941911263366465
+      BossMissile_Flight_50: -6954309897760989043
+      BossMissile_Flight_51: -9153972263775211610
+      BossMissile_Flight_52: -5980585785617835670
+      BossMissile_Flight_53: 1775888660003068367
+      BossMissile_Flight_54: 3192112424134823192
+      BossMissile_Flight_55: -4160525911037182689
+      BossMissile_Flight_56: 7807556061168508372
+      BossMissile_Flight_57: -1399787178592913114
+      BossMissile_Flight_58: 242886126575113370
+      BossMissile_Flight_59: -448138256081446750
+      BossMissile_Flight_6: 619222291493370980
+      BossMissile_Flight_60: 501761544651440331
+      BossMissile_Flight_61: -4687870488821673243
+      BossMissile_Flight_62: 2053294540446058728
+      BossMissile_Flight_63: -3589821927176940220
+      BossMissile_Flight_64: -3562964633432504025
+      BossMissile_Flight_65: -6214546929044537736
+      BossMissile_Flight_66: 6019353522673998457
+      BossMissile_Flight_67: -8245818054601178986
+      BossMissile_Flight_68: -7197570832848300177
+      BossMissile_Flight_69: -6767427662958743279
+      BossMissile_Flight_7: 5135665144332342208
+      BossMissile_Flight_70: -8635337056121556418
+      BossMissile_Flight_71: -8852799603183216974
+      BossMissile_Flight_72: 6718079532691318158
+      BossMissile_Flight_73: 6559875743645854149
+      BossMissile_Flight_74: -2186756448054020354
+      BossMissile_Flight_75: 4842430413004905610
+      BossMissile_Flight_76: 2305925376548415292
+      BossMissile_Flight_77: -4952915280568569629
+      BossMissile_Flight_78: -3870836069751853763
+      BossMissile_Flight_79: 8812651727241789801
+      BossMissile_Flight_8: 658783417015583565
+      BossMissile_Flight_80: -6728107532200963877
+      BossMissile_Flight_81: 5518943363270588145
+      BossMissile_Flight_82: -6018071833475052031
+      BossMissile_Flight_83: -2354605561947026765
+      BossMissile_Flight_84: -782444670603066982
+      BossMissile_Flight_85: -1069327503107043181
+      BossMissile_Flight_86: -5973507609807182173
+      BossMissile_Flight_87: -7010172779376330716
+      BossMissile_Flight_88: 587774234006671363
+      BossMissile_Flight_89: -1859984340142218468
+      BossMissile_Flight_9: -4171920566096617837
+      BossMissile_Flight_90: 2829615239615960831
+      BossMissile_Flight_91: 7755276556724039041
+      BossMissile_Flight_92: 5262335631514711992
+      BossMissile_Flight_93: -8328128673254731942
+      BossMissile_Flight_94: 2645131604837117027
+      BossMissile_Flight_95: 5938670688263291063
+      BossMissile_Flight_96: -160538398530988491
+      BossMissile_Flight_97: -6794449170137287401
+      BossMissile_Flight_98: 2816126040182025744
+      BossMissile_Flight_99: 8083842605523255936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

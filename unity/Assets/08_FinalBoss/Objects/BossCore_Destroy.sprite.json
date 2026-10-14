@@ -1,0 +1,135 @@
+{
+  "name": "BossCore_Destroy",
+  "sourcePage": 11,
+  "frameCount": 10,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 4,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1086,
+    1448
+  ],
+  "sourceScale": 0.5657458563535912,
+  "sourceOffset": [
+    25,
+    25
+  ],
+  "sourceRegions": [
+    [
+      63,
+      44,
+      323,
+      370
+    ],
+    [
+      414,
+      44,
+      673,
+      369
+    ],
+    [
+      762,
+      44,
+      1023,
+      370
+    ],
+    [
+      63,
+      408,
+      323,
+      730
+    ],
+    [
+      406,
+      405,
+      694,
+      776
+    ],
+    [
+      744,
+      399,
+      1043,
+      731
+    ],
+    [
+      49,
+      752,
+      343,
+      1075
+    ],
+    [
+      394,
+      769,
+      694,
+      1079
+    ],
+    [
+      738,
+      872,
+      1050,
+      1085
+    ],
+    [
+      43,
+      1140,
+      364,
+      1409
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      -5
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "8e6594e0dda04174533aa0f0f76e15dae888b81f9d705e25b6157ccd4d0875c2",
+  "spriteSha256": "9b3a82a196f681dcb22b25cb9070590ec8c4e82aeded1cb4b7d42c8ebd4b6d74"
+}

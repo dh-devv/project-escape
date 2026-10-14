@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 95b0a74680a2a0e4ba45c37a18cbc308
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9210542405782694797
+    second: VFX_Enemy3_GroundDust_0
+  - first:
+      213: 1254843996852072657
+    second: VFX_Enemy3_GroundDust_1
+  - first:
+      213: -846248291267747265
+    second: VFX_Enemy3_GroundDust_2
+  - first:
+      213: -5157496060863060628
+    second: VFX_Enemy3_GroundDust_3
+  - first:
+      213: 3781736729320274066
+    second: VFX_Enemy3_GroundDust_4
+  - first:
+      213: 8158629724903297027
+    second: VFX_Enemy3_GroundDust_5
+  - first:
+      213: 4273446350525245442
+    second: VFX_Enemy3_GroundDust_6
+  - first:
+      213: -3671248068990976806
+    second: VFX_Enemy3_GroundDust_7
+  - first:
+      213: -381754544758699345
+    second: VFX_Enemy3_GroundDust_8
+  - first:
+      213: 6186499234017492364
+    second: VFX_Enemy3_GroundDust_9
+  - first:
+      213: -2862066935670651227
+    second: VFX_Enemy3_GroundDust_10
+  - first:
+      213: 7617760136318177503
+    second: VFX_Enemy3_GroundDust_11
+  - first:
+      213: 7506550174204852970
+    second: VFX_Enemy3_GroundDust_12
+  - first:
+      213: 2052898607718089684
+    second: VFX_Enemy3_GroundDust_13
+  - first:
+      213: 5993754431756483298
+    second: VFX_Enemy3_GroundDust_14
+  - first:
+      213: 7787104257874261377
+    second: VFX_Enemy3_GroundDust_15
+  - first:
+      213: -5070314734810970449
+    second: VFX_Enemy3_GroundDust_16
+  - first:
+      213: -6616755546750165564
+    second: VFX_Enemy3_GroundDust_17
+  - first:
+      213: 2034799678472873157
+    second: VFX_Enemy3_GroundDust_18
+  - first:
+      213: 2264961170326778145
+    second: VFX_Enemy3_GroundDust_19
+  - first:
+      213: -6237011821294904008
+    second: VFX_Enemy3_GroundDust_20
+  - first:
+      213: -7330457217199647342
+    second: VFX_Enemy3_GroundDust_21
+  - first:
+      213: -8041947215457793983
+    second: VFX_Enemy3_GroundDust_22
+  - first:
+      213: 6343121924408977934
+    second: VFX_Enemy3_GroundDust_23
+  - first:
+      213: -6092727634205262718
+    second: VFX_Enemy3_GroundDust_24
+  - first:
+      213: 406916187400459267
+    second: VFX_Enemy3_GroundDust_25
+  - first:
+      213: -8819000385545719705
+    second: VFX_Enemy3_GroundDust_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 284
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b695db48b62df70800000000000000
+      internalID: 9210542405782694797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 284
+        width: 206
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d036e877f91a6110800000000000000
+      internalID: 1254843996852072657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 282
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f326437a9a58144f0800000000000000
+      internalID: -846248291267747265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_3
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 282
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e7c188a4ec68b0800000000000000
+      internalID: -5157496060863060628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 120
+        width: 195
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298be21d48d6b7430800000000000000
+      internalID: 3781736729320274066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 210
+        width: 87
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300ddce2286493170800000000000000
+      internalID: 8158629724903297027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 193
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2082fb960d45e4b30800000000000000
+      internalID: 4273446350525245442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 193
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc3475155b1d0dc0800000000000000
+      internalID: -3671248068990976806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 180
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa4440a34cb3baf0800000000000000
+      internalID: -381754544758699345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 172
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8db6de964cdad550800000000000000
+      internalID: 6186499234017492364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 209
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6c5ff2945e748d0800000000000000
+      internalID: -2862066935670651227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 47
+        width: 187
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0506dbb78b7b960800000000000000
+      internalID: 7617760136318177503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 183
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea702eac9f9c2860800000000000000
+      internalID: 7506550174204852970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_13
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 166
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d34ee0386c5d7c10800000000000000
+      internalID: 2052898607718089684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 80
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eab4cf36e71e2350800000000000000
+      internalID: 5993754431756483298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 37
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185f68f801a511c60800000000000000
+      internalID: 7787104257874261377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_16
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 142
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6c924cc9f92a9b0800000000000000
+      internalID: -5070314734810970449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_17
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 140
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd5c5623ef8c24a0800000000000000
+      internalID: -6616755546750165564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_18
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 140
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c46478d68f0d3c10800000000000000
+      internalID: 2034799678472873157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 128
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12171632f22ce6f10800000000000000
+      internalID: 2264961170326778145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_20
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 107
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d1ecb2bcea179a0800000000000000
+      internalID: -6237011821294904008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 75
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295dd97dffbf44a90800000000000000
+      internalID: -7330457217199647342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_22
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 113
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14842389d93456090800000000000000
+      internalID: -8041947215457793983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_23
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 55
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aa36f68cb470850800000000000000
+      internalID: 6343121924408977934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 53
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c3df15f78427ba0800000000000000
+      internalID: -6092727634205262718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 35
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3045c53dd18a5a500800000000000000
+      internalID: 406916187400459267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_GroundDust_26
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 82
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760b389dfdd9c9580800000000000000
+      internalID: -8819000385545719705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Enemy3_GroundDust_0: 9210542405782694797
+      VFX_Enemy3_GroundDust_1: 1254843996852072657
+      VFX_Enemy3_GroundDust_10: -2862066935670651227
+      VFX_Enemy3_GroundDust_11: 7617760136318177503
+      VFX_Enemy3_GroundDust_12: 7506550174204852970
+      VFX_Enemy3_GroundDust_13: 2052898607718089684
+      VFX_Enemy3_GroundDust_14: 5993754431756483298
+      VFX_Enemy3_GroundDust_15: 7787104257874261377
+      VFX_Enemy3_GroundDust_16: -5070314734810970449
+      VFX_Enemy3_GroundDust_17: -6616755546750165564
+      VFX_Enemy3_GroundDust_18: 2034799678472873157
+      VFX_Enemy3_GroundDust_19: 2264961170326778145
+      VFX_Enemy3_GroundDust_2: -846248291267747265
+      VFX_Enemy3_GroundDust_20: -6237011821294904008
+      VFX_Enemy3_GroundDust_21: -7330457217199647342
+      VFX_Enemy3_GroundDust_22: -8041947215457793983
+      VFX_Enemy3_GroundDust_23: 6343121924408977934
+      VFX_Enemy3_GroundDust_24: -6092727634205262718
+      VFX_Enemy3_GroundDust_25: 406916187400459267
+      VFX_Enemy3_GroundDust_26: -8819000385545719705
+      VFX_Enemy3_GroundDust_3: -5157496060863060628
+      VFX_Enemy3_GroundDust_4: 3781736729320274066
+      VFX_Enemy3_GroundDust_5: 8158629724903297027
+      VFX_Enemy3_GroundDust_6: 4273446350525245442
+      VFX_Enemy3_GroundDust_7: -3671248068990976806
+      VFX_Enemy3_GroundDust_8: -381754544758699345
+      VFX_Enemy3_GroundDust_9: 6186499234017492364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,75 @@
+{
+  "name": "BossFinal_Damage",
+  "sourcePage": 10,
+  "frameCount": 4,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.8,
+  "sourceOffset": [
+    51,
+    38
+  ],
+  "sourceRegions": [
+    [
+      17,
+      65,
+      498,
+      514
+    ],
+    [
+      523,
+      59,
+      1013,
+      514
+    ],
+    [
+      1035,
+      84,
+      1519,
+      514
+    ],
+    [
+      13,
+      556,
+      500,
+      994
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "1bd804ccf593ed75c1c88df72ef6234870e7d25cfae8b0c7f878854db8201315",
+  "spriteSha256": "43d2db92dfc91a0d0e82c8f19e243d86284fbc4350a9a7a5460f5aa70b7e6730"
+}

@@ -1,0 +1,4771 @@
+fileFormatVersion: 2
+guid: f02c1aeea09e20247aea69fafa4c8ad4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3905890752921769736
+    second: VFX_P2_EnergyOverload_0
+  - first:
+      213: 1517355305264127731
+    second: VFX_P2_EnergyOverload_1
+  - first:
+      213: 2924251707354473438
+    second: VFX_P2_EnergyOverload_2
+  - first:
+      213: 897093495200885913
+    second: VFX_P2_EnergyOverload_3
+  - first:
+      213: 4708615667094858804
+    second: VFX_P2_EnergyOverload_4
+  - first:
+      213: -1558974576642496002
+    second: VFX_P2_EnergyOverload_5
+  - first:
+      213: 9037161656439414125
+    second: VFX_P2_EnergyOverload_6
+  - first:
+      213: -3361585403047409109
+    second: VFX_P2_EnergyOverload_7
+  - first:
+      213: 986099316451598224
+    second: VFX_P2_EnergyOverload_8
+  - first:
+      213: -1303962303992482121
+    second: VFX_P2_EnergyOverload_9
+  - first:
+      213: 6784789322186616044
+    second: VFX_P2_EnergyOverload_10
+  - first:
+      213: -2303532957757096201
+    second: VFX_P2_EnergyOverload_11
+  - first:
+      213: -5693025276546137136
+    second: VFX_P2_EnergyOverload_12
+  - first:
+      213: 6287673651498849607
+    second: VFX_P2_EnergyOverload_13
+  - first:
+      213: -7832963999288167322
+    second: VFX_P2_EnergyOverload_14
+  - first:
+      213: -3677736956508096523
+    second: VFX_P2_EnergyOverload_15
+  - first:
+      213: 3395644403385895353
+    second: VFX_P2_EnergyOverload_16
+  - first:
+      213: -8478001709146957774
+    second: VFX_P2_EnergyOverload_17
+  - first:
+      213: 4109583727558588897
+    second: VFX_P2_EnergyOverload_18
+  - first:
+      213: 7878721077017708247
+    second: VFX_P2_EnergyOverload_19
+  - first:
+      213: -259780922987572136
+    second: VFX_P2_EnergyOverload_20
+  - first:
+      213: -5549681063603745070
+    second: VFX_P2_EnergyOverload_21
+  - first:
+      213: -3537047962726161871
+    second: VFX_P2_EnergyOverload_22
+  - first:
+      213: 2515463438349601402
+    second: VFX_P2_EnergyOverload_23
+  - first:
+      213: -1305130969843050351
+    second: VFX_P2_EnergyOverload_24
+  - first:
+      213: -8700439758808599745
+    second: VFX_P2_EnergyOverload_25
+  - first:
+      213: 741033562522089467
+    second: VFX_P2_EnergyOverload_26
+  - first:
+      213: 2218367458316180114
+    second: VFX_P2_EnergyOverload_27
+  - first:
+      213: 5370143065031630709
+    second: VFX_P2_EnergyOverload_28
+  - first:
+      213: 6278233001256501813
+    second: VFX_P2_EnergyOverload_29
+  - first:
+      213: 29469433629094220
+    second: VFX_P2_EnergyOverload_30
+  - first:
+      213: -4551022171030910379
+    second: VFX_P2_EnergyOverload_31
+  - first:
+      213: 1121909936491795918
+    second: VFX_P2_EnergyOverload_32
+  - first:
+      213: 4333052645709018398
+    second: VFX_P2_EnergyOverload_33
+  - first:
+      213: -1451134580309988700
+    second: VFX_P2_EnergyOverload_34
+  - first:
+      213: -4345469519862662726
+    second: VFX_P2_EnergyOverload_35
+  - first:
+      213: -5101160503152998691
+    second: VFX_P2_EnergyOverload_36
+  - first:
+      213: -5108442113986804593
+    second: VFX_P2_EnergyOverload_37
+  - first:
+      213: 741186757642092367
+    second: VFX_P2_EnergyOverload_38
+  - first:
+      213: -2668323973833064016
+    second: VFX_P2_EnergyOverload_39
+  - first:
+      213: 4539214100786303147
+    second: VFX_P2_EnergyOverload_40
+  - first:
+      213: -3093110329868977204
+    second: VFX_P2_EnergyOverload_41
+  - first:
+      213: 8630609437868405363
+    second: VFX_P2_EnergyOverload_42
+  - first:
+      213: 3719530875673090903
+    second: VFX_P2_EnergyOverload_43
+  - first:
+      213: -7126312336851910628
+    second: VFX_P2_EnergyOverload_44
+  - first:
+      213: 564408590051936072
+    second: VFX_P2_EnergyOverload_45
+  - first:
+      213: -7534323534871138174
+    second: VFX_P2_EnergyOverload_46
+  - first:
+      213: -6394177512696890216
+    second: VFX_P2_EnergyOverload_47
+  - first:
+      213: 3054097472688423167
+    second: VFX_P2_EnergyOverload_48
+  - first:
+      213: -1055494921226177541
+    second: VFX_P2_EnergyOverload_49
+  - first:
+      213: -6525681895854180840
+    second: VFX_P2_EnergyOverload_50
+  - first:
+      213: 1528117411402095359
+    second: VFX_P2_EnergyOverload_51
+  - first:
+      213: -5481873453527160686
+    second: VFX_P2_EnergyOverload_52
+  - first:
+      213: -7586632163586193083
+    second: VFX_P2_EnergyOverload_53
+  - first:
+      213: 2692403180694870362
+    second: VFX_P2_EnergyOverload_54
+  - first:
+      213: -6605588731475940608
+    second: VFX_P2_EnergyOverload_55
+  - first:
+      213: 1234133128181625591
+    second: VFX_P2_EnergyOverload_56
+  - first:
+      213: 157602021393663422
+    second: VFX_P2_EnergyOverload_57
+  - first:
+      213: -3793906749917713695
+    second: VFX_P2_EnergyOverload_58
+  - first:
+      213: 9221963050668835484
+    second: VFX_P2_EnergyOverload_59
+  - first:
+      213: 4179186788482788955
+    second: VFX_P2_EnergyOverload_60
+  - first:
+      213: -7598241998572674173
+    second: VFX_P2_EnergyOverload_61
+  - first:
+      213: 3905808990333429546
+    second: VFX_P2_EnergyOverload_62
+  - first:
+      213: -2750369154065095586
+    second: VFX_P2_EnergyOverload_63
+  - first:
+      213: 3634227402650481329
+    second: VFX_P2_EnergyOverload_64
+  - first:
+      213: 8694810210851697911
+    second: VFX_P2_EnergyOverload_65
+  - first:
+      213: 8748913958288864984
+    second: VFX_P2_EnergyOverload_66
+  - first:
+      213: -4013173737135578064
+    second: VFX_P2_EnergyOverload_67
+  - first:
+      213: 2791576256666987676
+    second: VFX_P2_EnergyOverload_68
+  - first:
+      213: -3654239108267427750
+    second: VFX_P2_EnergyOverload_69
+  - first:
+      213: 5501876188432618278
+    second: VFX_P2_EnergyOverload_70
+  - first:
+      213: 1171221862633037582
+    second: VFX_P2_EnergyOverload_71
+  - first:
+      213: -411781540211675069
+    second: VFX_P2_EnergyOverload_72
+  - first:
+      213: -714534407021786912
+    second: VFX_P2_EnergyOverload_73
+  - first:
+      213: 5801112057184493827
+    second: VFX_P2_EnergyOverload_74
+  - first:
+      213: 6890261108702077315
+    second: VFX_P2_EnergyOverload_75
+  - first:
+      213: -4765686801306988744
+    second: VFX_P2_EnergyOverload_76
+  - first:
+      213: -3686935939520192824
+    second: VFX_P2_EnergyOverload_77
+  - first:
+      213: -360859731836083003
+    second: VFX_P2_EnergyOverload_78
+  - first:
+      213: -1753570416722611258
+    second: VFX_P2_EnergyOverload_79
+  - first:
+      213: 5393361159537990227
+    second: VFX_P2_EnergyOverload_80
+  - first:
+      213: 7694757308716456689
+    second: VFX_P2_EnergyOverload_81
+  - first:
+      213: -2014820802445260903
+    second: VFX_P2_EnergyOverload_82
+  - first:
+      213: -1188010933328808671
+    second: VFX_P2_EnergyOverload_83
+  - first:
+      213: 3238688230453939257
+    second: VFX_P2_EnergyOverload_84
+  - first:
+      213: 1495267304404874210
+    second: VFX_P2_EnergyOverload_85
+  - first:
+      213: -2246904291979095325
+    second: VFX_P2_EnergyOverload_86
+  - first:
+      213: 8872410687584048591
+    second: VFX_P2_EnergyOverload_87
+  - first:
+      213: -4487207503232929696
+    second: VFX_P2_EnergyOverload_88
+  - first:
+      213: -788950730877660949
+    second: VFX_P2_EnergyOverload_89
+  - first:
+      213: -4752116867511651856
+    second: VFX_P2_EnergyOverload_90
+  - first:
+      213: 6145217330968475947
+    second: VFX_P2_EnergyOverload_91
+  - first:
+      213: -6915068439522873550
+    second: VFX_P2_EnergyOverload_92
+  - first:
+      213: -3435078889540918359
+    second: VFX_P2_EnergyOverload_93
+  - first:
+      213: -9068067652792749106
+    second: VFX_P2_EnergyOverload_94
+  - first:
+      213: 638765748350337407
+    second: VFX_P2_EnergyOverload_95
+  - first:
+      213: -3457421960547489555
+    second: VFX_P2_EnergyOverload_96
+  - first:
+      213: -1272219337970221229
+    second: VFX_P2_EnergyOverload_97
+  - first:
+      213: -6968578940884937134
+    second: VFX_P2_EnergyOverload_98
+  - first:
+      213: 6349842811159400660
+    second: VFX_P2_EnergyOverload_99
+  - first:
+      213: 6142681637996710554
+    second: VFX_P2_EnergyOverload_100
+  - first:
+      213: -4603967037648107714
+    second: VFX_P2_EnergyOverload_101
+  - first:
+      213: -2015767007708063720
+    second: VFX_P2_EnergyOverload_102
+  - first:
+      213: -7168957744643690757
+    second: VFX_P2_EnergyOverload_103
+  - first:
+      213: -7577145058409904145
+    second: VFX_P2_EnergyOverload_104
+  - first:
+      213: 3504620423629164310
+    second: VFX_P2_EnergyOverload_105
+  - first:
+      213: 967032090692100037
+    second: VFX_P2_EnergyOverload_106
+  - first:
+      213: -3260633991483394532
+    second: VFX_P2_EnergyOverload_107
+  - first:
+      213: -5998489218125995754
+    second: VFX_P2_EnergyOverload_108
+  - first:
+      213: 154252748983707227
+    second: VFX_P2_EnergyOverload_109
+  - first:
+      213: 6015574888376483406
+    second: VFX_P2_EnergyOverload_110
+  - first:
+      213: 727547609304767069
+    second: VFX_P2_EnergyOverload_111
+  - first:
+      213: 5433031113493692408
+    second: VFX_P2_EnergyOverload_112
+  - first:
+      213: -6851973495104379870
+    second: VFX_P2_EnergyOverload_113
+  - first:
+      213: -1064891606234123247
+    second: VFX_P2_EnergyOverload_114
+  - first:
+      213: -6814495933322435888
+    second: VFX_P2_EnergyOverload_115
+  - first:
+      213: -9151671156763695985
+    second: VFX_P2_EnergyOverload_116
+  - first:
+      213: 8751794277063289467
+    second: VFX_P2_EnergyOverload_117
+  - first:
+      213: -5185697145267774477
+    second: VFX_P2_EnergyOverload_118
+  - first:
+      213: 5470458844862498159
+    second: VFX_P2_EnergyOverload_119
+  - first:
+      213: 8240637615693272394
+    second: VFX_P2_EnergyOverload_120
+  - first:
+      213: 6741974662716231852
+    second: VFX_P2_EnergyOverload_121
+  - first:
+      213: -2855220126155779871
+    second: VFX_P2_EnergyOverload_122
+  - first:
+      213: -5902252586085510370
+    second: VFX_P2_EnergyOverload_123
+  - first:
+      213: -4947506058466563407
+    second: VFX_P2_EnergyOverload_124
+  - first:
+      213: 2215574016917652744
+    second: VFX_P2_EnergyOverload_125
+  - first:
+      213: 3288712807672254199
+    second: VFX_P2_EnergyOverload_126
+  - first:
+      213: 4539672924708904974
+    second: VFX_P2_EnergyOverload_127
+  - first:
+      213: 4898848592680513114
+    second: VFX_P2_EnergyOverload_128
+  - first:
+      213: -7292845270806613812
+    second: VFX_P2_EnergyOverload_129
+  - first:
+      213: 9205575554814138257
+    second: VFX_P2_EnergyOverload_130
+  - first:
+      213: -1038925750091219628
+    second: VFX_P2_EnergyOverload_131
+  - first:
+      213: -7795994545273106609
+    second: VFX_P2_EnergyOverload_132
+  - first:
+      213: -3730298313441944696
+    second: VFX_P2_EnergyOverload_133
+  - first:
+      213: 4258531226574101159
+    second: VFX_P2_EnergyOverload_134
+  - first:
+      213: 8943173569548804476
+    second: VFX_P2_EnergyOverload_135
+  - first:
+      213: -3207576922555905408
+    second: VFX_P2_EnergyOverload_136
+  - first:
+      213: -504810880207766603
+    second: VFX_P2_EnergyOverload_137
+  - first:
+      213: -4818057662444637235
+    second: VFX_P2_EnergyOverload_138
+  - first:
+      213: 1381899544336567881
+    second: VFX_P2_EnergyOverload_139
+  - first:
+      213: 4956538068066308657
+    second: VFX_P2_EnergyOverload_140
+  - first:
+      213: 3753494952331204425
+    second: VFX_P2_EnergyOverload_141
+  - first:
+      213: 2572328951690500411
+    second: VFX_P2_EnergyOverload_142
+  - first:
+      213: 6699395204556072125
+    second: VFX_P2_EnergyOverload_143
+  - first:
+      213: -7955713095648036172
+    second: VFX_P2_EnergyOverload_144
+  - first:
+      213: -3217376784449553363
+    second: VFX_P2_EnergyOverload_145
+  - first:
+      213: 1764303704685380864
+    second: VFX_P2_EnergyOverload_146
+  - first:
+      213: -4884026117158461421
+    second: VFX_P2_EnergyOverload_147
+  - first:
+      213: 9096072088172260872
+    second: VFX_P2_EnergyOverload_148
+  - first:
+      213: 3792459244717672804
+    second: VFX_P2_EnergyOverload_149
+  - first:
+      213: 4128312062161151889
+    second: VFX_P2_EnergyOverload_150
+  - first:
+      213: -429697824279680311
+    second: VFX_P2_EnergyOverload_151
+  - first:
+      213: 6730733900998034458
+    second: VFX_P2_EnergyOverload_152
+  - first:
+      213: 6473068175686455625
+    second: VFX_P2_EnergyOverload_153
+  - first:
+      213: -9088818379667421992
+    second: VFX_P2_EnergyOverload_154
+  - first:
+      213: -7306852485306281777
+    second: VFX_P2_EnergyOverload_155
+  - first:
+      213: -797694813612885126
+    second: VFX_P2_EnergyOverload_156
+  - first:
+      213: 7343459690855398808
+    second: VFX_P2_EnergyOverload_157
+  - first:
+      213: 169852626128440818
+    second: VFX_P2_EnergyOverload_158
+  - first:
+      213: -6850451698606843384
+    second: VFX_P2_EnergyOverload_159
+  - first:
+      213: -6465426897143326847
+    second: VFX_P2_EnergyOverload_160
+  - first:
+      213: 830744694352977693
+    second: VFX_P2_EnergyOverload_161
+  - first:
+      213: -864309038925581396
+    second: VFX_P2_EnergyOverload_162
+  - first:
+      213: 2842258241551315231
+    second: VFX_P2_EnergyOverload_163
+  - first:
+      213: 3759023992847638620
+    second: VFX_P2_EnergyOverload_164
+  - first:
+      213: 172348741871719996
+    second: VFX_P2_EnergyOverload_165
+  - first:
+      213: -8467521915651304089
+    second: VFX_P2_EnergyOverload_166
+  - first:
+      213: 4801057520879677895
+    second: VFX_P2_EnergyOverload_167
+  - first:
+      213: 6608767204432187334
+    second: VFX_P2_EnergyOverload_168
+  - first:
+      213: -5248601444039754425
+    second: VFX_P2_EnergyOverload_169
+  - first:
+      213: -4039338996836105561
+    second: VFX_P2_EnergyOverload_170
+  - first:
+      213: -7422811537649456665
+    second: VFX_P2_EnergyOverload_171
+  - first:
+      213: 1112965422756059076
+    second: VFX_P2_EnergyOverload_172
+  - first:
+      213: -955143366414717344
+    second: VFX_P2_EnergyOverload_173
+  - first:
+      213: 4264213860656405820
+    second: VFX_P2_EnergyOverload_174
+  - first:
+      213: 8424680245534077825
+    second: VFX_P2_EnergyOverload_175
+  - first:
+      213: 4710129179434288345
+    second: VFX_P2_EnergyOverload_176
+  - first:
+      213: -5965644883156811285
+    second: VFX_P2_EnergyOverload_177
+  - first:
+      213: 2991387466402112058
+    second: VFX_P2_EnergyOverload_178
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 674
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f86d94fd0d7bc9c0800000000000000
+      internalID: -3905890752921769736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 686
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe92506c9abe0510800000000000000
+      internalID: 1517355305264127731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 719
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed361ba3f67059820800000000000000
+      internalID: 2924251707354473438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 659
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c23c7e7cd137c00800000000000000
+      internalID: 897093495200885913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 711
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c270d700d585140800000000000000
+      internalID: 4708615667094858804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 726
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9eb51e1e86d5ae0800000000000000
+      internalID: -1558974576642496002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_6
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 729
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d1ad545a27a6d70800000000000000
+      internalID: 9037161656439414125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a8839e2ef3951d0800000000000000
+      internalID: -3361585403047409109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 684
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f5a5e8a145fad00800000000000000
+      internalID: 986099316451598224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 680
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b63706713567ede0800000000000000
+      internalID: -1303962303992482121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 662
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecebc0f0f9682e50800000000000000
+      internalID: 6784789322186616044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 687
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7febb74caf43800e0800000000000000
+      internalID: -2303532957757096201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 712
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3c5268caf4ef0b0800000000000000
+      internalID: -5693025276546137136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_13
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 702
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7451c2d5fdd424750800000000000000
+      internalID: 6287673651498849607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 694
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66471045eb8bb4390800000000000000
+      internalID: -7832963999288167322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 687
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7320a39bd06fcc0800000000000000
+      internalID: -3677736956508096523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 539
+        width: 168
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b90c5f0890cf1f20800000000000000
+      internalID: 3395644403385895353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_17
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 668
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23814292d56185a80800000000000000
+      internalID: -8478001709146957774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 665
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9fadf60ac280930800000000000000
+      internalID: 4109583727558588897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 654
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d606088317d65d60800000000000000
+      internalID: 7878721077017708247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 680
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85417ed70a2156cf0800000000000000
+      internalID: -259780922987572136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_21
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 647
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2decf23e9729bf2b0800000000000000
+      internalID: -5549681063603745070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 617
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13220343e91e9eec0800000000000000
+      internalID: -3537047962726161871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 659
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a8f407ba8b8e220800000000000000
+      internalID: 2515463438349601402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 658
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198d42d3c4e33ede0800000000000000
+      internalID: -1305130969843050351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 666
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f333782e224d14780800000000000000
+      internalID: -8700439758808599745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 661
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf775c4591ea84a00800000000000000
+      internalID: 741033562522089467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 632
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ad83e237939ce10800000000000000
+      internalID: 2218367458316180114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 540
+        width: 130
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fdc385aa4968a40800000000000000
+      internalID: 5370143065031630709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_29
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 657
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5324701b6a3c02750800000000000000
+      internalID: 6278233001256501813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 645
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41b1333b42b86000800000000000000
+      internalID: 29469433629094220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 640
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a86c2a27587d0c0800000000000000
+      internalID: -4551022171030910379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 580
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec51392a423d19f00800000000000000
+      internalID: 1121909936491795918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 640
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e157d8c7c68122c30800000000000000
+      internalID: 4333052645709018398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_34
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 643
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa6653a9c88cdbe0800000000000000
+      internalID: -1451134580309988700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_35
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 630
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab97c46be7ac1b3c0800000000000000
+      internalID: -4345469519862662726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_36
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 646
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6005bac890539b0800000000000000
+      internalID: -5101160503152998691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 578
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84cb2886fa2b19b0800000000000000
+      internalID: -5108442113986804593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_38
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 596
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ffa79dd69394a00800000000000000
+      internalID: 741186757642092367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 570
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b18502bb7538fad0800000000000000
+      internalID: -2668323973833064016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_40
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 569
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0dfc4cc278efe30800000000000000
+      internalID: 4539214100786303147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_41
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 564
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb71110b801315d0800000000000000
+      internalID: -3093110329868977204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_42
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 586
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372b74b8e8516c770800000000000000
+      internalID: 8630609437868405363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_43
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 570
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b979fdf9d6e9330800000000000000
+      internalID: 3719530875673090903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 576
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10457bbfa04a1d90800000000000000
+      internalID: -7126312336851910628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 572
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847893e4f9e25d700800000000000000
+      internalID: 564408590051936072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 562
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280f321e9a4b07790800000000000000
+      internalID: -7534323534871138174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 562
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c39e41e615347a0800000000000000
+      internalID: -6394177512696890216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 571
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff003095875526a20800000000000000
+      internalID: 3054097472688423167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 563
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3b51e16f02a51f0800000000000000
+      internalID: -1055494921226177541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 561
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816f968e3ee1075a0800000000000000
+      internalID: -6525681895854180840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_51
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 561
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa16b970b6f43510800000000000000
+      internalID: 1528117411402095359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_52
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 549
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298aed263297ce3b0800000000000000
+      internalID: -5481873453527160686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_53
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 562
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54944ef2e3ed6b690800000000000000
+      internalID: -7586632163586193083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_54
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 569
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5913798d665d5520800000000000000
+      internalID: 2692403180694870362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 574
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bad00fb0c3454a0800000000000000
+      internalID: -6605588731475940608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_56
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 572
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2bec69a85802110800000000000000
+      internalID: 1234133128181625591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_57
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 576
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb58d05143aef2200800000000000000
+      internalID: 157602021393663422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_58
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 560
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaa23479e5595bc0800000000000000
+      internalID: -3793906749917713695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_59
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 561
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92c4e6d88efaff70800000000000000
+      internalID: 9221963050668835484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_60
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 557
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ea589ed347ff930800000000000000
+      internalID: 4179186788482788955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_61
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 554
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3832f95d82f9d8690800000000000000
+      internalID: -7598241998572674173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_62
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 547
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27e9553598343630800000000000000
+      internalID: 3905808990333429546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_63
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 563
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5422c293d9b4d9d0800000000000000
+      internalID: -2750369154065095586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_64
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 541
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2f8f7519e5f6230800000000000000
+      internalID: 3634227402650481329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_65
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 549
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f43147d1db2aa870800000000000000
+      internalID: 8694810210851697911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 539
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6b34e24e26a6970800000000000000
+      internalID: 8748913958288864984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_67
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 545
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0346b10bfb75e48c0800000000000000
+      internalID: -4013173737135578064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 469
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cec06a0dbadb620800000000000000
+      internalID: 2791576256666987676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 468
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58316b54e8894dc0800000000000000
+      internalID: -3654239108267427750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_70
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 464
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623d4b14e379a5c40800000000000000
+      internalID: 5501876188432618278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 465
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fd9632414014010800000000000000
+      internalID: 1171221862633037582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_72
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 478
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340be92fede094af0800000000000000
+      internalID: -411781540211675069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_73
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 473
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e80ca91eb67516f0800000000000000
+      internalID: -714534407021786912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 481
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a7be2ea0b18050800000000000000
+      internalID: 5801112057184493827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_75
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 468
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38160e1e8ff1f9f50800000000000000
+      internalID: 6890261108702077315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_76
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 465
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f44599a11ecddb0800000000000000
+      internalID: -4765686801306988744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 465
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce17471c4f55dcc0800000000000000
+      internalID: -3686935939520192824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_78
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 449
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4ea2e5cf7fdfaf0800000000000000
+      internalID: -360859731836083003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_79
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 470
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c37d9e2ff01aa7e0800000000000000
+      internalID: -1753570416722611258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_80
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 473
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a96ab366119da40800000000000000
+      internalID: 5393361159537990227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_81
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 479
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa92e2f00549ca60800000000000000
+      internalID: 7694757308716456689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_82
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 470
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997ce28b72be904e0800000000000000
+      internalID: -2014820802445260903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_83
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 456
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125f7a9b956538fe0800000000000000
+      internalID: -1188010933328808671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_84
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 472
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c027a49c122fc20800000000000000
+      internalID: 3238688230453939257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_85
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 466
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3fe4be0b140c410800000000000000
+      internalID: 1495267304404874210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_86
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 464
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e21948737461d0e0800000000000000
+      internalID: -2246904291979095325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_87
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 199
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc593d62382212b70800000000000000
+      internalID: 8872410687584048591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_88
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 461
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0607550dc8c3ab1c0800000000000000
+      internalID: -4487207503232929696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_89
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 470
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be090c48d751d05f0800000000000000
+      internalID: -788950730877660949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_90
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 464
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f173d403e61d0eb0800000000000000
+      internalID: -4752116867511651856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_91
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 456
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2933ff8a92384550800000000000000
+      internalID: 6145217330968475947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_92
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 445
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f69b054edb800a0800000000000000
+      internalID: -6915068439522873550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 453
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3687523f52450d0800000000000000
+      internalID: -3435078889540918359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_94
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 206
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3f314b380c72280800000000000000
+      internalID: -9068067652792749106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_95
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 462
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71cb15501a5dd800800000000000000
+      internalID: 638765748350337407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_96
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 458
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8aeea8b05c400d0800000000000000
+      internalID: -3457421960547489555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_97
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 430
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ff6eba04b285ee0800000000000000
+      internalID: -1272219337970221229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 426
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2561947df52aa4f90800000000000000
+      internalID: -6968578940884937134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 281
+        width: 183
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d059b2d46c2f1850800000000000000
+      internalID: 6349842811159400660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_100
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 428
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9acb1987603f3550800000000000000
+      internalID: 6142681637996710554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_101
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 416
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3780634f5c6b10c0800000000000000
+      internalID: -4603967037648107714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_102
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 393
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818db93269e8604e0800000000000000
+      internalID: -2015767007708063720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 402
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe2abcf9eeb28c90800000000000000
+      internalID: -7168957744643690757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_104
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 385
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe70fddf6b298d690800000000000000
+      internalID: -7577145058409904145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_105
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 385
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fcefef4b9e2a030800000000000000
+      internalID: 3504620423629164310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_106
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 393
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf1b1c10969b6d00800000000000000
+      internalID: 967032090692100037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_107
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 377
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16711b09a6efb2d0800000000000000
+      internalID: -3260633991483394532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_108
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 332
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611e69466d511cca0800000000000000
+      internalID: -5998489218125995754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 330
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b562dc4de04042200800000000000000
+      internalID: 154252748983707227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 335
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eb0753d7d9b7350800000000000000
+      internalID: 6015574888376483406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_111
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 344
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a9bc922b4c81a00800000000000000
+      internalID: 727547609304767069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_112
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 307
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffbf652301066b40800000000000000
+      internalID: 5433031113493692408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_113
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 306
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22469e5d866e8e0a0800000000000000
+      internalID: -6851973495104379870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_114
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 312
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114be16e9beb831f0800000000000000
+      internalID: -1064891606234123247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_115
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 286
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2e8faad0c0e61a0800000000000000
+      internalID: -6814495933322435888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_116
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 282
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8469ef029bbef080800000000000000
+      internalID: -9151671156763695985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_117
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 299
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a67a7a68e947970800000000000000
+      internalID: 8751794277063289467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_118
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 282
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb9e8fdbe3b808b0800000000000000
+      internalID: -5185697145267774477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_119
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 281
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f654c6ee559faeb40800000000000000
+      internalID: 5470458844862498159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_120
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 281
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a459e1e2040ac5270800000000000000
+      internalID: 8240637615693272394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_121
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 281
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca092e73c3e409d50800000000000000
+      internalID: 6741974662716231852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_122
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 281
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e050f04c683068d0800000000000000
+      internalID: -2855220126155779871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 199
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e131ebf5b8cf61ea0800000000000000
+      internalID: -5902252586085510370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_124
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 175
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bae10de37de65bb0800000000000000
+      internalID: -4947506058466563407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_125
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 25
+        width: 136
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80546fb64dc4fbe10800000000000000
+      internalID: 2215574016917652744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_126
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 215
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe059dcfdad3ad20800000000000000
+      internalID: 3288712807672254199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_127
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 190
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00abb90978200f30800000000000000
+      internalID: 4539672924708904974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_128
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 206
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ee42ff6d43cf340800000000000000
+      internalID: 4898848592680513114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_129
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 207
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc03fa78ddb9aca90800000000000000
+      internalID: -7292845270806613812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_130
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 193
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19757b1a136c0cf70800000000000000
+      internalID: 9205575554814138257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_131
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 201
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d7ec5e88ef491f0800000000000000
+      internalID: -1038925750091219628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_132
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f0d1a14401fc390800000000000000
+      internalID: -7795994545273106609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_133
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 197
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bdd09a2715b3cc0800000000000000
+      internalID: -3730298313441944696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_134
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 203
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa9bd08697591b30800000000000000
+      internalID: 4258531226574101159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_135
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 206
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c716e918af88c1c70800000000000000
+      internalID: 8943173569548804476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_136
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 207
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a805d88c56c73d0800000000000000
+      internalID: -3207576922555905408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_137
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 198
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbb676dd2d8ef8f0800000000000000
+      internalID: -504810880207766603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_138
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 198
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc373aa4512d22db0800000000000000
+      internalID: -4818057662444637235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_139
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 200
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e847f505e7d2310800000000000000
+      internalID: 1381899544336567881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 168
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1321bceac1929c440800000000000000
+      internalID: 4956538068066308657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_141
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 163
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9475ce3b5c7171430800000000000000
+      internalID: 3753494952331204425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_142
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 142
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3917f28d8fb2b320800000000000000
+      internalID: 2572328951690500411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_143
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 149
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db42581917809fc50800000000000000
+      internalID: 6699395204556072125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_144
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 168
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bab9f63711a79190800000000000000
+      internalID: -7955713095648036172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_145
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 170
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cbb466cd49953d0800000000000000
+      internalID: -3217376784449553363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_146
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 124
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0058da92fd01c7810800000000000000
+      internalID: 1764303704685380864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 154
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3102a058f14783cb0800000000000000
+      internalID: -4884026117158461421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_148
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e6ad20f5dbb3e70800000000000000
+      internalID: 9096072088172260872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_149
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 159
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4690b8af69581a430800000000000000
+      internalID: 3792459244717672804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_150
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 160
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1976313a2f5ba4930800000000000000
+      internalID: 4128312062161151889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_151
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 95
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca2d0ffa18690af0800000000000000
+      internalID: -429697824279680311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_152
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 143
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14caae62de586d50800000000000000
+      internalID: 6730733900998034458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_153
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 145
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9415da2c535f4d950800000000000000
+      internalID: 6473068175686455625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_154
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 138
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4c1eb96d70ed180800000000000000
+      internalID: -9088818379667421992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_155
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 112
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc09323c068d89a90800000000000000
+      internalID: -7306852485306281777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_156
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 88
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bbe6b1bc40ee4f0800000000000000
+      internalID: -797694813612885126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_157
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 25
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89df5d77ea539e560800000000000000
+      internalID: 7343459690855398808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_158
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 79
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd8d8440107b5200800000000000000
+      internalID: 169852626128440818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a5191b97e4ee0a0800000000000000
+      internalID: -6850451698606843384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_160
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 59
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187148a0e703646a0800000000000000
+      internalID: -6465426897143326847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_161
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 88
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f13f5e5e5678b00800000000000000
+      internalID: 830744694352977693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_162
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 86
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca37ea6228b5104f0800000000000000
+      internalID: -864309038925581396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_163
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 80
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11b79fcfcab17720800000000000000
+      internalID: 2842258241551315231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_164
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50aad3c76cba2430800000000000000
+      internalID: 3759023992847638620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_165
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 76
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36dfb0844e446200800000000000000
+      internalID: 172348741871719996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_166
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765d4c93ea15d7a80800000000000000
+      internalID: -8467521915651304089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_167
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 76
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1304ec068c0a240800000000000000
+      internalID: 4801057520879677895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_168
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 48
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf8e67f1ce07bb50800000000000000
+      internalID: 6608767204432187334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_169
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d78608bc83927b0800000000000000
+      internalID: -5248601444039754425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_170
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 65
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2833e659261f7c0800000000000000
+      internalID: -4039338996836105561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_171
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 56
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9abb7fb30ecf890800000000000000
+      internalID: -7422811537649456665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_172
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7daaeb72c027f00800000000000000
+      internalID: 1112965422756059076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_173
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 51
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ea7473b26aeb2f0800000000000000
+      internalID: -955143366414717344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_174
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 57
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dd8bad9e78d2b30800000000000000
+      internalID: 4264213860656405820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_175
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 30
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1833f452c0a7ae470800000000000000
+      internalID: 8424680245534077825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_176
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 43
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4026a888dbd5140800000000000000
+      internalID: 4710129179434288345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_177
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 40
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1cf4b0695c53da0800000000000000
+      internalID: -5965644883156811285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_EnergyOverload_178
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 32
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3224783d0b838920800000000000000
+      internalID: 2991387466402112058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P2_EnergyOverload_0: -3905890752921769736
+      VFX_P2_EnergyOverload_1: 1517355305264127731
+      VFX_P2_EnergyOverload_10: 6784789322186616044
+      VFX_P2_EnergyOverload_100: 6142681637996710554
+      VFX_P2_EnergyOverload_101: -4603967037648107714
+      VFX_P2_EnergyOverload_102: -2015767007708063720
+      VFX_P2_EnergyOverload_103: -7168957744643690757
+      VFX_P2_EnergyOverload_104: -7577145058409904145
+      VFX_P2_EnergyOverload_105: 3504620423629164310
+      VFX_P2_EnergyOverload_106: 967032090692100037
+      VFX_P2_EnergyOverload_107: -3260633991483394532
+      VFX_P2_EnergyOverload_108: -5998489218125995754
+      VFX_P2_EnergyOverload_109: 154252748983707227
+      VFX_P2_EnergyOverload_11: -2303532957757096201
+      VFX_P2_EnergyOverload_110: 6015574888376483406
+      VFX_P2_EnergyOverload_111: 727547609304767069
+      VFX_P2_EnergyOverload_112: 5433031113493692408
+      VFX_P2_EnergyOverload_113: -6851973495104379870
+      VFX_P2_EnergyOverload_114: -1064891606234123247
+      VFX_P2_EnergyOverload_115: -6814495933322435888
+      VFX_P2_EnergyOverload_116: -9151671156763695985
+      VFX_P2_EnergyOverload_117: 8751794277063289467
+      VFX_P2_EnergyOverload_118: -5185697145267774477
+      VFX_P2_EnergyOverload_119: 5470458844862498159
+      VFX_P2_EnergyOverload_12: -5693025276546137136
+      VFX_P2_EnergyOverload_120: 8240637615693272394
+      VFX_P2_EnergyOverload_121: 6741974662716231852
+      VFX_P2_EnergyOverload_122: -2855220126155779871
+      VFX_P2_EnergyOverload_123: -5902252586085510370
+      VFX_P2_EnergyOverload_124: -4947506058466563407
+      VFX_P2_EnergyOverload_125: 2215574016917652744
+      VFX_P2_EnergyOverload_126: 3288712807672254199
+      VFX_P2_EnergyOverload_127: 4539672924708904974
+      VFX_P2_EnergyOverload_128: 4898848592680513114
+      VFX_P2_EnergyOverload_129: -7292845270806613812
+      VFX_P2_EnergyOverload_13: 6287673651498849607
+      VFX_P2_EnergyOverload_130: 9205575554814138257
+      VFX_P2_EnergyOverload_131: -1038925750091219628
+      VFX_P2_EnergyOverload_132: -7795994545273106609
+      VFX_P2_EnergyOverload_133: -3730298313441944696
+      VFX_P2_EnergyOverload_134: 4258531226574101159
+      VFX_P2_EnergyOverload_135: 8943173569548804476
+      VFX_P2_EnergyOverload_136: -3207576922555905408
+      VFX_P2_EnergyOverload_137: -504810880207766603
+      VFX_P2_EnergyOverload_138: -4818057662444637235
+      VFX_P2_EnergyOverload_139: 1381899544336567881
+      VFX_P2_EnergyOverload_14: -7832963999288167322
+      VFX_P2_EnergyOverload_140: 4956538068066308657
+      VFX_P2_EnergyOverload_141: 3753494952331204425
+      VFX_P2_EnergyOverload_142: 2572328951690500411
+      VFX_P2_EnergyOverload_143: 6699395204556072125
+      VFX_P2_EnergyOverload_144: -7955713095648036172
+      VFX_P2_EnergyOverload_145: -3217376784449553363
+      VFX_P2_EnergyOverload_146: 1764303704685380864
+      VFX_P2_EnergyOverload_147: -4884026117158461421
+      VFX_P2_EnergyOverload_148: 9096072088172260872
+      VFX_P2_EnergyOverload_149: 3792459244717672804
+      VFX_P2_EnergyOverload_15: -3677736956508096523
+      VFX_P2_EnergyOverload_150: 4128312062161151889
+      VFX_P2_EnergyOverload_151: -429697824279680311
+      VFX_P2_EnergyOverload_152: 6730733900998034458
+      VFX_P2_EnergyOverload_153: 6473068175686455625
+      VFX_P2_EnergyOverload_154: -9088818379667421992
+      VFX_P2_EnergyOverload_155: -7306852485306281777
+      VFX_P2_EnergyOverload_156: -797694813612885126
+      VFX_P2_EnergyOverload_157: 7343459690855398808
+      VFX_P2_EnergyOverload_158: 169852626128440818
+      VFX_P2_EnergyOverload_159: -6850451698606843384
+      VFX_P2_EnergyOverload_16: 3395644403385895353
+      VFX_P2_EnergyOverload_160: -6465426897143326847
+      VFX_P2_EnergyOverload_161: 830744694352977693
+      VFX_P2_EnergyOverload_162: -864309038925581396
+      VFX_P2_EnergyOverload_163: 2842258241551315231
+      VFX_P2_EnergyOverload_164: 3759023992847638620
+      VFX_P2_EnergyOverload_165: 172348741871719996
+      VFX_P2_EnergyOverload_166: -8467521915651304089
+      VFX_P2_EnergyOverload_167: 4801057520879677895
+      VFX_P2_EnergyOverload_168: 6608767204432187334
+      VFX_P2_EnergyOverload_169: -5248601444039754425
+      VFX_P2_EnergyOverload_17: -8478001709146957774
+      VFX_P2_EnergyOverload_170: -4039338996836105561
+      VFX_P2_EnergyOverload_171: -7422811537649456665
+      VFX_P2_EnergyOverload_172: 1112965422756059076
+      VFX_P2_EnergyOverload_173: -955143366414717344
+      VFX_P2_EnergyOverload_174: 4264213860656405820
+      VFX_P2_EnergyOverload_175: 8424680245534077825
+      VFX_P2_EnergyOverload_176: 4710129179434288345
+      VFX_P2_EnergyOverload_177: -5965644883156811285
+      VFX_P2_EnergyOverload_178: 2991387466402112058
+      VFX_P2_EnergyOverload_18: 4109583727558588897
+      VFX_P2_EnergyOverload_19: 7878721077017708247
+      VFX_P2_EnergyOverload_2: 2924251707354473438
+      VFX_P2_EnergyOverload_20: -259780922987572136
+      VFX_P2_EnergyOverload_21: -5549681063603745070
+      VFX_P2_EnergyOverload_22: -3537047962726161871
+      VFX_P2_EnergyOverload_23: 2515463438349601402
+      VFX_P2_EnergyOverload_24: -1305130969843050351
+      VFX_P2_EnergyOverload_25: -8700439758808599745
+      VFX_P2_EnergyOverload_26: 741033562522089467
+      VFX_P2_EnergyOverload_27: 2218367458316180114
+      VFX_P2_EnergyOverload_28: 5370143065031630709
+      VFX_P2_EnergyOverload_29: 6278233001256501813
+      VFX_P2_EnergyOverload_3: 897093495200885913
+      VFX_P2_EnergyOverload_30: 29469433629094220
+      VFX_P2_EnergyOverload_31: -4551022171030910379
+      VFX_P2_EnergyOverload_32: 1121909936491795918
+      VFX_P2_EnergyOverload_33: 4333052645709018398
+      VFX_P2_EnergyOverload_34: -1451134580309988700
+      VFX_P2_EnergyOverload_35: -4345469519862662726
+      VFX_P2_EnergyOverload_36: -5101160503152998691
+      VFX_P2_EnergyOverload_37: -5108442113986804593
+      VFX_P2_EnergyOverload_38: 741186757642092367
+      VFX_P2_EnergyOverload_39: -2668323973833064016
+      VFX_P2_EnergyOverload_4: 4708615667094858804
+      VFX_P2_EnergyOverload_40: 4539214100786303147
+      VFX_P2_EnergyOverload_41: -3093110329868977204
+      VFX_P2_EnergyOverload_42: 8630609437868405363
+      VFX_P2_EnergyOverload_43: 3719530875673090903
+      VFX_P2_EnergyOverload_44: -7126312336851910628
+      VFX_P2_EnergyOverload_45: 564408590051936072
+      VFX_P2_EnergyOverload_46: -7534323534871138174
+      VFX_P2_EnergyOverload_47: -6394177512696890216
+      VFX_P2_EnergyOverload_48: 3054097472688423167
+      VFX_P2_EnergyOverload_49: -1055494921226177541
+      VFX_P2_EnergyOverload_5: -1558974576642496002
+      VFX_P2_EnergyOverload_50: -6525681895854180840
+      VFX_P2_EnergyOverload_51: 1528117411402095359
+      VFX_P2_EnergyOverload_52: -5481873453527160686
+      VFX_P2_EnergyOverload_53: -7586632163586193083
+      VFX_P2_EnergyOverload_54: 2692403180694870362
+      VFX_P2_EnergyOverload_55: -6605588731475940608
+      VFX_P2_EnergyOverload_56: 1234133128181625591
+      VFX_P2_EnergyOverload_57: 157602021393663422
+      VFX_P2_EnergyOverload_58: -3793906749917713695
+      VFX_P2_EnergyOverload_59: 9221963050668835484
+      VFX_P2_EnergyOverload_6: 9037161656439414125
+      VFX_P2_EnergyOverload_60: 4179186788482788955
+      VFX_P2_EnergyOverload_61: -7598241998572674173
+      VFX_P2_EnergyOverload_62: 3905808990333429546
+      VFX_P2_EnergyOverload_63: -2750369154065095586
+      VFX_P2_EnergyOverload_64: 3634227402650481329
+      VFX_P2_EnergyOverload_65: 8694810210851697911
+      VFX_P2_EnergyOverload_66: 8748913958288864984
+      VFX_P2_EnergyOverload_67: -4013173737135578064
+      VFX_P2_EnergyOverload_68: 2791576256666987676
+      VFX_P2_EnergyOverload_69: -3654239108267427750
+      VFX_P2_EnergyOverload_7: -3361585403047409109
+      VFX_P2_EnergyOverload_70: 5501876188432618278
+      VFX_P2_EnergyOverload_71: 1171221862633037582
+      VFX_P2_EnergyOverload_72: -411781540211675069
+      VFX_P2_EnergyOverload_73: -714534407021786912
+      VFX_P2_EnergyOverload_74: 5801112057184493827
+      VFX_P2_EnergyOverload_75: 6890261108702077315
+      VFX_P2_EnergyOverload_76: -4765686801306988744
+      VFX_P2_EnergyOverload_77: -3686935939520192824
+      VFX_P2_EnergyOverload_78: -360859731836083003
+      VFX_P2_EnergyOverload_79: -1753570416722611258
+      VFX_P2_EnergyOverload_8: 986099316451598224
+      VFX_P2_EnergyOverload_80: 5393361159537990227
+      VFX_P2_EnergyOverload_81: 7694757308716456689
+      VFX_P2_EnergyOverload_82: -2014820802445260903
+      VFX_P2_EnergyOverload_83: -1188010933328808671
+      VFX_P2_EnergyOverload_84: 3238688230453939257
+      VFX_P2_EnergyOverload_85: 1495267304404874210
+      VFX_P2_EnergyOverload_86: -2246904291979095325
+      VFX_P2_EnergyOverload_87: 8872410687584048591
+      VFX_P2_EnergyOverload_88: -4487207503232929696
+      VFX_P2_EnergyOverload_89: -788950730877660949
+      VFX_P2_EnergyOverload_9: -1303962303992482121
+      VFX_P2_EnergyOverload_90: -4752116867511651856
+      VFX_P2_EnergyOverload_91: 6145217330968475947
+      VFX_P2_EnergyOverload_92: -6915068439522873550
+      VFX_P2_EnergyOverload_93: -3435078889540918359
+      VFX_P2_EnergyOverload_94: -9068067652792749106
+      VFX_P2_EnergyOverload_95: 638765748350337407
+      VFX_P2_EnergyOverload_96: -3457421960547489555
+      VFX_P2_EnergyOverload_97: -1272219337970221229
+      VFX_P2_EnergyOverload_98: -6968578940884937134
+      VFX_P2_EnergyOverload_99: 6349842811159400660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

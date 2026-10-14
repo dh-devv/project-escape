@@ -1,0 +1,65 @@
+{
+  "name": "Enemy2_Stagger",
+  "sourcePage": 7,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    36
+  ],
+  "sourceRegions": [
+    [
+      100,
+      68,
+      651,
+      666
+    ],
+    [
+      862,
+      97,
+      1369,
+      666
+    ],
+    [
+      1596,
+      45,
+      2097,
+      666
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "d84f3bbaac589fadd98e218e32ebff5f735da784b8ba36473faac1d0b557b7ae",
+  "spriteSha256": "a9d8b9550c5a2395c26ebe02a1ff99b1afd16014f51448c53a6a7359d5e93d7a"
+}

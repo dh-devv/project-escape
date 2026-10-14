@@ -1,0 +1,2509 @@
+fileFormatVersion: 2
+guid: 4372fc467dad6d943b7dc0c4ab6d3fef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4511230794194188653
+    second: VFX_P2_DashAfterimage_0
+  - first:
+      213: -1110606239211281942
+    second: VFX_P2_DashAfterimage_1
+  - first:
+      213: 2507928036356575385
+    second: VFX_P2_DashAfterimage_2
+  - first:
+      213: -7721050766721913216
+    second: VFX_P2_DashAfterimage_3
+  - first:
+      213: -4517507737766166628
+    second: VFX_P2_DashAfterimage_4
+  - first:
+      213: 1681404961949400226
+    second: VFX_P2_DashAfterimage_5
+  - first:
+      213: 799624884070300358
+    second: VFX_P2_DashAfterimage_6
+  - first:
+      213: 6442053985770033778
+    second: VFX_P2_DashAfterimage_7
+  - first:
+      213: -3522235496562379083
+    second: VFX_P2_DashAfterimage_8
+  - first:
+      213: -8346225872298970923
+    second: VFX_P2_DashAfterimage_9
+  - first:
+      213: -7670607503679867257
+    second: VFX_P2_DashAfterimage_10
+  - first:
+      213: 3135487924412218255
+    second: VFX_P2_DashAfterimage_11
+  - first:
+      213: -1251307926146133342
+    second: VFX_P2_DashAfterimage_12
+  - first:
+      213: -3223400674708029752
+    second: VFX_P2_DashAfterimage_13
+  - first:
+      213: 4569326160352033231
+    second: VFX_P2_DashAfterimage_14
+  - first:
+      213: 9198860925320980781
+    second: VFX_P2_DashAfterimage_15
+  - first:
+      213: 8656194185183130889
+    second: VFX_P2_DashAfterimage_16
+  - first:
+      213: 4253417432641937756
+    second: VFX_P2_DashAfterimage_17
+  - first:
+      213: -7420532719589650112
+    second: VFX_P2_DashAfterimage_18
+  - first:
+      213: 4774814962802841085
+    second: VFX_P2_DashAfterimage_19
+  - first:
+      213: -4955301354083486056
+    second: VFX_P2_DashAfterimage_20
+  - first:
+      213: 8892489379510956295
+    second: VFX_P2_DashAfterimage_21
+  - first:
+      213: -183914823241805387
+    second: VFX_P2_DashAfterimage_22
+  - first:
+      213: 6109165084642591119
+    second: VFX_P2_DashAfterimage_23
+  - first:
+      213: 9077615448714683205
+    second: VFX_P2_DashAfterimage_24
+  - first:
+      213: -8082655660886229006
+    second: VFX_P2_DashAfterimage_25
+  - first:
+      213: 5641006910262435530
+    second: VFX_P2_DashAfterimage_26
+  - first:
+      213: 5386083496036094238
+    second: VFX_P2_DashAfterimage_27
+  - first:
+      213: 7958566998486432765
+    second: VFX_P2_DashAfterimage_28
+  - first:
+      213: 7036358588886156515
+    second: VFX_P2_DashAfterimage_29
+  - first:
+      213: -99340772917397849
+    second: VFX_P2_DashAfterimage_30
+  - first:
+      213: -6590758695506604110
+    second: VFX_P2_DashAfterimage_31
+  - first:
+      213: -2730827396881546497
+    second: VFX_P2_DashAfterimage_32
+  - first:
+      213: -3944372718455683809
+    second: VFX_P2_DashAfterimage_33
+  - first:
+      213: 1555698742387890922
+    second: VFX_P2_DashAfterimage_34
+  - first:
+      213: 8988527962356738257
+    second: VFX_P2_DashAfterimage_35
+  - first:
+      213: -1344675921841013106
+    second: VFX_P2_DashAfterimage_36
+  - first:
+      213: 1306833552618280402
+    second: VFX_P2_DashAfterimage_37
+  - first:
+      213: -4471383886822987284
+    second: VFX_P2_DashAfterimage_38
+  - first:
+      213: 3355499378263404434
+    second: VFX_P2_DashAfterimage_39
+  - first:
+      213: 7084749490051139209
+    second: VFX_P2_DashAfterimage_40
+  - first:
+      213: 3357947812906058973
+    second: VFX_P2_DashAfterimage_41
+  - first:
+      213: 5771761920529806373
+    second: VFX_P2_DashAfterimage_42
+  - first:
+      213: 254880223617504389
+    second: VFX_P2_DashAfterimage_43
+  - first:
+      213: 7963904687865907753
+    second: VFX_P2_DashAfterimage_44
+  - first:
+      213: -2138389980957342842
+    second: VFX_P2_DashAfterimage_45
+  - first:
+      213: -4942819032923145222
+    second: VFX_P2_DashAfterimage_46
+  - first:
+      213: 4499547527100149842
+    second: VFX_P2_DashAfterimage_47
+  - first:
+      213: -6514260172795625985
+    second: VFX_P2_DashAfterimage_48
+  - first:
+      213: 2500381019128327238
+    second: VFX_P2_DashAfterimage_49
+  - first:
+      213: 878198759508940269
+    second: VFX_P2_DashAfterimage_50
+  - first:
+      213: -1765817882873825842
+    second: VFX_P2_DashAfterimage_51
+  - first:
+      213: -1475282484388044526
+    second: VFX_P2_DashAfterimage_52
+  - first:
+      213: -8376947334896501585
+    second: VFX_P2_DashAfterimage_53
+  - first:
+      213: -1832926426720317760
+    second: VFX_P2_DashAfterimage_54
+  - first:
+      213: -5111155623011061603
+    second: VFX_P2_DashAfterimage_55
+  - first:
+      213: 6457642331506255042
+    second: VFX_P2_DashAfterimage_56
+  - first:
+      213: 4447776412096403793
+    second: VFX_P2_DashAfterimage_57
+  - first:
+      213: 9102158624318617751
+    second: VFX_P2_DashAfterimage_58
+  - first:
+      213: 6470216704466923127
+    second: VFX_P2_DashAfterimage_59
+  - first:
+      213: 3257630730339145418
+    second: VFX_P2_DashAfterimage_60
+  - first:
+      213: -6440437960961159324
+    second: VFX_P2_DashAfterimage_61
+  - first:
+      213: 6011462423665113124
+    second: VFX_P2_DashAfterimage_62
+  - first:
+      213: -6359497563952179575
+    second: VFX_P2_DashAfterimage_63
+  - first:
+      213: 6297679306660816391
+    second: VFX_P2_DashAfterimage_64
+  - first:
+      213: 5318291992929001967
+    second: VFX_P2_DashAfterimage_65
+  - first:
+      213: -7084697651549984353
+    second: VFX_P2_DashAfterimage_66
+  - first:
+      213: 4196316077727306632
+    second: VFX_P2_DashAfterimage_67
+  - first:
+      213: -5668747996230787215
+    second: VFX_P2_DashAfterimage_68
+  - first:
+      213: -8887479264003788977
+    second: VFX_P2_DashAfterimage_69
+  - first:
+      213: -5406403837177344019
+    second: VFX_P2_DashAfterimage_70
+  - first:
+      213: -1284706355924436291
+    second: VFX_P2_DashAfterimage_71
+  - first:
+      213: -7281604389763055508
+    second: VFX_P2_DashAfterimage_72
+  - first:
+      213: -2517822585989034869
+    second: VFX_P2_DashAfterimage_73
+  - first:
+      213: 3653305299010957126
+    second: VFX_P2_DashAfterimage_74
+  - first:
+      213: 8830626108852087096
+    second: VFX_P2_DashAfterimage_75
+  - first:
+      213: 8002282965442840065
+    second: VFX_P2_DashAfterimage_76
+  - first:
+      213: -5743011375945862589
+    second: VFX_P2_DashAfterimage_77
+  - first:
+      213: -7486759646397455951
+    second: VFX_P2_DashAfterimage_78
+  - first:
+      213: 2497300150781182809
+    second: VFX_P2_DashAfterimage_79
+  - first:
+      213: -5021938645327531467
+    second: VFX_P2_DashAfterimage_80
+  - first:
+      213: -3759859196984466075
+    second: VFX_P2_DashAfterimage_81
+  - first:
+      213: -4161698437688706131
+    second: VFX_P2_DashAfterimage_82
+  - first:
+      213: -4158957793468952769
+    second: VFX_P2_DashAfterimage_83
+  - first:
+      213: 7504926841865265408
+    second: VFX_P2_DashAfterimage_84
+  - first:
+      213: 1216018772257317746
+    second: VFX_P2_DashAfterimage_85
+  - first:
+      213: -4533311096524676622
+    second: VFX_P2_DashAfterimage_86
+  - first:
+      213: 1554992143097088100
+    second: VFX_P2_DashAfterimage_87
+  - first:
+      213: -6403424755031848495
+    second: VFX_P2_DashAfterimage_88
+  - first:
+      213: -1937260327516306518
+    second: VFX_P2_DashAfterimage_89
+  - first:
+      213: 5704113357436802326
+    second: VFX_P2_DashAfterimage_90
+  - first:
+      213: 1203048189841833837
+    second: VFX_P2_DashAfterimage_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 466
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39680448e73e461c0800000000000000
+      internalID: -4511230794194188653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 453
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1aa7a72855690f0800000000000000
+      internalID: -1110606239211281942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 281
+        width: 189
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990d641f243fdc220800000000000000
+      internalID: 2507928036356575385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 436
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e68cc4c3159d490800000000000000
+      internalID: -7721050766721913216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 437
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f7e54b5a69e41c0800000000000000
+      internalID: -4517507737766166628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 287
+        width: 181
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acb29887ec855710800000000000000
+      internalID: 1681404961949400226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 405
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cab2907896d81b00800000000000000
+      internalID: 799624884070300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 454
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27256b5f7f5c66950800000000000000
+      internalID: 6442053985770033778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 360
+        width: 37
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6b02c3a718e1fc0800000000000000
+      internalID: -3522235496562379083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 201
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0f1721acf3c2c80800000000000000
+      internalID: -8346225872298970923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 440
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78637b3bd178c8590800000000000000
+      internalID: -7670607503679867257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 461
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bfd1c97ad738b20800000000000000
+      internalID: 3135487924412218255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 463
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2dd65221672aee0800000000000000
+      internalID: -1251307926146133342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_13
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 461
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cef5472a2e2443d0800000000000000
+      internalID: -3223400674708029752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_14
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 444
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9beaafee1896f30800000000000000
+      internalID: 4569326160352033231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_15
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 466
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d296aff164be8af70800000000000000
+      internalID: 9198860925320980781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 436
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90574aabfbaf02870800000000000000
+      internalID: 8656194185183130889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 433
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51a3129e9c270b30800000000000000
+      internalID: 4253417432641937756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 441
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04112b4aec8f40990800000000000000
+      internalID: -7420532719589650112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_19
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 438
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5551e19ec834240800000000000000
+      internalID: 4774814962802841085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_20
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89677da3cab3b3bb0800000000000000
+      internalID: -4955301354083486056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 412
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7013faae9f7786b70800000000000000
+      internalID: 8892489379510956295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 396
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b15eb3517a927df0800000000000000
+      internalID: -183914823241805387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 408
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f814758d64d18c450800000000000000
+      internalID: 6109165084642591119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 431
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543ac34c72b2afd70800000000000000
+      internalID: 9077615448714683205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 422
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff731b0083a4df80800000000000000
+      internalID: -8082655660886229006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace57b5c5e1e84e40800000000000000
+      internalID: 5641006910262435530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 327
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1153d727663fba40800000000000000
+      internalID: 5386083496036094238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_28
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 314
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb3ee1d482827e60800000000000000
+      internalID: 7958566998486432765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 329
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e404da3bda26a160800000000000000
+      internalID: 7036358588886156515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 327
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6bb86e7121f9ef0800000000000000
+      internalID: -99340772917397849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 326
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf0302c2ebe884a0800000000000000
+      internalID: -6590758695506604110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_32
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff288f973f62a1ad0800000000000000
+      internalID: -2730827396881546497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 293
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1505b629e5c249c0800000000000000
+      internalID: -3944372718455683809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 307
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea5d8583c3f69510800000000000000
+      internalID: 1555698742387890922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 311
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d860f9fe8aadbc70800000000000000
+      internalID: 8988527962356738257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_36
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 281
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e35ac9f50c65de0800000000000000
+      internalID: -1344675921841013106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 307
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5df54313ec22210800000000000000
+      internalID: 1306833552618280402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 281
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9a28b9b0472f1c0800000000000000
+      internalID: -4471383886822987284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_39
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 283
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f2f6508e0219e20800000000000000
+      internalID: 3355499378263404434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 281
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986c025ef16125260800000000000000
+      internalID: 7084749490051139209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 281
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4c092aeb3d99e20800000000000000
+      internalID: 3357947812906058973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_42
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 289
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5243e49f2ea691050800000000000000
+      internalID: 5771761920529806373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_43
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 282
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5845ef48634898300800000000000000
+      internalID: 254880223617504389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_44
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 281
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac0597e19758e60800000000000000
+      internalID: 7963904687865907753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 51
+        width: 185
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68388c954a9e252e0800000000000000
+      internalID: -2138389980957342842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb73991744976bb0800000000000000
+      internalID: -4942819032923145222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250bac2e2aa917e30800000000000000
+      internalID: 4499547527100149842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_48
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 203
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdba0a03e2b895a0800000000000000
+      internalID: -6514260172795625985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 209
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ce5401a4323b220800000000000000
+      internalID: 2500381019128327238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_50
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 180
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de518be6e1dff2c00800000000000000
+      internalID: 878198759508940269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 180
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5f541cdfd8e77e0800000000000000
+      internalID: -1765817882873825842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_52
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 213
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211e1b6956eb68be0800000000000000
+      internalID: -1475282484388044526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_53
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 224
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facb65928ca1fbb80800000000000000
+      internalID: -8376947334896501585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_54
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 220
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cec8eb40232096e0800000000000000
+      internalID: -1832926426720317760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_55
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 223
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d907faa7a078119b0800000000000000
+      internalID: -5111155623011061603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_56
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 209
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4a4f78c772e9950800000000000000
+      internalID: 6457642331506255042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 206
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1591e5bd41da9bd30800000000000000
+      internalID: 4447776412096403793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_58
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 194
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798f4c32b0d515e70800000000000000
+      internalID: 9102158624318617751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_59
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 207
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eac81efc3dac950800000000000000
+      internalID: 6470216704466923127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_60
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 199
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6d24bb3ed653d20800000000000000
+      internalID: 3257630730339145418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_61
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 152
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f08f22cc7fe96a0800000000000000
+      internalID: -6440437960961159324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 169
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428fa2769310d6350800000000000000
+      internalID: 6011462423665113124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 192
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9861baed8a68eb7a0800000000000000
+      internalID: -6359497563952179575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_64
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 181
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706a8de76f9d56750800000000000000
+      internalID: 6297679306660816391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 172
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1665ad36e5ec940800000000000000
+      internalID: 5318291992929001967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_66
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 184
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99a152b5091ead90800000000000000
+      internalID: -7084697651549984353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_67
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883523a5d3f4c3a30800000000000000
+      internalID: 4196316077727306632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_68
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 176
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fd4735bbf8451b0800000000000000
+      internalID: -5668747996230787215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_69
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 167
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f676082b459a480800000000000000
+      internalID: -8887479264003788977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_70
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 47
+        width: 157
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def4cbcba5898f4b0800000000000000
+      internalID: -5406403837177344019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 155
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaff6e306ecb2ee0800000000000000
+      internalID: -1284706355924436291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c608f39136b82fa90800000000000000
+      internalID: -7281604389763055508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_73
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 152
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c0ba2b2b5ee0dd0800000000000000
+      internalID: -2517822585989034869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_74
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 94
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fa99b30d523b230800000000000000
+      internalID: 3653305299010957126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_75
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 99
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8392b6ac8afac8a70800000000000000
+      internalID: 8830626108852087096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_76
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106416b85f1dd0f60800000000000000
+      internalID: 8002282965442840065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_77
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34238b3d499bc40b0800000000000000
+      internalID: -5743011375945862589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_78
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 33
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b120c5a4cfa91890800000000000000
+      internalID: -7486759646397455951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95387d0814138a220800000000000000
+      internalID: 2497300150781182809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 62
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5323271d86d7e4ab0800000000000000
+      internalID: -5021938645327531467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_81
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 37
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565614e1bfb42dbc0800000000000000
+      internalID: -3759859196984466075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab344f025dae36c0800000000000000
+      internalID: -4161698437688706131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_83
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fc0740ce96846c0800000000000000
+      internalID: -4158957793468952769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_84
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 36
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0016caa233bd62860800000000000000
+      internalID: 7504926841865265408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_85
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 31
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273aa9071aa20e010800000000000000
+      internalID: 1216018772257317746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_86
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 67
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f16f4383917611c0800000000000000
+      internalID: -4533311096524676622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_87
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 35
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46843dd8d11749510800000000000000
+      internalID: 1554992143097088100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_88
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 29
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d94262bc177227a0800000000000000
+      internalID: -6403424755031848495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_89
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 59
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa30fe40ff77d15e0800000000000000
+      internalID: -1937260327516306518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_90
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 25
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615d49c70e4192f40800000000000000
+      internalID: 5704113357436802326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashAfterimage_91
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ff23364f512b010800000000000000
+      internalID: 1203048189841833837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P2_DashAfterimage_0: -4511230794194188653
+      VFX_P2_DashAfterimage_1: -1110606239211281942
+      VFX_P2_DashAfterimage_10: -7670607503679867257
+      VFX_P2_DashAfterimage_11: 3135487924412218255
+      VFX_P2_DashAfterimage_12: -1251307926146133342
+      VFX_P2_DashAfterimage_13: -3223400674708029752
+      VFX_P2_DashAfterimage_14: 4569326160352033231
+      VFX_P2_DashAfterimage_15: 9198860925320980781
+      VFX_P2_DashAfterimage_16: 8656194185183130889
+      VFX_P2_DashAfterimage_17: 4253417432641937756
+      VFX_P2_DashAfterimage_18: -7420532719589650112
+      VFX_P2_DashAfterimage_19: 4774814962802841085
+      VFX_P2_DashAfterimage_2: 2507928036356575385
+      VFX_P2_DashAfterimage_20: -4955301354083486056
+      VFX_P2_DashAfterimage_21: 8892489379510956295
+      VFX_P2_DashAfterimage_22: -183914823241805387
+      VFX_P2_DashAfterimage_23: 6109165084642591119
+      VFX_P2_DashAfterimage_24: 9077615448714683205
+      VFX_P2_DashAfterimage_25: -8082655660886229006
+      VFX_P2_DashAfterimage_26: 5641006910262435530
+      VFX_P2_DashAfterimage_27: 5386083496036094238
+      VFX_P2_DashAfterimage_28: 7958566998486432765
+      VFX_P2_DashAfterimage_29: 7036358588886156515
+      VFX_P2_DashAfterimage_3: -7721050766721913216
+      VFX_P2_DashAfterimage_30: -99340772917397849
+      VFX_P2_DashAfterimage_31: -6590758695506604110
+      VFX_P2_DashAfterimage_32: -2730827396881546497
+      VFX_P2_DashAfterimage_33: -3944372718455683809
+      VFX_P2_DashAfterimage_34: 1555698742387890922
+      VFX_P2_DashAfterimage_35: 8988527962356738257
+      VFX_P2_DashAfterimage_36: -1344675921841013106
+      VFX_P2_DashAfterimage_37: 1306833552618280402
+      VFX_P2_DashAfterimage_38: -4471383886822987284
+      VFX_P2_DashAfterimage_39: 3355499378263404434
+      VFX_P2_DashAfterimage_4: -4517507737766166628
+      VFX_P2_DashAfterimage_40: 7084749490051139209
+      VFX_P2_DashAfterimage_41: 3357947812906058973
+      VFX_P2_DashAfterimage_42: 5771761920529806373
+      VFX_P2_DashAfterimage_43: 254880223617504389
+      VFX_P2_DashAfterimage_44: 7963904687865907753
+      VFX_P2_DashAfterimage_45: -2138389980957342842
+      VFX_P2_DashAfterimage_46: -4942819032923145222
+      VFX_P2_DashAfterimage_47: 4499547527100149842
+      VFX_P2_DashAfterimage_48: -6514260172795625985
+      VFX_P2_DashAfterimage_49: 2500381019128327238
+      VFX_P2_DashAfterimage_5: 1681404961949400226
+      VFX_P2_DashAfterimage_50: 878198759508940269
+      VFX_P2_DashAfterimage_51: -1765817882873825842
+      VFX_P2_DashAfterimage_52: -1475282484388044526
+      VFX_P2_DashAfterimage_53: -8376947334896501585
+      VFX_P2_DashAfterimage_54: -1832926426720317760
+      VFX_P2_DashAfterimage_55: -5111155623011061603
+      VFX_P2_DashAfterimage_56: 6457642331506255042
+      VFX_P2_DashAfterimage_57: 4447776412096403793
+      VFX_P2_DashAfterimage_58: 9102158624318617751
+      VFX_P2_DashAfterimage_59: 6470216704466923127
+      VFX_P2_DashAfterimage_6: 799624884070300358
+      VFX_P2_DashAfterimage_60: 3257630730339145418
+      VFX_P2_DashAfterimage_61: -6440437960961159324
+      VFX_P2_DashAfterimage_62: 6011462423665113124
+      VFX_P2_DashAfterimage_63: -6359497563952179575
+      VFX_P2_DashAfterimage_64: 6297679306660816391
+      VFX_P2_DashAfterimage_65: 5318291992929001967
+      VFX_P2_DashAfterimage_66: -7084697651549984353
+      VFX_P2_DashAfterimage_67: 4196316077727306632
+      VFX_P2_DashAfterimage_68: -5668747996230787215
+      VFX_P2_DashAfterimage_69: -8887479264003788977
+      VFX_P2_DashAfterimage_7: 6442053985770033778
+      VFX_P2_DashAfterimage_70: -5406403837177344019
+      VFX_P2_DashAfterimage_71: -1284706355924436291
+      VFX_P2_DashAfterimage_72: -7281604389763055508
+      VFX_P2_DashAfterimage_73: -2517822585989034869
+      VFX_P2_DashAfterimage_74: 3653305299010957126
+      VFX_P2_DashAfterimage_75: 8830626108852087096
+      VFX_P2_DashAfterimage_76: 8002282965442840065
+      VFX_P2_DashAfterimage_77: -5743011375945862589
+      VFX_P2_DashAfterimage_78: -7486759646397455951
+      VFX_P2_DashAfterimage_79: 2497300150781182809
+      VFX_P2_DashAfterimage_8: -3522235496562379083
+      VFX_P2_DashAfterimage_80: -5021938645327531467
+      VFX_P2_DashAfterimage_81: -3759859196984466075
+      VFX_P2_DashAfterimage_82: -4161698437688706131
+      VFX_P2_DashAfterimage_83: -4158957793468952769
+      VFX_P2_DashAfterimage_84: 7504926841865265408
+      VFX_P2_DashAfterimage_85: 1216018772257317746
+      VFX_P2_DashAfterimage_86: -4533311096524676622
+      VFX_P2_DashAfterimage_87: 1554992143097088100
+      VFX_P2_DashAfterimage_88: -6403424755031848495
+      VFX_P2_DashAfterimage_89: -1937260327516306518
+      VFX_P2_DashAfterimage_9: -8346225872298970923
+      VFX_P2_DashAfterimage_90: 5704113357436802326
+      VFX_P2_DashAfterimage_91: 1203048189841833837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

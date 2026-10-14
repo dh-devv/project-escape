@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: a8d9ac84e69fd774fb34dd3718ea273f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7394101487384928890
+    second: VFX_BossMid_AttackWarning_0
+  - first:
+      213: -7355982114842507259
+    second: VFX_BossMid_AttackWarning_1
+  - first:
+      213: 3620851755253631716
+    second: VFX_BossMid_AttackWarning_2
+  - first:
+      213: -2587748398873062324
+    second: VFX_BossMid_AttackWarning_3
+  - first:
+      213: 145608234452461355
+    second: VFX_BossMid_AttackWarning_4
+  - first:
+      213: 7779826584865111337
+    second: VFX_BossMid_AttackWarning_5
+  - first:
+      213: 1297003992721699401
+    second: VFX_BossMid_AttackWarning_6
+  - first:
+      213: -8196820747736771749
+    second: VFX_BossMid_AttackWarning_7
+  - first:
+      213: -6485247764963396716
+    second: VFX_BossMid_AttackWarning_8
+  - first:
+      213: 2224560518820551815
+    second: VFX_BossMid_AttackWarning_9
+  - first:
+      213: -3202083167803907975
+    second: VFX_BossMid_AttackWarning_10
+  - first:
+      213: 1401270029724812726
+    second: VFX_BossMid_AttackWarning_11
+  - first:
+      213: -3266207897763357779
+    second: VFX_BossMid_AttackWarning_12
+  - first:
+      213: 2737657045031755200
+    second: VFX_BossMid_AttackWarning_13
+  - first:
+      213: -3935959113075327739
+    second: VFX_BossMid_AttackWarning_14
+  - first:
+      213: -5557047502290525011
+    second: VFX_BossMid_AttackWarning_15
+  - first:
+      213: 1149907351191604537
+    second: VFX_BossMid_AttackWarning_16
+  - first:
+      213: -4238191565118278768
+    second: VFX_BossMid_AttackWarning_17
+  - first:
+      213: -4907713645112442934
+    second: VFX_BossMid_AttackWarning_18
+  - first:
+      213: -3852935700986076458
+    second: VFX_BossMid_AttackWarning_19
+  - first:
+      213: -3757651868675187610
+    second: VFX_BossMid_AttackWarning_20
+  - first:
+      213: 8914192535230452034
+    second: VFX_BossMid_AttackWarning_21
+  - first:
+      213: 8678508100165593741
+    second: VFX_BossMid_AttackWarning_22
+  - first:
+      213: -4516080095379475199
+    second: VFX_BossMid_AttackWarning_23
+  - first:
+      213: -8169169970360748866
+    second: VFX_BossMid_AttackWarning_24
+  - first:
+      213: -7354880699583851359
+    second: VFX_BossMid_AttackWarning_25
+  - first:
+      213: -4436664463202266537
+    second: VFX_BossMid_AttackWarning_26
+  - first:
+      213: -439322876352320250
+    second: VFX_BossMid_AttackWarning_27
+  - first:
+      213: 2823161738457118041
+    second: VFX_BossMid_AttackWarning_28
+  - first:
+      213: 2179658550203023398
+    second: VFX_BossMid_AttackWarning_29
+  - first:
+      213: 7494388088489454926
+    second: VFX_BossMid_AttackWarning_30
+  - first:
+      213: -6466270772356976840
+    second: VFX_BossMid_AttackWarning_31
+  - first:
+      213: 1778723448659604032
+    second: VFX_BossMid_AttackWarning_32
+  - first:
+      213: -3753621952872438956
+    second: VFX_BossMid_AttackWarning_33
+  - first:
+      213: 2763862643747305922
+    second: VFX_BossMid_AttackWarning_34
+  - first:
+      213: -5548633926445361488
+    second: VFX_BossMid_AttackWarning_35
+  - first:
+      213: 4994885419717034762
+    second: VFX_BossMid_AttackWarning_36
+  - first:
+      213: -2560317652886452202
+    second: VFX_BossMid_AttackWarning_37
+  - first:
+      213: -267631455712908759
+    second: VFX_BossMid_AttackWarning_38
+  - first:
+      213: 2428552707484194109
+    second: VFX_BossMid_AttackWarning_39
+  - first:
+      213: 2759018844315489532
+    second: VFX_BossMid_AttackWarning_40
+  - first:
+      213: 876829726578177349
+    second: VFX_BossMid_AttackWarning_41
+  - first:
+      213: 4331779786739615737
+    second: VFX_BossMid_AttackWarning_42
+  - first:
+      213: -8152772753840240332
+    second: VFX_BossMid_AttackWarning_43
+  - first:
+      213: -7981888264798186617
+    second: VFX_BossMid_AttackWarning_44
+  - first:
+      213: -8030080106968293023
+    second: VFX_BossMid_AttackWarning_45
+  - first:
+      213: -2023835554037360682
+    second: VFX_BossMid_AttackWarning_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 167
+        width: 127
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ddb337fdfd26990800000000000000
+      internalID: -7394101487384928890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 207
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5088fae7d3d4ae990800000000000000
+      internalID: -7355982114842507259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 187
+        width: 104
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea0e30cc79df3230800000000000000
+      internalID: 3620851755253631716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 188
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44d51daa88761cd0800000000000000
+      internalID: -2587748398873062324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 196
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2729e2faed450200800000000000000
+      internalID: 145608234452461355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 175
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d76054f0f77fb60800000000000000
+      internalID: 7779826584865111337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942b0727242eff110800000000000000
+      internalID: 1297003992721699401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 189
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53199365fa0f3e80800000000000000
+      internalID: -8196820747736771749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 32
+        width: 206
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493f5f0a485cff5a0800000000000000
+      internalID: -6485247764963396716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 207
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c58a1710a3fde10800000000000000
+      internalID: 2224560518820551815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 174
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9706ac1035aef83d0800000000000000
+      internalID: -3202083167803907975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 182
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b50624faaf427310800000000000000
+      internalID: 1401270029724812726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_12
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 166
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab5d3bd8391ca2d0800000000000000
+      internalID: -3266207897763357779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 167
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd96f5e39c1ef520800000000000000
+      internalID: 2737657045031755200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dfeae4a0aa069c0800000000000000
+      internalID: -3935959113075327739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 169
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4600a3db661e2b0800000000000000
+      internalID: -5557047502290525011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 164
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dc268b4aa45ff00800000000000000
+      internalID: 1149907351191604537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 167
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0937117f93bee25c0800000000000000
+      internalID: -4238191565118278768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 169
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf3cb3217c44ebb0800000000000000
+      internalID: -4907713645112442934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 169
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2ed48c46f978ac0800000000000000
+      internalID: -3852935700986076458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 137
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c580ac8832adbc0800000000000000
+      internalID: -3757651868675187610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24199d1a1e295bb70800000000000000
+      internalID: 8914192535230452034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 80
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a68bae221407870800000000000000
+      internalID: 8678508100165593741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 78
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105b1b99419a351c0800000000000000
+      internalID: -4516080095379475199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4fbdea13741ae80800000000000000
+      internalID: -8169169970360748866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a49de7b8f63ee990800000000000000
+      internalID: -7354880699583851359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 79
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752da3b5d2dcd62c0800000000000000
+      internalID: -4436664463202266537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d215deb2637e9f0800000000000000
+      internalID: -439322876352320250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955f534b4a2ed2720800000000000000
+      internalID: 2823161738457118041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 72
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6208e7037e3bf3e10800000000000000
+      internalID: 2179658550203023398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 81
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d255f624a610860800000000000000
+      internalID: 7494388088489454926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 65
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83feb280ef03346a0800000000000000
+      internalID: -6466270772356976840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 69
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042730f6d8b4fa810800000000000000
+      internalID: 1778723448659604032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 66
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4532eeda8b478ebc0800000000000000
+      internalID: -3753621952872438956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 55
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b7805e663b5620800000000000000
+      internalID: 2763862643747305922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 74
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b61b8187da4ff2b0800000000000000
+      internalID: -5548633926445361488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_36
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03030043d5615540800000000000000
+      internalID: 4994885419717034762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6188a8be8ace77cd0800000000000000
+      internalID: -2560317652886452202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_38
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ae287eb9e294cf0800000000000000
+      internalID: -267631455712908759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_39
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3598e702d3f3b120800000000000000
+      internalID: 2428552707484194109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_40
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 66
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4980065010a4620800000000000000
+      internalID: 2759018844315489532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 54
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545f13d9dff1b2c00800000000000000
+      internalID: 876829726578177349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f705d9e3c29d1c30800000000000000
+      internalID: 4331779786739615737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_43
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 58
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4398ed820688bde80800000000000000
+      internalID: -8152772753840240332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_44
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 44
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78358dbb9e2aa3190800000000000000
+      internalID: -7981888264798186617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 43
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161693a10bc6f8090800000000000000
+      internalID: -8030080106968293023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_AttackWarning_46
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d71ccd4944e9e3e0800000000000000
+      internalID: -2023835554037360682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_BossMid_AttackWarning_0: -7394101487384928890
+      VFX_BossMid_AttackWarning_1: -7355982114842507259
+      VFX_BossMid_AttackWarning_10: -3202083167803907975
+      VFX_BossMid_AttackWarning_11: 1401270029724812726
+      VFX_BossMid_AttackWarning_12: -3266207897763357779
+      VFX_BossMid_AttackWarning_13: 2737657045031755200
+      VFX_BossMid_AttackWarning_14: -3935959113075327739
+      VFX_BossMid_AttackWarning_15: -5557047502290525011
+      VFX_BossMid_AttackWarning_16: 1149907351191604537
+      VFX_BossMid_AttackWarning_17: -4238191565118278768
+      VFX_BossMid_AttackWarning_18: -4907713645112442934
+      VFX_BossMid_AttackWarning_19: -3852935700986076458
+      VFX_BossMid_AttackWarning_2: 3620851755253631716
+      VFX_BossMid_AttackWarning_20: -3757651868675187610
+      VFX_BossMid_AttackWarning_21: 8914192535230452034
+      VFX_BossMid_AttackWarning_22: 8678508100165593741
+      VFX_BossMid_AttackWarning_23: -4516080095379475199
+      VFX_BossMid_AttackWarning_24: -8169169970360748866
+      VFX_BossMid_AttackWarning_25: -7354880699583851359
+      VFX_BossMid_AttackWarning_26: -4436664463202266537
+      VFX_BossMid_AttackWarning_27: -439322876352320250
+      VFX_BossMid_AttackWarning_28: 2823161738457118041
+      VFX_BossMid_AttackWarning_29: 2179658550203023398
+      VFX_BossMid_AttackWarning_3: -2587748398873062324
+      VFX_BossMid_AttackWarning_30: 7494388088489454926
+      VFX_BossMid_AttackWarning_31: -6466270772356976840
+      VFX_BossMid_AttackWarning_32: 1778723448659604032
+      VFX_BossMid_AttackWarning_33: -3753621952872438956
+      VFX_BossMid_AttackWarning_34: 2763862643747305922
+      VFX_BossMid_AttackWarning_35: -5548633926445361488
+      VFX_BossMid_AttackWarning_36: 4994885419717034762
+      VFX_BossMid_AttackWarning_37: -2560317652886452202
+      VFX_BossMid_AttackWarning_38: -267631455712908759
+      VFX_BossMid_AttackWarning_39: 2428552707484194109
+      VFX_BossMid_AttackWarning_4: 145608234452461355
+      VFX_BossMid_AttackWarning_40: 2759018844315489532
+      VFX_BossMid_AttackWarning_41: 876829726578177349
+      VFX_BossMid_AttackWarning_42: 4331779786739615737
+      VFX_BossMid_AttackWarning_43: -8152772753840240332
+      VFX_BossMid_AttackWarning_44: -7981888264798186617
+      VFX_BossMid_AttackWarning_45: -8030080106968293023
+      VFX_BossMid_AttackWarning_46: -2023835554037360682
+      VFX_BossMid_AttackWarning_5: 7779826584865111337
+      VFX_BossMid_AttackWarning_6: 1297003992721699401
+      VFX_BossMid_AttackWarning_7: -8196820747736771749
+      VFX_BossMid_AttackWarning_8: -6485247764963396716
+      VFX_BossMid_AttackWarning_9: 2224560518820551815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

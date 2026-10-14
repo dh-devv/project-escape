@@ -1,0 +1,3393 @@
+fileFormatVersion: 2
+guid: 69cf8e77701910f4e8860b3812111534
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5273167116559059940
+    second: Communicator_CommunicationEffect_0
+  - first:
+      213: 5227039067304291236
+    second: Communicator_CommunicationEffect_1
+  - first:
+      213: 5689729126594746505
+    second: Communicator_CommunicationEffect_2
+  - first:
+      213: 4222357915928266329
+    second: Communicator_CommunicationEffect_3
+  - first:
+      213: -5553516047293669900
+    second: Communicator_CommunicationEffect_4
+  - first:
+      213: -6327417144016821759
+    second: Communicator_CommunicationEffect_5
+  - first:
+      213: -4912385916873639824
+    second: Communicator_CommunicationEffect_6
+  - first:
+      213: 1928874384512100055
+    second: Communicator_CommunicationEffect_7
+  - first:
+      213: 6195410221169463435
+    second: Communicator_CommunicationEffect_8
+  - first:
+      213: 489226940959073730
+    second: Communicator_CommunicationEffect_9
+  - first:
+      213: 6216242443894750125
+    second: Communicator_CommunicationEffect_10
+  - first:
+      213: 8525082439203985050
+    second: Communicator_CommunicationEffect_11
+  - first:
+      213: 4859573119874213239
+    second: Communicator_CommunicationEffect_12
+  - first:
+      213: -8398022843261620481
+    second: Communicator_CommunicationEffect_13
+  - first:
+      213: -7064827339510158607
+    second: Communicator_CommunicationEffect_14
+  - first:
+      213: 2859220963209040133
+    second: Communicator_CommunicationEffect_15
+  - first:
+      213: -5215847394193567437
+    second: Communicator_CommunicationEffect_16
+  - first:
+      213: -4703749597223627537
+    second: Communicator_CommunicationEffect_17
+  - first:
+      213: 2887121278611011254
+    second: Communicator_CommunicationEffect_18
+  - first:
+      213: 3734149398603955960
+    second: Communicator_CommunicationEffect_19
+  - first:
+      213: -3639250819783208308
+    second: Communicator_CommunicationEffect_20
+  - first:
+      213: 7582435756944138367
+    second: Communicator_CommunicationEffect_21
+  - first:
+      213: -6901311164759191983
+    second: Communicator_CommunicationEffect_22
+  - first:
+      213: 6664691668251110386
+    second: Communicator_CommunicationEffect_23
+  - first:
+      213: -6900982370838709710
+    second: Communicator_CommunicationEffect_24
+  - first:
+      213: 4248931226193313391
+    second: Communicator_CommunicationEffect_25
+  - first:
+      213: -6602234206917349849
+    second: Communicator_CommunicationEffect_26
+  - first:
+      213: -7100083886334291708
+    second: Communicator_CommunicationEffect_27
+  - first:
+      213: -8732456925616774542
+    second: Communicator_CommunicationEffect_28
+  - first:
+      213: -6123199575684488752
+    second: Communicator_CommunicationEffect_29
+  - first:
+      213: 1193730028514003551
+    second: Communicator_CommunicationEffect_30
+  - first:
+      213: -4302198253356790486
+    second: Communicator_CommunicationEffect_31
+  - first:
+      213: 1382092717736998372
+    second: Communicator_CommunicationEffect_32
+  - first:
+      213: -536151858175713807
+    second: Communicator_CommunicationEffect_33
+  - first:
+      213: -6306626549186177266
+    second: Communicator_CommunicationEffect_34
+  - first:
+      213: 5414259209836972161
+    second: Communicator_CommunicationEffect_35
+  - first:
+      213: -3974729941494688302
+    second: Communicator_CommunicationEffect_36
+  - first:
+      213: -746566996498832820
+    second: Communicator_CommunicationEffect_37
+  - first:
+      213: 4613165852052927815
+    second: Communicator_CommunicationEffect_38
+  - first:
+      213: 2044712553583680474
+    second: Communicator_CommunicationEffect_39
+  - first:
+      213: 4041028204127671771
+    second: Communicator_CommunicationEffect_40
+  - first:
+      213: 4755254861638370816
+    second: Communicator_CommunicationEffect_41
+  - first:
+      213: -4287956376095779678
+    second: Communicator_CommunicationEffect_42
+  - first:
+      213: 8016064360535755030
+    second: Communicator_CommunicationEffect_43
+  - first:
+      213: 5530322846489501723
+    second: Communicator_CommunicationEffect_44
+  - first:
+      213: -6876088921399313157
+    second: Communicator_CommunicationEffect_45
+  - first:
+      213: -1946631496262674847
+    second: Communicator_CommunicationEffect_46
+  - first:
+      213: -4690973805858122259
+    second: Communicator_CommunicationEffect_47
+  - first:
+      213: 293659670346683480
+    second: Communicator_CommunicationEffect_48
+  - first:
+      213: -2000048645844009918
+    second: Communicator_CommunicationEffect_49
+  - first:
+      213: 7866138672583556366
+    second: Communicator_CommunicationEffect_50
+  - first:
+      213: -1371476127488180201
+    second: Communicator_CommunicationEffect_51
+  - first:
+      213: 838965195999115702
+    second: Communicator_CommunicationEffect_52
+  - first:
+      213: 2052535696091313163
+    second: Communicator_CommunicationEffect_53
+  - first:
+      213: 3089846626331570099
+    second: Communicator_CommunicationEffect_54
+  - first:
+      213: 411670282495181957
+    second: Communicator_CommunicationEffect_55
+  - first:
+      213: 315389555849453430
+    second: Communicator_CommunicationEffect_56
+  - first:
+      213: -6675638196989509402
+    second: Communicator_CommunicationEffect_57
+  - first:
+      213: -3788441210534156218
+    second: Communicator_CommunicationEffect_58
+  - first:
+      213: 8804037500602820953
+    second: Communicator_CommunicationEffect_59
+  - first:
+      213: -3282494976813802897
+    second: Communicator_CommunicationEffect_60
+  - first:
+      213: -3301480264364481046
+    second: Communicator_CommunicationEffect_61
+  - first:
+      213: 6488711615553481858
+    second: Communicator_CommunicationEffect_62
+  - first:
+      213: 8097192433535599750
+    second: Communicator_CommunicationEffect_63
+  - first:
+      213: 6021592840194078822
+    second: Communicator_CommunicationEffect_64
+  - first:
+      213: 480807970307102663
+    second: Communicator_CommunicationEffect_65
+  - first:
+      213: -554121145125325922
+    second: Communicator_CommunicationEffect_66
+  - first:
+      213: 1443781185973586594
+    second: Communicator_CommunicationEffect_67
+  - first:
+      213: 7090569040146833575
+    second: Communicator_CommunicationEffect_68
+  - first:
+      213: 1501683356360268612
+    second: Communicator_CommunicationEffect_69
+  - first:
+      213: 1427127308054901418
+    second: Communicator_CommunicationEffect_70
+  - first:
+      213: 8943346598753999347
+    second: Communicator_CommunicationEffect_71
+  - first:
+      213: -5647225850084959282
+    second: Communicator_CommunicationEffect_72
+  - first:
+      213: 3558177718820414497
+    second: Communicator_CommunicationEffect_73
+  - first:
+      213: -4493880403675048409
+    second: Communicator_CommunicationEffect_74
+  - first:
+      213: -8869396674006063430
+    second: Communicator_CommunicationEffect_75
+  - first:
+      213: 14051093992920407
+    second: Communicator_CommunicationEffect_76
+  - first:
+      213: 183737131348201416
+    second: Communicator_CommunicationEffect_77
+  - first:
+      213: 7959548037201757071
+    second: Communicator_CommunicationEffect_78
+  - first:
+      213: -6208775545390192935
+    second: Communicator_CommunicationEffect_79
+  - first:
+      213: 2158546788625535821
+    second: Communicator_CommunicationEffect_80
+  - first:
+      213: 8377251934356563250
+    second: Communicator_CommunicationEffect_81
+  - first:
+      213: 5050973855995578803
+    second: Communicator_CommunicationEffect_82
+  - first:
+      213: -7237061134163395576
+    second: Communicator_CommunicationEffect_83
+  - first:
+      213: -8747425193723484998
+    second: Communicator_CommunicationEffect_84
+  - first:
+      213: -6635934215661652523
+    second: Communicator_CommunicationEffect_85
+  - first:
+      213: 7639446834720583779
+    second: Communicator_CommunicationEffect_86
+  - first:
+      213: -8635517110338181006
+    second: Communicator_CommunicationEffect_87
+  - first:
+      213: -7777602827711696323
+    second: Communicator_CommunicationEffect_88
+  - first:
+      213: 4755012469005301547
+    second: Communicator_CommunicationEffect_89
+  - first:
+      213: -48245386927418187
+    second: Communicator_CommunicationEffect_90
+  - first:
+      213: -5593379243197726355
+    second: Communicator_CommunicationEffect_91
+  - first:
+      213: -6750881127150124579
+    second: Communicator_CommunicationEffect_92
+  - first:
+      213: -859986310302537242
+    second: Communicator_CommunicationEffect_93
+  - first:
+      213: -3420012066981093403
+    second: Communicator_CommunicationEffect_94
+  - first:
+      213: 6739374631847781017
+    second: Communicator_CommunicationEffect_95
+  - first:
+      213: -1686215011757760227
+    second: Communicator_CommunicationEffect_96
+  - first:
+      213: -2724225881198629927
+    second: Communicator_CommunicationEffect_97
+  - first:
+      213: 9062206628849610007
+    second: Communicator_CommunicationEffect_98
+  - first:
+      213: -1084337199560679989
+    second: Communicator_CommunicationEffect_99
+  - first:
+      213: 7112786404812324193
+    second: Communicator_CommunicationEffect_100
+  - first:
+      213: -64093749419564301
+    second: Communicator_CommunicationEffect_101
+  - first:
+      213: -4396346268096090700
+    second: Communicator_CommunicationEffect_102
+  - first:
+      213: -8884033042912404812
+    second: Communicator_CommunicationEffect_103
+  - first:
+      213: -629187382786646142
+    second: Communicator_CommunicationEffect_104
+  - first:
+      213: -939320662642538488
+    second: Communicator_CommunicationEffect_105
+  - first:
+      213: -6891089357488314555
+    second: Communicator_CommunicationEffect_106
+  - first:
+      213: 3920115880862373583
+    second: Communicator_CommunicationEffect_107
+  - first:
+      213: -4712026616858077673
+    second: Communicator_CommunicationEffect_108
+  - first:
+      213: 5917109199428296835
+    second: Communicator_CommunicationEffect_109
+  - first:
+      213: 9130223618169917961
+    second: Communicator_CommunicationEffect_110
+  - first:
+      213: -7717697875466042619
+    second: Communicator_CommunicationEffect_111
+  - first:
+      213: -4034835240911044591
+    second: Communicator_CommunicationEffect_112
+  - first:
+      213: -7193826333874408156
+    second: Communicator_CommunicationEffect_113
+  - first:
+      213: -1897211543542035220
+    second: Communicator_CommunicationEffect_114
+  - first:
+      213: -2859531362367038976
+    second: Communicator_CommunicationEffect_115
+  - first:
+      213: -7622325211796608329
+    second: Communicator_CommunicationEffect_116
+  - first:
+      213: -1548728974664937159
+    second: Communicator_CommunicationEffect_117
+  - first:
+      213: -8525214176156565487
+    second: Communicator_CommunicationEffect_118
+  - first:
+      213: -3830727189914054036
+    second: Communicator_CommunicationEffect_119
+  - first:
+      213: 1626642796091743196
+    second: Communicator_CommunicationEffect_120
+  - first:
+      213: 5397634267937812389
+    second: Communicator_CommunicationEffect_121
+  - first:
+      213: -1264093219016310003
+    second: Communicator_CommunicationEffect_122
+  - first:
+      213: -5969624234875236426
+    second: Communicator_CommunicationEffect_123
+  - first:
+      213: 6284401206145600363
+    second: Communicator_CommunicationEffect_124
+  - first:
+      213: 7723402535796781646
+    second: Communicator_CommunicationEffect_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 473
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14f9382272f1d6b0800000000000000
+      internalID: -5273167116559059940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 481
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abe2c1765c2a8840800000000000000
+      internalID: 5227039067304291236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 444
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9889fd2ce7af5fe40800000000000000
+      internalID: 5689729126594746505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956867d4724d89a30800000000000000
+      internalID: 4222357915928266329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 425
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd11aa2492fde2b0800000000000000
+      internalID: -5553516047293669900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 451
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1022921b1af7038a0800000000000000
+      internalID: -6327417144016821759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 451
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0787d191903b3dbb0800000000000000
+      internalID: -4912385916873639824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 448
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6a139780db4ca10800000000000000
+      internalID: 1928874384512100055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 457
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8051ae75c48af550800000000000000
+      internalID: 6195410221169463435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 460
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5aa6e8f451ac600800000000000000
+      internalID: 489226940959073730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 460
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab7d025197844650800000000000000
+      internalID: 6216242443894750125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 462
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a969ca58f4d2f4670800000000000000
+      internalID: 8525082439203985050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 449
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775a322610ca07340800000000000000
+      internalID: 4859573119874213239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_13
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 467
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe66cbf7ba347b80800000000000000
+      internalID: -8398022843261620481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 372
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa670d37f0b4fd90800000000000000
+      internalID: -7064827339510158607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501dc66315efda720800000000000000
+      internalID: 2859220963209040133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 456
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33112720e669d97b0800000000000000
+      internalID: -5215847394193567437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_17
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 447
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe45911b9ace8beb0800000000000000
+      internalID: -4703749597223627537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 407
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6b41b918d111820800000000000000
+      internalID: 2887121278611011254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 433
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fef60af71d52d330800000000000000
+      internalID: 3734149398603955960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 424
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82d54639a8ce7dc0800000000000000
+      internalID: -3639250819783208308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 281
+        width: 129
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7020e0c5293a3960800000000000000
+      internalID: 7582435756944138367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_22
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 443
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e47147f0e9930a0800000000000000
+      internalID: -6901311164759191983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 437
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbec9fd2cdbd7c50800000000000000
+      internalID: 6664691668251110386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 412
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23afce0c819ca30a0800000000000000
+      internalID: -6900982370838709710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 283
+        width: 97
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e315c307c37fa30800000000000000
+      internalID: 4248931226193313391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 389
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e22cc08f62064a0800000000000000
+      internalID: -6602234206917349849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 403
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401d19fb25f677d90800000000000000
+      internalID: -7100083886334291708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 387
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272663451b410d680800000000000000
+      internalID: -8732456925616774542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 423
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1e0829d66060ba0800000000000000
+      internalID: -6123199575684488752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 409
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a4b43e22bf09010800000000000000
+      internalID: 1193730028514003551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_31
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 396
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dcc5b8b758b44c0800000000000000
+      internalID: -4302198253356790486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 283
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e53e5f010e2e2310800000000000000
+      internalID: 1382092717736998372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 343
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd55c3c9b43f88f0800000000000000
+      internalID: -536151858175713807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 300
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07d5b4419c5a78a0800000000000000
+      internalID: -6306626549186177266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_35
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 347
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188483cb010532b40800000000000000
+      internalID: 5414259209836972161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 295
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5991f5d2ce6d8c0800000000000000
+      internalID: -3974729941494688302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 326
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4228aca549a3a5f0800000000000000
+      internalID: -746566996498832820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745b39d96e1450040800000000000000
+      internalID: 4613165852052927815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_39
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 319
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb1320fb37406c10800000000000000
+      internalID: 2044712553583680474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 295
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd55d5acdbd941830800000000000000
+      internalID: 4041028204127671771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_41
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 343
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006876c2a1f0ef140800000000000000
+      internalID: 4755254861638370816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_42
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 286
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4907ef46e1e74c0800000000000000
+      internalID: -4287956376095779678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_43
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 304
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6190762a018ce3f60800000000000000
+      internalID: 8016064360535755030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 306
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10eb36f357afbc40800000000000000
+      internalID: 5530322846489501723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_45
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 281
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcbefb9e893390a0800000000000000
+      internalID: -6876088921399313157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 371
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1661da4c7fc2cf4e0800000000000000
+      internalID: -1946631496262674847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 354
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de51a2b6d2056eeb0800000000000000
+      internalID: -4690973805858122259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_48
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 371
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8545fdf0ae9431400800000000000000
+      internalID: 293659670346683480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 287
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c77f27a566e34e0800000000000000
+      internalID: -2000048645844009918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_50
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 299
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d3e4532732a2d60800000000000000
+      internalID: 7866138672583556366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_51
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 281
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710832b7ab987fce0800000000000000
+      internalID: -1371476127488180201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_52
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 304
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b97176966a94ab00800000000000000
+      internalID: 838965195999115702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_53
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 312
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04f45e37521c7c10800000000000000
+      internalID: 2052535696091313163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_54
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 290
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfaeecc22751ea20800000000000000
+      internalID: 3089846626331570099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_55
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 307
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584c5b8d0fb86b500800000000000000
+      internalID: 411670282495181957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_56
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 306
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f564a412d706400800000000000000
+      internalID: 315389555849453430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0496bcd6e5b53a0800000000000000
+      internalID: -6675638196989509402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 281
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64829a18ac0cc6bc0800000000000000
+      internalID: -3788441210534156218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 281
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95926a406793e2a70800000000000000
+      internalID: 8804037500602820953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_60
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 281
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a5202c53c3272d0800000000000000
+      internalID: -3282494976813802897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_61
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5a7990139ce22d0800000000000000
+      internalID: -3301480264364481046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_62
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 281
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c240fe5d88c0a50800000000000000
+      internalID: 6488711615553481858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_63
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684ced61e910f5070800000000000000
+      internalID: 8097192433535599750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_64
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 281
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668bdcdc8cef09350800000000000000
+      internalID: 6021592840194078822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_65
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 281
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7d4533d4c2ca600800000000000000
+      internalID: 480807970307102663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_66
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93b54e11cd5f48f0800000000000000
+      internalID: -554121145125325922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_67
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 209
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa0953d657590410800000000000000
+      internalID: 1443781185973586594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_68
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 212
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0a55d79f2c66260800000000000000
+      internalID: 7090569040146833575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_69
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 224
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b58fc6e0d07d410800000000000000
+      internalID: 1501683356360268612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_70
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 214
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa23fd5b9bc2ec310800000000000000
+      internalID: 1427127308054901418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_71
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 210
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f91ee109562d1c70800000000000000
+      internalID: 8943346598753999347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_72
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 217
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb5847720601a1b0800000000000000
+      internalID: -5647225850084959282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_73
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 198
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124200288cf216130800000000000000
+      internalID: 3558177718820414497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_74
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 211
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7261cdb159782a1c0800000000000000
+      internalID: -4493880403675048409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_75
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 204
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab666d197b299e480800000000000000
+      internalID: -8869396674006063430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_76
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 224
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7555722456be13000800000000000000
+      internalID: 14051093992920407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_77
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 193
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf0f0e82f3cc8200800000000000000
+      internalID: 183737131348201416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_78
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 40
+        width: 101
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f838112b4cef57e60800000000000000
+      internalID: 7959548037201757071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_79
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 211
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6a2e6798ff5d9a0800000000000000
+      internalID: -6208775545390192935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_80
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 212
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43d5172ed2b4fd10800000000000000
+      internalID: 2158546788625535821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_81
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 33
+        width: 205
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235e64def3af14470800000000000000
+      internalID: 8377251934356563250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_82
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 188
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9c668f5f9a81640800000000000000
+      internalID: 5050973855995578803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_83
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 172
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cb768fd3bc09b90800000000000000
+      internalID: -7237061134163395576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_84
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 83
+        width: 24
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab42fc4d127ea9680800000000000000
+      internalID: -8747425193723484998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_85
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 197
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d570a25dfc68e3a0800000000000000
+      internalID: -6635934215661652523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_86
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 204
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360b000bb64c40a60800000000000000
+      internalID: 7639446834720583779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_87
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 181
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2782c7ae0fa782880800000000000000
+      internalID: -8635517110338181006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_88
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 173
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32bb2a8f67601490800000000000000
+      internalID: -7777602827711696323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_89
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 172
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b273d9db5a23df140800000000000000
+      internalID: 4755012469005301547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_90
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 180
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4d3228319945ff0800000000000000
+      internalID: -48245386927418187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 173
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61082b96335062b0800000000000000
+      internalID: -5593379243197726355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_92
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 137
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1045fe16d0052a0800000000000000
+      internalID: -6750881127150124579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_93
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 88
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9e7b6d107b014f0800000000000000
+      internalID: -859986310302537242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_94
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 160
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efda04252da980d0800000000000000
+      internalID: -3420012066981093403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_95
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 156
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992e09b5581178d50800000000000000
+      internalID: 6739374631847781017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_96
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 134
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d116f39716c5998e0800000000000000
+      internalID: -1686215011757760227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_97
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 102
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbea3f9efa913ad0800000000000000
+      internalID: -2724225881198629927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_98
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 83
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d65c15aec63cd70800000000000000
+      internalID: 9062206628849610007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_99
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 102
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd9173ef09a3f0f0800000000000000
+      internalID: -1084337199560679989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_100
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 75
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16df01ecc81b5b260800000000000000
+      internalID: 7112786404812324193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_101
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 87
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f22681131b4c1ff0800000000000000
+      internalID: -64093749419564301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_102
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bda48cac5a0df2c0800000000000000
+      internalID: -4396346268096090700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_103
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 78
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba9f50640395b480800000000000000
+      internalID: -8884033042912404812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_104
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 62
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f18dfa86da447f0800000000000000
+      internalID: -629187382786646142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_105
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 77
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808c10585dcd6f2f0800000000000000
+      internalID: -939320662642538488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_106
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 51
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5472f6b6dbeed50a0800000000000000
+      internalID: -6891089357488314555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_107
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 76
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc65b2dbf9c076630800000000000000
+      internalID: 3920115880862373583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_108
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 67
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7161df1e1c48b9eb0800000000000000
+      internalID: -4712026616858077673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_109
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 47
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ae19777bcd1250800000000000000
+      internalID: 5917109199428296835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_110
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 25
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90256e8b10215be70800000000000000
+      internalID: 9130223618169917961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_111
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 78
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5034f012caa35e490800000000000000
+      internalID: -7717697875466042619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_112
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 75
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1100542d9b26108c0800000000000000
+      internalID: -4034835240911044591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_113
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 51
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425b09950156a2c90800000000000000
+      internalID: -7193826333874408156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_114
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 31
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec086b2720cba5e0800000000000000
+      internalID: -1897211543542035220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_115
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 60
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a160a5067e058d0800000000000000
+      internalID: -2859531362367038976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_116
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 43
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baeb5cca9f083690800000000000000
+      internalID: -7622325211796608329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_117
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 51
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931ddbbf33fc18ae0800000000000000
+      internalID: -1548728974664937159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_118
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 51
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110401410ea50b980800000000000000
+      internalID: -8525214176156565487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_119
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c621eb5bae586dac0800000000000000
+      internalID: -3830727189914054036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_120
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 47
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb1f75310ff29610800000000000000
+      internalID: 1626642796091743196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_121
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 37
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afa8efc4cf38ea40800000000000000
+      internalID: 5397634267937812389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d038d8d2ae9057ee0800000000000000
+      internalID: -1264093219016310003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_123
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfc2b50362a72da0800000000000000
+      internalID: -5969624234875236426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_124
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 33
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b485ec99da63750800000000000000
+      internalID: 6284401206145600363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communicator_CommunicationEffect_125
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 25
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42b48b9fa90f2b60800000000000000
+      internalID: 7723402535796781646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Communicator_CommunicationEffect_0: -5273167116559059940
+      Communicator_CommunicationEffect_1: 5227039067304291236
+      Communicator_CommunicationEffect_10: 6216242443894750125
+      Communicator_CommunicationEffect_100: 7112786404812324193
+      Communicator_CommunicationEffect_101: -64093749419564301
+      Communicator_CommunicationEffect_102: -4396346268096090700
+      Communicator_CommunicationEffect_103: -8884033042912404812
+      Communicator_CommunicationEffect_104: -629187382786646142
+      Communicator_CommunicationEffect_105: -939320662642538488
+      Communicator_CommunicationEffect_106: -6891089357488314555
+      Communicator_CommunicationEffect_107: 3920115880862373583
+      Communicator_CommunicationEffect_108: -4712026616858077673
+      Communicator_CommunicationEffect_109: 5917109199428296835
+      Communicator_CommunicationEffect_11: 8525082439203985050
+      Communicator_CommunicationEffect_110: 9130223618169917961
+      Communicator_CommunicationEffect_111: -7717697875466042619
+      Communicator_CommunicationEffect_112: -4034835240911044591
+      Communicator_CommunicationEffect_113: -7193826333874408156
+      Communicator_CommunicationEffect_114: -1897211543542035220
+      Communicator_CommunicationEffect_115: -2859531362367038976
+      Communicator_CommunicationEffect_116: -7622325211796608329
+      Communicator_CommunicationEffect_117: -1548728974664937159
+      Communicator_CommunicationEffect_118: -8525214176156565487
+      Communicator_CommunicationEffect_119: -3830727189914054036
+      Communicator_CommunicationEffect_12: 4859573119874213239
+      Communicator_CommunicationEffect_120: 1626642796091743196
+      Communicator_CommunicationEffect_121: 5397634267937812389
+      Communicator_CommunicationEffect_122: -1264093219016310003
+      Communicator_CommunicationEffect_123: -5969624234875236426
+      Communicator_CommunicationEffect_124: 6284401206145600363
+      Communicator_CommunicationEffect_125: 7723402535796781646
+      Communicator_CommunicationEffect_13: -8398022843261620481
+      Communicator_CommunicationEffect_14: -7064827339510158607
+      Communicator_CommunicationEffect_15: 2859220963209040133
+      Communicator_CommunicationEffect_16: -5215847394193567437
+      Communicator_CommunicationEffect_17: -4703749597223627537
+      Communicator_CommunicationEffect_18: 2887121278611011254
+      Communicator_CommunicationEffect_19: 3734149398603955960
+      Communicator_CommunicationEffect_2: 5689729126594746505
+      Communicator_CommunicationEffect_20: -3639250819783208308
+      Communicator_CommunicationEffect_21: 7582435756944138367
+      Communicator_CommunicationEffect_22: -6901311164759191983
+      Communicator_CommunicationEffect_23: 6664691668251110386
+      Communicator_CommunicationEffect_24: -6900982370838709710
+      Communicator_CommunicationEffect_25: 4248931226193313391
+      Communicator_CommunicationEffect_26: -6602234206917349849
+      Communicator_CommunicationEffect_27: -7100083886334291708
+      Communicator_CommunicationEffect_28: -8732456925616774542
+      Communicator_CommunicationEffect_29: -6123199575684488752
+      Communicator_CommunicationEffect_3: 4222357915928266329
+      Communicator_CommunicationEffect_30: 1193730028514003551
+      Communicator_CommunicationEffect_31: -4302198253356790486
+      Communicator_CommunicationEffect_32: 1382092717736998372
+      Communicator_CommunicationEffect_33: -536151858175713807
+      Communicator_CommunicationEffect_34: -6306626549186177266
+      Communicator_CommunicationEffect_35: 5414259209836972161
+      Communicator_CommunicationEffect_36: -3974729941494688302
+      Communicator_CommunicationEffect_37: -746566996498832820
+      Communicator_CommunicationEffect_38: 4613165852052927815
+      Communicator_CommunicationEffect_39: 2044712553583680474
+      Communicator_CommunicationEffect_4: -5553516047293669900
+      Communicator_CommunicationEffect_40: 4041028204127671771
+      Communicator_CommunicationEffect_41: 4755254861638370816
+      Communicator_CommunicationEffect_42: -4287956376095779678
+      Communicator_CommunicationEffect_43: 8016064360535755030
+      Communicator_CommunicationEffect_44: 5530322846489501723
+      Communicator_CommunicationEffect_45: -6876088921399313157
+      Communicator_CommunicationEffect_46: -1946631496262674847
+      Communicator_CommunicationEffect_47: -4690973805858122259
+      Communicator_CommunicationEffect_48: 293659670346683480
+      Communicator_CommunicationEffect_49: -2000048645844009918
+      Communicator_CommunicationEffect_5: -6327417144016821759
+      Communicator_CommunicationEffect_50: 7866138672583556366
+      Communicator_CommunicationEffect_51: -1371476127488180201
+      Communicator_CommunicationEffect_52: 838965195999115702
+      Communicator_CommunicationEffect_53: 2052535696091313163
+      Communicator_CommunicationEffect_54: 3089846626331570099
+      Communicator_CommunicationEffect_55: 411670282495181957
+      Communicator_CommunicationEffect_56: 315389555849453430
+      Communicator_CommunicationEffect_57: -6675638196989509402
+      Communicator_CommunicationEffect_58: -3788441210534156218
+      Communicator_CommunicationEffect_59: 8804037500602820953
+      Communicator_CommunicationEffect_6: -4912385916873639824
+      Communicator_CommunicationEffect_60: -3282494976813802897
+      Communicator_CommunicationEffect_61: -3301480264364481046
+      Communicator_CommunicationEffect_62: 6488711615553481858
+      Communicator_CommunicationEffect_63: 8097192433535599750
+      Communicator_CommunicationEffect_64: 6021592840194078822
+      Communicator_CommunicationEffect_65: 480807970307102663
+      Communicator_CommunicationEffect_66: -554121145125325922
+      Communicator_CommunicationEffect_67: 1443781185973586594
+      Communicator_CommunicationEffect_68: 7090569040146833575
+      Communicator_CommunicationEffect_69: 1501683356360268612
+      Communicator_CommunicationEffect_7: 1928874384512100055
+      Communicator_CommunicationEffect_70: 1427127308054901418
+      Communicator_CommunicationEffect_71: 8943346598753999347
+      Communicator_CommunicationEffect_72: -5647225850084959282
+      Communicator_CommunicationEffect_73: 3558177718820414497
+      Communicator_CommunicationEffect_74: -4493880403675048409
+      Communicator_CommunicationEffect_75: -8869396674006063430
+      Communicator_CommunicationEffect_76: 14051093992920407
+      Communicator_CommunicationEffect_77: 183737131348201416
+      Communicator_CommunicationEffect_78: 7959548037201757071
+      Communicator_CommunicationEffect_79: -6208775545390192935
+      Communicator_CommunicationEffect_8: 6195410221169463435
+      Communicator_CommunicationEffect_80: 2158546788625535821
+      Communicator_CommunicationEffect_81: 8377251934356563250
+      Communicator_CommunicationEffect_82: 5050973855995578803
+      Communicator_CommunicationEffect_83: -7237061134163395576
+      Communicator_CommunicationEffect_84: -8747425193723484998
+      Communicator_CommunicationEffect_85: -6635934215661652523
+      Communicator_CommunicationEffect_86: 7639446834720583779
+      Communicator_CommunicationEffect_87: -8635517110338181006
+      Communicator_CommunicationEffect_88: -7777602827711696323
+      Communicator_CommunicationEffect_89: 4755012469005301547
+      Communicator_CommunicationEffect_9: 489226940959073730
+      Communicator_CommunicationEffect_90: -48245386927418187
+      Communicator_CommunicationEffect_91: -5593379243197726355
+      Communicator_CommunicationEffect_92: -6750881127150124579
+      Communicator_CommunicationEffect_93: -859986310302537242
+      Communicator_CommunicationEffect_94: -3420012066981093403
+      Communicator_CommunicationEffect_95: 6739374631847781017
+      Communicator_CommunicationEffect_96: -1686215011757760227
+      Communicator_CommunicationEffect_97: -2724225881198629927
+      Communicator_CommunicationEffect_98: 9062206628849610007
+      Communicator_CommunicationEffect_99: -1084337199560679989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

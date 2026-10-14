@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 6d6f8414e0246654e8e509ed68c7bf3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6480397168108350487
+    second: VFX_Common_TeleportDisappear_0
+  - first:
+      213: 9116881349824026368
+    second: VFX_Common_TeleportDisappear_1
+  - first:
+      213: 5274684042198531717
+    second: VFX_Common_TeleportDisappear_2
+  - first:
+      213: 6953841010604001720
+    second: VFX_Common_TeleportDisappear_3
+  - first:
+      213: -378711905745696487
+    second: VFX_Common_TeleportDisappear_4
+  - first:
+      213: -1941925854440126036
+    second: VFX_Common_TeleportDisappear_5
+  - first:
+      213: 84506855175340765
+    second: VFX_Common_TeleportDisappear_6
+  - first:
+      213: -8076844558280796323
+    second: VFX_Common_TeleportDisappear_7
+  - first:
+      213: -7561493848954893155
+    second: VFX_Common_TeleportDisappear_8
+  - first:
+      213: 8180871884577090809
+    second: VFX_Common_TeleportDisappear_9
+  - first:
+      213: 8521876941018144342
+    second: VFX_Common_TeleportDisappear_10
+  - first:
+      213: 4956665822023476007
+    second: VFX_Common_TeleportDisappear_11
+  - first:
+      213: -3477613194544862327
+    second: VFX_Common_TeleportDisappear_12
+  - first:
+      213: 2214734600913148339
+    second: VFX_Common_TeleportDisappear_13
+  - first:
+      213: 5218466050464163546
+    second: VFX_Common_TeleportDisappear_14
+  - first:
+      213: 7724614771815624897
+    second: VFX_Common_TeleportDisappear_15
+  - first:
+      213: 2122135091623442744
+    second: VFX_Common_TeleportDisappear_16
+  - first:
+      213: -7607842701714244118
+    second: VFX_Common_TeleportDisappear_17
+  - first:
+      213: 6205919932349888007
+    second: VFX_Common_TeleportDisappear_18
+  - first:
+      213: 4872267669541709456
+    second: VFX_Common_TeleportDisappear_19
+  - first:
+      213: -7657411521784063536
+    second: VFX_Common_TeleportDisappear_20
+  - first:
+      213: -4689140205040464860
+    second: VFX_Common_TeleportDisappear_21
+  - first:
+      213: 2837860608373526510
+    second: VFX_Common_TeleportDisappear_22
+  - first:
+      213: -2955525222596500919
+    second: VFX_Common_TeleportDisappear_23
+  - first:
+      213: -1799332169481224047
+    second: VFX_Common_TeleportDisappear_24
+  - first:
+      213: 5448582294286906218
+    second: VFX_Common_TeleportDisappear_25
+  - first:
+      213: -6658462091404331667
+    second: VFX_Common_TeleportDisappear_26
+  - first:
+      213: 5136268260457430375
+    second: VFX_Common_TeleportDisappear_27
+  - first:
+      213: 8294195794856406522
+    second: VFX_Common_TeleportDisappear_28
+  - first:
+      213: 8988742092090705523
+    second: VFX_Common_TeleportDisappear_29
+  - first:
+      213: -8294879011212393251
+    second: VFX_Common_TeleportDisappear_30
+  - first:
+      213: -1243949607609043941
+    second: VFX_Common_TeleportDisappear_31
+  - first:
+      213: -6813629092027763938
+    second: VFX_Common_TeleportDisappear_32
+  - first:
+      213: -7709018762013611089
+    second: VFX_Common_TeleportDisappear_33
+  - first:
+      213: 8853701534285204345
+    second: VFX_Common_TeleportDisappear_34
+  - first:
+      213: 2015391665661679623
+    second: VFX_Common_TeleportDisappear_35
+  - first:
+      213: 1327509478413612051
+    second: VFX_Common_TeleportDisappear_36
+  - first:
+      213: 6920674655914047045
+    second: VFX_Common_TeleportDisappear_37
+  - first:
+      213: 5412382938204188560
+    second: VFX_Common_TeleportDisappear_38
+  - first:
+      213: 3549331822478812009
+    second: VFX_Common_TeleportDisappear_39
+  - first:
+      213: -3784834962577544271
+    second: VFX_Common_TeleportDisappear_40
+  - first:
+      213: 8403431250958532168
+    second: VFX_Common_TeleportDisappear_41
+  - first:
+      213: 2460890582418367290
+    second: VFX_Common_TeleportDisappear_42
+  - first:
+      213: -7315758090184359890
+    second: VFX_Common_TeleportDisappear_43
+  - first:
+      213: 3234129621253889043
+    second: VFX_Common_TeleportDisappear_44
+  - first:
+      213: -6373458195545922607
+    second: VFX_Common_TeleportDisappear_45
+  - first:
+      213: -8124873721469291167
+    second: VFX_Common_TeleportDisappear_46
+  - first:
+      213: 5553590868678323332
+    second: VFX_Common_TeleportDisappear_47
+  - first:
+      213: 4573595570124250616
+    second: VFX_Common_TeleportDisappear_48
+  - first:
+      213: 8295466206867501784
+    second: VFX_Common_TeleportDisappear_49
+  - first:
+      213: 469290436900161879
+    second: VFX_Common_TeleportDisappear_50
+  - first:
+      213: 5049328426111227560
+    second: VFX_Common_TeleportDisappear_51
+  - first:
+      213: 2495890751966382243
+    second: VFX_Common_TeleportDisappear_52
+  - first:
+      213: -1269424612467446012
+    second: VFX_Common_TeleportDisappear_53
+  - first:
+      213: -3738250337830840343
+    second: VFX_Common_TeleportDisappear_54
+  - first:
+      213: -3142157823644318218
+    second: VFX_Common_TeleportDisappear_55
+  - first:
+      213: -1255778617283003629
+    second: VFX_Common_TeleportDisappear_56
+  - first:
+      213: 9042466400718698367
+    second: VFX_Common_TeleportDisappear_57
+  - first:
+      213: 8758915892501690879
+    second: VFX_Common_TeleportDisappear_58
+  - first:
+      213: -7991306358212598002
+    second: VFX_Common_TeleportDisappear_59
+  - first:
+      213: -82399796483093867
+    second: VFX_Common_TeleportDisappear_60
+  - first:
+      213: 1653753875321572814
+    second: VFX_Common_TeleportDisappear_61
+  - first:
+      213: -6339105417753310027
+    second: VFX_Common_TeleportDisappear_62
+  - first:
+      213: 4540127763195117094
+    second: VFX_Common_TeleportDisappear_63
+  - first:
+      213: 4941415319424217165
+    second: VFX_Common_TeleportDisappear_64
+  - first:
+      213: 8654386039745803570
+    second: VFX_Common_TeleportDisappear_65
+  - first:
+      213: -2968502146922469349
+    second: VFX_Common_TeleportDisappear_66
+  - first:
+      213: 179477297708783798
+    second: VFX_Common_TeleportDisappear_67
+  - first:
+      213: -6092797193361737306
+    second: VFX_Common_TeleportDisappear_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 281
+        width: 198
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e354773c110116a0800000000000000
+      internalID: -6480397168108350487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 282
+        width: 206
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00715abc84ba58e70800000000000000
+      internalID: 9116881349824026368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 407
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e3aad9031733940800000000000000
+      internalID: 5274684042198531717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_3
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 293
+        width: 153
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9489d5e81018060800000000000000
+      internalID: 6953841010604001720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 421
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91901d9378b8ebaf0800000000000000
+      internalID: -378711905745696487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 396
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca903f169b4ec05e0800000000000000
+      internalID: -1941925854440126036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 368
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2cfcb798a3c2100800000000000000
+      internalID: 84506855175340765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 377
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5750adcaa849ef80800000000000000
+      internalID: -8076844558280796323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 303
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c0eb9286d201790800000000000000
+      internalID: -7561493848954893155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_9
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 339
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fca23982ab488170800000000000000
+      internalID: 8180871884577090809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_10
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 355
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e9af05de9c34670800000000000000
+      internalID: 8521876941018144342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 315
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7236708bd4d99c440800000000000000
+      internalID: 4956665822023476007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_12
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 327
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b21f889390dbfc0800000000000000
+      internalID: -3477613194544862327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 299
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9d137a2615cbe10800000000000000
+      internalID: 2214734600913148339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 287
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad62a5a6937bb6840800000000000000
+      internalID: 5218466050464163546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_15
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 281
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c03ecc4538533b60800000000000000
+      internalID: 7724614771815624897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 281
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8393b9d4f96537d10800000000000000
+      internalID: 2122135091623442744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 281
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed3641fe538b6690800000000000000
+      internalID: -7607842701714244118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 281
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7063b305c4bdf1650800000000000000
+      internalID: 6205919932349888007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 197
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09667ad81a5cd9340800000000000000
+      internalID: 4872267669541709456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9d319aac86bb590800000000000000
+      internalID: -7657411521784063536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 200
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c8f80e3d3dceeb0800000000000000
+      internalID: -4689140205040464860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 38
+        width: 165
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef8d2c003b126720800000000000000
+      internalID: 2837860608373526510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_23
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 156
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942ad66187ddbf6d0800000000000000
+      internalID: -2955525222596500919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_24
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 215
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1908325dcec7707e0800000000000000
+      internalID: -1799332169481224047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_25
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 184
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6334749ab04d9b40800000000000000
+      internalID: 5448582294286906218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_26
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 167
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65b07381046893a0800000000000000
+      internalID: -6658462091404331667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 195
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dbdaf05c0b74740800000000000000
+      internalID: 5136268260457430375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_28
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd64f18127ea1370800000000000000
+      internalID: 8294195794856406522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_29
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 192
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3760ba0fe4d6ebc70800000000000000
+      internalID: 8988742092090705523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 185
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd487d9cc7ba2ec80800000000000000
+      internalID: -8294879011212393251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_31
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 191
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14f9ff2c6a9cbee0800000000000000
+      internalID: -1243949607609043941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_32
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 126
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13fa62e0702171a0800000000000000
+      internalID: -6813629092027763938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_33
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 151
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab6b53b740140590800000000000000
+      internalID: -7709018762013611089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_34
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 125
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b8662f2aaaeda70800000000000000
+      internalID: 8853701534285204345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_35
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 134
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7081c0bba0c18fb10800000000000000
+      internalID: 2015391665661679623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_36
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 166
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314bec056d24c6210800000000000000
+      internalID: 1327509478413612051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 127
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5463ec7aeec2b0060800000000000000
+      internalID: 6920674655914047045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_38
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 138
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fab043b95ac1b40800000000000000
+      internalID: 5412382938204188560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_39
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 119
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963e6d4cc72c14130800000000000000
+      internalID: 3549331822478812009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_40
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 168
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb261a87a0997bc0800000000000000
+      internalID: -3784834962577544271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_41
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 146
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ebccf033cfe9470800000000000000
+      internalID: 8403431250958532168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_42
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 137
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33a62442f6d62220800000000000000
+      internalID: 2460890582418367290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_43
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 147
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e200fdb07c4397a90800000000000000
+      internalID: -7315758090184359890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_44
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 34
+        width: 38
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c186061cfe1ec20800000000000000
+      internalID: 3234129621253889043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_45
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 113
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3eea70a8dec87a0800000000000000
+      internalID: -6373458195545922607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_46
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 103
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165bae2d566ae3f80800000000000000
+      internalID: -8124873721469291167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_47
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 114
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cac6b8871521d40800000000000000
+      internalID: 5553590868678323332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 93
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd5e8760fca87f30800000000000000
+      internalID: 4573595570124250616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_49
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 31
+        width: 23
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2389a509a6f1370800000000000000
+      internalID: 8295466206867501784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_50
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 97
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7590ceb7a21438600800000000000000
+      internalID: 469290436900161879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_51
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a654a87371d21640800000000000000
+      internalID: 5049328426111227560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_52
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 39
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a883254a6f23a220800000000000000
+      internalID: 2495890751966382243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_53
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 76
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f6db86a09126ee0800000000000000
+      internalID: -1269424612467446012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7db14bf111f1cc0800000000000000
+      internalID: -3738250337830840343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_55
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 71
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f547757b10d464d0800000000000000
+      internalID: -3142157823644318218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 58
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bb0504004929ee0800000000000000
+      internalID: -1255778617283003629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 51
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f773e3c484b4d7d70800000000000000
+      internalID: 9042466400718698367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_58
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff93616f89bed8970800000000000000
+      internalID: 8758915892501690879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_59
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 51
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07ea6bf43d291190800000000000000
+      internalID: -7991306358212598002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_60
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 34
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a8f0952d14bdef0800000000000000
+      internalID: -82399796483093867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_61
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 58
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdc77c336053f610800000000000000
+      internalID: 1653753875321572814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_62
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc4f056539f608a0800000000000000
+      internalID: -6339105417753310027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_63
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e32206526c10f30800000000000000
+      internalID: 4540127763195117094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_64
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 33
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4034f16d0f639440800000000000000
+      internalID: 4941415319424217165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_65
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 25
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235f520104e8a1870800000000000000
+      internalID: 8654386039745803570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_66
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 32
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18a3b17603cdc6d0800000000000000
+      internalID: -2968502146922469349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 32
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8dd2fb6a1ad7200800000000000000
+      internalID: 179477297708783798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportDisappear_68
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 39
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a93d21db39027ba0800000000000000
+      internalID: -6092797193361737306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_TeleportDisappear_0: -6480397168108350487
+      VFX_Common_TeleportDisappear_1: 9116881349824026368
+      VFX_Common_TeleportDisappear_10: 8521876941018144342
+      VFX_Common_TeleportDisappear_11: 4956665822023476007
+      VFX_Common_TeleportDisappear_12: -3477613194544862327
+      VFX_Common_TeleportDisappear_13: 2214734600913148339
+      VFX_Common_TeleportDisappear_14: 5218466050464163546
+      VFX_Common_TeleportDisappear_15: 7724614771815624897
+      VFX_Common_TeleportDisappear_16: 2122135091623442744
+      VFX_Common_TeleportDisappear_17: -7607842701714244118
+      VFX_Common_TeleportDisappear_18: 6205919932349888007
+      VFX_Common_TeleportDisappear_19: 4872267669541709456
+      VFX_Common_TeleportDisappear_2: 5274684042198531717
+      VFX_Common_TeleportDisappear_20: -7657411521784063536
+      VFX_Common_TeleportDisappear_21: -4689140205040464860
+      VFX_Common_TeleportDisappear_22: 2837860608373526510
+      VFX_Common_TeleportDisappear_23: -2955525222596500919
+      VFX_Common_TeleportDisappear_24: -1799332169481224047
+      VFX_Common_TeleportDisappear_25: 5448582294286906218
+      VFX_Common_TeleportDisappear_26: -6658462091404331667
+      VFX_Common_TeleportDisappear_27: 5136268260457430375
+      VFX_Common_TeleportDisappear_28: 8294195794856406522
+      VFX_Common_TeleportDisappear_29: 8988742092090705523
+      VFX_Common_TeleportDisappear_3: 6953841010604001720
+      VFX_Common_TeleportDisappear_30: -8294879011212393251
+      VFX_Common_TeleportDisappear_31: -1243949607609043941
+      VFX_Common_TeleportDisappear_32: -6813629092027763938
+      VFX_Common_TeleportDisappear_33: -7709018762013611089
+      VFX_Common_TeleportDisappear_34: 8853701534285204345
+      VFX_Common_TeleportDisappear_35: 2015391665661679623
+      VFX_Common_TeleportDisappear_36: 1327509478413612051
+      VFX_Common_TeleportDisappear_37: 6920674655914047045
+      VFX_Common_TeleportDisappear_38: 5412382938204188560
+      VFX_Common_TeleportDisappear_39: 3549331822478812009
+      VFX_Common_TeleportDisappear_4: -378711905745696487
+      VFX_Common_TeleportDisappear_40: -3784834962577544271
+      VFX_Common_TeleportDisappear_41: 8403431250958532168
+      VFX_Common_TeleportDisappear_42: 2460890582418367290
+      VFX_Common_TeleportDisappear_43: -7315758090184359890
+      VFX_Common_TeleportDisappear_44: 3234129621253889043
+      VFX_Common_TeleportDisappear_45: -6373458195545922607
+      VFX_Common_TeleportDisappear_46: -8124873721469291167
+      VFX_Common_TeleportDisappear_47: 5553590868678323332
+      VFX_Common_TeleportDisappear_48: 4573595570124250616
+      VFX_Common_TeleportDisappear_49: 8295466206867501784
+      VFX_Common_TeleportDisappear_5: -1941925854440126036
+      VFX_Common_TeleportDisappear_50: 469290436900161879
+      VFX_Common_TeleportDisappear_51: 5049328426111227560
+      VFX_Common_TeleportDisappear_52: 2495890751966382243
+      VFX_Common_TeleportDisappear_53: -1269424612467446012
+      VFX_Common_TeleportDisappear_54: -3738250337830840343
+      VFX_Common_TeleportDisappear_55: -3142157823644318218
+      VFX_Common_TeleportDisappear_56: -1255778617283003629
+      VFX_Common_TeleportDisappear_57: 9042466400718698367
+      VFX_Common_TeleportDisappear_58: 8758915892501690879
+      VFX_Common_TeleportDisappear_59: -7991306358212598002
+      VFX_Common_TeleportDisappear_6: 84506855175340765
+      VFX_Common_TeleportDisappear_60: -82399796483093867
+      VFX_Common_TeleportDisappear_61: 1653753875321572814
+      VFX_Common_TeleportDisappear_62: -6339105417753310027
+      VFX_Common_TeleportDisappear_63: 4540127763195117094
+      VFX_Common_TeleportDisappear_64: 4941415319424217165
+      VFX_Common_TeleportDisappear_65: 8654386039745803570
+      VFX_Common_TeleportDisappear_66: -2968502146922469349
+      VFX_Common_TeleportDisappear_67: 179477297708783798
+      VFX_Common_TeleportDisappear_68: -6092797193361737306
+      VFX_Common_TeleportDisappear_7: -8076844558280796323
+      VFX_Common_TeleportDisappear_8: -7561493848954893155
+      VFX_Common_TeleportDisappear_9: 8180871884577090809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

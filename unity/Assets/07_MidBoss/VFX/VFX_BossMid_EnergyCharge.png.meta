@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: 52688587644d58a4e93b630699e2e546
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4625656690001129050
+    second: VFX_BossMid_EnergyCharge_0
+  - first:
+      213: 272866286969678441
+    second: VFX_BossMid_EnergyCharge_1
+  - first:
+      213: 5777181304471614246
+    second: VFX_BossMid_EnergyCharge_2
+  - first:
+      213: -5434082387917443114
+    second: VFX_BossMid_EnergyCharge_3
+  - first:
+      213: -1739566607845399461
+    second: VFX_BossMid_EnergyCharge_4
+  - first:
+      213: 5573273361913141342
+    second: VFX_BossMid_EnergyCharge_5
+  - first:
+      213: 7314673031141502327
+    second: VFX_BossMid_EnergyCharge_6
+  - first:
+      213: 6613765278863163939
+    second: VFX_BossMid_EnergyCharge_7
+  - first:
+      213: -707008117307420923
+    second: VFX_BossMid_EnergyCharge_8
+  - first:
+      213: -9151970557543465306
+    second: VFX_BossMid_EnergyCharge_9
+  - first:
+      213: 1609973363628412102
+    second: VFX_BossMid_EnergyCharge_10
+  - first:
+      213: -4064363845692719039
+    second: VFX_BossMid_EnergyCharge_11
+  - first:
+      213: -4112831784602620890
+    second: VFX_BossMid_EnergyCharge_12
+  - first:
+      213: -85962507608593549
+    second: VFX_BossMid_EnergyCharge_13
+  - first:
+      213: -3226893596415877577
+    second: VFX_BossMid_EnergyCharge_14
+  - first:
+      213: -2998728187626225673
+    second: VFX_BossMid_EnergyCharge_15
+  - first:
+      213: 7476914831182534319
+    second: VFX_BossMid_EnergyCharge_16
+  - first:
+      213: 6525573525962918493
+    second: VFX_BossMid_EnergyCharge_17
+  - first:
+      213: 1365067463012885411
+    second: VFX_BossMid_EnergyCharge_18
+  - first:
+      213: 635078227150566940
+    second: VFX_BossMid_EnergyCharge_19
+  - first:
+      213: 4881477640710339374
+    second: VFX_BossMid_EnergyCharge_20
+  - first:
+      213: -2378535709904349130
+    second: VFX_BossMid_EnergyCharge_21
+  - first:
+      213: 3340010885089691202
+    second: VFX_BossMid_EnergyCharge_22
+  - first:
+      213: 8127971047331366499
+    second: VFX_BossMid_EnergyCharge_23
+  - first:
+      213: 1151382180745139426
+    second: VFX_BossMid_EnergyCharge_24
+  - first:
+      213: 8584914075849876352
+    second: VFX_BossMid_EnergyCharge_25
+  - first:
+      213: -6706930726610884496
+    second: VFX_BossMid_EnergyCharge_26
+  - first:
+      213: 3590038985475243133
+    second: VFX_BossMid_EnergyCharge_27
+  - first:
+      213: -8915217425985742717
+    second: VFX_BossMid_EnergyCharge_28
+  - first:
+      213: -8605466947235049423
+    second: VFX_BossMid_EnergyCharge_29
+  - first:
+      213: -3946549281665736829
+    second: VFX_BossMid_EnergyCharge_30
+  - first:
+      213: 3055945583470011036
+    second: VFX_BossMid_EnergyCharge_31
+  - first:
+      213: 8962430359602112314
+    second: VFX_BossMid_EnergyCharge_32
+  - first:
+      213: 4871494796271134216
+    second: VFX_BossMid_EnergyCharge_33
+  - first:
+      213: -8038012418346774840
+    second: VFX_BossMid_EnergyCharge_34
+  - first:
+      213: -7196513065734322252
+    second: VFX_BossMid_EnergyCharge_35
+  - first:
+      213: 2157793471401170918
+    second: VFX_BossMid_EnergyCharge_36
+  - first:
+      213: -5945990132224226909
+    second: VFX_BossMid_EnergyCharge_37
+  - first:
+      213: -1000696348568981152
+    second: VFX_BossMid_EnergyCharge_38
+  - first:
+      213: -3051599149463775768
+    second: VFX_BossMid_EnergyCharge_39
+  - first:
+      213: 5206550692510300919
+    second: VFX_BossMid_EnergyCharge_40
+  - first:
+      213: 1132851246434858230
+    second: VFX_BossMid_EnergyCharge_41
+  - first:
+      213: -4617312136025117945
+    second: VFX_BossMid_EnergyCharge_42
+  - first:
+      213: -974514943981191181
+    second: VFX_BossMid_EnergyCharge_43
+  - first:
+      213: -2513750581082337094
+    second: VFX_BossMid_EnergyCharge_44
+  - first:
+      213: -2593173970963798872
+    second: VFX_BossMid_EnergyCharge_45
+  - first:
+      213: -2900598870650161467
+    second: VFX_BossMid_EnergyCharge_46
+  - first:
+      213: -4706494528273856206
+    second: VFX_BossMid_EnergyCharge_47
+  - first:
+      213: 850070341468785824
+    second: VFX_BossMid_EnergyCharge_48
+  - first:
+      213: -1447050437068990908
+    second: VFX_BossMid_EnergyCharge_49
+  - first:
+      213: -6746746371034941001
+    second: VFX_BossMid_EnergyCharge_50
+  - first:
+      213: 8996717039603250104
+    second: VFX_BossMid_EnergyCharge_51
+  - first:
+      213: 7197193324225391086
+    second: VFX_BossMid_EnergyCharge_52
+  - first:
+      213: 5423797300077727469
+    second: VFX_BossMid_EnergyCharge_53
+  - first:
+      213: 3470142833089889993
+    second: VFX_BossMid_EnergyCharge_54
+  - first:
+      213: -1728581581211086316
+    second: VFX_BossMid_EnergyCharge_55
+  - first:
+      213: 4856185428575236750
+    second: VFX_BossMid_EnergyCharge_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 547
+        width: 156
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e2d647042a13040800000000000000
+      internalID: 4625656690001129050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 651
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ae10a317a69c300800000000000000
+      internalID: 272866286969678441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 691
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623fe00a9cbac2050800000000000000
+      internalID: 5777181304471614246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 537
+        width: 154
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df69f3fbd24694b0800000000000000
+      internalID: -5434082387917443114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 560
+        width: 182
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b546e340361dbd7e0800000000000000
+      internalID: -1739566607845399461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 676
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58dafc189e385d40800000000000000
+      internalID: 5573273361913141342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 667
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77da155fd50f28560800000000000000
+      internalID: 7314673031141502327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 651
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322837ada70d8cb50800000000000000
+      internalID: 6613765278863163939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 579
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc29afcd33036f0800000000000000
+      internalID: -707008117307420923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 598
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeb9c2644badf080800000000000000
+      internalID: -9151970557543465306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_10
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 601
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc89e48e36c75610800000000000000
+      internalID: 1609973363628412102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 594
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1408b83cd9a7897c0800000000000000
+      internalID: -4064363845692719039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 585
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c23d958494ce6c0800000000000000
+      internalID: -4112831784602620890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 576
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37becf50e899ecef0800000000000000
+      internalID: -85962507608593549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 569
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e16a1fe55c733d0800000000000000
+      internalID: -3226893596415877577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_15
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 577
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff769ee9906266d0800000000000000
+      internalID: -2998728187626225673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_16
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 576
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa61c70bc6653c760800000000000000
+      internalID: 7476914831182534319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 571
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a86b24c8e7f8a50800000000000000
+      internalID: 6525573525962918493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 564
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3a35b00a1b1f210800000000000000
+      internalID: 1365067463012885411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 567
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16f4e5684040d800800000000000000
+      internalID: 635078227150566940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_20
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 569
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b3d811d0e7eb340800000000000000
+      internalID: 4881477640710339374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 537
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638d195bf5ebdfed0800000000000000
+      internalID: -2378535709904349130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 295
+        width: 183
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24685bf243a1a5e20800000000000000
+      internalID: 3340010885089691202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 468
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36688dc8a9a5cc070800000000000000
+      internalID: 8127971047331366499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 478
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4570c3ef78aff00800000000000000
+      internalID: 1151382180745139426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083684efdddb32770800000000000000
+      internalID: 8584914075849876352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_26
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 288
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078a43bf9023ce2a0800000000000000
+      internalID: -6706930726610884496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_27
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 432
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c3e0bbf6162d130800000000000000
+      internalID: 3590038985475243133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_28
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 415
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3885fb46cf8c64480800000000000000
+      internalID: -8915217425985742717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 353
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13090bbb76d339880800000000000000
+      internalID: -8605466947235049423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f9db9865a0b39c0800000000000000
+      internalID: -3946549281665736829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 323
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9267ab2156e86a20800000000000000
+      internalID: 3055945583470011036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 301
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37a2445de2f06c70800000000000000
+      internalID: 8962430359602112314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 281
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806a7e8f4b60b9340800000000000000
+      internalID: 4871494796271134216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 34
+        width: 179
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce0340fa4e337090800000000000000
+      internalID: -8038012418346774840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 189
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7c277de79d02c90800000000000000
+      internalID: -7196513065734322252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 189
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e71681dab502fd10800000000000000
+      internalID: 2157793471401170918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 214
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a90cca5a799b7da0800000000000000
+      internalID: -5945990132224226909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_38
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 202
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061f38f09ffcc12f0800000000000000
+      internalID: -1000696348568981152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 176
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5d35bddba86a5d0800000000000000
+      internalID: -3051599149463775768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_40
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 158
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faf324f442614840800000000000000
+      internalID: 5206550692510300919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 177
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4bb1fd432b8bf00800000000000000
+      internalID: 1132851246434858230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_42
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 169
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b6f1b63130cefb0800000000000000
+      internalID: -4617312136025117945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_43
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 153
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fff0b752d3d972f0800000000000000
+      internalID: -974514943981191181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_44
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 25
+        width: 119
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0d7a83a2d5d1dd0800000000000000
+      internalID: -2513750581082337094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_45
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 147
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4e9eb3302330cd0800000000000000
+      internalID: -2593173970963798872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 134
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c67ff6f1b00fb7d0800000000000000
+      internalID: -2900598870650161467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 131
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239cae0a92c2faeb0800000000000000
+      internalID: -4706494528273856206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_48
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 116
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac8751c87e0ccb00800000000000000
+      internalID: 850070341468785824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_49
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 96
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446dd665b4b0bebe0800000000000000
+      internalID: -1447050437068990908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_50
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 89
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b97eccdbedbe52a0800000000000000
+      internalID: -6746746371034941001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_51
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 74
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3714a1b72cadc70800000000000000
+      internalID: 8996717039603250104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 47
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9644e223191e360800000000000000
+      internalID: 7197193324225391086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_53
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee0bdc68e2354b40800000000000000
+      internalID: 5423797300077727469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 51
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6c036658c682030800000000000000
+      internalID: 3470142833089889993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_55
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 46
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41251a6d538d208e0800000000000000
+      internalID: -1728581581211086316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_EnergyCharge_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 42
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82b7a90be2a46340800000000000000
+      internalID: 4856185428575236750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_BossMid_EnergyCharge_0: 4625656690001129050
+      VFX_BossMid_EnergyCharge_1: 272866286969678441
+      VFX_BossMid_EnergyCharge_10: 1609973363628412102
+      VFX_BossMid_EnergyCharge_11: -4064363845692719039
+      VFX_BossMid_EnergyCharge_12: -4112831784602620890
+      VFX_BossMid_EnergyCharge_13: -85962507608593549
+      VFX_BossMid_EnergyCharge_14: -3226893596415877577
+      VFX_BossMid_EnergyCharge_15: -2998728187626225673
+      VFX_BossMid_EnergyCharge_16: 7476914831182534319
+      VFX_BossMid_EnergyCharge_17: 6525573525962918493
+      VFX_BossMid_EnergyCharge_18: 1365067463012885411
+      VFX_BossMid_EnergyCharge_19: 635078227150566940
+      VFX_BossMid_EnergyCharge_2: 5777181304471614246
+      VFX_BossMid_EnergyCharge_20: 4881477640710339374
+      VFX_BossMid_EnergyCharge_21: -2378535709904349130
+      VFX_BossMid_EnergyCharge_22: 3340010885089691202
+      VFX_BossMid_EnergyCharge_23: 8127971047331366499
+      VFX_BossMid_EnergyCharge_24: 1151382180745139426
+      VFX_BossMid_EnergyCharge_25: 8584914075849876352
+      VFX_BossMid_EnergyCharge_26: -6706930726610884496
+      VFX_BossMid_EnergyCharge_27: 3590038985475243133
+      VFX_BossMid_EnergyCharge_28: -8915217425985742717
+      VFX_BossMid_EnergyCharge_29: -8605466947235049423
+      VFX_BossMid_EnergyCharge_3: -5434082387917443114
+      VFX_BossMid_EnergyCharge_30: -3946549281665736829
+      VFX_BossMid_EnergyCharge_31: 3055945583470011036
+      VFX_BossMid_EnergyCharge_32: 8962430359602112314
+      VFX_BossMid_EnergyCharge_33: 4871494796271134216
+      VFX_BossMid_EnergyCharge_34: -8038012418346774840
+      VFX_BossMid_EnergyCharge_35: -7196513065734322252
+      VFX_BossMid_EnergyCharge_36: 2157793471401170918
+      VFX_BossMid_EnergyCharge_37: -5945990132224226909
+      VFX_BossMid_EnergyCharge_38: -1000696348568981152
+      VFX_BossMid_EnergyCharge_39: -3051599149463775768
+      VFX_BossMid_EnergyCharge_4: -1739566607845399461
+      VFX_BossMid_EnergyCharge_40: 5206550692510300919
+      VFX_BossMid_EnergyCharge_41: 1132851246434858230
+      VFX_BossMid_EnergyCharge_42: -4617312136025117945
+      VFX_BossMid_EnergyCharge_43: -974514943981191181
+      VFX_BossMid_EnergyCharge_44: -2513750581082337094
+      VFX_BossMid_EnergyCharge_45: -2593173970963798872
+      VFX_BossMid_EnergyCharge_46: -2900598870650161467
+      VFX_BossMid_EnergyCharge_47: -4706494528273856206
+      VFX_BossMid_EnergyCharge_48: 850070341468785824
+      VFX_BossMid_EnergyCharge_49: -1447050437068990908
+      VFX_BossMid_EnergyCharge_5: 5573273361913141342
+      VFX_BossMid_EnergyCharge_50: -6746746371034941001
+      VFX_BossMid_EnergyCharge_51: 8996717039603250104
+      VFX_BossMid_EnergyCharge_52: 7197193324225391086
+      VFX_BossMid_EnergyCharge_53: 5423797300077727469
+      VFX_BossMid_EnergyCharge_54: 3470142833089889993
+      VFX_BossMid_EnergyCharge_55: -1728581581211086316
+      VFX_BossMid_EnergyCharge_56: 4856185428575236750
+      VFX_BossMid_EnergyCharge_6: 7314673031141502327
+      VFX_BossMid_EnergyCharge_7: 6613765278863163939
+      VFX_BossMid_EnergyCharge_8: -707008117307420923
+      VFX_BossMid_EnergyCharge_9: -9151970557543465306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

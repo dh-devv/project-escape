@@ -1,0 +1,65 @@
+{
+  "name": "Player_P2_Fall",
+  "sourcePage": 4,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    33
+  ],
+  "sourceRegions": [
+    [
+      138,
+      34,
+      656,
+      661
+    ],
+    [
+      850,
+      120,
+      1350,
+      678
+    ],
+    [
+      1583,
+      307,
+      2081,
+      684
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "f35b36b56cef8f5317ea230b9bf770ed5aebfed603d594c6edb95a6f696cc153",
+  "spriteSha256": "39f5108800bb1f6604a4dedc3e4e75c4f6ff1f6f7d02df25d5526b545728746b"
+}

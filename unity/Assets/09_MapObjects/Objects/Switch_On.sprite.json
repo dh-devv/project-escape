@@ -1,0 +1,38 @@
+{
+  "name": "Switch_On",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.2556803995006242,
+  "sourceOffset": [
+    -33,
+    -38
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "64d92926f9993c3bce85920eeaaf28258423c91ba9f3cb3810635ff07b676e6d",
+  "spriteSha256": "c716e206d15b45a3c5202e04ba415104aa3437f130342b35bce59d3cf2c63523"
+}

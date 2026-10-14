@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 4792d7e9818b8604eb0df183c478ced4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1322666770549246330
+    second: VFX_Enemy2_MuzzleFlash_0
+  - first:
+      213: 5658165946515290391
+    second: VFX_Enemy2_MuzzleFlash_1
+  - first:
+      213: -5493450072473361755
+    second: VFX_Enemy2_MuzzleFlash_2
+  - first:
+      213: 985923693655895926
+    second: VFX_Enemy2_MuzzleFlash_3
+  - first:
+      213: 7996584675361660982
+    second: VFX_Enemy2_MuzzleFlash_4
+  - first:
+      213: 6028775683985263964
+    second: VFX_Enemy2_MuzzleFlash_5
+  - first:
+      213: 6553093016714760020
+    second: VFX_Enemy2_MuzzleFlash_6
+  - first:
+      213: 4344732500597702858
+    second: VFX_Enemy2_MuzzleFlash_7
+  - first:
+      213: -7132291859751736058
+    second: VFX_Enemy2_MuzzleFlash_8
+  - first:
+      213: -4315317179119943917
+    second: VFX_Enemy2_MuzzleFlash_9
+  - first:
+      213: -3944203349807996415
+    second: VFX_Enemy2_MuzzleFlash_10
+  - first:
+      213: -1545077031581843292
+    second: VFX_Enemy2_MuzzleFlash_11
+  - first:
+      213: -2402685369624417567
+    second: VFX_Enemy2_MuzzleFlash_12
+  - first:
+      213: 3491438850303593755
+    second: VFX_Enemy2_MuzzleFlash_13
+  - first:
+      213: -5613266564955805761
+    second: VFX_Enemy2_MuzzleFlash_14
+  - first:
+      213: -2467546214458642392
+    second: VFX_Enemy2_MuzzleFlash_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 172
+        width: 164
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a790dc68b6e0b5210800000000000000
+      internalID: 1322666770549246330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 300
+        width: 197
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719714a33f7d58e40800000000000000
+      internalID: 5658165946515290391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 436
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2a1eeb34853c3b0800000000000000
+      internalID: -5493450072473361755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 284
+        width: 172
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f20003064bead00800000000000000
+      internalID: 985923693655895926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 448
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630a34ff46399fe60800000000000000
+      internalID: 7996584675361660982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_5
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 448
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d4472fa838aa350800000000000000
+      internalID: 6028775683985263964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 408
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f4061016341fa50800000000000000
+      internalID: 6553093016714760020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_7
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 303
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0883e90379b4c30800000000000000
+      internalID: 4344732500597702858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 302
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d66119752050d90800000000000000
+      internalID: -7132291859751736058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 189
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f3a6d93e9ec14c0800000000000000
+      internalID: -4315317179119943917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 111
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102e9cc53ff5349c0800000000000000
+      internalID: -3944203349807996415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 172
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a003fd30a8ce8ae0800000000000000
+      internalID: -1545077031581843292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 156
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea2284e262f7aed0800000000000000
+      internalID: -2402685369624417567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 51
+        width: 118
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d085bc225147030800000000000000
+      internalID: 3491438850303593755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 137
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb76b3eaccba912b0800000000000000
+      internalID: -5613266564955805761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_MuzzleFlash_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 55
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8203554aac381cdd0800000000000000
+      internalID: -2467546214458642392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Enemy2_MuzzleFlash_0: 1322666770549246330
+      VFX_Enemy2_MuzzleFlash_1: 5658165946515290391
+      VFX_Enemy2_MuzzleFlash_10: -3944203349807996415
+      VFX_Enemy2_MuzzleFlash_11: -1545077031581843292
+      VFX_Enemy2_MuzzleFlash_12: -2402685369624417567
+      VFX_Enemy2_MuzzleFlash_13: 3491438850303593755
+      VFX_Enemy2_MuzzleFlash_14: -5613266564955805761
+      VFX_Enemy2_MuzzleFlash_15: -2467546214458642392
+      VFX_Enemy2_MuzzleFlash_2: -5493450072473361755
+      VFX_Enemy2_MuzzleFlash_3: 985923693655895926
+      VFX_Enemy2_MuzzleFlash_4: 7996584675361660982
+      VFX_Enemy2_MuzzleFlash_5: 6028775683985263964
+      VFX_Enemy2_MuzzleFlash_6: 6553093016714760020
+      VFX_Enemy2_MuzzleFlash_7: 4344732500597702858
+      VFX_Enemy2_MuzzleFlash_8: -7132291859751736058
+      VFX_Enemy2_MuzzleFlash_9: -4315317179119943917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

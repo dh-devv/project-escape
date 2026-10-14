@@ -1,0 +1,38 @@
+{
+  "name": "Switch_Off",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.2563204005006258,
+  "sourceOffset": [
+    -33,
+    -39
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "ece9d0cdf5344d1438c3002c6e8d8cb8e3026d2d291d1f6153e5fc4d3a1d89c8",
+  "spriteSha256": "60061092289b64419649e12496b01ffec4d9dd9a73209f6c07d6ea50a2716f7a"
+}

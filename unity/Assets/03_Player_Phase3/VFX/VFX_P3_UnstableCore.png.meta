@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: 7aeaf56c064184e45b60c8cc341ed594
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6899428260279004921
+    second: VFX_P3_UnstableCore_0
+  - first:
+      213: -8798701261099471974
+    second: VFX_P3_UnstableCore_1
+  - first:
+      213: 461376250759344452
+    second: VFX_P3_UnstableCore_2
+  - first:
+      213: -7070752950940386751
+    second: VFX_P3_UnstableCore_3
+  - first:
+      213: 8279417192671527134
+    second: VFX_P3_UnstableCore_4
+  - first:
+      213: 6060366632083327487
+    second: VFX_P3_UnstableCore_5
+  - first:
+      213: 7631511311470941069
+    second: VFX_P3_UnstableCore_6
+  - first:
+      213: -5290523523739224728
+    second: VFX_P3_UnstableCore_7
+  - first:
+      213: -6930333669089229021
+    second: VFX_P3_UnstableCore_8
+  - first:
+      213: -7682469344855142552
+    second: VFX_P3_UnstableCore_9
+  - first:
+      213: 2286943194412651477
+    second: VFX_P3_UnstableCore_10
+  - first:
+      213: 6463524665216756508
+    second: VFX_P3_UnstableCore_11
+  - first:
+      213: 1914955112022287806
+    second: VFX_P3_UnstableCore_12
+  - first:
+      213: 5726723581209462109
+    second: VFX_P3_UnstableCore_13
+  - first:
+      213: 3930032421336891619
+    second: VFX_P3_UnstableCore_14
+  - first:
+      213: 2945893544645938184
+    second: VFX_P3_UnstableCore_15
+  - first:
+      213: -4362989678702497763
+    second: VFX_P3_UnstableCore_16
+  - first:
+      213: -8138750650101265218
+    second: VFX_P3_UnstableCore_17
+  - first:
+      213: -4822805368913285289
+    second: VFX_P3_UnstableCore_18
+  - first:
+      213: -7030933687344537163
+    second: VFX_P3_UnstableCore_19
+  - first:
+      213: -8127868743094689183
+    second: VFX_P3_UnstableCore_20
+  - first:
+      213: 8684721251900961238
+    second: VFX_P3_UnstableCore_21
+  - first:
+      213: -2482743928875736315
+    second: VFX_P3_UnstableCore_22
+  - first:
+      213: -1865995202780661733
+    second: VFX_P3_UnstableCore_23
+  - first:
+      213: 6291388932162429638
+    second: VFX_P3_UnstableCore_24
+  - first:
+      213: 3023865317794837556
+    second: VFX_P3_UnstableCore_25
+  - first:
+      213: 6775392572710670538
+    second: VFX_P3_UnstableCore_26
+  - first:
+      213: 5007945463013481604
+    second: VFX_P3_UnstableCore_27
+  - first:
+      213: -5866626537921612687
+    second: VFX_P3_UnstableCore_28
+  - first:
+      213: -2960920079493283130
+    second: VFX_P3_UnstableCore_29
+  - first:
+      213: 9206680728605830288
+    second: VFX_P3_UnstableCore_30
+  - first:
+      213: 7451979515226164810
+    second: VFX_P3_UnstableCore_31
+  - first:
+      213: -6439667292606627416
+    second: VFX_P3_UnstableCore_32
+  - first:
+      213: -810748054745256946
+    second: VFX_P3_UnstableCore_33
+  - first:
+      213: 416395374842905508
+    second: VFX_P3_UnstableCore_34
+  - first:
+      213: -1878001605885065020
+    second: VFX_P3_UnstableCore_35
+  - first:
+      213: 4683891217184141674
+    second: VFX_P3_UnstableCore_36
+  - first:
+      213: -35897910001341529
+    second: VFX_P3_UnstableCore_37
+  - first:
+      213: 3058400696529126552
+    second: VFX_P3_UnstableCore_38
+  - first:
+      213: -5463193920331807462
+    second: VFX_P3_UnstableCore_39
+  - first:
+      213: 1619119830357608227
+    second: VFX_P3_UnstableCore_40
+  - first:
+      213: -6204098501371344544
+    second: VFX_P3_UnstableCore_41
+  - first:
+      213: -3288139850579901192
+    second: VFX_P3_UnstableCore_42
+  - first:
+      213: 328015115348208083
+    second: VFX_P3_UnstableCore_43
+  - first:
+      213: -3235900163628388554
+    second: VFX_P3_UnstableCore_44
+  - first:
+      213: -8828467810639907199
+    second: VFX_P3_UnstableCore_45
+  - first:
+      213: 9028900862595577111
+    second: VFX_P3_UnstableCore_46
+  - first:
+      213: 4278947745280978010
+    second: VFX_P3_UnstableCore_47
+  - first:
+      213: 6782927504894504441
+    second: VFX_P3_UnstableCore_48
+  - first:
+      213: -2066309821092793660
+    second: VFX_P3_UnstableCore_49
+  - first:
+      213: 3462961139557406882
+    second: VFX_P3_UnstableCore_50
+  - first:
+      213: -1487765211221268261
+    second: VFX_P3_UnstableCore_51
+  - first:
+      213: 2631874953985645744
+    second: VFX_P3_UnstableCore_52
+  - first:
+      213: -7298288366019306919
+    second: VFX_P3_UnstableCore_53
+  - first:
+      213: -4985342268637926869
+    second: VFX_P3_UnstableCore_54
+  - first:
+      213: 1218748193122103555
+    second: VFX_P3_UnstableCore_55
+  - first:
+      213: 969186426661254894
+    second: VFX_P3_UnstableCore_56
+  - first:
+      213: 2697743913679576055
+    second: VFX_P3_UnstableCore_57
+  - first:
+      213: 5981197961525969817
+    second: VFX_P3_UnstableCore_58
+  - first:
+      213: 3147961214632764446
+    second: VFX_P3_UnstableCore_59
+  - first:
+      213: 6595030859822148922
+    second: VFX_P3_UnstableCore_60
+  - first:
+      213: 5243716337370560892
+    second: VFX_P3_UnstableCore_61
+  - first:
+      213: 6392395787672189914
+    second: VFX_P3_UnstableCore_62
+  - first:
+      213: -1165370119020594415
+    second: VFX_P3_UnstableCore_63
+  - first:
+      213: 6097470154758128017
+    second: VFX_P3_UnstableCore_64
+  - first:
+      213: -2298532454634000496
+    second: VFX_P3_UnstableCore_65
+  - first:
+      213: -7288947780449967628
+    second: VFX_P3_UnstableCore_66
+  - first:
+      213: -444082320209691969
+    second: VFX_P3_UnstableCore_67
+  - first:
+      213: -8065605085180470193
+    second: VFX_P3_UnstableCore_68
+  - first:
+      213: 4801465371587899682
+    second: VFX_P3_UnstableCore_69
+  - first:
+      213: 1954032510730898011
+    second: VFX_P3_UnstableCore_70
+  - first:
+      213: -122465181692566442
+    second: VFX_P3_UnstableCore_71
+  - first:
+      213: -5293847559909947153
+    second: VFX_P3_UnstableCore_72
+  - first:
+      213: 6262110411701942218
+    second: VFX_P3_UnstableCore_73
+  - first:
+      213: 1209696140609862480
+    second: VFX_P3_UnstableCore_74
+  - first:
+      213: 4298949225506221213
+    second: VFX_P3_UnstableCore_75
+  - first:
+      213: 5013566413103064684
+    second: VFX_P3_UnstableCore_76
+  - first:
+      213: 2009395278706064516
+    second: VFX_P3_UnstableCore_77
+  - first:
+      213: -3091060949202643608
+    second: VFX_P3_UnstableCore_78
+  - first:
+      213: 6156554860053127887
+    second: VFX_P3_UnstableCore_79
+  - first:
+      213: 654386657077229647
+    second: VFX_P3_UnstableCore_80
+  - first:
+      213: -2448464443871895031
+    second: VFX_P3_UnstableCore_81
+  - first:
+      213: -3795624282234480780
+    second: VFX_P3_UnstableCore_82
+  - first:
+      213: -7862196612291374498
+    second: VFX_P3_UnstableCore_83
+  - first:
+      213: -456114478542552705
+    second: VFX_P3_UnstableCore_84
+  - first:
+      213: -297717444680845420
+    second: VFX_P3_UnstableCore_85
+  - first:
+      213: -328985414192524809
+    second: VFX_P3_UnstableCore_86
+  - first:
+      213: -2883002034127957665
+    second: VFX_P3_UnstableCore_87
+  - first:
+      213: -7392801839772765000
+    second: VFX_P3_UnstableCore_88
+  - first:
+      213: 2447720078658835681
+    second: VFX_P3_UnstableCore_89
+  - first:
+      213: -7409924590270635826
+    second: VFX_P3_UnstableCore_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 437
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70157c05d8e4040a0800000000000000
+      internalID: -6899428260279004921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 409
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b626f02dbb4e580800000000000000
+      internalID: -8798701261099471974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 453
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441ff4e6143276600800000000000000
+      internalID: 461376250759344452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 281
+        width: 157
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a37a057a3afdd90800000000000000
+      internalID: -7070752950940386751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0c27c021666e270800000000000000
+      internalID: 8279417192671527134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 447
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff905f9b75fba1450800000000000000
+      internalID: 6060366632083327487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 448
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83d993ba1398e960800000000000000
+      internalID: 7631511311470941069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 422
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865fca3b2e84496b0800000000000000
+      internalID: -5290523523739224728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327c1071f3282df90800000000000000
+      internalID: -6930333669089229021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 408
+        width: 16
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fc41695d2626590800000000000000
+      internalID: -7682469344855142552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 282
+        width: 206
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d39674f7badcbf10800000000000000
+      internalID: 2286943194412651477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 439
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b6833107d03b950800000000000000
+      internalID: 6463524665216756508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 456
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb528ec4789439a10800000000000000
+      internalID: 1914955112022287806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 467
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55c7d071c8697f40800000000000000
+      internalID: 5726723581209462109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_14
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 447
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0cd8d3aa74a8630800000000000000
+      internalID: 3930032421336891619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 295
+        width: 201
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cccb2229ae1e820800000000000000
+      internalID: 2945893544645938184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 291
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10fd3ad00c8373c0800000000000000
+      internalID: -4362989678702497763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 312
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc0c3997695d0f80800000000000000
+      internalID: -8138750650101265218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_18
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 345
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fa31db114f11db0800000000000000
+      internalID: -4822805368913285289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 318
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b16086101b1d6e90800000000000000
+      internalID: -7030933687344537163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 309
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16227d20172043f80800000000000000
+      internalID: -8127868743094689183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 300
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1b7d807f3568870800000000000000
+      internalID: 8684721251900961238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 287
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503aa130d858b8dd0800000000000000
+      internalID: -2482743928875736315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 294
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18fca1ef37aa16e0800000000000000
+      internalID: -1865995202780661733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 282
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2ad5d86e08f4750800000000000000
+      internalID: 6291388932162429638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 287
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434f8c34c7de6f920800000000000000
+      internalID: 3023865317794837556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 287
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac05d36b5a7070e50800000000000000
+      internalID: 6775392572710670538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 199
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c92798ddbcf7540800000000000000
+      internalID: 5007945463013481604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 205
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1747d491f3e859ea0800000000000000
+      internalID: -5866626537921612687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 213
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c24b7510e2b8e6d0800000000000000
+      internalID: -2960920079493283130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 29
+        width: 173
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c2cf4f753b4cf70800000000000000
+      internalID: 9206680728605830288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_31
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 209
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e0b8603efba6760800000000000000
+      internalID: 7451979515226164810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_32
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 200
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a10b7857b4b1a6a0800000000000000
+      internalID: -6439667292606627416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_33
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 217
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ce19290f4afb4f0800000000000000
+      internalID: -810748054745256946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_34
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 185
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a380a3236557c500800000000000000
+      internalID: 416395374842905508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_35
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 161
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c88b915d7fffe5e0800000000000000
+      internalID: -1878001605885065020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 200
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6135d6ee36800140800000000000000
+      internalID: 4683891217184141674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 204
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abe0328a07708ff0800000000000000
+      internalID: -35897910001341529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 83
+        width: 34
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940d69ba3f917a20800000000000000
+      internalID: 3058400696529126552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 199
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a158c8f1316de24b0800000000000000
+      internalID: -5463193920331807462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_40
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 151
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327814148e4487610800000000000000
+      internalID: 1619119830357608227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 199
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0694a32a84d96e9a0800000000000000
+      internalID: -6204098501371344544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_42
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 201
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4016a2a3e2e52d0800000000000000
+      internalID: -3288139850579901192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 31
+        width: 153
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9e94f62085d8400800000000000000
+      internalID: 328015115348208083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_44
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 147
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f2d4a12f5c713d0800000000000000
+      internalID: -3235900163628388554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_45
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 173
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18676db2d4bfa7580800000000000000
+      internalID: -8828467810639907199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_46
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 176
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7153a335f791d4d70800000000000000
+      internalID: 9028900862595577111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_47
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 160
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c6ee1bd40e16b30800000000000000
+      internalID: 4278947745280978010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_48
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 144
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fda672d0acc12e50800000000000000
+      internalID: 6782927504894504441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_49
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 143
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2fcdd5a2ef253e0800000000000000
+      internalID: -2066309821092793660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_50
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 168
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a81d421fc8ee0030800000000000000
+      internalID: 3462961139557406882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 91
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8e8f34c656a5be0800000000000000
+      internalID: -1487765211221268261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_52
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 140
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcdf8d835c468420800000000000000
+      internalID: 2631874953985645744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_53
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 111
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a9d0b266547ba90800000000000000
+      internalID: -7298288366019306919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_54
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 115
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aa812ce9180dab0800000000000000
+      internalID: -4985342268637926869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_55
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 111
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30131b1460dd9e010800000000000000
+      internalID: 1218748193122103555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_56
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 58
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6364a8bed337d00800000000000000
+      internalID: 969186426661254894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 75
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbd7d5dbcf407520800000000000000
+      internalID: 2697743913679576055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_58
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993cb043bdb710350800000000000000
+      internalID: 5981197961525969817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_59
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 78
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14a4eccb0ecfab20800000000000000
+      internalID: 3147961214632764446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_60
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 63
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d207200a1468b50800000000000000
+      internalID: 6595030859822148922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_61
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 43
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7972e7f93c65c840800000000000000
+      internalID: 5243716337370560892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_62
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 83
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb77ebb91a56b850800000000000000
+      internalID: 6392395787672189914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 72
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b3ce71d06c3dfe0800000000000000
+      internalID: -1165370119020594415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_64
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 76
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19187eaccc09e9450800000000000000
+      internalID: 6097470154758128017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_65
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 82
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f65d029e8f910e0800000000000000
+      internalID: -2298532454634000496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_66
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 63
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f168e7bc9478da90800000000000000
+      internalID: -7288947780449967628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_67
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 71
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbabedc8b7d46d9f0800000000000000
+      internalID: -444082320209691969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_68
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cdb3f88e6311090800000000000000
+      internalID: -8065605085180470193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_69
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f5d2f05b32a240800000000000000
+      internalID: 4801465371587899682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_70
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 45
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a0ea1373e1e1b10800000000000000
+      internalID: 1954032510730898011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_71
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 36
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6546cdbe09aec4ef0800000000000000
+      internalID: -122465181692566442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_72
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 65
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8cf7831b97886b0800000000000000
+      internalID: -5293847559909947153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_73
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 58
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7f4c9cd3c77e650800000000000000
+      internalID: 6262110411701942218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_74
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 34
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b363b0b34b9c010800000000000000
+      internalID: 1209696140609862480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_75
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 56
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c2db53b8fe8ab30800000000000000
+      internalID: 4298949225506221213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_76
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 43
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6666d6f614c39540800000000000000
+      internalID: 5013566413103064684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_77
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c3f981c5ec2eb10800000000000000
+      internalID: 2009395278706064516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_78
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 35
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865d1bf91785a15d0800000000000000
+      internalID: -3091060949202643608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_79
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 56
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2eba1c60a707550800000000000000
+      internalID: 6156554860053127887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_80
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 43
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48f7d09239d41900800000000000000
+      internalID: 654386657077229647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_81
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 48
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90267d19f8e450ed0800000000000000
+      internalID: -2448464443871895031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_82
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477119c43db335bc0800000000000000
+      internalID: -3795624282234480780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_83
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 39
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52d71a36ddd3e290800000000000000
+      internalID: -7862196612291374498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_84
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f710f816c4e8ba9f0800000000000000
+      internalID: -456114478542552705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_85
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 47
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4977c5abf8b4edbf0800000000000000
+      internalID: -297717444680845420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_86
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 36
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f115c242853f6bf0800000000000000
+      internalID: -328985414192524809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51131dbce48df7d0800000000000000
+      internalID: -2883002034127957665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_88
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 31
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b47d7d35ed776990800000000000000
+      internalID: -7392801839772765000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_89
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 32
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e41d06617c08f120800000000000000
+      internalID: 2447720078658835681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_UnstableCore_90
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 37
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0ac7838d8aa2990800000000000000
+      internalID: -7409924590270635826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P3_UnstableCore_0: -6899428260279004921
+      VFX_P3_UnstableCore_1: -8798701261099471974
+      VFX_P3_UnstableCore_10: 2286943194412651477
+      VFX_P3_UnstableCore_11: 6463524665216756508
+      VFX_P3_UnstableCore_12: 1914955112022287806
+      VFX_P3_UnstableCore_13: 5726723581209462109
+      VFX_P3_UnstableCore_14: 3930032421336891619
+      VFX_P3_UnstableCore_15: 2945893544645938184
+      VFX_P3_UnstableCore_16: -4362989678702497763
+      VFX_P3_UnstableCore_17: -8138750650101265218
+      VFX_P3_UnstableCore_18: -4822805368913285289
+      VFX_P3_UnstableCore_19: -7030933687344537163
+      VFX_P3_UnstableCore_2: 461376250759344452
+      VFX_P3_UnstableCore_20: -8127868743094689183
+      VFX_P3_UnstableCore_21: 8684721251900961238
+      VFX_P3_UnstableCore_22: -2482743928875736315
+      VFX_P3_UnstableCore_23: -1865995202780661733
+      VFX_P3_UnstableCore_24: 6291388932162429638
+      VFX_P3_UnstableCore_25: 3023865317794837556
+      VFX_P3_UnstableCore_26: 6775392572710670538
+      VFX_P3_UnstableCore_27: 5007945463013481604
+      VFX_P3_UnstableCore_28: -5866626537921612687
+      VFX_P3_UnstableCore_29: -2960920079493283130
+      VFX_P3_UnstableCore_3: -7070752950940386751
+      VFX_P3_UnstableCore_30: 9206680728605830288
+      VFX_P3_UnstableCore_31: 7451979515226164810
+      VFX_P3_UnstableCore_32: -6439667292606627416
+      VFX_P3_UnstableCore_33: -810748054745256946
+      VFX_P3_UnstableCore_34: 416395374842905508
+      VFX_P3_UnstableCore_35: -1878001605885065020
+      VFX_P3_UnstableCore_36: 4683891217184141674
+      VFX_P3_UnstableCore_37: -35897910001341529
+      VFX_P3_UnstableCore_38: 3058400696529126552
+      VFX_P3_UnstableCore_39: -5463193920331807462
+      VFX_P3_UnstableCore_4: 8279417192671527134
+      VFX_P3_UnstableCore_40: 1619119830357608227
+      VFX_P3_UnstableCore_41: -6204098501371344544
+      VFX_P3_UnstableCore_42: -3288139850579901192
+      VFX_P3_UnstableCore_43: 328015115348208083
+      VFX_P3_UnstableCore_44: -3235900163628388554
+      VFX_P3_UnstableCore_45: -8828467810639907199
+      VFX_P3_UnstableCore_46: 9028900862595577111
+      VFX_P3_UnstableCore_47: 4278947745280978010
+      VFX_P3_UnstableCore_48: 6782927504894504441
+      VFX_P3_UnstableCore_49: -2066309821092793660
+      VFX_P3_UnstableCore_5: 6060366632083327487
+      VFX_P3_UnstableCore_50: 3462961139557406882
+      VFX_P3_UnstableCore_51: -1487765211221268261
+      VFX_P3_UnstableCore_52: 2631874953985645744
+      VFX_P3_UnstableCore_53: -7298288366019306919
+      VFX_P3_UnstableCore_54: -4985342268637926869
+      VFX_P3_UnstableCore_55: 1218748193122103555
+      VFX_P3_UnstableCore_56: 969186426661254894
+      VFX_P3_UnstableCore_57: 2697743913679576055
+      VFX_P3_UnstableCore_58: 5981197961525969817
+      VFX_P3_UnstableCore_59: 3147961214632764446
+      VFX_P3_UnstableCore_6: 7631511311470941069
+      VFX_P3_UnstableCore_60: 6595030859822148922
+      VFX_P3_UnstableCore_61: 5243716337370560892
+      VFX_P3_UnstableCore_62: 6392395787672189914
+      VFX_P3_UnstableCore_63: -1165370119020594415
+      VFX_P3_UnstableCore_64: 6097470154758128017
+      VFX_P3_UnstableCore_65: -2298532454634000496
+      VFX_P3_UnstableCore_66: -7288947780449967628
+      VFX_P3_UnstableCore_67: -444082320209691969
+      VFX_P3_UnstableCore_68: -8065605085180470193
+      VFX_P3_UnstableCore_69: 4801465371587899682
+      VFX_P3_UnstableCore_7: -5290523523739224728
+      VFX_P3_UnstableCore_70: 1954032510730898011
+      VFX_P3_UnstableCore_71: -122465181692566442
+      VFX_P3_UnstableCore_72: -5293847559909947153
+      VFX_P3_UnstableCore_73: 6262110411701942218
+      VFX_P3_UnstableCore_74: 1209696140609862480
+      VFX_P3_UnstableCore_75: 4298949225506221213
+      VFX_P3_UnstableCore_76: 5013566413103064684
+      VFX_P3_UnstableCore_77: 2009395278706064516
+      VFX_P3_UnstableCore_78: -3091060949202643608
+      VFX_P3_UnstableCore_79: 6156554860053127887
+      VFX_P3_UnstableCore_8: -6930333669089229021
+      VFX_P3_UnstableCore_80: 654386657077229647
+      VFX_P3_UnstableCore_81: -2448464443871895031
+      VFX_P3_UnstableCore_82: -3795624282234480780
+      VFX_P3_UnstableCore_83: -7862196612291374498
+      VFX_P3_UnstableCore_84: -456114478542552705
+      VFX_P3_UnstableCore_85: -297717444680845420
+      VFX_P3_UnstableCore_86: -328985414192524809
+      VFX_P3_UnstableCore_87: -2883002034127957665
+      VFX_P3_UnstableCore_88: -7392801839772765000
+      VFX_P3_UnstableCore_89: 2447720078658835681
+      VFX_P3_UnstableCore_9: -7682469344855142552
+      VFX_P3_UnstableCore_90: -7409924590270635826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

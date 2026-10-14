@@ -1,0 +1,75 @@
+{
+  "name": "BossFinal_Dormant",
+  "sourcePage": 10,
+  "frameCount": 4,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.8,
+  "sourceOffset": [
+    51,
+    36
+  ],
+  "sourceRegions": [
+    [
+      17,
+      55,
+      514,
+      517
+    ],
+    [
+      522,
+      55,
+      1015,
+      517
+    ],
+    [
+      1023,
+      55,
+      1520,
+      517
+    ],
+    [
+      17,
+      527,
+      514,
+      989
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "7426e4e800796922ef9800e3010272651419262a12aded13ef3b6b6b8f8c04f2",
+  "spriteSha256": "9df83dcf748a652259bfc531208c02004cf3f0f8d93b9fe5f9fc7f6b8d985b7d"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Light_On",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.23115124153498873,
+  "sourceOffset": [
+    -17,
+    0
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "67b36db3c57469b3ff10046b8baab18038ff716af81b25bbff1c6b549482aa8f",
+  "spriteSha256": "3b3989eda4b27107b4b7134ec696581b7978d0e7d1c20ea15d8e088c670ce111"
+}

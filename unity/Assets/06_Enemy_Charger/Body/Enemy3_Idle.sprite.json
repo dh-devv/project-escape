@@ -1,0 +1,95 @@
+{
+  "name": "Enemy3_Idle",
+  "sourcePage": 8,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    29
+  ],
+  "sourceRegions": [
+    [
+      112,
+      55,
+      419,
+      495
+    ],
+    [
+      622,
+      33,
+      929,
+      495
+    ],
+    [
+      1138,
+      56,
+      1442,
+      495
+    ],
+    [
+      108,
+      592,
+      423,
+      995
+    ],
+    [
+      624,
+      559,
+      929,
+      995
+    ],
+    [
+      1138,
+      563,
+      1442,
+      995
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "a9869891aa382bf1a34baf480144b24be8371df9da4db4ec24f8c7a7c85483f3",
+  "spriteSha256": "f1951098c4fc387d2040e06545f8e2d317a1c9911c2b97afef40bad66c71fcc2"
+}

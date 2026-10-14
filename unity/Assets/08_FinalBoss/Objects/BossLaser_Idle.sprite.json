@@ -1,0 +1,49 @@
+{
+  "name": "BossLaser_Idle",
+  "sourcePage": 11,
+  "frameCount": 2,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": true,
+  "pivot": [
+    0.15625,
+    0.140625
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2280130293159609,
+  "sourceOffset": [
+    10,
+    95
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "a407fe3ca23e265aed97ad60d0c0b5e7f509ee646bea8ef2f7d6b5aab40063dd",
+  "spriteSha256": "543d184c42fea75fd4f9aaf38313c2d71d0decc0bfc1239b15356de55c5116f8",
+  "alignmentReference": [
+    131,
+    242,
+    607,
+    549
+  ],
+  "alignmentNote": "Laser cannon housing aligned to a common 70px reference height and bottom-left anchor across four states"
+}

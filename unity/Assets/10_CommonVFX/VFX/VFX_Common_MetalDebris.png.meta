@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 81b4b3d345975434eacdaf1d956aed11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8240154207345197434
+    second: VFX_Common_MetalDebris_0
+  - first:
+      213: -1287261834725094627
+    second: VFX_Common_MetalDebris_1
+  - first:
+      213: 2901176420004962
+    second: VFX_Common_MetalDebris_2
+  - first:
+      213: -1451710153623116201
+    second: VFX_Common_MetalDebris_3
+  - first:
+      213: -2411119906580960165
+    second: VFX_Common_MetalDebris_4
+  - first:
+      213: 7483292265757068274
+    second: VFX_Common_MetalDebris_5
+  - first:
+      213: -4168624333181023492
+    second: VFX_Common_MetalDebris_6
+  - first:
+      213: 7998798349701871990
+    second: VFX_Common_MetalDebris_7
+  - first:
+      213: -855932369843530098
+    second: VFX_Common_MetalDebris_8
+  - first:
+      213: 8282180519067800299
+    second: VFX_Common_MetalDebris_9
+  - first:
+      213: 5942918991418228927
+    second: VFX_Common_MetalDebris_10
+  - first:
+      213: -5980965806991798281
+    second: VFX_Common_MetalDebris_11
+  - first:
+      213: 2201283031683359566
+    second: VFX_Common_MetalDebris_12
+  - first:
+      213: -2792510350346360825
+    second: VFX_Common_MetalDebris_13
+  - first:
+      213: 2352102284553225263
+    second: VFX_Common_MetalDebris_14
+  - first:
+      213: -4332464934061220857
+    second: VFX_Common_MetalDebris_15
+  - first:
+      213: -2975907443125750438
+    second: VFX_Common_MetalDebris_16
+  - first:
+      213: -8088443184055984846
+    second: VFX_Common_MetalDebris_17
+  - first:
+      213: -6123888714708701857
+    second: VFX_Common_MetalDebris_18
+  - first:
+      213: 1284913285666185621
+    second: VFX_Common_MetalDebris_19
+  - first:
+      213: 492852001139111303
+    second: VFX_Common_MetalDebris_20
+  - first:
+      213: -4564330518883261306
+    second: VFX_Common_MetalDebris_21
+  - first:
+      213: -3238992148700136005
+    second: VFX_Common_MetalDebris_22
+  - first:
+      213: 7121049267513208682
+    second: VFX_Common_MetalDebris_23
+  - first:
+      213: 533222691783799742
+    second: VFX_Common_MetalDebris_24
+  - first:
+      213: 6582398893082613984
+    second: VFX_Common_MetalDebris_25
+  - first:
+      213: -1871009269185720718
+    second: VFX_Common_MetalDebris_26
+  - first:
+      213: 8604065449981048173
+    second: VFX_Common_MetalDebris_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 556
+        width: 178
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ebfb8186715ad80800000000000000
+      internalID: -8240154207345197434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 556
+        width: 205
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b0b487e2ab22ee0800000000000000
+      internalID: -1287261834725094627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 691
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264f1f5ca9e4a0000800000000000000
+      internalID: 2901176420004962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 556
+        width: 188
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75667788e4d7adbe0800000000000000
+      internalID: -1451710153623116201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_4
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 671
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c6e59383bf98ed0800000000000000
+      internalID: -2411119906580960165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 690
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbc0e2eaaef9d760800000000000000
+      internalID: 7483292265757068274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 649
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa02ba51421626c0800000000000000
+      internalID: -4168624333181023492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 634
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679f5f738b0710f60800000000000000
+      internalID: 7998798349701871990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_8
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 655
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86d7b76b0e1f14f0800000000000000
+      internalID: -855932369843530098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_9
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 633
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be252bc1d4730f270800000000000000
+      internalID: 8282180519067800299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 662
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb00864f55d797250800000000000000
+      internalID: 5942918991418228927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 556
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff0f7c79475ffca0800000000000000
+      internalID: -5980965806991798281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 301
+        width: 192
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43e49121478c8e10800000000000000
+      internalID: 2201283031683359566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 300
+        width: 201
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708e008b1a20f39d0800000000000000
+      internalID: -2792510350346360825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 387
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f240e2ad09854a020800000000000000
+      internalID: 2352102284553225263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 300
+        width: 185
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cd17bc81effd3c0800000000000000
+      internalID: -4332464934061220857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_16
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 383
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a557c0092f373b6d0800000000000000
+      internalID: -2975907443125750438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dd96c47c310cf80800000000000000
+      internalID: -8088443184055984846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_18
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 341
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5da3c3e8a3930ba0800000000000000
+      internalID: -6123888714708701857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 322
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591205753dde4d110800000000000000
+      internalID: 1284913285666185621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 321
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785bcb6a846f6d600800000000000000
+      internalID: 492852001139111303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_21
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 308
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6842d70739d38a0c0800000000000000
+      internalID: -4564330518883261306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 107
+        width: 189
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdf27a3dc9cc03d0800000000000000
+      internalID: -3238992148700136005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 170
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f2e22749c03d260800000000000000
+      internalID: 7121049267513208682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb373f98633666700800000000000000
+      internalID: 533222691783799742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 104
+        width: 193
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e81d101be0695b50800000000000000
+      internalID: 6582398893082613984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec8b29bf6d806e0800000000000000
+      internalID: -1871009269185720718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_MetalDebris_27
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 147
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65f452c0f7c76770800000000000000
+      internalID: 8604065449981048173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_MetalDebris_0: -8240154207345197434
+      VFX_Common_MetalDebris_1: -1287261834725094627
+      VFX_Common_MetalDebris_10: 5942918991418228927
+      VFX_Common_MetalDebris_11: -5980965806991798281
+      VFX_Common_MetalDebris_12: 2201283031683359566
+      VFX_Common_MetalDebris_13: -2792510350346360825
+      VFX_Common_MetalDebris_14: 2352102284553225263
+      VFX_Common_MetalDebris_15: -4332464934061220857
+      VFX_Common_MetalDebris_16: -2975907443125750438
+      VFX_Common_MetalDebris_17: -8088443184055984846
+      VFX_Common_MetalDebris_18: -6123888714708701857
+      VFX_Common_MetalDebris_19: 1284913285666185621
+      VFX_Common_MetalDebris_2: 2901176420004962
+      VFX_Common_MetalDebris_20: 492852001139111303
+      VFX_Common_MetalDebris_21: -4564330518883261306
+      VFX_Common_MetalDebris_22: -3238992148700136005
+      VFX_Common_MetalDebris_23: 7121049267513208682
+      VFX_Common_MetalDebris_24: 533222691783799742
+      VFX_Common_MetalDebris_25: 6582398893082613984
+      VFX_Common_MetalDebris_26: -1871009269185720718
+      VFX_Common_MetalDebris_27: 8604065449981048173
+      VFX_Common_MetalDebris_3: -1451710153623116201
+      VFX_Common_MetalDebris_4: -2411119906580960165
+      VFX_Common_MetalDebris_5: 7483292265757068274
+      VFX_Common_MetalDebris_6: -4168624333181023492
+      VFX_Common_MetalDebris_7: 7998798349701871990
+      VFX_Common_MetalDebris_8: -855932369843530098
+      VFX_Common_MetalDebris_9: 8282180519067800299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

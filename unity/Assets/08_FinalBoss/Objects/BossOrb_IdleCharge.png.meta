@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 9fdcf5f32f3f66c488d2f550d0f11c33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7996386956777223793
+    second: BossOrb_IdleCharge_0
+  - first:
+      213: -7999420715697265237
+    second: BossOrb_IdleCharge_1
+  - first:
+      213: 1869487768552864772
+    second: BossOrb_IdleCharge_2
+  - first:
+      213: -6183800593389132615
+    second: BossOrb_IdleCharge_3
+  - first:
+      213: 8674661238673803069
+    second: BossOrb_IdleCharge_4
+  - first:
+      213: -250006539298509597
+    second: BossOrb_IdleCharge_5
+  - first:
+      213: -4903011654590954011
+    second: BossOrb_IdleCharge_6
+  - first:
+      213: -2300624876859025574
+    second: BossOrb_IdleCharge_7
+  - first:
+      213: 8370586308447238298
+    second: BossOrb_IdleCharge_8
+  - first:
+      213: -349563630101325310
+    second: BossOrb_IdleCharge_9
+  - first:
+      213: -3460854295175513712
+    second: BossOrb_IdleCharge_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossOrb_IdleCharge_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 281
+        width: 193
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176f54d029fd8fe60800000000000000
+      internalID: 7996386956777223793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossOrb_IdleCharge_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 281
+        width: 196
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5a6f7ed395cf090800000000000000
+      internalID: -7999420715697265237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossOrb_IdleCharge_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 462
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cf7847831c1f910800000000000000
+      internalID: 1869487768552864772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossOrb_IdleCharge_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 284
+        width: 201
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4e03d9f1abe2aa0800000000000000
+      internalID: -6183800593389132615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossOrb_IdleCharge_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 466
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37800eaf66926870800000000000000
+      internalID: 8674661238673803069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossOrb_IdleCharge_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 281
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec6699806cc78cf0800000000000000
+      internalID: -250006539298509597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossOrb_IdleCharge_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 281
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5818e90e005fbb0800000000000000
+      internalID: -4903011654590954011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossOrb_IdleCharge_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 36
+        width: 190
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57146d1dd98210e0800000000000000
+      internalID: -2300624876859025574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossOrb_IdleCharge_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 36
+        width: 205
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98feb4f5eb4a2470800000000000000
+      internalID: 8370586308447238298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossOrb_IdleCharge_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 217
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a1a610bb9162bf0800000000000000
+      internalID: -349563630101325310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossOrb_IdleCharge_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 31
+        width: 204
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099bdacda5398ffc0800000000000000
+      internalID: -3460854295175513712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossOrb_IdleCharge_0: 7996386956777223793
+      BossOrb_IdleCharge_1: -7999420715697265237
+      BossOrb_IdleCharge_10: -3460854295175513712
+      BossOrb_IdleCharge_2: 1869487768552864772
+      BossOrb_IdleCharge_3: -6183800593389132615
+      BossOrb_IdleCharge_4: 8674661238673803069
+      BossOrb_IdleCharge_5: -250006539298509597
+      BossOrb_IdleCharge_6: -4903011654590954011
+      BossOrb_IdleCharge_7: -2300624876859025574
+      BossOrb_IdleCharge_8: 8370586308447238298
+      BossOrb_IdleCharge_9: -349563630101325310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

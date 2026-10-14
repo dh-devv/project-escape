@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 06d56dcfc5625b0498cf6b85bdd9c0cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -255336703676587685
+    second: Button_ActivationEffect_0
+  - first:
+      213: 3267337141175175363
+    second: Button_ActivationEffect_1
+  - first:
+      213: 6318559315164440887
+    second: Button_ActivationEffect_2
+  - first:
+      213: -8341272095109066436
+    second: Button_ActivationEffect_3
+  - first:
+      213: -693826037026953825
+    second: Button_ActivationEffect_4
+  - first:
+      213: 612458508509609665
+    second: Button_ActivationEffect_5
+  - first:
+      213: -8279627106442328612
+    second: Button_ActivationEffect_6
+  - first:
+      213: 9216093749752522098
+    second: Button_ActivationEffect_7
+  - first:
+      213: 8523636600531100322
+    second: Button_ActivationEffect_8
+  - first:
+      213: 7887803246343476549
+    second: Button_ActivationEffect_9
+  - first:
+      213: 7690755926119848333
+    second: Button_ActivationEffect_10
+  - first:
+      213: -7517366464484451938
+    second: Button_ActivationEffect_11
+  - first:
+      213: -3964721161662158260
+    second: Button_ActivationEffect_12
+  - first:
+      213: 7971950621871977670
+    second: Button_ActivationEffect_13
+  - first:
+      213: 6669890321882727124
+    second: Button_ActivationEffect_14
+  - first:
+      213: 9198074606286944451
+    second: Button_ActivationEffect_15
+  - first:
+      213: -7613851470253856748
+    second: Button_ActivationEffect_16
+  - first:
+      213: 87421014545451320
+    second: Button_ActivationEffect_17
+  - first:
+      213: -6720122633788313829
+    second: Button_ActivationEffect_18
+  - first:
+      213: -1603446641700022713
+    second: Button_ActivationEffect_19
+  - first:
+      213: 4391330790881648417
+    second: Button_ActivationEffect_20
+  - first:
+      213: -7655971330011115439
+    second: Button_ActivationEffect_21
+  - first:
+      213: -5019446461532875669
+    second: Button_ActivationEffect_22
+  - first:
+      213: -994071767384580884
+    second: Button_ActivationEffect_23
+  - first:
+      213: 5914287022258159133
+    second: Button_ActivationEffect_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button_ActivationEffect_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 348
+        width: 14
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51ec3fee9cd47cf0800000000000000
+      internalID: -255336703676587685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 404
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8cf2d91d9e75d20800000000000000
+      internalID: 3267337141175175363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 291
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739ac90583800b750800000000000000
+      internalID: 6318559315164440887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 396
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3155243939dd3c80800000000000000
+      internalID: -8341272095109066436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 416
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95671735e80f56f0800000000000000
+      internalID: -693826037026953825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 205
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce716fb4c3ef7800800000000000000
+      internalID: 612458508509609665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 284
+        width: 185
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd54fc7930bd81d80800000000000000
+      internalID: -8279627106442328612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 351
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27562babf6426ef70800000000000000
+      internalID: 9216093749752522098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 321
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2ac29f35a0a4670800000000000000
+      internalID: 8523636600531100322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 351
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545d97cd24b177d60800000000000000
+      internalID: 7887803246343476549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 355
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d899a9674cd0bba60800000000000000
+      internalID: 7690755926119848333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 341
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9958fd7703fca790800000000000000
+      internalID: -7517366464484451938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 312
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a27a50c1b7af8c0800000000000000
+      internalID: -3964721161662158260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_13
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 313
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c432a77ade02ae60800000000000000
+      internalID: 7971950621871977670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 307
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2c2aeb8e5309c50800000000000000
+      internalID: 6669890321882727124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 320
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c83645fe1026af70800000000000000
+      internalID: 9198074606286944451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 313
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418eeee7d6a265690800000000000000
+      internalID: -7613851470253856748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 312
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c2e513f4963100800000000000000
+      internalID: 87421014545451320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 281
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f2cfdb1145db2a0800000000000000
+      internalID: -6720122633788313829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 47
+        width: 176
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7465d2956c96fb9e0800000000000000
+      internalID: -1603446641700022713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 213
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f5cb9861421fc30800000000000000
+      internalID: 4391330790881648417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 188
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150dc1073a680c590800000000000000
+      internalID: -7655971330011115439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 156
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64dd339908575ab0800000000000000
+      internalID: -5019446461532875669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 84
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec1ccf8ef85432f0800000000000000
+      internalID: -994071767384580884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_ActivationEffect_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 71
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e766526b4c31250800000000000000
+      internalID: 5914287022258159133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Button_ActivationEffect_0: -255336703676587685
+      Button_ActivationEffect_1: 3267337141175175363
+      Button_ActivationEffect_10: 7690755926119848333
+      Button_ActivationEffect_11: -7517366464484451938
+      Button_ActivationEffect_12: -3964721161662158260
+      Button_ActivationEffect_13: 7971950621871977670
+      Button_ActivationEffect_14: 6669890321882727124
+      Button_ActivationEffect_15: 9198074606286944451
+      Button_ActivationEffect_16: -7613851470253856748
+      Button_ActivationEffect_17: 87421014545451320
+      Button_ActivationEffect_18: -6720122633788313829
+      Button_ActivationEffect_19: -1603446641700022713
+      Button_ActivationEffect_2: 6318559315164440887
+      Button_ActivationEffect_20: 4391330790881648417
+      Button_ActivationEffect_21: -7655971330011115439
+      Button_ActivationEffect_22: -5019446461532875669
+      Button_ActivationEffect_23: -994071767384580884
+      Button_ActivationEffect_24: 5914287022258159133
+      Button_ActivationEffect_3: -8341272095109066436
+      Button_ActivationEffect_4: -693826037026953825
+      Button_ActivationEffect_5: 612458508509609665
+      Button_ActivationEffect_6: -8279627106442328612
+      Button_ActivationEffect_7: 9216093749752522098
+      Button_ActivationEffect_8: 8523636600531100322
+      Button_ActivationEffect_9: 7887803246343476549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

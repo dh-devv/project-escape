@@ -1,0 +1,457 @@
+{
+  "count": 18,
+  "countsTowardAnimationTotal": false,
+  "note": "Atlases are indexes; use individual PNGs for assembly. Relative assembly scale, laser seams and UI 9-slice must be checked in Unity.",
+  "records": [
+    {
+      "id": "Nexus_ModularParts_Housing",
+      "label": "NEXUS 외장",
+      "sourcePage": 10,
+      "file": "Nexus_ModularParts/Housing.png",
+      "size": [
+        474,
+        468
+      ],
+      "sourceRect": [
+        0,
+        0,
+        502,
+        508
+      ],
+      "trimRect": [
+        25,
+        27,
+        499,
+        495
+      ],
+      "atlasCell": 0,
+      "atlas": "Nexus_ModularParts.png",
+      "sha256": "2d96b8986555a8d5c03ecd5e75be06ccaf50829cabab3655521a6d3d75bdc792"
+    },
+    {
+      "id": "Nexus_ModularParts_Core",
+      "label": "중앙 코어",
+      "sourcePage": 10,
+      "file": "Nexus_ModularParts/Core.png",
+      "size": [
+        254,
+        244
+      ],
+      "sourceRect": [
+        502,
+        0,
+        840,
+        508
+      ],
+      "trimRect": [
+        60,
+        155,
+        314,
+        399
+      ],
+      "atlasCell": 1,
+      "atlas": "Nexus_ModularParts.png",
+      "sha256": "ab1b3b71ff59b1e6fb2416a59ec0f280bb39d66c9acc4c0458d18b7c845dfd8f"
+    },
+    {
+      "id": "Nexus_ModularParts_CannonLeft",
+      "label": "왼쪽을 향한 포대",
+      "sourcePage": 10,
+      "file": "Nexus_ModularParts/CannonLeft.png",
+      "size": [
+        320,
+        291
+      ],
+      "sourceRect": [
+        840,
+        0,
+        1254,
+        508
+      ],
+      "trimRect": [
+        51,
+        127,
+        371,
+        418
+      ],
+      "atlasCell": 2,
+      "atlas": "Nexus_ModularParts.png",
+      "sha256": "84dab0cf889c8b2d2b15fd11ebb3e073772b8fe07effa7fb384e0b606f88cac0"
+    },
+    {
+      "id": "Nexus_ModularParts_CannonRight",
+      "label": "오른쪽을 향한 포대",
+      "sourcePage": 10,
+      "file": "Nexus_ModularParts/CannonRight.png",
+      "size": [
+        330,
+        291
+      ],
+      "sourceRect": [
+        0,
+        508,
+        502,
+        878
+      ],
+      "trimRect": [
+        142,
+        58,
+        472,
+        349
+      ],
+      "atlasCell": 3,
+      "atlas": "Nexus_ModularParts.png",
+      "sha256": "b70e67d3be7b7e9ff95243a42abfadc03699c3b1172eb89ee934d7fad99e4d49"
+    },
+    {
+      "id": "Nexus_ModularParts_ArmorClosed",
+      "label": "닫힌 장갑",
+      "sourcePage": 10,
+      "file": "Nexus_ModularParts/ArmorClosed.png",
+      "size": [
+        173,
+        312
+      ],
+      "sourceRect": [
+        502,
+        508,
+        840,
+        878
+      ],
+      "trimRect": [
+        80,
+        31,
+        253,
+        343
+      ],
+      "atlasCell": 4,
+      "atlas": "Nexus_ModularParts.png",
+      "sha256": "6a5f4709395790d5c2905752c74786a4953e9a04f6d4a494dd7c814d37076d60"
+    },
+    {
+      "id": "Nexus_ModularParts_ArmorOpen",
+      "label": "열린 장갑",
+      "sourcePage": 10,
+      "file": "Nexus_ModularParts/ArmorOpen.png",
+      "size": [
+        209,
+        345
+      ],
+      "sourceRect": [
+        840,
+        508,
+        1254,
+        878
+      ],
+      "trimRect": [
+        91,
+        4,
+        300,
+        349
+      ],
+      "atlasCell": 5,
+      "atlas": "Nexus_ModularParts.png",
+      "sha256": "12e304e97ca31ebd9d11b889f3959711d4552b66369ecd27b27eead7d3b6366e"
+    },
+    {
+      "id": "Nexus_ModularParts_MechanicalArm",
+      "label": "가동 팔",
+      "sourcePage": 10,
+      "file": "Nexus_ModularParts/MechanicalArm.png",
+      "size": [
+        367,
+        311
+      ],
+      "sourceRect": [
+        0,
+        878,
+        502,
+        1254
+      ],
+      "trimRect": [
+        135,
+        29,
+        502,
+        340
+      ],
+      "atlasCell": 6,
+      "atlas": "Nexus_ModularParts.png",
+      "sha256": "a4f06fab7e1d53ddfaa429c1d4d29656cd7304bd0634007583c1ecae58316854"
+    },
+    {
+      "id": "Nexus_ModularParts_WeakPointRing",
+      "label": "약점 발광 링",
+      "sourcePage": 10,
+      "file": "Nexus_ModularParts/WeakPointRing.png",
+      "size": [
+        268,
+        261
+      ],
+      "sourceRect": [
+        502,
+        878,
+        840,
+        1254
+      ],
+      "trimRect": [
+        0,
+        42,
+        268,
+        303
+      ],
+      "atlasCell": 7,
+      "atlas": "Nexus_ModularParts.png",
+      "sha256": "dae006f92cbeeac5289625d8f37815f075ec2d540627c9e68ede6de4005c9aec"
+    },
+    {
+      "id": "Nexus_ModularParts_BrokenParts",
+      "label": "파손 부품 묶음",
+      "sourcePage": 10,
+      "file": "Nexus_ModularParts/BrokenParts.png",
+      "size": [
+        340,
+        281
+      ],
+      "sourceRect": [
+        840,
+        878,
+        1254,
+        1254
+      ],
+      "trimRect": [
+        30,
+        51,
+        370,
+        332
+      ],
+      "atlasCell": 8,
+      "atlas": "Nexus_ModularParts.png",
+      "sha256": "eb6e8d6115eb810684a344d31dbcb104bfe6541077a9d80754bd7225625cd0bc"
+    },
+    {
+      "id": "Interaction_UI_InteractionKey",
+      "label": "상호작용 E 키",
+      "sourcePage": 12,
+      "file": "Interaction_UI/InteractionKey.png",
+      "size": [
+        349,
+        338
+      ],
+      "sourceRect": [
+        0,
+        0,
+        553,
+        553
+      ],
+      "trimRect": [
+        97,
+        140,
+        446,
+        478
+      ],
+      "atlasCell": 0,
+      "atlas": "Interaction_UI.png",
+      "sha256": "f77e80f57c902395cf5cb398b84e80b9d829c129c1b028e0464a7cbe6096e796"
+    },
+    {
+      "id": "Interaction_UI_KeyIcon",
+      "label": "열쇠 UI",
+      "sourcePage": 12,
+      "file": "Interaction_UI/KeyIcon.png",
+      "size": [
+        491,
+        297
+      ],
+      "sourceRect": [
+        553,
+        0,
+        1106,
+        553
+      ],
+      "trimRect": [
+        9,
+        161,
+        500,
+        458
+      ],
+      "atlasCell": 1,
+      "atlas": "Interaction_UI.png",
+      "sha256": "4c648162b0c1902cd0663632156902a54a8db4cc07a2ba43bd3e6a4d69f72edc"
+    },
+    {
+      "id": "Interaction_UI_HealingIcon",
+      "label": "회복 아이템 UI",
+      "sourcePage": 12,
+      "file": "Interaction_UI/HealingIcon.png",
+      "size": [
+        233,
+        397
+      ],
+      "sourceRect": [
+        1106,
+        0,
+        1536,
+        553
+      ],
+      "trimRect": [
+        48,
+        112,
+        281,
+        509
+      ],
+      "atlasCell": 2,
+      "atlas": "Interaction_UI.png",
+      "sha256": "e8cc0536e87452cef37067753c2e827b4ad259538befff8508ad8f1eb8f69f64"
+    },
+    {
+      "id": "Interaction_UI_BatteryIcon",
+      "label": "보급 배터리 UI",
+      "sourcePage": 12,
+      "file": "Interaction_UI/BatteryIcon.png",
+      "size": [
+        366,
+        219
+      ],
+      "sourceRect": [
+        0,
+        553,
+        461,
+        1024
+      ],
+      "trimRect": [
+        69,
+        112,
+        435,
+        331
+      ],
+      "atlasCell": 3,
+      "atlas": "Interaction_UI.png",
+      "sha256": "a81bcf2343cf1b06eb09c7743e66c4989457459050c8fd8dc6cd4a257bd693b7"
+    },
+    {
+      "id": "Interaction_UI_DialoguePanel",
+      "label": "대화창 패널",
+      "sourcePage": 12,
+      "file": "Interaction_UI/DialoguePanel.png",
+      "size": [
+        596,
+        224
+      ],
+      "sourceRect": [
+        461,
+        553,
+        1106,
+        1024
+      ],
+      "trimRect": [
+        25,
+        110,
+        621,
+        334
+      ],
+      "atlasCell": 4,
+      "atlas": "Interaction_UI.png",
+      "sha256": "280fa6941ea9625007e594000953d0902bfc038115947bf39f0f79064a5f4f29"
+    },
+    {
+      "id": "Interaction_UI_CommunicationIcon",
+      "label": "통신 대화 아이콘",
+      "sourcePage": 12,
+      "file": "Interaction_UI/CommunicationIcon.png",
+      "size": [
+        330,
+        338
+      ],
+      "sourceRect": [
+        1106,
+        553,
+        1536,
+        1024
+      ],
+      "trimRect": [
+        31,
+        23,
+        361,
+        361
+      ],
+      "atlasCell": 5,
+      "atlas": "Interaction_UI.png",
+      "sha256": "2088fc462a9f29416e8b6c7445c50395b964a34875d4cfe58089be1501d854a5"
+    },
+    {
+      "id": "Laser_Segments_Start",
+      "label": "레이저 시작",
+      "sourcePage": 11,
+      "file": "Laser_Segments/Start.png",
+      "size": [
+        633,
+        724
+      ],
+      "sourceRect": [
+        0,
+        0,
+        724,
+        724
+      ],
+      "trimRect": [
+        36,
+        0,
+        669,
+        724
+      ],
+      "atlasCell": 0,
+      "atlas": "Laser_Segments.png",
+      "sha256": "5094bc144d1bfa68108ff0751458fdb2f574ae462a1f11fa0803b4f13dd5573e"
+    },
+    {
+      "id": "Laser_Segments_Middle",
+      "label": "레이저 중간",
+      "sourcePage": 11,
+      "file": "Laser_Segments/Middle.png",
+      "size": [
+        536,
+        724
+      ],
+      "sourceRect": [
+        724,
+        0,
+        1448,
+        724
+      ],
+      "trimRect": [
+        88,
+        0,
+        624,
+        724
+      ],
+      "atlasCell": 1,
+      "atlas": "Laser_Segments.png",
+      "sha256": "c19aa2d22056e3420cf32e276bf2600d92993f198b08601f95870bcf5e65a743"
+    },
+    {
+      "id": "Laser_Segments_End",
+      "label": "레이저 끝",
+      "sourcePage": 11,
+      "file": "Laser_Segments/End.png",
+      "size": [
+        647,
+        724
+      ],
+      "sourceRect": [
+        1448,
+        0,
+        2172,
+        724
+      ],
+      "trimRect": [
+        42,
+        0,
+        689,
+        724
+      ],
+      "atlasCell": 2,
+      "atlas": "Laser_Segments.png",
+      "sha256": "d0996b11a88bfd35275571ab262c1d4e7ae2ba41cf5377d3fbb4f06bac4ae8f4"
+    }
+  ]
+}

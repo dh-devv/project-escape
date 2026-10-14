@@ -1,0 +1,75 @@
+{
+  "name": "HealingItem_Flicker",
+  "sourcePage": 12,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.41541582150101425,
+  "sourceOffset": [
+    21,
+    5
+  ],
+  "sourceRegions": [
+    [
+      179,
+      33,
+      462,
+      530
+    ],
+    [
+      625,
+      33,
+      910,
+      530
+    ],
+    [
+      1073,
+      33,
+      1358,
+      530
+    ],
+    [
+      179,
+      552,
+      463,
+      1009
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "2f0ddcd9c6c71005008c9a27e6ea5c92e7c0530c40094c52eaa5d70a607310d1",
+  "spriteSha256": "10d5ab48141b708b19f35e3598b166bd470c6e992c31a4b9b11aed7f18ae19eb"
+}

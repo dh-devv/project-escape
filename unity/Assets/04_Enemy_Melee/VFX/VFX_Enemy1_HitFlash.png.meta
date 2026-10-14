@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: f91b70867717a354b9f3fc3fb29f6ad5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8276439178221787077
+    second: VFX_Enemy1_HitFlash_0
+  - first:
+      213: 997082214093846821
+    second: VFX_Enemy1_HitFlash_1
+  - first:
+      213: -439121189133357663
+    second: VFX_Enemy1_HitFlash_2
+  - first:
+      213: 7895142899054421772
+    second: VFX_Enemy1_HitFlash_3
+  - first:
+      213: -43862626104126734
+    second: VFX_Enemy1_HitFlash_4
+  - first:
+      213: -8580242151641712987
+    second: VFX_Enemy1_HitFlash_5
+  - first:
+      213: 596504955707511157
+    second: VFX_Enemy1_HitFlash_6
+  - first:
+      213: 398111830202462481
+    second: VFX_Enemy1_HitFlash_7
+  - first:
+      213: 6239454700888600481
+    second: VFX_Enemy1_HitFlash_8
+  - first:
+      213: 5609134643673314367
+    second: VFX_Enemy1_HitFlash_9
+  - first:
+      213: -4059945781083592553
+    second: VFX_Enemy1_HitFlash_10
+  - first:
+      213: 5632337839834323199
+    second: VFX_Enemy1_HitFlash_11
+  - first:
+      213: 3144693596637871756
+    second: VFX_Enemy1_HitFlash_12
+  - first:
+      213: 8771145347754848283
+    second: VFX_Enemy1_HitFlash_13
+  - first:
+      213: 3149526475938064307
+    second: VFX_Enemy1_HitFlash_14
+  - first:
+      213: -1469151979245668161
+    second: VFX_Enemy1_HitFlash_15
+  - first:
+      213: -530523171841488248
+    second: VFX_Enemy1_HitFlash_16
+  - first:
+      213: -5569442457320132287
+    second: VFX_Enemy1_HitFlash_17
+  - first:
+      213: 364126829263540376
+    second: VFX_Enemy1_HitFlash_18
+  - first:
+      213: -4805536207664214329
+    second: VFX_Enemy1_HitFlash_19
+  - first:
+      213: 7571118597509837847
+    second: VFX_Enemy1_HitFlash_20
+  - first:
+      213: -6826092592723469639
+    second: VFX_Enemy1_HitFlash_21
+  - first:
+      213: 8629542198512358287
+    second: VFX_Enemy1_HitFlash_22
+  - first:
+      213: 5520843150199648224
+    second: VFX_Enemy1_HitFlash_23
+  - first:
+      213: 9153354060231931244
+    second: VFX_Enemy1_HitFlash_24
+  - first:
+      213: -5565709656872962928
+    second: VFX_Enemy1_HitFlash_25
+  - first:
+      213: 8455367215627777500
+    second: VFX_Enemy1_HitFlash_26
+  - first:
+      213: -337892726195281073
+    second: VFX_Enemy1_HitFlash_27
+  - first:
+      213: 1205014627650605450
+    second: VFX_Enemy1_HitFlash_28
+  - first:
+      213: 8537601322930885481
+    second: VFX_Enemy1_HitFlash_29
+  - first:
+      213: 500850525013929942
+    second: VFX_Enemy1_HitFlash_30
+  - first:
+      213: 5675578075068001392
+    second: VFX_Enemy1_HitFlash_31
+  - first:
+      213: 749152000940033913
+    second: VFX_Enemy1_HitFlash_32
+  - first:
+      213: -8553330542460776948
+    second: VFX_Enemy1_HitFlash_33
+  - first:
+      213: 3790552601162417383
+    second: VFX_Enemy1_HitFlash_34
+  - first:
+      213: -8051168825628822993
+    second: VFX_Enemy1_HitFlash_35
+  - first:
+      213: -4101461896054775733
+    second: VFX_Enemy1_HitFlash_36
+  - first:
+      213: -7183351729234512106
+    second: VFX_Enemy1_HitFlash_37
+  - first:
+      213: -1598486660497700069
+    second: VFX_Enemy1_HitFlash_38
+  - first:
+      213: -1299345957702873994
+    second: VFX_Enemy1_HitFlash_39
+  - first:
+      213: 1860189023044413378
+    second: VFX_Enemy1_HitFlash_40
+  - first:
+      213: 7460870277184641430
+    second: VFX_Enemy1_HitFlash_41
+  - first:
+      213: 1594098325498127605
+    second: VFX_Enemy1_HitFlash_42
+  - first:
+      213: -1546314847843740318
+    second: VFX_Enemy1_HitFlash_43
+  - first:
+      213: -8067617166142863593
+    second: VFX_Enemy1_HitFlash_44
+  - first:
+      213: -975448952513734737
+    second: VFX_Enemy1_HitFlash_45
+  - first:
+      213: -1347208974741312802
+    second: VFX_Enemy1_HitFlash_46
+  - first:
+      213: -9091371661683041845
+    second: VFX_Enemy1_HitFlash_47
+  - first:
+      213: -6694610928048883902
+    second: VFX_Enemy1_HitFlash_48
+  - first:
+      213: 2754073423780393528
+    second: VFX_Enemy1_HitFlash_49
+  - first:
+      213: -8092415306562315632
+    second: VFX_Enemy1_HitFlash_50
+  - first:
+      213: 8396459395284475247
+    second: VFX_Enemy1_HitFlash_51
+  - first:
+      213: -3384461863824635831
+    second: VFX_Enemy1_HitFlash_52
+  - first:
+      213: -6965997948294915410
+    second: VFX_Enemy1_HitFlash_53
+  - first:
+      213: -390665311999729222
+    second: VFX_Enemy1_HitFlash_54
+  - first:
+      213: 8580880864174275303
+    second: VFX_Enemy1_HitFlash_55
+  - first:
+      213: 525339194140527199
+    second: VFX_Enemy1_HitFlash_56
+  - first:
+      213: 7920656173764851157
+    second: VFX_Enemy1_HitFlash_57
+  - first:
+      213: 7292556375603633811
+    second: VFX_Enemy1_HitFlash_58
+  - first:
+      213: -7101725194361653680
+    second: VFX_Enemy1_HitFlash_59
+  - first:
+      213: 5814436787406460878
+    second: VFX_Enemy1_HitFlash_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 408
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c719070591dbd270800000000000000
+      internalID: 8276439178221787077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 422
+        width: 108
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5297ceeadf856dd00800000000000000
+      internalID: 997082214093846821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 452
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adeb54ea9de7e9f0800000000000000
+      internalID: -439121189133357663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 476
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07261de2ae219d60800000000000000
+      internalID: 7895142899054421772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 206
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2d5288c2b246ff0800000000000000
+      internalID: -43862626104126734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 200
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6ff80293bdce880800000000000000
+      internalID: -8580242151641712987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 441
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571d4b7c816374800800000000000000
+      internalID: 596504955707511157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_7
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 455
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111391ca990668500800000000000000
+      internalID: 398111830202462481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 444
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af2b9e0efef69650800000000000000
+      internalID: 6239454700888600481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 283
+        width: 116
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f343c7d6d36a7dd40800000000000000
+      internalID: 5609134643673314367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 424
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798aa2792dc28a7c0800000000000000
+      internalID: -4059945781083592553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 417
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8d0568c651a2e40800000000000000
+      internalID: 5632337839834323199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 314
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ebb033a2234ab20800000000000000
+      internalID: 3144693596637871756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 363
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b107f36e83e59b970800000000000000
+      internalID: 8771145347754848283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 348
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e9f894ad55bb20800000000000000
+      internalID: 3149526475938064307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 335
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8fffb0f068c9be0800000000000000
+      internalID: -1469151979245668161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 296
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a464d6cf333a8f0800000000000000
+      internalID: -530523171841488248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 288
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141747ed79d55b2b0800000000000000
+      internalID: -5569442457320132287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 284
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89051770c63ad0500800000000000000
+      internalID: 364126829263540376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 287
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce85eaa74e4f4db0800000000000000
+      internalID: -4805536207664214329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 119
+        width: 56
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7147dec3044021960800000000000000
+      internalID: 7571118597509837847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 135
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9badacef3f8d441a0800000000000000
+      internalID: -6826092592723469639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 159
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83929488ea42c770800000000000000
+      internalID: 8629542198512358287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 188
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef6c4c2899fd9c40800000000000000
+      internalID: 5520843150199648224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 132
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65f08f650f370f70800000000000000
+      internalID: 9153354060231931244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 198
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09430233e80a2c2b0800000000000000
+      internalID: -5565709656872962928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 212
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd53af42faf775570800000000000000
+      internalID: 8455367215627777500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 188
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4321f21b509f4bf0800000000000000
+      internalID: -337892726195281073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 42
+        width: 64
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81934e5b6219b010800000000000000
+      internalID: 1205014627650605450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 216
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96353374b27ab7670800000000000000
+      internalID: 8537601322930885481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 200
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfe50d16e063f600800000000000000
+      internalID: 500850525013929942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 188
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6c635034b3ce40800000000000000
+      internalID: 5675578075068001392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 180
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977cdc296c5856a00800000000000000
+      internalID: 749152000940033913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_33
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 134
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e402a60377c4980800000000000000
+      internalID: -8553330542460776948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 200
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e408bee18fba9430800000000000000
+      internalID: 3790552601162417383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_35
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 196
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22f1b92c90844090800000000000000
+      internalID: -8051168825628822993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_36
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 163
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40ead1d22ea417c0800000000000000
+      internalID: -4101461896054775733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_37
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 191
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617f94a49ab9f4c90800000000000000
+      internalID: -7183351729234512106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 204
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b85d6f9d801d9e0800000000000000
+      internalID: -1598486660497700069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 31
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cc7c65cbbc7fde0800000000000000
+      internalID: -1299345957702873994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7a4ad8f08b0d910800000000000000
+      internalID: 1860189023044413378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 123
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6995cdadcf55a8760800000000000000
+      internalID: 7460870277184641430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f46c5c2bff5f1610800000000000000
+      internalID: 1594098325498127605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 32
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2659c5fa6d26a8ae0800000000000000
+      internalID: -1546314847843740318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 106
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71706347ee01a0090800000000000000
+      internalID: -8067617166142863593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 124
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa754e888528672f0800000000000000
+      internalID: -975448952513734737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_46
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 60
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda63564390cd4de0800000000000000
+      internalID: -1347208974741312802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 123
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9545054a5f4d180800000000000000
+      internalID: -9091371661683041845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_48
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247b23c94d6f713a0800000000000000
+      internalID: -6694610928048883902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 54
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83236cdef2f683620800000000000000
+      internalID: 2754073423780393528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 64
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a5b657727f1bf80800000000000000
+      internalID: -8092415306562315632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 68
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d1cea6557368470800000000000000
+      internalID: 8396459395284475247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 100
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94840e2ddd9f701d0800000000000000
+      internalID: -3384461863824635831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_53
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 33
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa18c106cdc35f90800000000000000
+      internalID: -6965997948294915410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 25
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab16034f7f3149af0800000000000000
+      internalID: -390665311999729222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_55
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eafd09bea9651770800000000000000
+      internalID: 8580880864174275303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_56
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 133
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a0655b6316a4700800000000000000
+      internalID: 525339194140527199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_57
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 95
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5324913d2dbed60800000000000000
+      internalID: 7920656173764851157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_58
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 35
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e5d50d26d543560800000000000000
+      internalID: 7292556375603633811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_59
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 111
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056b1a1ff8a917d90800000000000000
+      internalID: -7101725194361653680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_HitFlash_60
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 51
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec75352b37701b050800000000000000
+      internalID: 5814436787406460878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Enemy1_HitFlash_0: 8276439178221787077
+      VFX_Enemy1_HitFlash_1: 997082214093846821
+      VFX_Enemy1_HitFlash_10: -4059945781083592553
+      VFX_Enemy1_HitFlash_11: 5632337839834323199
+      VFX_Enemy1_HitFlash_12: 3144693596637871756
+      VFX_Enemy1_HitFlash_13: 8771145347754848283
+      VFX_Enemy1_HitFlash_14: 3149526475938064307
+      VFX_Enemy1_HitFlash_15: -1469151979245668161
+      VFX_Enemy1_HitFlash_16: -530523171841488248
+      VFX_Enemy1_HitFlash_17: -5569442457320132287
+      VFX_Enemy1_HitFlash_18: 364126829263540376
+      VFX_Enemy1_HitFlash_19: -4805536207664214329
+      VFX_Enemy1_HitFlash_2: -439121189133357663
+      VFX_Enemy1_HitFlash_20: 7571118597509837847
+      VFX_Enemy1_HitFlash_21: -6826092592723469639
+      VFX_Enemy1_HitFlash_22: 8629542198512358287
+      VFX_Enemy1_HitFlash_23: 5520843150199648224
+      VFX_Enemy1_HitFlash_24: 9153354060231931244
+      VFX_Enemy1_HitFlash_25: -5565709656872962928
+      VFX_Enemy1_HitFlash_26: 8455367215627777500
+      VFX_Enemy1_HitFlash_27: -337892726195281073
+      VFX_Enemy1_HitFlash_28: 1205014627650605450
+      VFX_Enemy1_HitFlash_29: 8537601322930885481
+      VFX_Enemy1_HitFlash_3: 7895142899054421772
+      VFX_Enemy1_HitFlash_30: 500850525013929942
+      VFX_Enemy1_HitFlash_31: 5675578075068001392
+      VFX_Enemy1_HitFlash_32: 749152000940033913
+      VFX_Enemy1_HitFlash_33: -8553330542460776948
+      VFX_Enemy1_HitFlash_34: 3790552601162417383
+      VFX_Enemy1_HitFlash_35: -8051168825628822993
+      VFX_Enemy1_HitFlash_36: -4101461896054775733
+      VFX_Enemy1_HitFlash_37: -7183351729234512106
+      VFX_Enemy1_HitFlash_38: -1598486660497700069
+      VFX_Enemy1_HitFlash_39: -1299345957702873994
+      VFX_Enemy1_HitFlash_4: -43862626104126734
+      VFX_Enemy1_HitFlash_40: 1860189023044413378
+      VFX_Enemy1_HitFlash_41: 7460870277184641430
+      VFX_Enemy1_HitFlash_42: 1594098325498127605
+      VFX_Enemy1_HitFlash_43: -1546314847843740318
+      VFX_Enemy1_HitFlash_44: -8067617166142863593
+      VFX_Enemy1_HitFlash_45: -975448952513734737
+      VFX_Enemy1_HitFlash_46: -1347208974741312802
+      VFX_Enemy1_HitFlash_47: -9091371661683041845
+      VFX_Enemy1_HitFlash_48: -6694610928048883902
+      VFX_Enemy1_HitFlash_49: 2754073423780393528
+      VFX_Enemy1_HitFlash_5: -8580242151641712987
+      VFX_Enemy1_HitFlash_50: -8092415306562315632
+      VFX_Enemy1_HitFlash_51: 8396459395284475247
+      VFX_Enemy1_HitFlash_52: -3384461863824635831
+      VFX_Enemy1_HitFlash_53: -6965997948294915410
+      VFX_Enemy1_HitFlash_54: -390665311999729222
+      VFX_Enemy1_HitFlash_55: 8580880864174275303
+      VFX_Enemy1_HitFlash_56: 525339194140527199
+      VFX_Enemy1_HitFlash_57: 7920656173764851157
+      VFX_Enemy1_HitFlash_58: 7292556375603633811
+      VFX_Enemy1_HitFlash_59: -7101725194361653680
+      VFX_Enemy1_HitFlash_6: 596504955707511157
+      VFX_Enemy1_HitFlash_60: 5814436787406460878
+      VFX_Enemy1_HitFlash_7: 398111830202462481
+      VFX_Enemy1_HitFlash_8: 6239454700888600481
+      VFX_Enemy1_HitFlash_9: 5609134643673314367
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

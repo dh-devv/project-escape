@@ -1,0 +1,65 @@
+{
+  "name": "Player_P1_JumpStart",
+  "sourcePage": 3,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    30
+  ],
+  "sourceRegions": [
+    [
+      192,
+      159,
+      560,
+      691
+    ],
+    [
+      859,
+      229,
+      1263,
+      691
+    ],
+    [
+      1584,
+      78,
+      1957,
+      675
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "615856cb2332d239cdb38328c664aae9b34842a92bc04c3d8b17f52177807ae6",
+  "spriteSha256": "9550ae1bc61d3dcc20f0584475c86aec363136a22be984f5e43cdfc4e7c6b739"
+}

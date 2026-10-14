@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: 7b7a6db4f318474418548226cad87dc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6966756657603240979
+    second: VFX_Common_SmallHitFlash_0
+  - first:
+      213: -4386305594738706605
+    second: VFX_Common_SmallHitFlash_1
+  - first:
+      213: 4418061234668992038
+    second: VFX_Common_SmallHitFlash_2
+  - first:
+      213: 6453780362471313523
+    second: VFX_Common_SmallHitFlash_3
+  - first:
+      213: -3278365519728594868
+    second: VFX_Common_SmallHitFlash_4
+  - first:
+      213: 5827287689585893134
+    second: VFX_Common_SmallHitFlash_5
+  - first:
+      213: -1166167516121130178
+    second: VFX_Common_SmallHitFlash_6
+  - first:
+      213: 8935967534763370921
+    second: VFX_Common_SmallHitFlash_7
+  - first:
+      213: -8288702203949747235
+    second: VFX_Common_SmallHitFlash_8
+  - first:
+      213: -1474198403688039311
+    second: VFX_Common_SmallHitFlash_9
+  - first:
+      213: 3380594796038384908
+    second: VFX_Common_SmallHitFlash_10
+  - first:
+      213: -5354793205028803479
+    second: VFX_Common_SmallHitFlash_11
+  - first:
+      213: -7683082392220660695
+    second: VFX_Common_SmallHitFlash_12
+  - first:
+      213: 3448929028527560470
+    second: VFX_Common_SmallHitFlash_13
+  - first:
+      213: 6778783730002696127
+    second: VFX_Common_SmallHitFlash_14
+  - first:
+      213: -3710822096607089174
+    second: VFX_Common_SmallHitFlash_15
+  - first:
+      213: 104517600112257761
+    second: VFX_Common_SmallHitFlash_16
+  - first:
+      213: 3805985755138537241
+    second: VFX_Common_SmallHitFlash_17
+  - first:
+      213: 734999237397722827
+    second: VFX_Common_SmallHitFlash_18
+  - first:
+      213: -4510414974698416335
+    second: VFX_Common_SmallHitFlash_19
+  - first:
+      213: 3184587383425676425
+    second: VFX_Common_SmallHitFlash_20
+  - first:
+      213: 4657816571125522204
+    second: VFX_Common_SmallHitFlash_21
+  - first:
+      213: 2800902388802989333
+    second: VFX_Common_SmallHitFlash_22
+  - first:
+      213: -4265799645210251888
+    second: VFX_Common_SmallHitFlash_23
+  - first:
+      213: 8955571605521940188
+    second: VFX_Common_SmallHitFlash_24
+  - first:
+      213: 6819244977287987175
+    second: VFX_Common_SmallHitFlash_25
+  - first:
+      213: -869738468443909497
+    second: VFX_Common_SmallHitFlash_26
+  - first:
+      213: -7032806316947809936
+    second: VFX_Common_SmallHitFlash_27
+  - first:
+      213: -2213186702984970878
+    second: VFX_Common_SmallHitFlash_28
+  - first:
+      213: -3686044235203263686
+    second: VFX_Common_SmallHitFlash_29
+  - first:
+      213: 397016393955767005
+    second: VFX_Common_SmallHitFlash_30
+  - first:
+      213: -1577065927220676039
+    second: VFX_Common_SmallHitFlash_31
+  - first:
+      213: 7700817454488166938
+    second: VFX_Common_SmallHitFlash_32
+  - first:
+      213: -1548617103930715362
+    second: VFX_Common_SmallHitFlash_33
+  - first:
+      213: 3862165592814148653
+    second: VFX_Common_SmallHitFlash_34
+  - first:
+      213: -3843323133625567128
+    second: VFX_Common_SmallHitFlash_35
+  - first:
+      213: 6272616731472404369
+    second: VFX_Common_SmallHitFlash_36
+  - first:
+      213: -6318613790476728246
+    second: VFX_Common_SmallHitFlash_37
+  - first:
+      213: -8887868576524912544
+    second: VFX_Common_SmallHitFlash_38
+  - first:
+      213: 6763267924791265045
+    second: VFX_Common_SmallHitFlash_39
+  - first:
+      213: -7843280618699686737
+    second: VFX_Common_SmallHitFlash_40
+  - first:
+      213: -7222695559412032590
+    second: VFX_Common_SmallHitFlash_41
+  - first:
+      213: -8302420831446370478
+    second: VFX_Common_SmallHitFlash_42
+  - first:
+      213: -3800830442454913150
+    second: VFX_Common_SmallHitFlash_43
+  - first:
+      213: 8611517695369159753
+    second: VFX_Common_SmallHitFlash_44
+  - first:
+      213: 3776790641259408677
+    second: VFX_Common_SmallHitFlash_45
+  - first:
+      213: -6332597566190553173
+    second: VFX_Common_SmallHitFlash_46
+  - first:
+      213: 4489548051401304959
+    second: VFX_Common_SmallHitFlash_47
+  - first:
+      213: 3432780843610253273
+    second: VFX_Common_SmallHitFlash_48
+  - first:
+      213: -8323876297904268616
+    second: VFX_Common_SmallHitFlash_49
+  - first:
+      213: -7700689172513918523
+    second: VFX_Common_SmallHitFlash_50
+  - first:
+      213: 845438424023010636
+    second: VFX_Common_SmallHitFlash_51
+  - first:
+      213: 5973345632858427922
+    second: VFX_Common_SmallHitFlash_52
+  - first:
+      213: 3449172208482516061
+    second: VFX_Common_SmallHitFlash_53
+  - first:
+      213: 7563740796315179156
+    second: VFX_Common_SmallHitFlash_54
+  - first:
+      213: 4677145691656890942
+    second: VFX_Common_SmallHitFlash_55
+  - first:
+      213: -8938361605279194891
+    second: VFX_Common_SmallHitFlash_56
+  - first:
+      213: -2468036390709883749
+    second: VFX_Common_SmallHitFlash_57
+  - first:
+      213: -169119008458848844
+    second: VFX_Common_SmallHitFlash_58
+  - first:
+      213: 172896031284406061
+    second: VFX_Common_SmallHitFlash_59
+  - first:
+      213: -1126036401559851130
+    second: VFX_Common_SmallHitFlash_60
+  - first:
+      213: -7602056760587288354
+    second: VFX_Common_SmallHitFlash_61
+  - first:
+      213: -1582108763241535760
+    second: VFX_Common_SmallHitFlash_62
+  - first:
+      213: 199945955677729788
+    second: VFX_Common_SmallHitFlash_63
+  - first:
+      213: 8073612870340104199
+    second: VFX_Common_SmallHitFlash_64
+  - first:
+      213: 2248920772478709160
+    second: VFX_Common_SmallHitFlash_65
+  - first:
+      213: 2412999889382538076
+    second: VFX_Common_SmallHitFlash_66
+  - first:
+      213: -3238150345699652126
+    second: VFX_Common_SmallHitFlash_67
+  - first:
+      213: -6809267307283956493
+    second: VFX_Common_SmallHitFlash_68
+  - first:
+      213: 8416778417229410021
+    second: VFX_Common_SmallHitFlash_69
+  - first:
+      213: 7433191973718380568
+    second: VFX_Common_SmallHitFlash_70
+  - first:
+      213: 6636793962658522434
+    second: VFX_Common_SmallHitFlash_71
+  - first:
+      213: 8864055695886805142
+    second: VFX_Common_SmallHitFlash_72
+  - first:
+      213: -5073467115608302954
+    second: VFX_Common_SmallHitFlash_73
+  - first:
+      213: -3856527562496620927
+    second: VFX_Common_SmallHitFlash_74
+  - first:
+      213: -3197231988151552410
+    second: VFX_Common_SmallHitFlash_75
+  - first:
+      213: -7654318276263362975
+    second: VFX_Common_SmallHitFlash_76
+  - first:
+      213: -1667478307117793251
+    second: VFX_Common_SmallHitFlash_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 283
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb98fa3bbb115f90800000000000000
+      internalID: -6966756657603240979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 474
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3577a4d1d46b023c0800000000000000
+      internalID: -4386305594738706605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 192
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6267e58f84b105d30800000000000000
+      internalID: 4418061234668992038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_3
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 474
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3709e7bcb0f609950800000000000000
+      internalID: 6453780362471313523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 418
+        width: 18
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4030b8ede7e082d0800000000000000
+      internalID: -3278365519728594868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_5
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 281
+        width: 181
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f16c5874faed050800000000000000
+      internalID: 5827287689585893134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_6
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 477
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b100d92d0f0dfe0800000000000000
+      internalID: -1166167516121130178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 436
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a96ef9c02fe20c70800000000000000
+      internalID: 8935967534763370921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 465
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3f39cc24d98fc80800000000000000
+      internalID: -8288702203949747235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 456
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cf9bbcc589a8be0800000000000000
+      internalID: -1474198403688039311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 464
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0de66b4e094aee20800000000000000
+      internalID: 3380594796038384908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 341
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c259073f3ffa5b0800000000000000
+      internalID: -5354793205028803479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 345
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c01af5545306590800000000000000
+      internalID: -7683082392220660695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 359
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6171be0adae0ddf20800000000000000
+      internalID: 3448929028527560470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 330
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7120c03e3131e50800000000000000
+      internalID: 6778783730002696127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 406
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed6013c6f2808cc0800000000000000
+      internalID: -3710822096607089174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 351
+        width: 16
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaa77b1432537100800000000000000
+      internalID: 104517600112257761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 307
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917ba3b11e391d430800000000000000
+      internalID: 3805985755138537241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 327
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6364789ed333a00800000000000000
+      internalID: 734999237397722827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_19
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 327
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1379f7b4a79c761c0800000000000000
+      internalID: -4510414974698416335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 303
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98437414a5de13c20800000000000000
+      internalID: 3184587383425676425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 315
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f5dd64e73e3a040800000000000000
+      internalID: 4657816571125522204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 295
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d252ff1edced620800000000000000
+      internalID: 2800902388802989333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 302
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d6148e2d5dcc4c0800000000000000
+      internalID: -4265799645210251888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 295
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeb5b33de4984c70800000000000000
+      internalID: 8955571605521940188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 307
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7effd9b4d23d2ae50800000000000000
+      internalID: 6819244977287987175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 305
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78298e498711ee3f0800000000000000
+      internalID: -869738468443909497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 300
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079d3388ae3766e90800000000000000
+      internalID: -7032806316947809936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d76fa6b6e2941e0800000000000000
+      internalID: -2213186702984970878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_29
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 305
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33455e2c4a88dcc0800000000000000
+      internalID: -3686044235203263686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_30
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 306
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd27dbb8e4c728500800000000000000
+      internalID: 397016393955767005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 309
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ab3a415e22d1ae0800000000000000
+      internalID: -1577065927220676039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_32
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1225e69cacceda60800000000000000
+      internalID: 7700817454488166938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e139d1be2f4328ae0800000000000000
+      internalID: -1548617103930715362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_34
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 305
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c5c6fd42b299530800000000000000
+      internalID: 3862165592814148653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 311
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868f43709f5c9aac0800000000000000
+      internalID: -3843323133625567128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_36
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 299
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f959bfeafcc0750800000000000000
+      internalID: 6272616731472404369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 298
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4800c92c36cf48a0800000000000000
+      internalID: -6318613790476728246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 281
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06830ed9e92f7a480800000000000000
+      internalID: -8887868576524912544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 292
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5170af12854fbdd50800000000000000
+      internalID: 6763267924791265045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 281
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facf2b035d1172390800000000000000
+      internalID: -7843280618699686737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_41
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 295
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb547cf7a4d3cb90800000000000000
+      internalID: -7222695559412032590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_42
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 291
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257f5dded30e7cc80800000000000000
+      internalID: -8302420831446370478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28febf9a9dcb04bc0800000000000000
+      internalID: -3800830442454913150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_44
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 281
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442879d7b1428770800000000000000
+      internalID: 8611517695369159753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_45
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 281
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d6943f31bd96430800000000000000
+      internalID: 3776790641259408677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 225
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba775b9a0181e18a0800000000000000
+      internalID: -6332597566190553173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 161
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b62d58a241e4e30800000000000000
+      internalID: 4489548051401304959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 201
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7a7275dffa3af20800000000000000
+      internalID: 3432780843610253273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 200
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba5f1ddb96ab7c80800000000000000
+      internalID: -8323876297904268616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 172
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c17c926ff7a12590800000000000000
+      internalID: -7700689172513918523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_51
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 215
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d8b5f64c99bbb00800000000000000
+      internalID: 845438424023010636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 214
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2125827743695e250800000000000000
+      internalID: 5973345632858427922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_53
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 212
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cffbf59dbeddf20800000000000000
+      internalID: 3449172208482516061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_54
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 220
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4981f790e2ec7f860800000000000000
+      internalID: 7563740796315179156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_55
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 35
+        width: 193
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a25f9d93f88e040800000000000000
+      internalID: 4677145691656890942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_56
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0e75b3a7f84f380800000000000000
+      internalID: -8938361605279194891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 167
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c00079af5cfbdd0800000000000000
+      internalID: -2468036390709883749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_58
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 210
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b54b08682b27adf0800000000000000
+      internalID: -169119008458848844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_59
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 203
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2728cf3600466200800000000000000
+      internalID: 172896031284406061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_60
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 212
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fadd8dbd38f50f0800000000000000
+      internalID: -1126036401559851130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_61
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 198
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed086d657a1108690800000000000000
+      internalID: -7602056760587288354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 194
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6a4f256783b0ae0800000000000000
+      internalID: -1582108763241535760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 181
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3727e89c956c200800000000000000
+      internalID: 199945955677729788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 32
+        width: 40
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700d4a6312c3b0070800000000000000
+      internalID: 8073612870340104199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad279bf685c53f10800000000000000
+      internalID: 2248920772478709160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_66
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 171
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bf3b16d92bc7120800000000000000
+      internalID: 2412999889382538076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_67
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 182
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed8343ca67cf03d0800000000000000
+      internalID: -3238150345699652126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_68
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 124
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcb8a8067f9081a0800000000000000
+      internalID: -6809267307283956493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_69
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 148
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee222060676ec470800000000000000
+      internalID: 8416778417229410021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810d4c4a7b0082760800000000000000
+      internalID: 7433191973718380568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_71
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 156
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245e7bf12f0aa1c50800000000000000
+      internalID: 6636793962658522434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 44
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6986c9e01b3730b70800000000000000
+      internalID: 8864055695886805142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_73
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 154
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a9a8ae98c6799b0800000000000000
+      internalID: -5073467115608302954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_74
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 72
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186c2ea5d9cda7ac0800000000000000
+      internalID: -3856527562496620927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_75
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 67
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666f5b9427621a3d0800000000000000
+      internalID: -3197231988151552410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_76
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 31
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16eba81051666c590800000000000000
+      internalID: -7654318276263362975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_SmallHitFlash_77
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 38
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d100399705debd8e0800000000000000
+      internalID: -1667478307117793251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_SmallHitFlash_0: -6966756657603240979
+      VFX_Common_SmallHitFlash_1: -4386305594738706605
+      VFX_Common_SmallHitFlash_10: 3380594796038384908
+      VFX_Common_SmallHitFlash_11: -5354793205028803479
+      VFX_Common_SmallHitFlash_12: -7683082392220660695
+      VFX_Common_SmallHitFlash_13: 3448929028527560470
+      VFX_Common_SmallHitFlash_14: 6778783730002696127
+      VFX_Common_SmallHitFlash_15: -3710822096607089174
+      VFX_Common_SmallHitFlash_16: 104517600112257761
+      VFX_Common_SmallHitFlash_17: 3805985755138537241
+      VFX_Common_SmallHitFlash_18: 734999237397722827
+      VFX_Common_SmallHitFlash_19: -4510414974698416335
+      VFX_Common_SmallHitFlash_2: 4418061234668992038
+      VFX_Common_SmallHitFlash_20: 3184587383425676425
+      VFX_Common_SmallHitFlash_21: 4657816571125522204
+      VFX_Common_SmallHitFlash_22: 2800902388802989333
+      VFX_Common_SmallHitFlash_23: -4265799645210251888
+      VFX_Common_SmallHitFlash_24: 8955571605521940188
+      VFX_Common_SmallHitFlash_25: 6819244977287987175
+      VFX_Common_SmallHitFlash_26: -869738468443909497
+      VFX_Common_SmallHitFlash_27: -7032806316947809936
+      VFX_Common_SmallHitFlash_28: -2213186702984970878
+      VFX_Common_SmallHitFlash_29: -3686044235203263686
+      VFX_Common_SmallHitFlash_3: 6453780362471313523
+      VFX_Common_SmallHitFlash_30: 397016393955767005
+      VFX_Common_SmallHitFlash_31: -1577065927220676039
+      VFX_Common_SmallHitFlash_32: 7700817454488166938
+      VFX_Common_SmallHitFlash_33: -1548617103930715362
+      VFX_Common_SmallHitFlash_34: 3862165592814148653
+      VFX_Common_SmallHitFlash_35: -3843323133625567128
+      VFX_Common_SmallHitFlash_36: 6272616731472404369
+      VFX_Common_SmallHitFlash_37: -6318613790476728246
+      VFX_Common_SmallHitFlash_38: -8887868576524912544
+      VFX_Common_SmallHitFlash_39: 6763267924791265045
+      VFX_Common_SmallHitFlash_4: -3278365519728594868
+      VFX_Common_SmallHitFlash_40: -7843280618699686737
+      VFX_Common_SmallHitFlash_41: -7222695559412032590
+      VFX_Common_SmallHitFlash_42: -8302420831446370478
+      VFX_Common_SmallHitFlash_43: -3800830442454913150
+      VFX_Common_SmallHitFlash_44: 8611517695369159753
+      VFX_Common_SmallHitFlash_45: 3776790641259408677
+      VFX_Common_SmallHitFlash_46: -6332597566190553173
+      VFX_Common_SmallHitFlash_47: 4489548051401304959
+      VFX_Common_SmallHitFlash_48: 3432780843610253273
+      VFX_Common_SmallHitFlash_49: -8323876297904268616
+      VFX_Common_SmallHitFlash_5: 5827287689585893134
+      VFX_Common_SmallHitFlash_50: -7700689172513918523
+      VFX_Common_SmallHitFlash_51: 845438424023010636
+      VFX_Common_SmallHitFlash_52: 5973345632858427922
+      VFX_Common_SmallHitFlash_53: 3449172208482516061
+      VFX_Common_SmallHitFlash_54: 7563740796315179156
+      VFX_Common_SmallHitFlash_55: 4677145691656890942
+      VFX_Common_SmallHitFlash_56: -8938361605279194891
+      VFX_Common_SmallHitFlash_57: -2468036390709883749
+      VFX_Common_SmallHitFlash_58: -169119008458848844
+      VFX_Common_SmallHitFlash_59: 172896031284406061
+      VFX_Common_SmallHitFlash_6: -1166167516121130178
+      VFX_Common_SmallHitFlash_60: -1126036401559851130
+      VFX_Common_SmallHitFlash_61: -7602056760587288354
+      VFX_Common_SmallHitFlash_62: -1582108763241535760
+      VFX_Common_SmallHitFlash_63: 199945955677729788
+      VFX_Common_SmallHitFlash_64: 8073612870340104199
+      VFX_Common_SmallHitFlash_65: 2248920772478709160
+      VFX_Common_SmallHitFlash_66: 2412999889382538076
+      VFX_Common_SmallHitFlash_67: -3238150345699652126
+      VFX_Common_SmallHitFlash_68: -6809267307283956493
+      VFX_Common_SmallHitFlash_69: 8416778417229410021
+      VFX_Common_SmallHitFlash_7: 8935967534763370921
+      VFX_Common_SmallHitFlash_70: 7433191973718380568
+      VFX_Common_SmallHitFlash_71: 6636793962658522434
+      VFX_Common_SmallHitFlash_72: 8864055695886805142
+      VFX_Common_SmallHitFlash_73: -5073467115608302954
+      VFX_Common_SmallHitFlash_74: -3856527562496620927
+      VFX_Common_SmallHitFlash_75: -3197231988151552410
+      VFX_Common_SmallHitFlash_76: -7654318276263362975
+      VFX_Common_SmallHitFlash_77: -1667478307117793251
+      VFX_Common_SmallHitFlash_8: -8288702203949747235
+      VFX_Common_SmallHitFlash_9: -1474198403688039311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

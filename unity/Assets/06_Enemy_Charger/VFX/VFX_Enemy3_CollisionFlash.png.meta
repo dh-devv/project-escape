@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: cc01c40b477188c4da3490f8cef6cfe5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7815075124754110591
+    second: VFX_Enemy3_CollisionFlash_0
+  - first:
+      213: 7239521408591375301
+    second: VFX_Enemy3_CollisionFlash_1
+  - first:
+      213: -2818582353923338265
+    second: VFX_Enemy3_CollisionFlash_2
+  - first:
+      213: -8173207271016460153
+    second: VFX_Enemy3_CollisionFlash_3
+  - first:
+      213: 6759364409912106602
+    second: VFX_Enemy3_CollisionFlash_4
+  - first:
+      213: 7152694430607420980
+    second: VFX_Enemy3_CollisionFlash_5
+  - first:
+      213: -886201777364405337
+    second: VFX_Enemy3_CollisionFlash_6
+  - first:
+      213: 4213235826487715192
+    second: VFX_Enemy3_CollisionFlash_7
+  - first:
+      213: 759701125841298333
+    second: VFX_Enemy3_CollisionFlash_8
+  - first:
+      213: 3143414850297476040
+    second: VFX_Enemy3_CollisionFlash_9
+  - first:
+      213: -5338554585278693786
+    second: VFX_Enemy3_CollisionFlash_10
+  - first:
+      213: 295433947904595259
+    second: VFX_Enemy3_CollisionFlash_11
+  - first:
+      213: -6077598245190102880
+    second: VFX_Enemy3_CollisionFlash_12
+  - first:
+      213: 9077793339024118693
+    second: VFX_Enemy3_CollisionFlash_13
+  - first:
+      213: 6499036307019631980
+    second: VFX_Enemy3_CollisionFlash_14
+  - first:
+      213: 8647597752520720422
+    second: VFX_Enemy3_CollisionFlash_15
+  - first:
+      213: 9085630856532761860
+    second: VFX_Enemy3_CollisionFlash_16
+  - first:
+      213: -5199362204526219310
+    second: VFX_Enemy3_CollisionFlash_17
+  - first:
+      213: -3286891662705551720
+    second: VFX_Enemy3_CollisionFlash_18
+  - first:
+      213: -1283266928759066674
+    second: VFX_Enemy3_CollisionFlash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 281
+        width: 187
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1872a0084964b8390800000000000000
+      internalID: -7815075124754110591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 448
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbacee4d52f77460800000000000000
+      internalID: 7239521408591375301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 454
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef0738584262e8d0800000000000000
+      internalID: -2818582353923338265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 35
+        width: 205
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7809c6f5a4fe29e80800000000000000
+      internalID: -8173207271016460153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 296
+        width: 188
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e9a304e161ecd50800000000000000
+      internalID: 6759364409912106602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_5
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 436
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e254320b9734360800000000000000
+      internalID: 7152694430607420980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_6
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 300
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3ffd4cd2493b3f0800000000000000
+      internalID: -886201777364405337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_7
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 301
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875efb859ab687a30800000000000000
+      internalID: 4213235826487715192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 38
+        width: 188
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d932c3d16200b8a00800000000000000
+      internalID: 759701125841298333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 204
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c33badd627af9b20800000000000000
+      internalID: 3143414850297476040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 148
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e3e6ab3e4a9e5b0800000000000000
+      internalID: -5338554585278693786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 147
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35d17f3c97991400800000000000000
+      internalID: 295433947904595259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 163
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a018e3b89808aba0800000000000000
+      internalID: -6077598245190102880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 124
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a390f412fccafd70800000000000000
+      internalID: 9077793339024118693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 107
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d854e7617313a50800000000000000
+      internalID: 6499036307019631980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 140
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620c677c650720870800000000000000
+      internalID: 8647597752520720422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 86
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d96f35025a61e70800000000000000
+      internalID: 9085630856532761860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 100
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df6f945f9728d7b0800000000000000
+      internalID: -5199362204526219310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 74
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8961e3d827d9262d0800000000000000
+      internalID: -3286891662705551720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionFlash_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf2f4ff68be03ee0800000000000000
+      internalID: -1283266928759066674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Enemy3_CollisionFlash_0: -7815075124754110591
+      VFX_Enemy3_CollisionFlash_1: 7239521408591375301
+      VFX_Enemy3_CollisionFlash_10: -5338554585278693786
+      VFX_Enemy3_CollisionFlash_11: 295433947904595259
+      VFX_Enemy3_CollisionFlash_12: -6077598245190102880
+      VFX_Enemy3_CollisionFlash_13: 9077793339024118693
+      VFX_Enemy3_CollisionFlash_14: 6499036307019631980
+      VFX_Enemy3_CollisionFlash_15: 8647597752520720422
+      VFX_Enemy3_CollisionFlash_16: 9085630856532761860
+      VFX_Enemy3_CollisionFlash_17: -5199362204526219310
+      VFX_Enemy3_CollisionFlash_18: -3286891662705551720
+      VFX_Enemy3_CollisionFlash_19: -1283266928759066674
+      VFX_Enemy3_CollisionFlash_2: -2818582353923338265
+      VFX_Enemy3_CollisionFlash_3: -8173207271016460153
+      VFX_Enemy3_CollisionFlash_4: 6759364409912106602
+      VFX_Enemy3_CollisionFlash_5: 7152694430607420980
+      VFX_Enemy3_CollisionFlash_6: -886201777364405337
+      VFX_Enemy3_CollisionFlash_7: 4213235826487715192
+      VFX_Enemy3_CollisionFlash_8: 759701125841298333
+      VFX_Enemy3_CollisionFlash_9: 3143414850297476040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

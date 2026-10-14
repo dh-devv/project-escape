@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 38c6ef4e1af7896458081bd16be183a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 924384137530470920
+    second: VFX_Common_Dust_0
+  - first:
+      213: -4540177458642296800
+    second: VFX_Common_Dust_1
+  - first:
+      213: 8565577394742827901
+    second: VFX_Common_Dust_2
+  - first:
+      213: -2758569997806097394
+    second: VFX_Common_Dust_3
+  - first:
+      213: 5636406809949735362
+    second: VFX_Common_Dust_4
+  - first:
+      213: 2551288512334404040
+    second: VFX_Common_Dust_5
+  - first:
+      213: 2640553235504721961
+    second: VFX_Common_Dust_6
+  - first:
+      213: -8250042206984828947
+    second: VFX_Common_Dust_7
+  - first:
+      213: 942517437975412225
+    second: VFX_Common_Dust_8
+  - first:
+      213: 2799911564102857245
+    second: VFX_Common_Dust_9
+  - first:
+      213: 971062059809927670
+    second: VFX_Common_Dust_10
+  - first:
+      213: 6228821992092495828
+    second: VFX_Common_Dust_11
+  - first:
+      213: 8697588522183872509
+    second: VFX_Common_Dust_12
+  - first:
+      213: -1105517682796688205
+    second: VFX_Common_Dust_13
+  - first:
+      213: -8332860870986922570
+    second: VFX_Common_Dust_14
+  - first:
+      213: 7771934767331488075
+    second: VFX_Common_Dust_15
+  - first:
+      213: -2108675605767671216
+    second: VFX_Common_Dust_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_Dust_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 291
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8027289b97214dc00800000000000000
+      internalID: 924384137530470920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 363
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e36008ac0ef0c0800000000000000
+      internalID: -4540177458642296800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 144
+        width: 171
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b13c5124b0fd670800000000000000
+      internalID: 8565577394742827901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 179
+        width: 201
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ca7b8d33797b9d0800000000000000
+      internalID: -2758569997806097394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 332
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c985a4712a883e40800000000000000
+      internalID: 5636406809949735362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 325
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c91a39726ff76320800000000000000
+      internalID: 2551288512334404040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_6
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 323
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92074cc6d2125a420800000000000000
+      internalID: 2640553235504721961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 289
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de780b6c256f18d80800000000000000
+      internalID: -8250042206984828947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 69
+        width: 196
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eb22dbd9e741d00800000000000000
+      internalID: 942517437975412225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 147
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12fbd4abb84bd620800000000000000
+      internalID: 2799911564102857245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 185
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f174d96cc7e97d00800000000000000
+      internalID: 971062059809927670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 168
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df60df9998317650800000000000000
+      internalID: 6228821992092495828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 145
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffc84bddaa04b870800000000000000
+      internalID: 8697588522183872509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 130
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc8df7568968a0f0800000000000000
+      internalID: -1105517682796688205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 94
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5821eef2bbb5c80800000000000000
+      internalID: -8332860870986922570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 63
+        width: 196
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b413d405e757bdb60800000000000000
+      internalID: 7771934767331488075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Dust_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 47
+        width: 164
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052bfa375ba7cb2e0800000000000000
+      internalID: -2108675605767671216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_Dust_0: 924384137530470920
+      VFX_Common_Dust_1: -4540177458642296800
+      VFX_Common_Dust_10: 971062059809927670
+      VFX_Common_Dust_11: 6228821992092495828
+      VFX_Common_Dust_12: 8697588522183872509
+      VFX_Common_Dust_13: -1105517682796688205
+      VFX_Common_Dust_14: -8332860870986922570
+      VFX_Common_Dust_15: 7771934767331488075
+      VFX_Common_Dust_16: -2108675605767671216
+      VFX_Common_Dust_2: 8565577394742827901
+      VFX_Common_Dust_3: -2758569997806097394
+      VFX_Common_Dust_4: 5636406809949735362
+      VFX_Common_Dust_5: 2551288512334404040
+      VFX_Common_Dust_6: 2640553235504721961
+      VFX_Common_Dust_7: -8250042206984828947
+      VFX_Common_Dust_8: 942517437975412225
+      VFX_Common_Dust_9: 2799911564102857245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

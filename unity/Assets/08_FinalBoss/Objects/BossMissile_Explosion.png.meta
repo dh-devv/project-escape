@@ -1,0 +1,3991 @@
+fileFormatVersion: 2
+guid: e68cfb029a2773b499a0119872a4c3ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 142304981189400009
+    second: BossMissile_Explosion_0
+  - first:
+      213: -2624097310782630023
+    second: BossMissile_Explosion_1
+  - first:
+      213: 2272563708508978040
+    second: BossMissile_Explosion_2
+  - first:
+      213: -4326303643111902837
+    second: BossMissile_Explosion_3
+  - first:
+      213: 5341536274117052509
+    second: BossMissile_Explosion_4
+  - first:
+      213: -23596301092855051
+    second: BossMissile_Explosion_5
+  - first:
+      213: -4506790680936458317
+    second: BossMissile_Explosion_6
+  - first:
+      213: 2546659290200247069
+    second: BossMissile_Explosion_7
+  - first:
+      213: 66480305318076053
+    second: BossMissile_Explosion_8
+  - first:
+      213: 3232357764289420316
+    second: BossMissile_Explosion_9
+  - first:
+      213: 8050504214254681877
+    second: BossMissile_Explosion_10
+  - first:
+      213: -4391000428620896567
+    second: BossMissile_Explosion_11
+  - first:
+      213: -4634182812558653918
+    second: BossMissile_Explosion_12
+  - first:
+      213: 2682722530290364537
+    second: BossMissile_Explosion_13
+  - first:
+      213: -7434956786063604498
+    second: BossMissile_Explosion_14
+  - first:
+      213: 2372689626058717631
+    second: BossMissile_Explosion_15
+  - first:
+      213: -8554256624668492525
+    second: BossMissile_Explosion_16
+  - first:
+      213: 1040648385613772625
+    second: BossMissile_Explosion_17
+  - first:
+      213: 2042634752050965920
+    second: BossMissile_Explosion_18
+  - first:
+      213: 5557035587681222080
+    second: BossMissile_Explosion_19
+  - first:
+      213: 1342314380306968381
+    second: BossMissile_Explosion_20
+  - first:
+      213: 1980013566864465701
+    second: BossMissile_Explosion_21
+  - first:
+      213: 6489484510922655217
+    second: BossMissile_Explosion_22
+  - first:
+      213: 182023964159034623
+    second: BossMissile_Explosion_23
+  - first:
+      213: 571170911408295591
+    second: BossMissile_Explosion_24
+  - first:
+      213: -4615463685990524609
+    second: BossMissile_Explosion_25
+  - first:
+      213: 8146512826342302183
+    second: BossMissile_Explosion_26
+  - first:
+      213: 7486902456479910761
+    second: BossMissile_Explosion_27
+  - first:
+      213: -5315683804618323828
+    second: BossMissile_Explosion_28
+  - first:
+      213: 4372334293970954556
+    second: BossMissile_Explosion_29
+  - first:
+      213: 3713920451618804517
+    second: BossMissile_Explosion_30
+  - first:
+      213: -4230530580893961155
+    second: BossMissile_Explosion_31
+  - first:
+      213: 1390132104826061020
+    second: BossMissile_Explosion_32
+  - first:
+      213: 7996818962600259297
+    second: BossMissile_Explosion_33
+  - first:
+      213: 3401606659477232293
+    second: BossMissile_Explosion_34
+  - first:
+      213: 4172660921843117527
+    second: BossMissile_Explosion_35
+  - first:
+      213: -8110446787284953274
+    second: BossMissile_Explosion_36
+  - first:
+      213: -2740788122071878910
+    second: BossMissile_Explosion_37
+  - first:
+      213: -1074773144519203856
+    second: BossMissile_Explosion_38
+  - first:
+      213: -4958854260468687707
+    second: BossMissile_Explosion_39
+  - first:
+      213: -8521703431185854671
+    second: BossMissile_Explosion_40
+  - first:
+      213: -7760512306574185131
+    second: BossMissile_Explosion_41
+  - first:
+      213: 6386745903493140142
+    second: BossMissile_Explosion_42
+  - first:
+      213: 7290722623921763774
+    second: BossMissile_Explosion_43
+  - first:
+      213: -7509883604082924429
+    second: BossMissile_Explosion_44
+  - first:
+      213: 4437750411877912977
+    second: BossMissile_Explosion_45
+  - first:
+      213: -5760681316211069302
+    second: BossMissile_Explosion_46
+  - first:
+      213: -6005375731960614412
+    second: BossMissile_Explosion_47
+  - first:
+      213: 345432116668894828
+    second: BossMissile_Explosion_48
+  - first:
+      213: -8468150812499111762
+    second: BossMissile_Explosion_49
+  - first:
+      213: 3734613847795244849
+    second: BossMissile_Explosion_50
+  - first:
+      213: -908959661000032097
+    second: BossMissile_Explosion_51
+  - first:
+      213: 3956019923996189848
+    second: BossMissile_Explosion_52
+  - first:
+      213: 4509075696647816622
+    second: BossMissile_Explosion_53
+  - first:
+      213: 933727205807940934
+    second: BossMissile_Explosion_54
+  - first:
+      213: 1503492014329915700
+    second: BossMissile_Explosion_55
+  - first:
+      213: 7009833641927934302
+    second: BossMissile_Explosion_56
+  - first:
+      213: -3655467501975929243
+    second: BossMissile_Explosion_57
+  - first:
+      213: 1926790424221243715
+    second: BossMissile_Explosion_58
+  - first:
+      213: -4213628006562433154
+    second: BossMissile_Explosion_59
+  - first:
+      213: 7288878542779146285
+    second: BossMissile_Explosion_60
+  - first:
+      213: -6389520031018645786
+    second: BossMissile_Explosion_61
+  - first:
+      213: 2699418328459891870
+    second: BossMissile_Explosion_62
+  - first:
+      213: -3616628444169270602
+    second: BossMissile_Explosion_63
+  - first:
+      213: -310121669361119453
+    second: BossMissile_Explosion_64
+  - first:
+      213: 8391484519252573611
+    second: BossMissile_Explosion_65
+  - first:
+      213: 7070684407422056577
+    second: BossMissile_Explosion_66
+  - first:
+      213: 5587754935212327480
+    second: BossMissile_Explosion_67
+  - first:
+      213: 5730949283411997076
+    second: BossMissile_Explosion_68
+  - first:
+      213: -3920379551641357571
+    second: BossMissile_Explosion_69
+  - first:
+      213: 5048875812020087945
+    second: BossMissile_Explosion_70
+  - first:
+      213: 6540940888452232346
+    second: BossMissile_Explosion_71
+  - first:
+      213: -7406592389187558582
+    second: BossMissile_Explosion_72
+  - first:
+      213: 5054483338785107532
+    second: BossMissile_Explosion_73
+  - first:
+      213: -8917024171288738247
+    second: BossMissile_Explosion_74
+  - first:
+      213: 4678430113023024133
+    second: BossMissile_Explosion_75
+  - first:
+      213: -4589843947583656724
+    second: BossMissile_Explosion_76
+  - first:
+      213: -7324493057651012503
+    second: BossMissile_Explosion_77
+  - first:
+      213: -378310911931590666
+    second: BossMissile_Explosion_78
+  - first:
+      213: 7900719626908861843
+    second: BossMissile_Explosion_79
+  - first:
+      213: 8589175007272071080
+    second: BossMissile_Explosion_80
+  - first:
+      213: 8348948669421644762
+    second: BossMissile_Explosion_81
+  - first:
+      213: 5020363809066524278
+    second: BossMissile_Explosion_82
+  - first:
+      213: 9085966532825860918
+    second: BossMissile_Explosion_83
+  - first:
+      213: 9148092551304059443
+    second: BossMissile_Explosion_84
+  - first:
+      213: -5693591522883417644
+    second: BossMissile_Explosion_85
+  - first:
+      213: 7344835628269740982
+    second: BossMissile_Explosion_86
+  - first:
+      213: 5430211755863893718
+    second: BossMissile_Explosion_87
+  - first:
+      213: -6328312231136375670
+    second: BossMissile_Explosion_88
+  - first:
+      213: 7475694923344721291
+    second: BossMissile_Explosion_89
+  - first:
+      213: 6163846907249646789
+    second: BossMissile_Explosion_90
+  - first:
+      213: -5779652958100828041
+    second: BossMissile_Explosion_91
+  - first:
+      213: -6599827329164442920
+    second: BossMissile_Explosion_92
+  - first:
+      213: -1220335530370261248
+    second: BossMissile_Explosion_93
+  - first:
+      213: -6177344688364655798
+    second: BossMissile_Explosion_94
+  - first:
+      213: 841944592565150161
+    second: BossMissile_Explosion_95
+  - first:
+      213: 8860720101739843641
+    second: BossMissile_Explosion_96
+  - first:
+      213: -6421033277311344949
+    second: BossMissile_Explosion_97
+  - first:
+      213: -2712984476617135022
+    second: BossMissile_Explosion_98
+  - first:
+      213: -4419346615960589142
+    second: BossMissile_Explosion_99
+  - first:
+      213: -46656472379508535
+    second: BossMissile_Explosion_100
+  - first:
+      213: 3776072938425452553
+    second: BossMissile_Explosion_101
+  - first:
+      213: 111135786723208641
+    second: BossMissile_Explosion_102
+  - first:
+      213: -5440538122692518953
+    second: BossMissile_Explosion_103
+  - first:
+      213: 4465964370009211039
+    second: BossMissile_Explosion_104
+  - first:
+      213: 2007608195576095949
+    second: BossMissile_Explosion_105
+  - first:
+      213: -4386609668683284519
+    second: BossMissile_Explosion_106
+  - first:
+      213: -7080529647729960238
+    second: BossMissile_Explosion_107
+  - first:
+      213: 1963058979734731820
+    second: BossMissile_Explosion_108
+  - first:
+      213: -2167219807411160655
+    second: BossMissile_Explosion_109
+  - first:
+      213: -7889385804688600465
+    second: BossMissile_Explosion_110
+  - first:
+      213: 4653117702367185624
+    second: BossMissile_Explosion_111
+  - first:
+      213: 136027440733358744
+    second: BossMissile_Explosion_112
+  - first:
+      213: 1106420023529481183
+    second: BossMissile_Explosion_113
+  - first:
+      213: 8722408570170255529
+    second: BossMissile_Explosion_114
+  - first:
+      213: 2543818966025463917
+    second: BossMissile_Explosion_115
+  - first:
+      213: 3653346648650752211
+    second: BossMissile_Explosion_116
+  - first:
+      213: -3805747736650722690
+    second: BossMissile_Explosion_117
+  - first:
+      213: 5410214855906080773
+    second: BossMissile_Explosion_118
+  - first:
+      213: 8167606095201847373
+    second: BossMissile_Explosion_119
+  - first:
+      213: -1212957733340979588
+    second: BossMissile_Explosion_120
+  - first:
+      213: -7304148127360890701
+    second: BossMissile_Explosion_121
+  - first:
+      213: 5520614220951932258
+    second: BossMissile_Explosion_122
+  - first:
+      213: 1504155522540690820
+    second: BossMissile_Explosion_123
+  - first:
+      213: -3419330622654295961
+    second: BossMissile_Explosion_124
+  - first:
+      213: -2643183283625755111
+    second: BossMissile_Explosion_125
+  - first:
+      213: 1072526667975628213
+    second: BossMissile_Explosion_126
+  - first:
+      213: -4110234985570472002
+    second: BossMissile_Explosion_127
+  - first:
+      213: -7507933647320163795
+    second: BossMissile_Explosion_128
+  - first:
+      213: 2917674531074821879
+    second: BossMissile_Explosion_129
+  - first:
+      213: 6451030049429148411
+    second: BossMissile_Explosion_130
+  - first:
+      213: -2170420893473765531
+    second: BossMissile_Explosion_131
+  - first:
+      213: -429477853789080538
+    second: BossMissile_Explosion_132
+  - first:
+      213: 7282813008252453672
+    second: BossMissile_Explosion_133
+  - first:
+      213: 1636594019109165697
+    second: BossMissile_Explosion_134
+  - first:
+      213: -1806805761585328986
+    second: BossMissile_Explosion_135
+  - first:
+      213: -2654719598844259728
+    second: BossMissile_Explosion_136
+  - first:
+      213: -5832233375042443576
+    second: BossMissile_Explosion_137
+  - first:
+      213: -5158763592622837965
+    second: BossMissile_Explosion_138
+  - first:
+      213: -5214505483424767423
+    second: BossMissile_Explosion_139
+  - first:
+      213: 1421689793865392011
+    second: BossMissile_Explosion_140
+  - first:
+      213: -4797595689830934138
+    second: BossMissile_Explosion_141
+  - first:
+      213: -8136828866240629331
+    second: BossMissile_Explosion_142
+  - first:
+      213: -8257759502544517430
+    second: BossMissile_Explosion_143
+  - first:
+      213: 3997445700820490637
+    second: BossMissile_Explosion_144
+  - first:
+      213: 7864037916142986989
+    second: BossMissile_Explosion_145
+  - first:
+      213: -8416418516641808275
+    second: BossMissile_Explosion_146
+  - first:
+      213: 7444192915862761408
+    second: BossMissile_Explosion_147
+  - first:
+      213: -4897599773351364820
+    second: BossMissile_Explosion_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossMissile_Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 696
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5109d50a199f100800000000000000
+      internalID: 142304981189400009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 730
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9775ebe1665559bd0800000000000000
+      internalID: -2624097310782630023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 697
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b3f1ff6a4c98f10800000000000000
+      internalID: 2272563708508978040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 701
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8136d122c1e5f3c0800000000000000
+      internalID: -4326303643111902837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 698
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d584c9dc0f2f02a40800000000000000
+      internalID: 5341536274117052509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 710
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2e8570a4b2caff0800000000000000
+      internalID: -23596301092855051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 712
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7ddb1f0c9a471c0800000000000000
+      internalID: -4506790680936458317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 700
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b8554b12d875320800000000000000
+      internalID: 2546659290200247069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 704
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e1b074c7f2ce000800000000000000
+      internalID: 66480305318076053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 688
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c5277c244abdc20800000000000000
+      internalID: 3232357764289420316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 713
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f7f61fde229bf60800000000000000
+      internalID: 8050504214254681877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 711
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6a67bef580013c0800000000000000
+      internalID: -4391000428620896567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 712
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2268831f84310bfb0800000000000000
+      internalID: -4634182812558653918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 704
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970f4e87de1fa3520800000000000000
+      internalID: 2682722530290364537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 702
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee48c46f13ab1d890800000000000000
+      internalID: -7434956786063604498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 629
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9fb73d4ac7de020800000000000000
+      internalID: 2372689626058717631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 551
+        width: 207
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d3a191cec294980800000000000000
+      internalID: -8554256624668492525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 693
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157b7907130217e00800000000000000
+      internalID: 1040648385613772625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 537
+        width: 188
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adadd11c75e85c10800000000000000
+      internalID: 2042634752050965920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd71ffac6e8e1d40800000000000000
+      internalID: 5557035587681222080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_20
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 704
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f681721dbd0a210800000000000000
+      internalID: 1342314380306968381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 695
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f196739db6a7b10800000000000000
+      internalID: 1980013566864465701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 655
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5c1f8a7c74f0a50800000000000000
+      internalID: 6489484510922655217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 683
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4ce4cb4dda68200800000000000000
+      internalID: 182023964159034623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 685
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae0780fae43de700800000000000000
+      internalID: 571170911408295591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 670
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39d1da3b3492ffb0800000000000000
+      internalID: -4615463685990524609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 650
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1eb44e04a3e0170800000000000000
+      internalID: 8146512826342302183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 684
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b0c7aed12d6e760800000000000000
+      internalID: 7486902456479910761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_28
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 694
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c888d6f4eb5ea36b0800000000000000
+      internalID: -5315683804618323828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 679
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39a56fefd6adac30800000000000000
+      internalID: 4372334293970954556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 687
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5231cca39fe7a8330800000000000000
+      internalID: 3713920451618804517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 681
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34736ad9d22a45c0800000000000000
+      internalID: -4230530580893961155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 546
+        width: 163
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0060bb8cdba4310800000000000000
+      internalID: 1390132104826061020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 671
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee65ee3a786afe60800000000000000
+      internalID: 7996818962600259297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 643
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa5ebbfb3fe43f20800000000000000
+      internalID: 3401606659477232293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 651
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddec9e200548e930800000000000000
+      internalID: 4172660921843117527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 639
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6471c223e97e17f80800000000000000
+      internalID: -8110446787284953274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 642
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203bb4b69b3c6f9d0800000000000000
+      internalID: -2740788122071878910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 642
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3adcaf483a511f0800000000000000
+      internalID: -1074773144519203856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 639
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acd4dfb25c9e2bb0800000000000000
+      internalID: -4958854260468687707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 578
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f80f611e3dcb980800000000000000
+      internalID: -8521703431185854671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 602
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d29939c2f1d4490800000000000000
+      internalID: -7760512306574185131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 592
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaec3609f8742a850800000000000000
+      internalID: 6386745903493140142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_43
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 564
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5b2ca3999dd2560800000000000000
+      internalID: 7290722623921763774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 561
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3746b12b6a887c790800000000000000
+      internalID: -7509883604082924429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 281
+        width: 189
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19193d5cc7e069d30800000000000000
+      internalID: 4437750411877912977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 472
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e62034dd2fd00b0800000000000000
+      internalID: -5760681316211069302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 469
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f17cb1f69e98aca0800000000000000
+      internalID: -6005375731960614412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_48
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 477
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e8f001ea83bc400800000000000000
+      internalID: 345432116668894828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_49
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 470
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea01e84c3b51b7a80800000000000000
+      internalID: -8468150812499111762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_50
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 473
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f171bf18304d330800000000000000
+      internalID: 3734613847795244849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 470
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f900fe2110ab263f0800000000000000
+      internalID: -908959661000032097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_52
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 478
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8942926392b96e630800000000000000
+      internalID: 3956019923996189848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_53
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 460
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea54a0cb474739e30800000000000000
+      internalID: 4509075696647816622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 470
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645ec4352f345fc00800000000000000
+      internalID: 933727205807940934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 454
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43965cc650a7dd410800000000000000
+      internalID: 1503492014329915700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 464
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5182b1ce8ee74160800000000000000
+      internalID: 7009833641927934302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 461
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e7db8acab254dc0800000000000000
+      internalID: -3655467501975929243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 464
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349d458aea55dba10800000000000000
+      internalID: 1926790424221243715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 461
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77753d17af2685c0800000000000000
+      internalID: -4213628006562433154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_60
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 461
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d206151aa6c472560800000000000000
+      internalID: 7288878542779146285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_61
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 465
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e604e9826dd357a0800000000000000
+      internalID: -6389520031018645786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_62
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 470
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94d708eaa2467520800000000000000
+      internalID: 2699418328459891870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_63
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 458
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba87bc77972fcdc0800000000000000
+      internalID: -3616628444169270602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_64
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 474
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f449c1cf932bbf0800000000000000
+      internalID: -310121669361119453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_65
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 474
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad3d34d5ba847470800000000000000
+      internalID: 8391484519252573611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_66
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 202
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188f847a10e102260800000000000000
+      internalID: 7070684407422056577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_67
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 462
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83244452281bb8d40800000000000000
+      internalID: 5587754935212327480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_68
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 465
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4913d87620c688f40800000000000000
+      internalID: 5730949283411997076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 207
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df236bf91930899c0800000000000000
+      internalID: -3920379551641357571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_70
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 449
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ce48a0dc5311640800000000000000
+      internalID: 5048875812020087945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_71
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 450
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94f509251716ca50800000000000000
+      internalID: 6540940888452232346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_72
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 455
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a432d5eb67f763990800000000000000
+      internalID: -7406592389187558582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_73
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 429
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eaa6b11d1252640800000000000000
+      internalID: 5054483338785107532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_74
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 440
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93643c8b2cd504480800000000000000
+      internalID: -8917024171288738247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_75
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 446
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c5a31866f1de040800000000000000
+      internalID: 4678430113023024133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_76
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 419
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecacc96f399d40c0800000000000000
+      internalID: -4589843947583656724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_77
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 317
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c85e2fe5c2a5a90800000000000000
+      internalID: -7324493057651012503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_78
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 293
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7d9afda38ffbaf0800000000000000
+      internalID: -378310911931590666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_79
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 292
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3950cdf04aef4ad60800000000000000
+      internalID: 7900719626908861843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_80
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 303
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af6d166921e23770800000000000000
+      internalID: 8589175007272071080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_81
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 294
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbe8d8849c6dd370800000000000000
+      internalID: 8348948669421644762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_82
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 284
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e13aa094aeba540800000000000000
+      internalID: 5020363809066524278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_83
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 282
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b4c2e0c66d71e70800000000000000
+      internalID: 9085966532825860918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 285
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a10ece4bd84fe70800000000000000
+      internalID: 9148092551304059443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_85
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 281
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9cb560dac4cf0b0800000000000000
+      internalID: -5693591522883417644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_86
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 284
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3a6acd6191ee560800000000000000
+      internalID: 7344835628269740982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_87
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 284
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6ea6b42dcfb5b40800000000000000
+      internalID: 5430211755863893718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_88
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 290
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c4b5bfd815d28a0800000000000000
+      internalID: -6328312231136375670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_89
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 293
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b853723cce00fb760800000000000000
+      internalID: 7475694923344721291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_90
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 284
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc518cca126a8550800000000000000
+      internalID: 6163846907249646789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_91
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 281
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7705d5ba14c8acfa0800000000000000
+      internalID: -5779652958100828041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_92
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 202
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d20d32f204b864a0800000000000000
+      internalID: -6599827329164442920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 30
+        width: 180
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f1e7dfc4f701fe0800000000000000
+      internalID: -1220335530370261248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_94
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 210
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4be0e22cb9a54aa0800000000000000
+      internalID: -6177344688364655798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_95
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 195
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1286865203fab00800000000000000
+      internalID: 841944592565150161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_96
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 175
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930dd568cf997fa70800000000000000
+      internalID: 8860720101739843641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_97
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 208
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce15ee1148e3e6a0800000000000000
+      internalID: -6421033277311344949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_98
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 214
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c26161efa895ad0800000000000000
+      internalID: -2712984476617135022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_99
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 222
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac2850eaa35ba2c0800000000000000
+      internalID: -4419346615960589142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_100
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 214
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8b8518f2e3a5ff0800000000000000
+      internalID: -46656472379508535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_101
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 184
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90880dcb45e476430800000000000000
+      internalID: 3776072938425452553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_102
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd6871c865da8100800000000000000
+      internalID: 111135786723208641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_103
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 193
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db11f117635f74b0800000000000000
+      internalID: -5440538122692518953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_104
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 185
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9043fdceea4afd30800000000000000
+      internalID: 4465964370009211039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_105
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 174
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e97164057cdb10800000000000000
+      internalID: 2007608195576095949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_106
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 158
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfb6d16fb1af13c0800000000000000
+      internalID: -4386609668683284519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_107
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 159
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da1f65bcc7ecbd90800000000000000
+      internalID: -7080529647729960238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_108
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 165
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cba38cdbf2e3b10800000000000000
+      internalID: 1963058979734731820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_109
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 174
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9311d411d7ce1e0800000000000000
+      internalID: -2167219807411160655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_110
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 33
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62d68f0965438290800000000000000
+      internalID: -7889385804688600465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_111
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 158
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da8da3a5e1339040800000000000000
+      internalID: 4653117702367185624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_112
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 171
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a0e949c3443e100800000000000000
+      internalID: 136027440733358744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_113
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 162
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3aada362bca5f00800000000000000
+      internalID: 1106420023529481183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_114
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 167
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a822da91683c0970800000000000000
+      internalID: 8722408570170255529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_115
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 61
+        width: 28
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6869d23fd57d4320800000000000000
+      internalID: 2543818966025463917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_116
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d02132bb6b43b230800000000000000
+      internalID: 3653346648650752211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_117
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 129
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72df24e8944f2bc0800000000000000
+      internalID: -3805747736650722690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_118
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 83
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508b2d43fb1f41b40800000000000000
+      internalID: 5410214855906080773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_119
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 84
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4842d1487a295170800000000000000
+      internalID: 8167606095201847373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_120
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ed5a83e55ba2fe0800000000000000
+      internalID: -1212957733340979588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_121
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 77
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8c1d92af372aa90800000000000000
+      internalID: -7304148127360890701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_122
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 67
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d4fcd62692d9c40800000000000000
+      internalID: 5520614220951932258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_123
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ddaf77a75dfd410800000000000000
+      internalID: 1504155522540690820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_124
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76053134ae81c80d0800000000000000
+      internalID: -3419330622654295961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_125
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 76
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e7c37cec6815bd0800000000000000
+      internalID: -2643183283625755111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_126
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 54
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b512d0725162ee00800000000000000
+      internalID: 1072526667975628213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_127
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 72
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf60bdbe0385f6c0800000000000000
+      internalID: -4110234985570472002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_128
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a574260267ec790800000000000000
+      internalID: -7507933647320163795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_129
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 63
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe4bea0789ad7820800000000000000
+      internalID: 2917674531074821879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_130
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 47
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf25893a6a9a68950800000000000000
+      internalID: 6451030049429148411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_131
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 51
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567096f52bd11e1e0800000000000000
+      internalID: -2170420893473765531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_132
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 49
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624310eda203a0af0800000000000000
+      internalID: -429477853789080538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_133
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8234b7258dfb11560800000000000000
+      internalID: 7282813008252453672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_134
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 56
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ad78ed69956b610800000000000000
+      internalID: 1636594019109165697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_135
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 40
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acc3929bbfece6e0800000000000000
+      internalID: -1806805761585328986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_136
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 56
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072de94179a882bd0800000000000000
+      internalID: -2654719598844259728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_137
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 47
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6ea6955aebf0fa0800000000000000
+      internalID: -5832233375042443576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_138
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 33
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f6f7548d36868b0800000000000000
+      internalID: -5158763592622837965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_139
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e325f3ea52a7b0800000000000000
+      internalID: -5214505483424767423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_140
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f1528c55bdab310800000000000000
+      internalID: 1421689793865392011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_141
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 36
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6899eab83248b6db0800000000000000
+      internalID: -4797595689830934138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_142
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 41
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da53595c14d241f80800000000000000
+      internalID: -8136828866240629331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_143
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 41
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac64a32eb7b866d80800000000000000
+      internalID: -8257759502544517430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_144
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 39
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89515e7fa7c97730800000000000000
+      internalID: 3997445700820490637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_145
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 40
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6e7ebb1dca22d60800000000000000
+      internalID: 7864037916142986989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_146
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d608b8283ffd23b80800000000000000
+      internalID: -8416418516641808275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_147
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 25
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfaa7514061f4760800000000000000
+      internalID: 7444192915862761408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMissile_Explosion_148
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27bb5964fa380cb0800000000000000
+      internalID: -4897599773351364820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossMissile_Explosion_0: 142304981189400009
+      BossMissile_Explosion_1: -2624097310782630023
+      BossMissile_Explosion_10: 8050504214254681877
+      BossMissile_Explosion_100: -46656472379508535
+      BossMissile_Explosion_101: 3776072938425452553
+      BossMissile_Explosion_102: 111135786723208641
+      BossMissile_Explosion_103: -5440538122692518953
+      BossMissile_Explosion_104: 4465964370009211039
+      BossMissile_Explosion_105: 2007608195576095949
+      BossMissile_Explosion_106: -4386609668683284519
+      BossMissile_Explosion_107: -7080529647729960238
+      BossMissile_Explosion_108: 1963058979734731820
+      BossMissile_Explosion_109: -2167219807411160655
+      BossMissile_Explosion_11: -4391000428620896567
+      BossMissile_Explosion_110: -7889385804688600465
+      BossMissile_Explosion_111: 4653117702367185624
+      BossMissile_Explosion_112: 136027440733358744
+      BossMissile_Explosion_113: 1106420023529481183
+      BossMissile_Explosion_114: 8722408570170255529
+      BossMissile_Explosion_115: 2543818966025463917
+      BossMissile_Explosion_116: 3653346648650752211
+      BossMissile_Explosion_117: -3805747736650722690
+      BossMissile_Explosion_118: 5410214855906080773
+      BossMissile_Explosion_119: 8167606095201847373
+      BossMissile_Explosion_12: -4634182812558653918
+      BossMissile_Explosion_120: -1212957733340979588
+      BossMissile_Explosion_121: -7304148127360890701
+      BossMissile_Explosion_122: 5520614220951932258
+      BossMissile_Explosion_123: 1504155522540690820
+      BossMissile_Explosion_124: -3419330622654295961
+      BossMissile_Explosion_125: -2643183283625755111
+      BossMissile_Explosion_126: 1072526667975628213
+      BossMissile_Explosion_127: -4110234985570472002
+      BossMissile_Explosion_128: -7507933647320163795
+      BossMissile_Explosion_129: 2917674531074821879
+      BossMissile_Explosion_13: 2682722530290364537
+      BossMissile_Explosion_130: 6451030049429148411
+      BossMissile_Explosion_131: -2170420893473765531
+      BossMissile_Explosion_132: -429477853789080538
+      BossMissile_Explosion_133: 7282813008252453672
+      BossMissile_Explosion_134: 1636594019109165697
+      BossMissile_Explosion_135: -1806805761585328986
+      BossMissile_Explosion_136: -2654719598844259728
+      BossMissile_Explosion_137: -5832233375042443576
+      BossMissile_Explosion_138: -5158763592622837965
+      BossMissile_Explosion_139: -5214505483424767423
+      BossMissile_Explosion_14: -7434956786063604498
+      BossMissile_Explosion_140: 1421689793865392011
+      BossMissile_Explosion_141: -4797595689830934138
+      BossMissile_Explosion_142: -8136828866240629331
+      BossMissile_Explosion_143: -8257759502544517430
+      BossMissile_Explosion_144: 3997445700820490637
+      BossMissile_Explosion_145: 7864037916142986989
+      BossMissile_Explosion_146: -8416418516641808275
+      BossMissile_Explosion_147: 7444192915862761408
+      BossMissile_Explosion_148: -4897599773351364820
+      BossMissile_Explosion_15: 2372689626058717631
+      BossMissile_Explosion_16: -8554256624668492525
+      BossMissile_Explosion_17: 1040648385613772625
+      BossMissile_Explosion_18: 2042634752050965920
+      BossMissile_Explosion_19: 5557035587681222080
+      BossMissile_Explosion_2: 2272563708508978040
+      BossMissile_Explosion_20: 1342314380306968381
+      BossMissile_Explosion_21: 1980013566864465701
+      BossMissile_Explosion_22: 6489484510922655217
+      BossMissile_Explosion_23: 182023964159034623
+      BossMissile_Explosion_24: 571170911408295591
+      BossMissile_Explosion_25: -4615463685990524609
+      BossMissile_Explosion_26: 8146512826342302183
+      BossMissile_Explosion_27: 7486902456479910761
+      BossMissile_Explosion_28: -5315683804618323828
+      BossMissile_Explosion_29: 4372334293970954556
+      BossMissile_Explosion_3: -4326303643111902837
+      BossMissile_Explosion_30: 3713920451618804517
+      BossMissile_Explosion_31: -4230530580893961155
+      BossMissile_Explosion_32: 1390132104826061020
+      BossMissile_Explosion_33: 7996818962600259297
+      BossMissile_Explosion_34: 3401606659477232293
+      BossMissile_Explosion_35: 4172660921843117527
+      BossMissile_Explosion_36: -8110446787284953274
+      BossMissile_Explosion_37: -2740788122071878910
+      BossMissile_Explosion_38: -1074773144519203856
+      BossMissile_Explosion_39: -4958854260468687707
+      BossMissile_Explosion_4: 5341536274117052509
+      BossMissile_Explosion_40: -8521703431185854671
+      BossMissile_Explosion_41: -7760512306574185131
+      BossMissile_Explosion_42: 6386745903493140142
+      BossMissile_Explosion_43: 7290722623921763774
+      BossMissile_Explosion_44: -7509883604082924429
+      BossMissile_Explosion_45: 4437750411877912977
+      BossMissile_Explosion_46: -5760681316211069302
+      BossMissile_Explosion_47: -6005375731960614412
+      BossMissile_Explosion_48: 345432116668894828
+      BossMissile_Explosion_49: -8468150812499111762
+      BossMissile_Explosion_5: -23596301092855051
+      BossMissile_Explosion_50: 3734613847795244849
+      BossMissile_Explosion_51: -908959661000032097
+      BossMissile_Explosion_52: 3956019923996189848
+      BossMissile_Explosion_53: 4509075696647816622
+      BossMissile_Explosion_54: 933727205807940934
+      BossMissile_Explosion_55: 1503492014329915700
+      BossMissile_Explosion_56: 7009833641927934302
+      BossMissile_Explosion_57: -3655467501975929243
+      BossMissile_Explosion_58: 1926790424221243715
+      BossMissile_Explosion_59: -4213628006562433154
+      BossMissile_Explosion_6: -4506790680936458317
+      BossMissile_Explosion_60: 7288878542779146285
+      BossMissile_Explosion_61: -6389520031018645786
+      BossMissile_Explosion_62: 2699418328459891870
+      BossMissile_Explosion_63: -3616628444169270602
+      BossMissile_Explosion_64: -310121669361119453
+      BossMissile_Explosion_65: 8391484519252573611
+      BossMissile_Explosion_66: 7070684407422056577
+      BossMissile_Explosion_67: 5587754935212327480
+      BossMissile_Explosion_68: 5730949283411997076
+      BossMissile_Explosion_69: -3920379551641357571
+      BossMissile_Explosion_7: 2546659290200247069
+      BossMissile_Explosion_70: 5048875812020087945
+      BossMissile_Explosion_71: 6540940888452232346
+      BossMissile_Explosion_72: -7406592389187558582
+      BossMissile_Explosion_73: 5054483338785107532
+      BossMissile_Explosion_74: -8917024171288738247
+      BossMissile_Explosion_75: 4678430113023024133
+      BossMissile_Explosion_76: -4589843947583656724
+      BossMissile_Explosion_77: -7324493057651012503
+      BossMissile_Explosion_78: -378310911931590666
+      BossMissile_Explosion_79: 7900719626908861843
+      BossMissile_Explosion_8: 66480305318076053
+      BossMissile_Explosion_80: 8589175007272071080
+      BossMissile_Explosion_81: 8348948669421644762
+      BossMissile_Explosion_82: 5020363809066524278
+      BossMissile_Explosion_83: 9085966532825860918
+      BossMissile_Explosion_84: 9148092551304059443
+      BossMissile_Explosion_85: -5693591522883417644
+      BossMissile_Explosion_86: 7344835628269740982
+      BossMissile_Explosion_87: 5430211755863893718
+      BossMissile_Explosion_88: -6328312231136375670
+      BossMissile_Explosion_89: 7475694923344721291
+      BossMissile_Explosion_9: 3232357764289420316
+      BossMissile_Explosion_90: 6163846907249646789
+      BossMissile_Explosion_91: -5779652958100828041
+      BossMissile_Explosion_92: -6599827329164442920
+      BossMissile_Explosion_93: -1220335530370261248
+      BossMissile_Explosion_94: -6177344688364655798
+      BossMissile_Explosion_95: 841944592565150161
+      BossMissile_Explosion_96: 8860720101739843641
+      BossMissile_Explosion_97: -6421033277311344949
+      BossMissile_Explosion_98: -2712984476617135022
+      BossMissile_Explosion_99: -4419346615960589142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

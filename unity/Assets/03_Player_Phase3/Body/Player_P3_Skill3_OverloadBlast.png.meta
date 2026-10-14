@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 836a1fcf00f085a459c030c3a891ae53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7926849536456291375
+    second: Player_P3_Skill3_OverloadBlast_0
+  - first:
+      213: 750551854592654040
+    second: Player_P3_Skill3_OverloadBlast_1
+  - first:
+      213: 2275361485568262613
+    second: Player_P3_Skill3_OverloadBlast_2
+  - first:
+      213: 3564083871564973441
+    second: Player_P3_Skill3_OverloadBlast_3
+  - first:
+      213: 9062523151304888748
+    second: Player_P3_Skill3_OverloadBlast_4
+  - first:
+      213: -6034488769981281076
+    second: Player_P3_Skill3_OverloadBlast_5
+  - first:
+      213: -7750080012155467254
+    second: Player_P3_Skill3_OverloadBlast_6
+  - first:
+      213: 6454130911650940264
+    second: Player_P3_Skill3_OverloadBlast_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_P3_Skill3_OverloadBlast_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 535
+        width: 113
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db8d87485c2ef190800000000000000
+      internalID: -7926849536456291375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_P3_Skill3_OverloadBlast_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 535
+        width: 131
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da71866fee7a6a00800000000000000
+      internalID: 750551854592654040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_P3_Skill3_OverloadBlast_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 535
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1c6ea3735b39f10800000000000000
+      internalID: 2275361485568262613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_P3_Skill3_OverloadBlast_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 286
+        width: 170
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185445ad56b267130800000000000000
+      internalID: 3564083871564973441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_P3_Skill3_OverloadBlast_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 286
+        width: 202
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca118427acc84cd70800000000000000
+      internalID: 9062523151304888748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_P3_Skill3_OverloadBlast_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 286
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc8e209f60314ca0800000000000000
+      internalID: -6034488769981281076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_P3_Skill3_OverloadBlast_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 131
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a4e966a4f227490800000000000000
+      internalID: -7750080012155467254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_P3_Skill3_OverloadBlast_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 32
+        width: 105
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86582d26edda19950800000000000000
+      internalID: 6454130911650940264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Player_P3_Skill3_OverloadBlast_0: -7926849536456291375
+      Player_P3_Skill3_OverloadBlast_1: 750551854592654040
+      Player_P3_Skill3_OverloadBlast_2: 2275361485568262613
+      Player_P3_Skill3_OverloadBlast_3: 3564083871564973441
+      Player_P3_Skill3_OverloadBlast_4: 9062523151304888748
+      Player_P3_Skill3_OverloadBlast_5: -6034488769981281076
+      Player_P3_Skill3_OverloadBlast_6: -7750080012155467254
+      Player_P3_Skill3_OverloadBlast_7: 6454130911650940264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

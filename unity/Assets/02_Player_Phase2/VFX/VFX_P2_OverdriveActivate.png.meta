@@ -1,0 +1,4225 @@
+fileFormatVersion: 2
+guid: a27b69e39872eb44c8b8791c217e501f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2414040060890818971
+    second: VFX_P2_OverdriveActivate_0
+  - first:
+      213: 872530212267793230
+    second: VFX_P2_OverdriveActivate_1
+  - first:
+      213: -3134722645355438937
+    second: VFX_P2_OverdriveActivate_2
+  - first:
+      213: 8473535906885132719
+    second: VFX_P2_OverdriveActivate_3
+  - first:
+      213: 9050372307373551613
+    second: VFX_P2_OverdriveActivate_4
+  - first:
+      213: 3750000670977456813
+    second: VFX_P2_OverdriveActivate_5
+  - first:
+      213: 777717700592127424
+    second: VFX_P2_OverdriveActivate_6
+  - first:
+      213: -1631771587769471774
+    second: VFX_P2_OverdriveActivate_7
+  - first:
+      213: -1854324764521617482
+    second: VFX_P2_OverdriveActivate_8
+  - first:
+      213: 3403059955450352179
+    second: VFX_P2_OverdriveActivate_9
+  - first:
+      213: -6210605185264770650
+    second: VFX_P2_OverdriveActivate_10
+  - first:
+      213: 476381582823335816
+    second: VFX_P2_OverdriveActivate_11
+  - first:
+      213: -5050812434199640224
+    second: VFX_P2_OverdriveActivate_12
+  - first:
+      213: 9039609165024872095
+    second: VFX_P2_OverdriveActivate_13
+  - first:
+      213: 2553395079292173054
+    second: VFX_P2_OverdriveActivate_14
+  - first:
+      213: 5822849503782243087
+    second: VFX_P2_OverdriveActivate_15
+  - first:
+      213: 7055439804479932164
+    second: VFX_P2_OverdriveActivate_16
+  - first:
+      213: -1296807698059891099
+    second: VFX_P2_OverdriveActivate_17
+  - first:
+      213: -1509118637001767479
+    second: VFX_P2_OverdriveActivate_18
+  - first:
+      213: -6566396665249944015
+    second: VFX_P2_OverdriveActivate_19
+  - first:
+      213: 5354580977129008167
+    second: VFX_P2_OverdriveActivate_20
+  - first:
+      213: -6768815555043838385
+    second: VFX_P2_OverdriveActivate_21
+  - first:
+      213: -6310937501267912181
+    second: VFX_P2_OverdriveActivate_22
+  - first:
+      213: 6645283455362487429
+    second: VFX_P2_OverdriveActivate_23
+  - first:
+      213: -407598517361625057
+    second: VFX_P2_OverdriveActivate_24
+  - first:
+      213: -1204388310729911231
+    second: VFX_P2_OverdriveActivate_25
+  - first:
+      213: -3413673802177589201
+    second: VFX_P2_OverdriveActivate_26
+  - first:
+      213: 8020514379679786131
+    second: VFX_P2_OverdriveActivate_27
+  - first:
+      213: -4505770954291993393
+    second: VFX_P2_OverdriveActivate_28
+  - first:
+      213: -3267975317469761078
+    second: VFX_P2_OverdriveActivate_29
+  - first:
+      213: -6368373087547094805
+    second: VFX_P2_OverdriveActivate_30
+  - first:
+      213: 4987244666021198496
+    second: VFX_P2_OverdriveActivate_31
+  - first:
+      213: 522774735581228167
+    second: VFX_P2_OverdriveActivate_32
+  - first:
+      213: 7359840728793551262
+    second: VFX_P2_OverdriveActivate_33
+  - first:
+      213: 8208674333648105253
+    second: VFX_P2_OverdriveActivate_34
+  - first:
+      213: -1015308187867865838
+    second: VFX_P2_OverdriveActivate_35
+  - first:
+      213: 2701106954102336710
+    second: VFX_P2_OverdriveActivate_36
+  - first:
+      213: -674934811100139879
+    second: VFX_P2_OverdriveActivate_37
+  - first:
+      213: 5900285077217499637
+    second: VFX_P2_OverdriveActivate_38
+  - first:
+      213: 4356191335315390901
+    second: VFX_P2_OverdriveActivate_39
+  - first:
+      213: -5282579321572907026
+    second: VFX_P2_OverdriveActivate_40
+  - first:
+      213: -3740914785986732478
+    second: VFX_P2_OverdriveActivate_41
+  - first:
+      213: -556344616157850894
+    second: VFX_P2_OverdriveActivate_42
+  - first:
+      213: 3429634235124464568
+    second: VFX_P2_OverdriveActivate_43
+  - first:
+      213: -8216584449481674065
+    second: VFX_P2_OverdriveActivate_44
+  - first:
+      213: -2191307369960340825
+    second: VFX_P2_OverdriveActivate_45
+  - first:
+      213: -6391736574698238119
+    second: VFX_P2_OverdriveActivate_46
+  - first:
+      213: -8377818439568799979
+    second: VFX_P2_OverdriveActivate_47
+  - first:
+      213: 8154412419195901881
+    second: VFX_P2_OverdriveActivate_48
+  - first:
+      213: -6539717124893799117
+    second: VFX_P2_OverdriveActivate_49
+  - first:
+      213: 2866460086466506771
+    second: VFX_P2_OverdriveActivate_50
+  - first:
+      213: -769485204532085914
+    second: VFX_P2_OverdriveActivate_51
+  - first:
+      213: 3665816518050458448
+    second: VFX_P2_OverdriveActivate_52
+  - first:
+      213: 6056914578937413815
+    second: VFX_P2_OverdriveActivate_53
+  - first:
+      213: 8972298124130381983
+    second: VFX_P2_OverdriveActivate_54
+  - first:
+      213: 4163261814884487291
+    second: VFX_P2_OverdriveActivate_55
+  - first:
+      213: 8093540577558653267
+    second: VFX_P2_OverdriveActivate_56
+  - first:
+      213: -7449698063623409180
+    second: VFX_P2_OverdriveActivate_57
+  - first:
+      213: -8218101852675619426
+    second: VFX_P2_OverdriveActivate_58
+  - first:
+      213: 4721045238061259106
+    second: VFX_P2_OverdriveActivate_59
+  - first:
+      213: 4589845650254187972
+    second: VFX_P2_OverdriveActivate_60
+  - first:
+      213: -785135622819514716
+    second: VFX_P2_OverdriveActivate_61
+  - first:
+      213: -2883473297020032659
+    second: VFX_P2_OverdriveActivate_62
+  - first:
+      213: -1952301087001705140
+    second: VFX_P2_OverdriveActivate_63
+  - first:
+      213: 6823681846161421535
+    second: VFX_P2_OverdriveActivate_64
+  - first:
+      213: 3571864436151752997
+    second: VFX_P2_OverdriveActivate_65
+  - first:
+      213: 9136058903848092220
+    second: VFX_P2_OverdriveActivate_66
+  - first:
+      213: -7188173585694831460
+    second: VFX_P2_OverdriveActivate_67
+  - first:
+      213: 6529188458234782429
+    second: VFX_P2_OverdriveActivate_68
+  - first:
+      213: -2273530738594371034
+    second: VFX_P2_OverdriveActivate_69
+  - first:
+      213: -432146783639120177
+    second: VFX_P2_OverdriveActivate_70
+  - first:
+      213: -3833333198248823627
+    second: VFX_P2_OverdriveActivate_71
+  - first:
+      213: 5574646011280348278
+    second: VFX_P2_OverdriveActivate_72
+  - first:
+      213: 1802899915596123414
+    second: VFX_P2_OverdriveActivate_73
+  - first:
+      213: -6249476922089094494
+    second: VFX_P2_OverdriveActivate_74
+  - first:
+      213: -448675612390701542
+    second: VFX_P2_OverdriveActivate_75
+  - first:
+      213: 2034047608377435714
+    second: VFX_P2_OverdriveActivate_76
+  - first:
+      213: -2726791258128079037
+    second: VFX_P2_OverdriveActivate_77
+  - first:
+      213: -5001086565445207401
+    second: VFX_P2_OverdriveActivate_78
+  - first:
+      213: -6561344793363168820
+    second: VFX_P2_OverdriveActivate_79
+  - first:
+      213: 7137645033883844262
+    second: VFX_P2_OverdriveActivate_80
+  - first:
+      213: 2092825994883898534
+    second: VFX_P2_OverdriveActivate_81
+  - first:
+      213: 5190976838822176976
+    second: VFX_P2_OverdriveActivate_82
+  - first:
+      213: 912475726326369866
+    second: VFX_P2_OverdriveActivate_83
+  - first:
+      213: -4400965021597233379
+    second: VFX_P2_OverdriveActivate_84
+  - first:
+      213: 2299205281125249446
+    second: VFX_P2_OverdriveActivate_85
+  - first:
+      213: 376365945365475917
+    second: VFX_P2_OverdriveActivate_86
+  - first:
+      213: -9197977226045732760
+    second: VFX_P2_OverdriveActivate_87
+  - first:
+      213: -5493766534630530722
+    second: VFX_P2_OverdriveActivate_88
+  - first:
+      213: -5494281019470326574
+    second: VFX_P2_OverdriveActivate_89
+  - first:
+      213: 807027273613864061
+    second: VFX_P2_OverdriveActivate_90
+  - first:
+      213: -236408724365628667
+    second: VFX_P2_OverdriveActivate_91
+  - first:
+      213: -3299606628300140850
+    second: VFX_P2_OverdriveActivate_92
+  - first:
+      213: -7491168901768739031
+    second: VFX_P2_OverdriveActivate_93
+  - first:
+      213: -8990022183988470474
+    second: VFX_P2_OverdriveActivate_94
+  - first:
+      213: -8476873120440903947
+    second: VFX_P2_OverdriveActivate_95
+  - first:
+      213: 4052745261533190788
+    second: VFX_P2_OverdriveActivate_96
+  - first:
+      213: 6381944217572091065
+    second: VFX_P2_OverdriveActivate_97
+  - first:
+      213: 3207593383921587329
+    second: VFX_P2_OverdriveActivate_98
+  - first:
+      213: -2916642222677223374
+    second: VFX_P2_OverdriveActivate_99
+  - first:
+      213: -2096120848668604737
+    second: VFX_P2_OverdriveActivate_100
+  - first:
+      213: -4472934242440214012
+    second: VFX_P2_OverdriveActivate_101
+  - first:
+      213: -5947295288193981756
+    second: VFX_P2_OverdriveActivate_102
+  - first:
+      213: -3982569817756918522
+    second: VFX_P2_OverdriveActivate_103
+  - first:
+      213: 2421660235983089427
+    second: VFX_P2_OverdriveActivate_104
+  - first:
+      213: 1236276836381350784
+    second: VFX_P2_OverdriveActivate_105
+  - first:
+      213: -8872500162902990776
+    second: VFX_P2_OverdriveActivate_106
+  - first:
+      213: 6069962886342290513
+    second: VFX_P2_OverdriveActivate_107
+  - first:
+      213: -7870300641646477688
+    second: VFX_P2_OverdriveActivate_108
+  - first:
+      213: 3397183270142214072
+    second: VFX_P2_OverdriveActivate_109
+  - first:
+      213: -7706929815761036862
+    second: VFX_P2_OverdriveActivate_110
+  - first:
+      213: 29919873502169934
+    second: VFX_P2_OverdriveActivate_111
+  - first:
+      213: 3877225857588985209
+    second: VFX_P2_OverdriveActivate_112
+  - first:
+      213: -157384504212417960
+    second: VFX_P2_OverdriveActivate_113
+  - first:
+      213: 6900385130405967438
+    second: VFX_P2_OverdriveActivate_114
+  - first:
+      213: 845977907450120941
+    second: VFX_P2_OverdriveActivate_115
+  - first:
+      213: 2584831414134075734
+    second: VFX_P2_OverdriveActivate_116
+  - first:
+      213: 4111067589742701405
+    second: VFX_P2_OverdriveActivate_117
+  - first:
+      213: -2967739512663947724
+    second: VFX_P2_OverdriveActivate_118
+  - first:
+      213: -7226999386590951635
+    second: VFX_P2_OverdriveActivate_119
+  - first:
+      213: -5197977425502931291
+    second: VFX_P2_OverdriveActivate_120
+  - first:
+      213: 5044326098950606486
+    second: VFX_P2_OverdriveActivate_121
+  - first:
+      213: -3130284729684732745
+    second: VFX_P2_OverdriveActivate_122
+  - first:
+      213: -7406300527852152943
+    second: VFX_P2_OverdriveActivate_123
+  - first:
+      213: 4813895946442331909
+    second: VFX_P2_OverdriveActivate_124
+  - first:
+      213: -1926052274740126032
+    second: VFX_P2_OverdriveActivate_125
+  - first:
+      213: 4522876621686334544
+    second: VFX_P2_OverdriveActivate_126
+  - first:
+      213: -3707096375311713800
+    second: VFX_P2_OverdriveActivate_127
+  - first:
+      213: -7466751080681000333
+    second: VFX_P2_OverdriveActivate_128
+  - first:
+      213: -6445561629380372215
+    second: VFX_P2_OverdriveActivate_129
+  - first:
+      213: -4069117513730537615
+    second: VFX_P2_OverdriveActivate_130
+  - first:
+      213: 3435034828102421680
+    second: VFX_P2_OverdriveActivate_131
+  - first:
+      213: -6137097177795051252
+    second: VFX_P2_OverdriveActivate_132
+  - first:
+      213: 5818986186135499411
+    second: VFX_P2_OverdriveActivate_133
+  - first:
+      213: 6231198768323386269
+    second: VFX_P2_OverdriveActivate_134
+  - first:
+      213: -4465341232532448242
+    second: VFX_P2_OverdriveActivate_135
+  - first:
+      213: 1849572654791947075
+    second: VFX_P2_OverdriveActivate_136
+  - first:
+      213: -3614220935828577077
+    second: VFX_P2_OverdriveActivate_137
+  - first:
+      213: 5111924185403040347
+    second: VFX_P2_OverdriveActivate_138
+  - first:
+      213: -8117532670857410168
+    second: VFX_P2_OverdriveActivate_139
+  - first:
+      213: -3424068139205264626
+    second: VFX_P2_OverdriveActivate_140
+  - first:
+      213: -1722815830670690548
+    second: VFX_P2_OverdriveActivate_141
+  - first:
+      213: 1102364514721087011
+    second: VFX_P2_OverdriveActivate_142
+  - first:
+      213: -2305029807436419064
+    second: VFX_P2_OverdriveActivate_143
+  - first:
+      213: 4899815075026011864
+    second: VFX_P2_OverdriveActivate_144
+  - first:
+      213: 5619412220462117107
+    second: VFX_P2_OverdriveActivate_145
+  - first:
+      213: -527543693988163224
+    second: VFX_P2_OverdriveActivate_146
+  - first:
+      213: 6751111268618895890
+    second: VFX_P2_OverdriveActivate_147
+  - first:
+      213: 5843532049361767978
+    second: VFX_P2_OverdriveActivate_148
+  - first:
+      213: 526806436828224644
+    second: VFX_P2_OverdriveActivate_149
+  - first:
+      213: -2648306968297311017
+    second: VFX_P2_OverdriveActivate_150
+  - first:
+      213: 3435565720657188667
+    second: VFX_P2_OverdriveActivate_151
+  - first:
+      213: 1884054249305846466
+    second: VFX_P2_OverdriveActivate_152
+  - first:
+      213: -4568643321695350640
+    second: VFX_P2_OverdriveActivate_153
+  - first:
+      213: 4688710464595062284
+    second: VFX_P2_OverdriveActivate_154
+  - first:
+      213: 5069499541830511271
+    second: VFX_P2_OverdriveActivate_155
+  - first:
+      213: -4311522847436075305
+    second: VFX_P2_OverdriveActivate_156
+  - first:
+      213: 6187043485091393800
+    second: VFX_P2_OverdriveActivate_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 643
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5665a01da5b9f7ed0800000000000000
+      internalID: -2414040060890818971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 716
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b940eea99db1c00800000000000000
+      internalID: 872530212267793230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 706
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac573ecc5a3f74d0800000000000000
+      internalID: -3134722645355438937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 703
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1e769330c089570800000000000000
+      internalID: 8473535906885132719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 653
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff6802a9a1699d70800000000000000
+      internalID: 9050372307373551613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_5
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 726
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa761dedbdaa0430800000000000000
+      internalID: 3750000670977456813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 712
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdc35fc0220bca00800000000000000
+      internalID: 777717700592127424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_7
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 639
+        width: 108
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecec6ce268ca59e0800000000000000
+      internalID: -1631771587769471774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 697
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7aa78837d1446e0800000000000000
+      internalID: -1854324764521617482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_9
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 703
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33299f1dff81a3f20800000000000000
+      internalID: 3403059955450352179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 702
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1281c3d7f7fc9a0800000000000000
+      internalID: -6210605185264770650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_11
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 704
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88729bd86827c9600800000000000000
+      internalID: 476381582823335816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 655
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0678768f9d8e7e9b0800000000000000
+      internalID: -5050812434199640224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 694
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f964ca544a4237d70800000000000000
+      internalID: 9039609165024872095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_14
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 703
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efab070db4b7f6320800000000000000
+      internalID: 2553395079292173054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_15
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 693
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b008dd5caeec050800000000000000
+      internalID: 5822849503782243087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 650
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4078d20fe15f9e160800000000000000
+      internalID: 7055439804479932164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 657
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ee527f440d00ee0800000000000000
+      internalID: -1296807698059891099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 688
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5869568988e0be0800000000000000
+      internalID: -1509118637001767479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 679
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ea771f5097fd4a0800000000000000
+      internalID: -6566396665249944015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_20
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 686
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ca6d6670b4f4a40800000000000000
+      internalID: 5354580977129008167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 663
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46397b8d165012a0800000000000000
+      internalID: -6768815555043838385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_22
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 538
+        width: 136
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a1c3587cb0b68a0800000000000000
+      internalID: -6310937501267912181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 639
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58459ac281ac83c50800000000000000
+      internalID: 6645283455362487429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 633
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f183fa9de4be75af0800000000000000
+      internalID: -407598517361625057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 630
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1449f476637294fe0800000000000000
+      internalID: -1204388310729911231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 654
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20d52a63c130a0d0800000000000000
+      internalID: -3413673802177589201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 617
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394e9b475579e4f60800000000000000
+      internalID: 8020514379679786131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_28
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 651
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4272e80394871c0800000000000000
+      internalID: -4505770954291993393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_29
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 651
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1787363c1d5a2d0800000000000000
+      internalID: -3267975317469761078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 639
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8099ffa6efe97a0800000000000000
+      internalID: -6368373087547094805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_31
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 633
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aab726a990463540800000000000000
+      internalID: 4987244666021198496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 651
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c2edb2ad4414700800000000000000
+      internalID: 522774735581228167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_33
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 662
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9111331628632660800000000000000
+      internalID: 7359840728793551262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 655
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f26f5a0d11be170800000000000000
+      internalID: 8208674333648105253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_35
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 641
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d179c1596e8e1f0800000000000000
+      internalID: -1015308187867865838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 537
+        width: 128
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc6b93b6724c7520800000000000000
+      internalID: 2701106954102336710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 645
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ea4d18d5622a6f0800000000000000
+      internalID: -674934811100139879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 647
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f95615440602e150800000000000000
+      internalID: 5900285077217499637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_39
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 643
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1cb1b70fc447c30800000000000000
+      internalID: 4356191335315390901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 629
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7a2d7681280b6b0800000000000000
+      internalID: -5282579321572907026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 639
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e114682d9951cc0800000000000000
+      internalID: -3740914785986732478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 625
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2d53de4877748f0800000000000000
+      internalID: -556344616157850894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 619
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbbc167a22889f20800000000000000
+      internalID: 3429634235124464568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 626
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa275adf9f3d8fd80800000000000000
+      internalID: -8216584449481674065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_45
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 615
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a281db9e89e691e0800000000000000
+      internalID: -2191307369960340825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 572
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f4d3f337dfb47a0800000000000000
+      internalID: -6391736574698238119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 607
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517c8cc44820cbb80800000000000000
+      internalID: -8377818439568799979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 610
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7943e24ea4a2170800000000000000
+      internalID: 8154412419195901881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 549
+        width: 134
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d8a2f7ce14e35a0800000000000000
+      internalID: -6539717124893799117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_50
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 597
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310fba0f246b7c720800000000000000
+      internalID: 2866460086466506771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 608
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b32fb884d3255f0800000000000000
+      internalID: -769485204532085914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 615
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b282a63b89fd230800000000000000
+      internalID: 3665816518050458448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 608
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b00378f7bb7e0450800000000000000
+      internalID: 6056914578937413815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 587
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90f1bb4b91048c70800000000000000
+      internalID: 8972298124130381983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_55
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 588
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70532f0090e6c930800000000000000
+      internalID: 4163261814884487291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 555
+        width: 27
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359e79c1648025070800000000000000
+      internalID: 8093540577558653267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_57
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 564
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1bfc1d41b5d9890800000000000000
+      internalID: -7449698063623409180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_58
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 604
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e954a4708ef63fd80800000000000000
+      internalID: -8218101852675619426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 545
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269d03f71a5848140800000000000000
+      internalID: 4721045238061259106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_60
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 563
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdc5450d4862bf30800000000000000
+      internalID: 4589845650254187972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_61
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 548
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a676559f43aa15f0800000000000000
+      internalID: -785135622819514716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_62
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 563
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69ebcb4058dbf7d0800000000000000
+      internalID: -2883473297020032659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 537
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4587ae418808e4e0800000000000000
+      internalID: -1952301087001705140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_64
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 537
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4bbb45c7692be50800000000000000
+      internalID: 6823681846161421535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_65
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 537
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5291da6b7cfc19130800000000000000
+      internalID: 3571864436151752997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 462
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3209ea0b2dc9ce70800000000000000
+      internalID: 9136058903848092220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 471
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c40d8553a7e3c90800000000000000
+      internalID: -7188173585694831460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_68
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 460
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd22aa44f465c9a50800000000000000
+      internalID: 6529188458234782429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 206
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aa624c6dbc270e0800000000000000
+      internalID: -2273530738594371034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_70
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 468
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6dc563ac4b00af0800000000000000
+      internalID: -432146783639120177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_71
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 478
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4baac14c34dcac0800000000000000
+      internalID: -3833333198248823627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_72
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 478
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674d9e2f20f1d5d40800000000000000
+      internalID: 5574646011280348278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_73
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 475
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d40bacbef250910800000000000000
+      internalID: 1802899915596123414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 473
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2c0eab9d56549a0800000000000000
+      internalID: -6249476922089094494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_75
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 181
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16421068ebf5c9f0800000000000000
+      internalID: -448675612390701542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 281
+        width: 184
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246e191e5836a3c10800000000000000
+      internalID: 2034047608377435714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_77
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 470
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347a2a24ccd782ad0800000000000000
+      internalID: -2726791258128079037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 462
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79af8aff342989ab0800000000000000
+      internalID: -5001086565445207401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_79
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 465
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1cab68cab61f4a0800000000000000
+      internalID: -6561344793363168820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_80
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 457
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae3a7967520e0360800000000000000
+      internalID: 7137645033883844262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 442
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac12c177263b0d10800000000000000
+      internalID: 2092825994883898534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 462
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8a6439eed0a0840800000000000000
+      internalID: 5190976838822176976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_83
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e89dda6d3c9ac00800000000000000
+      internalID: 912475726326369866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_84
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 456
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f07c251a1ace2c0800000000000000
+      internalID: -4400965021597233379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_85
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 454
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a13c2f750b68ef10800000000000000
+      internalID: 2299205281125249446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_86
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 439
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42301f45de193500800000000000000
+      internalID: 376365945365475917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_87
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 428
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868496522783a5080800000000000000
+      internalID: -9197977226045732760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_88
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 438
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e512b68a17832c3b0800000000000000
+      internalID: -5493766534630530722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_89
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 439
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4dc42d58460c3b0800000000000000
+      internalID: -5494281019470326574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_90
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 411
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c6ecf8703233b00800000000000000
+      internalID: 807027273613864061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_91
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 422
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b226a848b18bcf0800000000000000
+      internalID: -236408724365628667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_92
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 410
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece45ade0417532d0800000000000000
+      internalID: -3299606628300140850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_93
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 401
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9270f91e2950a0890800000000000000
+      internalID: -7491168901768739031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_94
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 316
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d5c7074760d3380800000000000000
+      internalID: -8990022183988470474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_95
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 337
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f610123fc81c5a80800000000000000
+      internalID: -8476873120440903947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_96
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 328
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a55dec75e3e3830800000000000000
+      internalID: 4052745261533190788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_97
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b42eb0f378319850800000000000000
+      internalID: 6381944217572091065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_98
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 313
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1841a882039a38c20800000000000000
+      internalID: 3207593383921587329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_99
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 311
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2381b6cf9510687d0800000000000000
+      internalID: -2916642222677223374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_100
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 298
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb641d0a13519e2e0800000000000000
+      internalID: -2096120848668604737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_101
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 312
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a8baf4102fce1c0800000000000000
+      internalID: -4472934242440214012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_102
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2e7dc0276f67da0800000000000000
+      internalID: -5947295288193981756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_103
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d186fe9d11bb8c0800000000000000
+      internalID: -3982569817756918522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_104
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 299
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe57477277b9120800000000000000
+      internalID: 2421660235983089427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_105
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 282
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bdd8c8b33282110800000000000000
+      internalID: 1236276836381350784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_106
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 294
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84062904c1c8ed480800000000000000
+      internalID: -8872500162902990776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_107
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 282
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cac38c517dc3450800000000000000
+      internalID: 6069962886342290513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_108
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 282
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ef12bd34317c290800000000000000
+      internalID: -7870300641646477688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_109
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 288
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bff9b56f28352f20800000000000000
+      internalID: 3397183270142214072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_110
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c952b66a2c7b0590800000000000000
+      internalID: -7706929815761036862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_111
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 281
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b42d767fb4a6000800000000000000
+      internalID: 29919873502169934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_112
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 285
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dfc83006caec530800000000000000
+      internalID: 3877225857588985209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_113
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852944590abd0ddf0800000000000000
+      internalID: -157384504212417960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_114
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 281
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e463c3f57b713cf50800000000000000
+      internalID: 6900385130405967438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_115
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 287
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea8465bc648dbb00800000000000000
+      internalID: 845977907450120941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_116
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 192
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6517bb3e97a2fd320800000000000000
+      internalID: 2584831414134075734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_117
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 217
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b2c3601327d0930800000000000000
+      internalID: 4111067589742701405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_118
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 206
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43646c113a870d6d0800000000000000
+      internalID: -2967739512663947724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_119
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 166
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27c742295a84bb90800000000000000
+      internalID: -7226999386590951635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_120
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 222
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6f56252131dd7b0800000000000000
+      internalID: -5197977425502931291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_121
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 63
+        width: 111
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ece2b6cdb010640800000000000000
+      internalID: 5044326098950606486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_122
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 197
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4df419f9efe84d0800000000000000
+      internalID: -3130284729684732745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_123
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 214
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197959109e8873990800000000000000
+      internalID: -7406300527852152943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_124
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 57
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5075361bbd46ec240800000000000000
+      internalID: 4813895946442331909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_125
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 204
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be184929a94545e0800000000000000
+      internalID: -1926052274740126032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_126
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 209
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054688ef25c74ce30800000000000000
+      internalID: 4522876621686334544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_127
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 137
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f93869dc7fbd8cc0800000000000000
+      internalID: -3707096375311713800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_128
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 183
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372beb1e375c06890800000000000000
+      internalID: -7466751080681000333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_129
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90915ee19d3cc86a0800000000000000
+      internalID: -6445561629380372215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_130
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 155
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17745cc2e279787c0800000000000000
+      internalID: -4069117513730537615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 185
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcc3200af1bbaf20800000000000000
+      internalID: 3435034828102421680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_132
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 177
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01497de1a6a4daa0800000000000000
+      internalID: -6137097177795051252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_133
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 168
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392f2812b1131c050800000000000000
+      internalID: 5818986186135499411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_134
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 179
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b54c6f34aa97650800000000000000
+      internalID: 6231198768323386269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_135
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c9ff1becbe702c0800000000000000
+      internalID: -4465341232532448242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_136
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 171
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3437623b7800ba910800000000000000
+      internalID: 1849572654791947075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_137
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 138
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc468243535b7ddc0800000000000000
+      internalID: -3614220935828577077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_138
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 157
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b522da566f331f640800000000000000
+      internalID: 5111924185403040347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_139
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 147
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8898aec5b0bb85f80800000000000000
+      internalID: -8117532670857410168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_140
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 139
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bffeb3b244b70d0800000000000000
+      internalID: -3424068139205264626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_141
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 38
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07347f31245718e0800000000000000
+      internalID: -1722815830670690548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_142
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 99
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e32f08fa26c4f00800000000000000
+      internalID: 1102364514721087011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_143
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 83
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800b01b4a93e200e0800000000000000
+      internalID: -2305029807436419064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_144
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 79
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d68704b9d3aff340800000000000000
+      internalID: 4899815075026011864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_145
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 42
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0322f34a92cfd40800000000000000
+      internalID: 5619412220462117107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_146
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 58
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861965c2ec9cda8f0800000000000000
+      internalID: -527543693988163224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_147
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 25
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2128a2d0ee3c0bd50800000000000000
+      internalID: 6751111268618895890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_148
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e81d34075681150800000000000000
+      internalID: 5843532049361767978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_149
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c1984c9a79f4700800000000000000
+      internalID: 526806436828224644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_150
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 51
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4727af7d25f3bd0800000000000000
+      internalID: -2648306968297311017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_151
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 57
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37d74e02d49daf20800000000000000
+      internalID: 3435565720657188667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_152
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 41
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2b07b8b51852a10800000000000000
+      internalID: 1884054249305846466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_153
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09053e8ca1be890c0800000000000000
+      internalID: -4568643321695350640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_154
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 32
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e68d06355a11140800000000000000
+      internalID: 4688710464595062284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_155
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 25
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa20d359fa7a5640800000000000000
+      internalID: 5069499541830511271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_156
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 48
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de879d40d46a24c0800000000000000
+      internalID: -4311522847436075305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_OverdriveActivate_157
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80174c2f44bccd550800000000000000
+      internalID: 6187043485091393800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P2_OverdriveActivate_0: -2414040060890818971
+      VFX_P2_OverdriveActivate_1: 872530212267793230
+      VFX_P2_OverdriveActivate_10: -6210605185264770650
+      VFX_P2_OverdriveActivate_100: -2096120848668604737
+      VFX_P2_OverdriveActivate_101: -4472934242440214012
+      VFX_P2_OverdriveActivate_102: -5947295288193981756
+      VFX_P2_OverdriveActivate_103: -3982569817756918522
+      VFX_P2_OverdriveActivate_104: 2421660235983089427
+      VFX_P2_OverdriveActivate_105: 1236276836381350784
+      VFX_P2_OverdriveActivate_106: -8872500162902990776
+      VFX_P2_OverdriveActivate_107: 6069962886342290513
+      VFX_P2_OverdriveActivate_108: -7870300641646477688
+      VFX_P2_OverdriveActivate_109: 3397183270142214072
+      VFX_P2_OverdriveActivate_11: 476381582823335816
+      VFX_P2_OverdriveActivate_110: -7706929815761036862
+      VFX_P2_OverdriveActivate_111: 29919873502169934
+      VFX_P2_OverdriveActivate_112: 3877225857588985209
+      VFX_P2_OverdriveActivate_113: -157384504212417960
+      VFX_P2_OverdriveActivate_114: 6900385130405967438
+      VFX_P2_OverdriveActivate_115: 845977907450120941
+      VFX_P2_OverdriveActivate_116: 2584831414134075734
+      VFX_P2_OverdriveActivate_117: 4111067589742701405
+      VFX_P2_OverdriveActivate_118: -2967739512663947724
+      VFX_P2_OverdriveActivate_119: -7226999386590951635
+      VFX_P2_OverdriveActivate_12: -5050812434199640224
+      VFX_P2_OverdriveActivate_120: -5197977425502931291
+      VFX_P2_OverdriveActivate_121: 5044326098950606486
+      VFX_P2_OverdriveActivate_122: -3130284729684732745
+      VFX_P2_OverdriveActivate_123: -7406300527852152943
+      VFX_P2_OverdriveActivate_124: 4813895946442331909
+      VFX_P2_OverdriveActivate_125: -1926052274740126032
+      VFX_P2_OverdriveActivate_126: 4522876621686334544
+      VFX_P2_OverdriveActivate_127: -3707096375311713800
+      VFX_P2_OverdriveActivate_128: -7466751080681000333
+      VFX_P2_OverdriveActivate_129: -6445561629380372215
+      VFX_P2_OverdriveActivate_13: 9039609165024872095
+      VFX_P2_OverdriveActivate_130: -4069117513730537615
+      VFX_P2_OverdriveActivate_131: 3435034828102421680
+      VFX_P2_OverdriveActivate_132: -6137097177795051252
+      VFX_P2_OverdriveActivate_133: 5818986186135499411
+      VFX_P2_OverdriveActivate_134: 6231198768323386269
+      VFX_P2_OverdriveActivate_135: -4465341232532448242
+      VFX_P2_OverdriveActivate_136: 1849572654791947075
+      VFX_P2_OverdriveActivate_137: -3614220935828577077
+      VFX_P2_OverdriveActivate_138: 5111924185403040347
+      VFX_P2_OverdriveActivate_139: -8117532670857410168
+      VFX_P2_OverdriveActivate_14: 2553395079292173054
+      VFX_P2_OverdriveActivate_140: -3424068139205264626
+      VFX_P2_OverdriveActivate_141: -1722815830670690548
+      VFX_P2_OverdriveActivate_142: 1102364514721087011
+      VFX_P2_OverdriveActivate_143: -2305029807436419064
+      VFX_P2_OverdriveActivate_144: 4899815075026011864
+      VFX_P2_OverdriveActivate_145: 5619412220462117107
+      VFX_P2_OverdriveActivate_146: -527543693988163224
+      VFX_P2_OverdriveActivate_147: 6751111268618895890
+      VFX_P2_OverdriveActivate_148: 5843532049361767978
+      VFX_P2_OverdriveActivate_149: 526806436828224644
+      VFX_P2_OverdriveActivate_15: 5822849503782243087
+      VFX_P2_OverdriveActivate_150: -2648306968297311017
+      VFX_P2_OverdriveActivate_151: 3435565720657188667
+      VFX_P2_OverdriveActivate_152: 1884054249305846466
+      VFX_P2_OverdriveActivate_153: -4568643321695350640
+      VFX_P2_OverdriveActivate_154: 4688710464595062284
+      VFX_P2_OverdriveActivate_155: 5069499541830511271
+      VFX_P2_OverdriveActivate_156: -4311522847436075305
+      VFX_P2_OverdriveActivate_157: 6187043485091393800
+      VFX_P2_OverdriveActivate_16: 7055439804479932164
+      VFX_P2_OverdriveActivate_17: -1296807698059891099
+      VFX_P2_OverdriveActivate_18: -1509118637001767479
+      VFX_P2_OverdriveActivate_19: -6566396665249944015
+      VFX_P2_OverdriveActivate_2: -3134722645355438937
+      VFX_P2_OverdriveActivate_20: 5354580977129008167
+      VFX_P2_OverdriveActivate_21: -6768815555043838385
+      VFX_P2_OverdriveActivate_22: -6310937501267912181
+      VFX_P2_OverdriveActivate_23: 6645283455362487429
+      VFX_P2_OverdriveActivate_24: -407598517361625057
+      VFX_P2_OverdriveActivate_25: -1204388310729911231
+      VFX_P2_OverdriveActivate_26: -3413673802177589201
+      VFX_P2_OverdriveActivate_27: 8020514379679786131
+      VFX_P2_OverdriveActivate_28: -4505770954291993393
+      VFX_P2_OverdriveActivate_29: -3267975317469761078
+      VFX_P2_OverdriveActivate_3: 8473535906885132719
+      VFX_P2_OverdriveActivate_30: -6368373087547094805
+      VFX_P2_OverdriveActivate_31: 4987244666021198496
+      VFX_P2_OverdriveActivate_32: 522774735581228167
+      VFX_P2_OverdriveActivate_33: 7359840728793551262
+      VFX_P2_OverdriveActivate_34: 8208674333648105253
+      VFX_P2_OverdriveActivate_35: -1015308187867865838
+      VFX_P2_OverdriveActivate_36: 2701106954102336710
+      VFX_P2_OverdriveActivate_37: -674934811100139879
+      VFX_P2_OverdriveActivate_38: 5900285077217499637
+      VFX_P2_OverdriveActivate_39: 4356191335315390901
+      VFX_P2_OverdriveActivate_4: 9050372307373551613
+      VFX_P2_OverdriveActivate_40: -5282579321572907026
+      VFX_P2_OverdriveActivate_41: -3740914785986732478
+      VFX_P2_OverdriveActivate_42: -556344616157850894
+      VFX_P2_OverdriveActivate_43: 3429634235124464568
+      VFX_P2_OverdriveActivate_44: -8216584449481674065
+      VFX_P2_OverdriveActivate_45: -2191307369960340825
+      VFX_P2_OverdriveActivate_46: -6391736574698238119
+      VFX_P2_OverdriveActivate_47: -8377818439568799979
+      VFX_P2_OverdriveActivate_48: 8154412419195901881
+      VFX_P2_OverdriveActivate_49: -6539717124893799117
+      VFX_P2_OverdriveActivate_5: 3750000670977456813
+      VFX_P2_OverdriveActivate_50: 2866460086466506771
+      VFX_P2_OverdriveActivate_51: -769485204532085914
+      VFX_P2_OverdriveActivate_52: 3665816518050458448
+      VFX_P2_OverdriveActivate_53: 6056914578937413815
+      VFX_P2_OverdriveActivate_54: 8972298124130381983
+      VFX_P2_OverdriveActivate_55: 4163261814884487291
+      VFX_P2_OverdriveActivate_56: 8093540577558653267
+      VFX_P2_OverdriveActivate_57: -7449698063623409180
+      VFX_P2_OverdriveActivate_58: -8218101852675619426
+      VFX_P2_OverdriveActivate_59: 4721045238061259106
+      VFX_P2_OverdriveActivate_6: 777717700592127424
+      VFX_P2_OverdriveActivate_60: 4589845650254187972
+      VFX_P2_OverdriveActivate_61: -785135622819514716
+      VFX_P2_OverdriveActivate_62: -2883473297020032659
+      VFX_P2_OverdriveActivate_63: -1952301087001705140
+      VFX_P2_OverdriveActivate_64: 6823681846161421535
+      VFX_P2_OverdriveActivate_65: 3571864436151752997
+      VFX_P2_OverdriveActivate_66: 9136058903848092220
+      VFX_P2_OverdriveActivate_67: -7188173585694831460
+      VFX_P2_OverdriveActivate_68: 6529188458234782429
+      VFX_P2_OverdriveActivate_69: -2273530738594371034
+      VFX_P2_OverdriveActivate_7: -1631771587769471774
+      VFX_P2_OverdriveActivate_70: -432146783639120177
+      VFX_P2_OverdriveActivate_71: -3833333198248823627
+      VFX_P2_OverdriveActivate_72: 5574646011280348278
+      VFX_P2_OverdriveActivate_73: 1802899915596123414
+      VFX_P2_OverdriveActivate_74: -6249476922089094494
+      VFX_P2_OverdriveActivate_75: -448675612390701542
+      VFX_P2_OverdriveActivate_76: 2034047608377435714
+      VFX_P2_OverdriveActivate_77: -2726791258128079037
+      VFX_P2_OverdriveActivate_78: -5001086565445207401
+      VFX_P2_OverdriveActivate_79: -6561344793363168820
+      VFX_P2_OverdriveActivate_8: -1854324764521617482
+      VFX_P2_OverdriveActivate_80: 7137645033883844262
+      VFX_P2_OverdriveActivate_81: 2092825994883898534
+      VFX_P2_OverdriveActivate_82: 5190976838822176976
+      VFX_P2_OverdriveActivate_83: 912475726326369866
+      VFX_P2_OverdriveActivate_84: -4400965021597233379
+      VFX_P2_OverdriveActivate_85: 2299205281125249446
+      VFX_P2_OverdriveActivate_86: 376365945365475917
+      VFX_P2_OverdriveActivate_87: -9197977226045732760
+      VFX_P2_OverdriveActivate_88: -5493766534630530722
+      VFX_P2_OverdriveActivate_89: -5494281019470326574
+      VFX_P2_OverdriveActivate_9: 3403059955450352179
+      VFX_P2_OverdriveActivate_90: 807027273613864061
+      VFX_P2_OverdriveActivate_91: -236408724365628667
+      VFX_P2_OverdriveActivate_92: -3299606628300140850
+      VFX_P2_OverdriveActivate_93: -7491168901768739031
+      VFX_P2_OverdriveActivate_94: -8990022183988470474
+      VFX_P2_OverdriveActivate_95: -8476873120440903947
+      VFX_P2_OverdriveActivate_96: 4052745261533190788
+      VFX_P2_OverdriveActivate_97: 6381944217572091065
+      VFX_P2_OverdriveActivate_98: 3207593383921587329
+      VFX_P2_OverdriveActivate_99: -2916642222677223374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

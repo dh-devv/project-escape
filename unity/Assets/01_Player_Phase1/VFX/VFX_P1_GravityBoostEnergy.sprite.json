@@ -1,0 +1,66 @@
+{
+  "name": "VFX_P1_GravityBoostEnergy",
+  "sourcePage": 3,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1312,
+    1199
+  ],
+  "sourceScale": 0.4682926829268293,
+  "sourceOffset": [
+    25,
+    34
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "ca27f084df0ebf7776d2eb1f0ec34cdd44fb5d22cb4d38026f74011003f22f6e",
+  "spriteSha256": "60f6fdf92341c3fc251f88d82f2b625adae2ab28921c7afbc5b1bb07cbd7d396"
+}

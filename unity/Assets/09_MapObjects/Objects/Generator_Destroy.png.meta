@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: a2e9eaf27fa801b478ece6329e712829
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -753822125377310022
+    second: Generator_Destroy_0
+  - first:
+      213: -6358933831074776061
+    second: Generator_Destroy_1
+  - first:
+      213: -4264950527304345356
+    second: Generator_Destroy_2
+  - first:
+      213: 6535615318872845523
+    second: Generator_Destroy_3
+  - first:
+      213: -4415297009946717111
+    second: Generator_Destroy_4
+  - first:
+      213: -8720831269981005879
+    second: Generator_Destroy_5
+  - first:
+      213: 47849287254873022
+    second: Generator_Destroy_6
+  - first:
+      213: -1969739338911697966
+    second: Generator_Destroy_7
+  - first:
+      213: -1087930082305197153
+    second: Generator_Destroy_8
+  - first:
+      213: -1645502929629862412
+    second: Generator_Destroy_9
+  - first:
+      213: -3317601717793447691
+    second: Generator_Destroy_10
+  - first:
+      213: -9214854501691760311
+    second: Generator_Destroy_11
+  - first:
+      213: 5855317547497807376
+    second: Generator_Destroy_12
+  - first:
+      213: -2283167505619407736
+    second: Generator_Destroy_13
+  - first:
+      213: -6576204766671366498
+    second: Generator_Destroy_14
+  - first:
+      213: 8134367667171730694
+    second: Generator_Destroy_15
+  - first:
+      213: 3869432748297054136
+    second: Generator_Destroy_16
+  - first:
+      213: 157688532893859865
+    second: Generator_Destroy_17
+  - first:
+      213: 1364305561573734855
+    second: Generator_Destroy_18
+  - first:
+      213: -6154643549085063504
+    second: Generator_Destroy_19
+  - first:
+      213: -6448350464824959551
+    second: Generator_Destroy_20
+  - first:
+      213: -7719691562021145019
+    second: Generator_Destroy_21
+  - first:
+      213: 1482609448031065279
+    second: Generator_Destroy_22
+  - first:
+      213: 1809058761456589143
+    second: Generator_Destroy_23
+  - first:
+      213: -6315371784496156544
+    second: Generator_Destroy_24
+  - first:
+      213: -4946845151721484209
+    second: Generator_Destroy_25
+  - first:
+      213: 5119147864311371183
+    second: Generator_Destroy_26
+  - first:
+      213: -2295015150775202008
+    second: Generator_Destroy_27
+  - first:
+      213: 6263998169805442769
+    second: Generator_Destroy_28
+  - first:
+      213: -2831697074495761892
+    second: Generator_Destroy_29
+  - first:
+      213: 3517720829968358593
+    second: Generator_Destroy_30
+  - first:
+      213: -8467975352048188070
+    second: Generator_Destroy_31
+  - first:
+      213: 6359955645535799931
+    second: Generator_Destroy_32
+  - first:
+      213: 1671695500073959381
+    second: Generator_Destroy_33
+  - first:
+      213: 1643853740114427579
+    second: Generator_Destroy_34
+  - first:
+      213: -7521344311540681340
+    second: Generator_Destroy_35
+  - first:
+      213: -1579253167301654559
+    second: Generator_Destroy_36
+  - first:
+      213: -320881428515314525
+    second: Generator_Destroy_37
+  - first:
+      213: 1440475358271652938
+    second: Generator_Destroy_38
+  - first:
+      213: -398498220395427459
+    second: Generator_Destroy_39
+  - first:
+      213: 8458320798381931285
+    second: Generator_Destroy_40
+  - first:
+      213: 3468524481048330341
+    second: Generator_Destroy_41
+  - first:
+      213: 7412799207604131
+    second: Generator_Destroy_42
+  - first:
+      213: -4683469006417434329
+    second: Generator_Destroy_43
+  - first:
+      213: 1771141641343017926
+    second: Generator_Destroy_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Generator_Destroy_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 699
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab23e0955c2e985f0800000000000000
+      internalID: -753822125377310022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 708
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cf2982f5780c7a0800000000000000
+      internalID: -6358933831074776061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 673
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8d863971adfc4c0800000000000000
+      internalID: -4264950527304345356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 703
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc640e518b23ba50800000000000000
+      internalID: 6535615318872845523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 676
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944184043c6b9b2c0800000000000000
+      internalID: -4415297009946717111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 683
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7d9a63a2269f680800000000000000
+      internalID: -8720831269981005879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 522
+        width: 211
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb315995caef9a000800000000000000
+      internalID: 47849287254873022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 533
+        width: 217
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d33e04e1841aa4e0800000000000000
+      internalID: -1969739338911697966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 520
+        width: 217
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bbcbfaa55e6e0f0800000000000000
+      internalID: -1087930082305197153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_9
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 522
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f52c82cdcff929e0800000000000000
+      internalID: -1645502929629862412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 166
+        width: 217
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f022b8a0d285f1d0800000000000000
+      internalID: -3317601717793447691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 435
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941e0c137a24e1080800000000000000
+      internalID: -9214854501691760311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 262
+        width: 217
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed7b16944424150800000000000000
+      internalID: 5855317547497807376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_13
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 437
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c27d8104f8050e0800000000000000
+      internalID: -2283167505619407736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_14
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 444
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9692506b90acb4a0800000000000000
+      internalID: -6576204766671366498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 428
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605a13aab4413e070800000000000000
+      internalID: 8134367667171730694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_16
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 271
+        width: 208
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7628c559cf2b530800000000000000
+      internalID: 3869432748297054136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 427
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9108a4c92e8303200800000000000000
+      internalID: 157688532893859865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_18
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 429
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c931ba0eacfee210800000000000000
+      internalID: 1364305561573734855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 262
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6a2a10d40569aa0800000000000000
+      internalID: -6154643549085063504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_20
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd12e4ca6bd286a0800000000000000
+      internalID: -6448350464824959551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 199
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546362ecc652ed490800000000000000
+      internalID: -7719691562021145019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 196
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb497821079439410800000000000000
+      internalID: 1482609448031065279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 188
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7599d66db511b1910800000000000000
+      internalID: 1809058761456589143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 156
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080f49082da4b58a0800000000000000
+      internalID: -6315371784496156544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 179
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4017c44b86495bb0800000000000000
+      internalID: -4946845151721484209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 185
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa59af43cddda0740800000000000000
+      internalID: 5119147864311371183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 180
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f87ef31e77620e0800000000000000
+      internalID: -2295015150775202008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_28
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 164
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de43f8b5213ee650800000000000000
+      internalID: 6263998169805442769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 187
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12da23838ac3b8d0800000000000000
+      internalID: -2831697074495761892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 171
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc9149057471d030800000000000000
+      internalID: 3517720829968358593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 164
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5587665845bb7a80800000000000000
+      internalID: -8467975352048188070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_32
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 171
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ac66f86f9134850800000000000000
+      internalID: 6359955645535799931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_33
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dff686433e033710800000000000000
+      internalID: 1671695500073959381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_34
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 152
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeb732644420d610800000000000000
+      internalID: 1643853740114427579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 14
+        width: 210
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485763dc231de9790800000000000000
+      internalID: -7521344311540681340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 6
+        width: 200
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e703909c9d551ae0800000000000000
+      internalID: -1579253167301654559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_37
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 151
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a423567a000c8bf0800000000000000
+      internalID: -320881428515314525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a444c75d4b89df310800000000000000
+      internalID: 1440475358271652938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_39
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 138
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7984b9daff387af0800000000000000
+      internalID: -398498220395427459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_40
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 139
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b7ad7b3fdf16570800000000000000
+      internalID: 8458320798381931285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_41
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 140
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560c1a373aca22030800000000000000
+      internalID: 3468524481048330341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_42
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 138
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af7f8fc6e55a1000800000000000000
+      internalID: 7412799207604131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_43
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 140
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729efe3b0c9f00fb0800000000000000
+      internalID: -4683469006417434329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator_Destroy_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3272b50fb549810800000000000000
+      internalID: 1771141641343017926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Generator_Destroy_0: -753822125377310022
+      Generator_Destroy_1: -6358933831074776061
+      Generator_Destroy_10: -3317601717793447691
+      Generator_Destroy_11: -9214854501691760311
+      Generator_Destroy_12: 5855317547497807376
+      Generator_Destroy_13: -2283167505619407736
+      Generator_Destroy_14: -6576204766671366498
+      Generator_Destroy_15: 8134367667171730694
+      Generator_Destroy_16: 3869432748297054136
+      Generator_Destroy_17: 157688532893859865
+      Generator_Destroy_18: 1364305561573734855
+      Generator_Destroy_19: -6154643549085063504
+      Generator_Destroy_2: -4264950527304345356
+      Generator_Destroy_20: -6448350464824959551
+      Generator_Destroy_21: -7719691562021145019
+      Generator_Destroy_22: 1482609448031065279
+      Generator_Destroy_23: 1809058761456589143
+      Generator_Destroy_24: -6315371784496156544
+      Generator_Destroy_25: -4946845151721484209
+      Generator_Destroy_26: 5119147864311371183
+      Generator_Destroy_27: -2295015150775202008
+      Generator_Destroy_28: 6263998169805442769
+      Generator_Destroy_29: -2831697074495761892
+      Generator_Destroy_3: 6535615318872845523
+      Generator_Destroy_30: 3517720829968358593
+      Generator_Destroy_31: -8467975352048188070
+      Generator_Destroy_32: 6359955645535799931
+      Generator_Destroy_33: 1671695500073959381
+      Generator_Destroy_34: 1643853740114427579
+      Generator_Destroy_35: -7521344311540681340
+      Generator_Destroy_36: -1579253167301654559
+      Generator_Destroy_37: -320881428515314525
+      Generator_Destroy_38: 1440475358271652938
+      Generator_Destroy_39: -398498220395427459
+      Generator_Destroy_4: -4415297009946717111
+      Generator_Destroy_40: 8458320798381931285
+      Generator_Destroy_41: 3468524481048330341
+      Generator_Destroy_42: 7412799207604131
+      Generator_Destroy_43: -4683469006417434329
+      Generator_Destroy_44: 1771141641343017926
+      Generator_Destroy_5: -8720831269981005879
+      Generator_Destroy_6: 47849287254873022
+      Generator_Destroy_7: -1969739338911697966
+      Generator_Destroy_8: -1087930082305197153
+      Generator_Destroy_9: -1645502929629862412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,75 @@
+{
+  "name": "Player_P3_Land",
+  "sourcePage": 5,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    32
+  ],
+  "sourceRegions": [
+    [
+      136,
+      68,
+      382,
+      484
+    ],
+    [
+      648,
+      159,
+      899,
+      482
+    ],
+    [
+      1138,
+      63,
+      1391,
+      482
+    ],
+    [
+      154,
+      526,
+      384,
+      994
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "1ea0e2896161f594913a0a3580d1495fe2f392f3be3f29ace5f23053e5dc4f0b",
+  "spriteSha256": "6173fa91ad3e9d044efd9214cb7210027552367132f8bc3c293ebb58f255fb86"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "BossLaser_Fire",
+  "sourcePage": 11,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.15625,
+    0.140625
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.42424242424242425,
+  "sourceOffset": [
+    19,
+    69
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "b073b9bc62143ddc50fd1897509af85ff6d438ea8707e5f4350938f01fd9b3da",
+  "spriteSha256": "3a91d27cf5bb1788d246d0bb875bae0cb206d25220861d57f83d53ba9f6d217d",
+  "alignmentReference": [
+    50,
+    190,
+    262,
+    355
+  ],
+  "alignmentNote": "Laser cannon housing aligned to a common 70px reference height and bottom-left anchor across four states"
+}

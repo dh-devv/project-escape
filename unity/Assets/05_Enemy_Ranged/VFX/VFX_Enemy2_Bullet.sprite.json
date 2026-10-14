@@ -1,0 +1,38 @@
+{
+  "name": "VFX_Enemy2_Bullet",
+  "sourcePage": 7,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.16331738437001594,
+  "sourceOffset": [
+    25,
+    25
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "2a49614d34dfdc4e4ca86dc814948a315b1d4d7871e3b0cbfb48d9db09af13ec",
+  "spriteSha256": "b24a28789301cf365495d94570cce484b23992e24d04e663e6b0398c7b35be93"
+}

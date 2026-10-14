@@ -1,0 +1,95 @@
+{
+  "name": "Enemy3_Death",
+  "sourcePage": 8,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    33
+  ],
+  "sourceRegions": [
+    [
+      113,
+      53,
+      420,
+      503
+    ],
+    [
+      613,
+      102,
+      955,
+      509
+    ],
+    [
+      1072,
+      192,
+      1501,
+      506
+    ],
+    [
+      21,
+      683,
+      504,
+      967
+    ],
+    [
+      521,
+      765,
+      1017,
+      967
+    ],
+    [
+      1037,
+      786,
+      1523,
+      967
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "852cdd5edbf0f4ca00083bc1fe65a2f68610612cb777e42b2a6f8cd935835678",
+  "spriteSha256": "a264cfd13c66bd694c222db050c5449b938a300357d1d9b0cb6b89980f089dfe"
+}

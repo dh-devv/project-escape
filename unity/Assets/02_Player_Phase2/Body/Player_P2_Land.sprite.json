@@ -1,0 +1,75 @@
+{
+  "name": "Player_P2_Land",
+  "sourcePage": 4,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    31
+  ],
+  "sourceRegions": [
+    [
+      76,
+      156,
+      455,
+      484
+    ],
+    [
+      590,
+      190,
+      947,
+      485
+    ],
+    [
+      1103,
+      96,
+      1441,
+      484
+    ],
+    [
+      167,
+      526,
+      384,
+      974
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "4cfc3f920684b5f20723cfa7fa87960d5c33347987e36a47083423f8e1a38515",
+  "spriteSha256": "6506ee9c00d62982438a0303e32cdf6549fc2c9f15e7bb0d1495a21c933f3075"
+}

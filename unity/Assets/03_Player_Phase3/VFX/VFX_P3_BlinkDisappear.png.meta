@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 99923001cc25bb84490ee88de0b2e30b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2163478081071085148
+    second: VFX_P3_BlinkDisappear_0
+  - first:
+      213: 7878041996692029006
+    second: VFX_P3_BlinkDisappear_1
+  - first:
+      213: -6807680693966700905
+    second: VFX_P3_BlinkDisappear_2
+  - first:
+      213: -2460539717086977921
+    second: VFX_P3_BlinkDisappear_3
+  - first:
+      213: 5673546378915199151
+    second: VFX_P3_BlinkDisappear_4
+  - first:
+      213: -4759240009883417245
+    second: VFX_P3_BlinkDisappear_5
+  - first:
+      213: -8337996700648199598
+    second: VFX_P3_BlinkDisappear_6
+  - first:
+      213: 5542083657762409197
+    second: VFX_P3_BlinkDisappear_7
+  - first:
+      213: -562020981494071963
+    second: VFX_P3_BlinkDisappear_8
+  - first:
+      213: -3517756173662306495
+    second: VFX_P3_BlinkDisappear_9
+  - first:
+      213: 4997395668431382477
+    second: VFX_P3_BlinkDisappear_10
+  - first:
+      213: -2241105313339852614
+    second: VFX_P3_BlinkDisappear_11
+  - first:
+      213: -11367044762789027
+    second: VFX_P3_BlinkDisappear_12
+  - first:
+      213: 1402163207996084719
+    second: VFX_P3_BlinkDisappear_13
+  - first:
+      213: -2060963848305331982
+    second: VFX_P3_BlinkDisappear_14
+  - first:
+      213: -3891953163011897727
+    second: VFX_P3_BlinkDisappear_15
+  - first:
+      213: -1146166089965861732
+    second: VFX_P3_BlinkDisappear_16
+  - first:
+      213: -7089800333812945280
+    second: VFX_P3_BlinkDisappear_17
+  - first:
+      213: -8850631386170679957
+    second: VFX_P3_BlinkDisappear_18
+  - first:
+      213: 1454665135667341485
+    second: VFX_P3_BlinkDisappear_19
+  - first:
+      213: 110861676796842335
+    second: VFX_P3_BlinkDisappear_20
+  - first:
+      213: -7796239029377082519
+    second: VFX_P3_BlinkDisappear_21
+  - first:
+      213: 3922415760588324644
+    second: VFX_P3_BlinkDisappear_22
+  - first:
+      213: 8732872964139587603
+    second: VFX_P3_BlinkDisappear_23
+  - first:
+      213: -2011723669616986276
+    second: VFX_P3_BlinkDisappear_24
+  - first:
+      213: 6607093565865928857
+    second: VFX_P3_BlinkDisappear_25
+  - first:
+      213: -1772242812653174020
+    second: VFX_P3_BlinkDisappear_26
+  - first:
+      213: 2652204466157725493
+    second: VFX_P3_BlinkDisappear_27
+  - first:
+      213: -1299380068498233395
+    second: VFX_P3_BlinkDisappear_28
+  - first:
+      213: -7409127828220750830
+    second: VFX_P3_BlinkDisappear_29
+  - first:
+      213: 7730625803169469443
+    second: VFX_P3_BlinkDisappear_30
+  - first:
+      213: 8220733256552315301
+    second: VFX_P3_BlinkDisappear_31
+  - first:
+      213: 4758873263096680647
+    second: VFX_P3_BlinkDisappear_32
+  - first:
+      213: -7212025908136655063
+    second: VFX_P3_BlinkDisappear_33
+  - first:
+      213: 4160428904748945982
+    second: VFX_P3_BlinkDisappear_34
+  - first:
+      213: 6750454856515863622
+    second: VFX_P3_BlinkDisappear_35
+  - first:
+      213: -4334108311073891176
+    second: VFX_P3_BlinkDisappear_36
+  - first:
+      213: -8285585353965475432
+    second: VFX_P3_BlinkDisappear_37
+  - first:
+      213: 7826463530731825137
+    second: VFX_P3_BlinkDisappear_38
+  - first:
+      213: 7104126200322702345
+    second: VFX_P3_BlinkDisappear_39
+  - first:
+      213: 2298553471103226461
+    second: VFX_P3_BlinkDisappear_40
+  - first:
+      213: -5458774485612690541
+    second: VFX_P3_BlinkDisappear_41
+  - first:
+      213: 1307706990470646803
+    second: VFX_P3_BlinkDisappear_42
+  - first:
+      213: 4828046944986166724
+    second: VFX_P3_BlinkDisappear_43
+  - first:
+      213: 3468029705090690760
+    second: VFX_P3_BlinkDisappear_44
+  - first:
+      213: -3668157648315272792
+    second: VFX_P3_BlinkDisappear_45
+  - first:
+      213: 1698492813919306990
+    second: VFX_P3_BlinkDisappear_46
+  - first:
+      213: 6261051162446299713
+    second: VFX_P3_BlinkDisappear_47
+  - first:
+      213: -8755024026177253810
+    second: VFX_P3_BlinkDisappear_48
+  - first:
+      213: 3804566782896776487
+    second: VFX_P3_BlinkDisappear_49
+  - first:
+      213: 8839567735262724351
+    second: VFX_P3_BlinkDisappear_50
+  - first:
+      213: -2135821869857141046
+    second: VFX_P3_BlinkDisappear_51
+  - first:
+      213: -952907522251902365
+    second: VFX_P3_BlinkDisappear_52
+  - first:
+      213: 5006166452229679041
+    second: VFX_P3_BlinkDisappear_53
+  - first:
+      213: 2012703705106035431
+    second: VFX_P3_BlinkDisappear_54
+  - first:
+      213: -5698069556245419751
+    second: VFX_P3_BlinkDisappear_55
+  - first:
+      213: -6689135764944866696
+    second: VFX_P3_BlinkDisappear_56
+  - first:
+      213: 976352077125528996
+    second: VFX_P3_BlinkDisappear_57
+  - first:
+      213: 4211953804604897530
+    second: VFX_P3_BlinkDisappear_58
+  - first:
+      213: 423997782660504638
+    second: VFX_P3_BlinkDisappear_59
+  - first:
+      213: -6811901925686977425
+    second: VFX_P3_BlinkDisappear_60
+  - first:
+      213: -8133115269744910857
+    second: VFX_P3_BlinkDisappear_61
+  - first:
+      213: 8117173279019979640
+    second: VFX_P3_BlinkDisappear_62
+  - first:
+      213: -488212593283419337
+    second: VFX_P3_BlinkDisappear_63
+  - first:
+      213: 4702716118888907989
+    second: VFX_P3_BlinkDisappear_64
+  - first:
+      213: 2414324208562203422
+    second: VFX_P3_BlinkDisappear_65
+  - first:
+      213: -3254001249272639574
+    second: VFX_P3_BlinkDisappear_66
+  - first:
+      213: -214557015528424412
+    second: VFX_P3_BlinkDisappear_67
+  - first:
+      213: 9082715357413950662
+    second: VFX_P3_BlinkDisappear_68
+  - first:
+      213: 6802268988730471467
+    second: VFX_P3_BlinkDisappear_69
+  - first:
+      213: -6924423881763172073
+    second: VFX_P3_BlinkDisappear_70
+  - first:
+      213: -2891113722756224388
+    second: VFX_P3_BlinkDisappear_71
+  - first:
+      213: -4601762539546084909
+    second: VFX_P3_BlinkDisappear_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 282
+        width: 172
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a90a6ad528c9f1e0800000000000000
+      internalID: -2163478081071085148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 439
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eff62d47d645d60800000000000000
+      internalID: 7878041996692029006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 172
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e74db3a724681a0800000000000000
+      internalID: -6807680693966700905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 463
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f706a4fe9286addd0800000000000000
+      internalID: -2460539717086977921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 404
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8b1f33f5c7cbe40800000000000000
+      internalID: 5673546378915199151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 476
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36582123d68c3fdb0800000000000000
+      internalID: -4759240009883417245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 457
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a2c776d2c794c80800000000000000
+      internalID: -8337996700648199598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 145
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea0d6839bf69ec40800000000000000
+      internalID: 5542083657762409197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 468
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dbab125ec4338f0800000000000000
+      internalID: -562020981494071963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_9
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 469
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fbb6ed56b6e2fc0800000000000000
+      internalID: -3517756173662306495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 408
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7ade212e05a5540800000000000000
+      internalID: 4997395668431382477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_11
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 463
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab83326679ef5e0e0800000000000000
+      internalID: -2241105313339852614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 436
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b94c6abbd97dff0800000000000000
+      internalID: -11367044762789027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 410
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe19ab9320c757310800000000000000
+      internalID: 1402163207996084719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 308
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0b6d6ac4cf563e0800000000000000
+      internalID: -2060963848305331982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 283
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186c73cf7310df9c0800000000000000
+      internalID: -3891953163011897727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 295
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c948cf983000810f0800000000000000
+      internalID: -1146166089965861732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 283
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e22a6e828fb9d90800000000000000
+      internalID: -7089800333812945280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 308
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d9f5d95ad3c2580800000000000000
+      internalID: -8850631386170679957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 281
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e896db32003410800000000000000
+      internalID: 1454665135667341485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 281
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f511ea09b1cd98100800000000000000
+      internalID: 110861676796842335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b51f5b8e13ec390800000000000000
+      internalID: -7796239029377082519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_22
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 282
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fb2473a583f6630800000000000000
+      internalID: 3922415760588324644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_23
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 320
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318172031b5613970800000000000000
+      internalID: 8732872964139587603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_24
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 281
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57fb362bfbe414e0800000000000000
+      internalID: -2011723669616986276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 287
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998253f979c11bb50800000000000000
+      internalID: 6607093565865928857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_26
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 303
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf281183d8ab767e0800000000000000
+      internalID: -1772242812653174020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_27
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 283
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5372905f8e58ec420800000000000000
+      internalID: 2652204466157725493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_28
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 290
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7a0fc46bca7fde0800000000000000
+      internalID: -1299380068498233395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_29
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 316
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214d077de7d7d2990800000000000000
+      internalID: -7409127828220750830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 180
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30492699533b84b60800000000000000
+      internalID: 7730625803169469443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 225
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a97a0e6759e51270800000000000000
+      internalID: 8220733256552315301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 216
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c05bf9e40aea0240800000000000000
+      internalID: 4758873263096680647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_33
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 200
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927c992c5acb9eb90800000000000000
+      internalID: -7212025908136655063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_34
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 192
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3214d4cb00dcb930800000000000000
+      internalID: 4160428904748945982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_35
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 196
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64440f23dee6ead50800000000000000
+      internalID: 6750454856515863622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c5f5444772ad3c0800000000000000
+      internalID: -4334108311073891176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 181
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89965bcf400b30d80800000000000000
+      internalID: -8285585353965475432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 169
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7e1d46d1f2d9c60800000000000000
+      internalID: 7826463530731825137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 25
+        width: 141
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cb7c1d32de69260800000000000000
+      internalID: 7104126200322702345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_40
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 176
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d525956243a16ef10800000000000000
+      internalID: 2298553471103226461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_41
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 35
+        width: 64
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3930714f6898e34b0800000000000000
+      internalID: -5458774485612690541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_42
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 198
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c4c4d4498e52210800000000000000
+      internalID: 1307706990470646803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_43
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 151
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c57fcacd1ba00340800000000000000
+      internalID: 4828046944986166724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_44
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceee6274aae02030800000000000000
+      internalID: 3468029705090690760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_45
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 165
+        width: 100
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a13908bd06181dc0800000000000000
+      internalID: -3668157648315272792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_46
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 163
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4c63b1732429710800000000000000
+      internalID: 1698492813919306990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_47
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 165
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142882a1cd8b3e650800000000000000
+      internalID: 6261051162446299713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 128
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ec1b7c808ef7680800000000000000
+      internalID: -8755024026177253810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_49
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 144
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72520d2e4598cc430800000000000000
+      internalID: 3804566782896776487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_50
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 102
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0c65c65047caa70800000000000000
+      internalID: 8839567735262724351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_51
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 124
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace87af43590c52e0800000000000000
+      internalID: -2135821869857141046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 107
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362b06048a796c2f0800000000000000
+      internalID: -952907522251902365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_53
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 104
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7a0af4dd9797540800000000000000
+      internalID: 5006166452229679041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_54
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 101
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e235f42b5f8eeb10800000000000000
+      internalID: 2012703705106035431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_55
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 108
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9192682ade36ce0b0800000000000000
+      internalID: -5698069556245419751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_56
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 56
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872b91c567a6b23a0800000000000000
+      internalID: -6689135764944866696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_57
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 127
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad28cc8a03bc8d00800000000000000
+      internalID: 976352077125528996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_58
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 91
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af874dd5badd37a30800000000000000
+      internalID: 4211953804604897530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_59
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 84
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c5805acb752e500800000000000000
+      internalID: 423997782660504638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_60
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 95
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cd0a22a434771a0800000000000000
+      internalID: -6811901925686977425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 83
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd9c85d0ce512f80800000000000000
+      internalID: -8133115269744910857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_62
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8735744371ef5a070800000000000000
+      internalID: 8117173279019979640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 76
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733387aab358939f0800000000000000
+      internalID: -488212593283419337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_64
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 43
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d480e1e467634140800000000000000
+      internalID: 4702716118888907989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_65
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 74
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1be9f77317618120800000000000000
+      internalID: 2414324208562203422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_66
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 63
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf4d6eaa1777d2d0800000000000000
+      internalID: -3254001249272639574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_67
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 70
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3c59f78db50df0800000000000000
+      internalID: -214557015528424412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_68
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 72
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c4aace794c0e70800000000000000
+      internalID: 9082715357413950662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_69
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 58
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b247fe3fa93866e50800000000000000
+      internalID: 6802268988730471467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_70
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 45
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711564daa2187ef90800000000000000
+      internalID: -6924423881763172073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_71
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aabdd0363b0e7d0800000000000000
+      internalID: -2891113722756224388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_BlinkDisappear_72
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 25
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9f7a9f9514320c0800000000000000
+      internalID: -4601762539546084909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P3_BlinkDisappear_0: -2163478081071085148
+      VFX_P3_BlinkDisappear_1: 7878041996692029006
+      VFX_P3_BlinkDisappear_10: 4997395668431382477
+      VFX_P3_BlinkDisappear_11: -2241105313339852614
+      VFX_P3_BlinkDisappear_12: -11367044762789027
+      VFX_P3_BlinkDisappear_13: 1402163207996084719
+      VFX_P3_BlinkDisappear_14: -2060963848305331982
+      VFX_P3_BlinkDisappear_15: -3891953163011897727
+      VFX_P3_BlinkDisappear_16: -1146166089965861732
+      VFX_P3_BlinkDisappear_17: -7089800333812945280
+      VFX_P3_BlinkDisappear_18: -8850631386170679957
+      VFX_P3_BlinkDisappear_19: 1454665135667341485
+      VFX_P3_BlinkDisappear_2: -6807680693966700905
+      VFX_P3_BlinkDisappear_20: 110861676796842335
+      VFX_P3_BlinkDisappear_21: -7796239029377082519
+      VFX_P3_BlinkDisappear_22: 3922415760588324644
+      VFX_P3_BlinkDisappear_23: 8732872964139587603
+      VFX_P3_BlinkDisappear_24: -2011723669616986276
+      VFX_P3_BlinkDisappear_25: 6607093565865928857
+      VFX_P3_BlinkDisappear_26: -1772242812653174020
+      VFX_P3_BlinkDisappear_27: 2652204466157725493
+      VFX_P3_BlinkDisappear_28: -1299380068498233395
+      VFX_P3_BlinkDisappear_29: -7409127828220750830
+      VFX_P3_BlinkDisappear_3: -2460539717086977921
+      VFX_P3_BlinkDisappear_30: 7730625803169469443
+      VFX_P3_BlinkDisappear_31: 8220733256552315301
+      VFX_P3_BlinkDisappear_32: 4758873263096680647
+      VFX_P3_BlinkDisappear_33: -7212025908136655063
+      VFX_P3_BlinkDisappear_34: 4160428904748945982
+      VFX_P3_BlinkDisappear_35: 6750454856515863622
+      VFX_P3_BlinkDisappear_36: -4334108311073891176
+      VFX_P3_BlinkDisappear_37: -8285585353965475432
+      VFX_P3_BlinkDisappear_38: 7826463530731825137
+      VFX_P3_BlinkDisappear_39: 7104126200322702345
+      VFX_P3_BlinkDisappear_4: 5673546378915199151
+      VFX_P3_BlinkDisappear_40: 2298553471103226461
+      VFX_P3_BlinkDisappear_41: -5458774485612690541
+      VFX_P3_BlinkDisappear_42: 1307706990470646803
+      VFX_P3_BlinkDisappear_43: 4828046944986166724
+      VFX_P3_BlinkDisappear_44: 3468029705090690760
+      VFX_P3_BlinkDisappear_45: -3668157648315272792
+      VFX_P3_BlinkDisappear_46: 1698492813919306990
+      VFX_P3_BlinkDisappear_47: 6261051162446299713
+      VFX_P3_BlinkDisappear_48: -8755024026177253810
+      VFX_P3_BlinkDisappear_49: 3804566782896776487
+      VFX_P3_BlinkDisappear_5: -4759240009883417245
+      VFX_P3_BlinkDisappear_50: 8839567735262724351
+      VFX_P3_BlinkDisappear_51: -2135821869857141046
+      VFX_P3_BlinkDisappear_52: -952907522251902365
+      VFX_P3_BlinkDisappear_53: 5006166452229679041
+      VFX_P3_BlinkDisappear_54: 2012703705106035431
+      VFX_P3_BlinkDisappear_55: -5698069556245419751
+      VFX_P3_BlinkDisappear_56: -6689135764944866696
+      VFX_P3_BlinkDisappear_57: 976352077125528996
+      VFX_P3_BlinkDisappear_58: 4211953804604897530
+      VFX_P3_BlinkDisappear_59: 423997782660504638
+      VFX_P3_BlinkDisappear_6: -8337996700648199598
+      VFX_P3_BlinkDisappear_60: -6811901925686977425
+      VFX_P3_BlinkDisappear_61: -8133115269744910857
+      VFX_P3_BlinkDisappear_62: 8117173279019979640
+      VFX_P3_BlinkDisappear_63: -488212593283419337
+      VFX_P3_BlinkDisappear_64: 4702716118888907989
+      VFX_P3_BlinkDisappear_65: 2414324208562203422
+      VFX_P3_BlinkDisappear_66: -3254001249272639574
+      VFX_P3_BlinkDisappear_67: -214557015528424412
+      VFX_P3_BlinkDisappear_68: 9082715357413950662
+      VFX_P3_BlinkDisappear_69: 6802268988730471467
+      VFX_P3_BlinkDisappear_7: 5542083657762409197
+      VFX_P3_BlinkDisappear_70: -6924423881763172073
+      VFX_P3_BlinkDisappear_71: -2891113722756224388
+      VFX_P3_BlinkDisappear_72: -4601762539546084909
+      VFX_P3_BlinkDisappear_8: -562020981494071963
+      VFX_P3_BlinkDisappear_9: -3517756173662306495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: a0a1839cac2aef04586e08684fd16d50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3555173459797065399
+    second: VFX_P2_BoostExplosion_0
+  - first:
+      213: -6344958556293158934
+    second: VFX_P2_BoostExplosion_1
+  - first:
+      213: 1135289162621025344
+    second: VFX_P2_BoostExplosion_2
+  - first:
+      213: 5803354803401334930
+    second: VFX_P2_BoostExplosion_3
+  - first:
+      213: 1794220285591680379
+    second: VFX_P2_BoostExplosion_4
+  - first:
+      213: -6387025550921496884
+    second: VFX_P2_BoostExplosion_5
+  - first:
+      213: -6393996338537445348
+    second: VFX_P2_BoostExplosion_6
+  - first:
+      213: -5476405146093242546
+    second: VFX_P2_BoostExplosion_7
+  - first:
+      213: 6581197337072264948
+    second: VFX_P2_BoostExplosion_8
+  - first:
+      213: 6057809066660650591
+    second: VFX_P2_BoostExplosion_9
+  - first:
+      213: -915978265346957829
+    second: VFX_P2_BoostExplosion_10
+  - first:
+      213: -8415156407055109248
+    second: VFX_P2_BoostExplosion_11
+  - first:
+      213: -3894576796141259813
+    second: VFX_P2_BoostExplosion_12
+  - first:
+      213: -7760875716090217261
+    second: VFX_P2_BoostExplosion_13
+  - first:
+      213: 7689882257692502957
+    second: VFX_P2_BoostExplosion_14
+  - first:
+      213: 9061356779364939402
+    second: VFX_P2_BoostExplosion_15
+  - first:
+      213: -4680166369454970093
+    second: VFX_P2_BoostExplosion_16
+  - first:
+      213: 1778940859181383474
+    second: VFX_P2_BoostExplosion_17
+  - first:
+      213: -2948140361850773600
+    second: VFX_P2_BoostExplosion_18
+  - first:
+      213: 1930363922860368656
+    second: VFX_P2_BoostExplosion_19
+  - first:
+      213: -7261884391914410822
+    second: VFX_P2_BoostExplosion_20
+  - first:
+      213: -4779237542266375821
+    second: VFX_P2_BoostExplosion_21
+  - first:
+      213: 4406206648213571187
+    second: VFX_P2_BoostExplosion_22
+  - first:
+      213: -8947849391905933771
+    second: VFX_P2_BoostExplosion_23
+  - first:
+      213: -437431361759441571
+    second: VFX_P2_BoostExplosion_24
+  - first:
+      213: -6970800777827034572
+    second: VFX_P2_BoostExplosion_25
+  - first:
+      213: -3019823695873093333
+    second: VFX_P2_BoostExplosion_26
+  - first:
+      213: -7464250617887526313
+    second: VFX_P2_BoostExplosion_27
+  - first:
+      213: -4982811780809296140
+    second: VFX_P2_BoostExplosion_28
+  - first:
+      213: -3385272460073252799
+    second: VFX_P2_BoostExplosion_29
+  - first:
+      213: 5395939972183822315
+    second: VFX_P2_BoostExplosion_30
+  - first:
+      213: -557551221943433058
+    second: VFX_P2_BoostExplosion_31
+  - first:
+      213: 3724958199353955532
+    second: VFX_P2_BoostExplosion_32
+  - first:
+      213: 425182610855581745
+    second: VFX_P2_BoostExplosion_33
+  - first:
+      213: 8765006936576323503
+    second: VFX_P2_BoostExplosion_34
+  - first:
+      213: -8589636632790427621
+    second: VFX_P2_BoostExplosion_35
+  - first:
+      213: -4647094984282541636
+    second: VFX_P2_BoostExplosion_36
+  - first:
+      213: 7109812713409552858
+    second: VFX_P2_BoostExplosion_37
+  - first:
+      213: -1470332209793116911
+    second: VFX_P2_BoostExplosion_38
+  - first:
+      213: 4371389889952015360
+    second: VFX_P2_BoostExplosion_39
+  - first:
+      213: 1717703720651535357
+    second: VFX_P2_BoostExplosion_40
+  - first:
+      213: 1175036943926205129
+    second: VFX_P2_BoostExplosion_41
+  - first:
+      213: -6402012919594088108
+    second: VFX_P2_BoostExplosion_42
+  - first:
+      213: 2261938031803788123
+    second: VFX_P2_BoostExplosion_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 874
+        width: 56
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beb912fc63865130800000000000000
+      internalID: 3555173459797065399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 980
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae722916fcd22f7a0800000000000000
+      internalID: -6344958556293158934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 981
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c70677a7b51cf00800000000000000
+      internalID: 1135289162621025344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 940
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2902b4a3278a98050800000000000000
+      internalID: 5803354803401334930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 793
+        width: 282
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75fd73f7d956e810800000000000000
+      internalID: 1794220285591680379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 793
+        width: 198
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc60bf1f91abc57a0800000000000000
+      internalID: -6387025550921496884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 940
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18c35af436f347a0800000000000000
+      internalID: -6393996338537445348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 927
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47bdfce886eff3b0800000000000000
+      internalID: -5476405146093242546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 794
+        width: 104
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f660f00c1c155b50800000000000000
+      internalID: 6581197337072264948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 920
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ed27f1049a11450800000000000000
+      internalID: 6057809066660650591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 793
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd1408ee9ac943f0800000000000000
+      internalID: -915978265346957829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 538
+        width: 197
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083b02c45db573b80800000000000000
+      internalID: -8415156407055109248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 539
+        width: 199
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3758bc90fa3f9c0800000000000000
+      internalID: -3894576796141259813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 690
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcbc74b7a4db4490800000000000000
+      internalID: -7760875716090217261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 693
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab275eab23f7ba60800000000000000
+      internalID: 7689882257692502957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 537
+        width: 197
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86ff115bf760cd70800000000000000
+      internalID: 9061356779364939402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 584
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b28eacb75bc0fb0800000000000000
+      internalID: -4680166369454970093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 190
+        width: 183
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f3fe3494110b810800000000000000
+      internalID: 1778940859181383474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 300
+        width: 196
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af94e7f5f91617d0800000000000000
+      internalID: -2948140361850773600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 477
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0136255a2c70aca10800000000000000
+      internalID: 1930363922860368656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 189
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcecf3ee9a983b90800000000000000
+      internalID: -7261884391914410822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 440
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371700cd6ccbcadb0800000000000000
+      internalID: -4779237542266375821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 425
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3760cb9f99df52d30800000000000000
+      internalID: 4406206648213571187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 398
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53670c3c26ad2d380800000000000000
+      internalID: -8947849391905933771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 304
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d86bc7e7eede9f0800000000000000
+      internalID: -437431361759441571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 298
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a5a9d10adb24f90800000000000000
+      internalID: -6970800777827034572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 304
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b215d2b295e6716d0800000000000000
+      internalID: -3019823695873093333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752f25e3c97a96890800000000000000
+      internalID: -7464250617887526313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 293
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6fa3ed51f79dab0800000000000000
+      internalID: -4982811780809296140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148cb6d22a81501d0800000000000000
+      internalID: -3385272460073252799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 212
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef0957d0da32ea40800000000000000
+      internalID: 5395939972183822315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 25
+        width: 107
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e980aff1e1e2348f0800000000000000
+      internalID: -557551221943433058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 134
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4dba32fb5b1b330800000000000000
+      internalID: 3724958199353955532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 147
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13858b4f45d86e500800000000000000
+      internalID: 425182610855581745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 154
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf677cae5f83a970800000000000000
+      internalID: 8765006936576323503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 92
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1818d80efa7bc880800000000000000
+      internalID: -8589636632790427621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 98
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1f650bbb3328fb0800000000000000
+      internalID: -4647094984282541636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 97
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad125525ef02ba260800000000000000
+      internalID: 7109812713409552858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_38
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 67
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115577535a4589be0800000000000000
+      internalID: -1470332209793116911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 101
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004e25db1fb4aac30800000000000000
+      internalID: 4371389889952015360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_40
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 25
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df33dc2ee6286d710800000000000000
+      internalID: 1717703720651535357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_41
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 68
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca9ea8ffd19e4010800000000000000
+      internalID: 1175036943926205129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 60
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45902204b2b7727a0800000000000000
+      internalID: -6402012919594088108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_BoostExplosion_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 34
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b6c99d7a4046f10800000000000000
+      internalID: 2261938031803788123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P2_BoostExplosion_0: 3555173459797065399
+      VFX_P2_BoostExplosion_1: -6344958556293158934
+      VFX_P2_BoostExplosion_10: -915978265346957829
+      VFX_P2_BoostExplosion_11: -8415156407055109248
+      VFX_P2_BoostExplosion_12: -3894576796141259813
+      VFX_P2_BoostExplosion_13: -7760875716090217261
+      VFX_P2_BoostExplosion_14: 7689882257692502957
+      VFX_P2_BoostExplosion_15: 9061356779364939402
+      VFX_P2_BoostExplosion_16: -4680166369454970093
+      VFX_P2_BoostExplosion_17: 1778940859181383474
+      VFX_P2_BoostExplosion_18: -2948140361850773600
+      VFX_P2_BoostExplosion_19: 1930363922860368656
+      VFX_P2_BoostExplosion_2: 1135289162621025344
+      VFX_P2_BoostExplosion_20: -7261884391914410822
+      VFX_P2_BoostExplosion_21: -4779237542266375821
+      VFX_P2_BoostExplosion_22: 4406206648213571187
+      VFX_P2_BoostExplosion_23: -8947849391905933771
+      VFX_P2_BoostExplosion_24: -437431361759441571
+      VFX_P2_BoostExplosion_25: -6970800777827034572
+      VFX_P2_BoostExplosion_26: -3019823695873093333
+      VFX_P2_BoostExplosion_27: -7464250617887526313
+      VFX_P2_BoostExplosion_28: -4982811780809296140
+      VFX_P2_BoostExplosion_29: -3385272460073252799
+      VFX_P2_BoostExplosion_3: 5803354803401334930
+      VFX_P2_BoostExplosion_30: 5395939972183822315
+      VFX_P2_BoostExplosion_31: -557551221943433058
+      VFX_P2_BoostExplosion_32: 3724958199353955532
+      VFX_P2_BoostExplosion_33: 425182610855581745
+      VFX_P2_BoostExplosion_34: 8765006936576323503
+      VFX_P2_BoostExplosion_35: -8589636632790427621
+      VFX_P2_BoostExplosion_36: -4647094984282541636
+      VFX_P2_BoostExplosion_37: 7109812713409552858
+      VFX_P2_BoostExplosion_38: -1470332209793116911
+      VFX_P2_BoostExplosion_39: 4371389889952015360
+      VFX_P2_BoostExplosion_4: 1794220285591680379
+      VFX_P2_BoostExplosion_40: 1717703720651535357
+      VFX_P2_BoostExplosion_41: 1175036943926205129
+      VFX_P2_BoostExplosion_42: -6402012919594088108
+      VFX_P2_BoostExplosion_43: 2261938031803788123
+      VFX_P2_BoostExplosion_5: -6387025550921496884
+      VFX_P2_BoostExplosion_6: -6393996338537445348
+      VFX_P2_BoostExplosion_7: -5476405146093242546
+      VFX_P2_BoostExplosion_8: 6581197337072264948
+      VFX_P2_BoostExplosion_9: 6057809066660650591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

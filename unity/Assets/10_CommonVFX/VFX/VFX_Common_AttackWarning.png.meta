@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2ce42eae5ac9da144a7b60277f18fa0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3558786923077259207
+    second: VFX_Common_AttackWarning_0
+  - first:
+      213: 687172594626493141
+    second: VFX_Common_AttackWarning_1
+  - first:
+      213: -1485323363997220811
+    second: VFX_Common_AttackWarning_2
+  - first:
+      213: -537974949993963041
+    second: VFX_Common_AttackWarning_3
+  - first:
+      213: -4709781368100967771
+    second: VFX_Common_AttackWarning_4
+  - first:
+      213: 8689113145937913375
+    second: VFX_Common_AttackWarning_5
+  - first:
+      213: -3119761575621895611
+    second: VFX_Common_AttackWarning_6
+  - first:
+      213: -595002101734105361
+    second: VFX_Common_AttackWarning_7
+  - first:
+      213: -3572922765459553921
+    second: VFX_Common_AttackWarning_8
+  - first:
+      213: -6701625410894157336
+    second: VFX_Common_AttackWarning_9
+  - first:
+      213: 6636579645040776995
+    second: VFX_Common_AttackWarning_10
+  - first:
+      213: -7400820935611053914
+    second: VFX_Common_AttackWarning_11
+  - first:
+      213: -5510480421831712132
+    second: VFX_Common_AttackWarning_12
+  - first:
+      213: -3936302863787099189
+    second: VFX_Common_AttackWarning_13
+  - first:
+      213: 4604543678130557456
+    second: VFX_Common_AttackWarning_14
+  - first:
+      213: -3556720263814013261
+    second: VFX_Common_AttackWarning_15
+  - first:
+      213: -7413046585660619686
+    second: VFX_Common_AttackWarning_16
+  - first:
+      213: -4870585477443402421
+    second: VFX_Common_AttackWarning_17
+  - first:
+      213: -2053287946996036512
+    second: VFX_Common_AttackWarning_18
+  - first:
+      213: 8069757234601585226
+    second: VFX_Common_AttackWarning_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 30
+        width: 202
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930bca21626ac9ec0800000000000000
+      internalID: -3558786923077259207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 188
+        width: 138
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da781285d3598900800000000000000
+      internalID: 687172594626493141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 216
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5308b502542136be0800000000000000
+      internalID: -1485323363997220811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 221
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd12d8f12aab888f0800000000000000
+      internalID: -537974949993963041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 220
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaa6989cce73aeb0800000000000000
+      internalID: -4709781368100967771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 212
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f166ecc8e5ee59870800000000000000
+      internalID: 8689113145937913375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 215
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ad42d406164b4d0800000000000000
+      internalID: -3119761575621895611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 205
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee178dadb02eb7f0800000000000000
+      internalID: -595002101734105361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 89
+        width: 195
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7180eaccad6a6ec0800000000000000
+      internalID: -3572922765459553921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 49
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e92ced023b0ff2a0800000000000000
+      internalID: -6701625410894157336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 50
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3275e3a660ed91c50800000000000000
+      internalID: 6636579645040776995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 31
+        width: 199
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a801aef1900b4990800000000000000
+      internalID: -7400820935611053914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 37
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72e9fa8047d683b0800000000000000
+      internalID: -5510480421831712132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 49
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbfd9b96617f59c0800000000000000
+      internalID: -3936302863787099189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0121ebf4410a6ef30800000000000000
+      internalID: 4604543678130557456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 34
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be9eeda3cdf3aec0800000000000000
+      internalID: -3556720263814013261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 44
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54c64608619f1990800000000000000
+      internalID: -7413046585660619686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_17
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 36
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b454fc05054386cb0800000000000000
+      internalID: -4870585477443402421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 34
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc5b1bd714183e0800000000000000
+      internalID: -2053287946996036512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_AttackWarning_19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 33
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ae01013798dff60800000000000000
+      internalID: 8069757234601585226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_AttackWarning_0: -3558786923077259207
+      VFX_Common_AttackWarning_1: 687172594626493141
+      VFX_Common_AttackWarning_10: 6636579645040776995
+      VFX_Common_AttackWarning_11: -7400820935611053914
+      VFX_Common_AttackWarning_12: -5510480421831712132
+      VFX_Common_AttackWarning_13: -3936302863787099189
+      VFX_Common_AttackWarning_14: 4604543678130557456
+      VFX_Common_AttackWarning_15: -3556720263814013261
+      VFX_Common_AttackWarning_16: -7413046585660619686
+      VFX_Common_AttackWarning_17: -4870585477443402421
+      VFX_Common_AttackWarning_18: -2053287946996036512
+      VFX_Common_AttackWarning_19: 8069757234601585226
+      VFX_Common_AttackWarning_2: -1485323363997220811
+      VFX_Common_AttackWarning_3: -537974949993963041
+      VFX_Common_AttackWarning_4: -4709781368100967771
+      VFX_Common_AttackWarning_5: 8689113145937913375
+      VFX_Common_AttackWarning_6: -3119761575621895611
+      VFX_Common_AttackWarning_7: -595002101734105361
+      VFX_Common_AttackWarning_8: -3572922765459553921
+      VFX_Common_AttackWarning_9: -6701625410894157336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

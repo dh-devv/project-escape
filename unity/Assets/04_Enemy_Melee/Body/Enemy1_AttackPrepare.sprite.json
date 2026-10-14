@@ -1,0 +1,65 @@
+{
+  "name": "Enemy1_AttackPrepare",
+  "sourcePage": 6,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    34
+  ],
+  "sourceRegions": [
+    [
+      95,
+      128,
+      661,
+      677
+    ],
+    [
+      808,
+      162,
+      1396,
+      674
+    ],
+    [
+      1450,
+      103,
+      2105,
+      674
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "964724f9d26422132dc0a40a54098523c93c27043d9bb8093d5659e1c879b57a",
+  "spriteSha256": "fde2766cbfedde8a6e56bd7e0c0a79b51c490b07d8d43047f712fe9def999b04"
+}

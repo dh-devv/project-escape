@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 858e37ed8fb20ad4eab736372a0ccadb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6856543020826059582
+    second: VFX_Common_EnergyCharge_0
+  - first:
+      213: 6240133696577070330
+    second: VFX_Common_EnergyCharge_1
+  - first:
+      213: -2701771597214187544
+    second: VFX_Common_EnergyCharge_2
+  - first:
+      213: -5914390145783073243
+    second: VFX_Common_EnergyCharge_3
+  - first:
+      213: -1542776647623135824
+    second: VFX_Common_EnergyCharge_4
+  - first:
+      213: -2099878963143154072
+    second: VFX_Common_EnergyCharge_5
+  - first:
+      213: 9099409595753208956
+    second: VFX_Common_EnergyCharge_6
+  - first:
+      213: 6785066652514602290
+    second: VFX_Common_EnergyCharge_7
+  - first:
+      213: 703954950706214408
+    second: VFX_Common_EnergyCharge_8
+  - first:
+      213: 1750648796041639401
+    second: VFX_Common_EnergyCharge_9
+  - first:
+      213: -4390804313742056915
+    second: VFX_Common_EnergyCharge_10
+  - first:
+      213: 7624808735978547728
+    second: VFX_Common_EnergyCharge_11
+  - first:
+      213: -6121999804742193883
+    second: VFX_Common_EnergyCharge_12
+  - first:
+      213: -4319567060206508664
+    second: VFX_Common_EnergyCharge_13
+  - first:
+      213: -2900118354962069734
+    second: VFX_Common_EnergyCharge_14
+  - first:
+      213: 8033730484939150870
+    second: VFX_Common_EnergyCharge_15
+  - first:
+      213: 7807948910199401356
+    second: VFX_Common_EnergyCharge_16
+  - first:
+      213: -6172467885725663671
+    second: VFX_Common_EnergyCharge_17
+  - first:
+      213: 7910105123415344701
+    second: VFX_Common_EnergyCharge_18
+  - first:
+      213: 7306016986100488812
+    second: VFX_Common_EnergyCharge_19
+  - first:
+      213: -9208837476320595493
+    second: VFX_Common_EnergyCharge_20
+  - first:
+      213: 8912111156674190397
+    second: VFX_Common_EnergyCharge_21
+  - first:
+      213: -916585634241272087
+    second: VFX_Common_EnergyCharge_22
+  - first:
+      213: 9072406905687585420
+    second: VFX_Common_EnergyCharge_23
+  - first:
+      213: 943960819945196444
+    second: VFX_Common_EnergyCharge_24
+  - first:
+      213: 8104750624355670749
+    second: VFX_Common_EnergyCharge_25
+  - first:
+      213: -3873139066815930363
+    second: VFX_Common_EnergyCharge_26
+  - first:
+      213: -8944998558578667419
+    second: VFX_Common_EnergyCharge_27
+  - first:
+      213: -3391639681588338659
+    second: VFX_Common_EnergyCharge_28
+  - first:
+      213: -8587700403854992576
+    second: VFX_Common_EnergyCharge_29
+  - first:
+      213: -7664125825494960713
+    second: VFX_Common_EnergyCharge_30
+  - first:
+      213: 8599114937591321518
+    second: VFX_Common_EnergyCharge_31
+  - first:
+      213: 4527393802466975781
+    second: VFX_Common_EnergyCharge_32
+  - first:
+      213: -5648450397496741070
+    second: VFX_Common_EnergyCharge_33
+  - first:
+      213: -4978376021258600089
+    second: VFX_Common_EnergyCharge_34
+  - first:
+      213: 550382125174162293
+    second: VFX_Common_EnergyCharge_35
+  - first:
+      213: 7775723258125720400
+    second: VFX_Common_EnergyCharge_36
+  - first:
+      213: -1206566634127896458
+    second: VFX_Common_EnergyCharge_37
+  - first:
+      213: -600236811764190844
+    second: VFX_Common_EnergyCharge_38
+  - first:
+      213: 5904408619248949378
+    second: VFX_Common_EnergyCharge_39
+  - first:
+      213: -2977203270348296655
+    second: VFX_Common_EnergyCharge_40
+  - first:
+      213: -7344883129153206352
+    second: VFX_Common_EnergyCharge_41
+  - first:
+      213: 6834610791348554125
+    second: VFX_Common_EnergyCharge_42
+  - first:
+      213: 6634909744378746846
+    second: VFX_Common_EnergyCharge_43
+  - first:
+      213: -1691242130726418763
+    second: VFX_Common_EnergyCharge_44
+  - first:
+      213: -4755438215767638794
+    second: VFX_Common_EnergyCharge_45
+  - first:
+      213: 139616270523623293
+    second: VFX_Common_EnergyCharge_46
+  - first:
+      213: 62836354246086750
+    second: VFX_Common_EnergyCharge_47
+  - first:
+      213: -8638799006599246800
+    second: VFX_Common_EnergyCharge_48
+  - first:
+      213: -4533513643030171186
+    second: VFX_Common_EnergyCharge_49
+  - first:
+      213: 3461887072186971598
+    second: VFX_Common_EnergyCharge_50
+  - first:
+      213: -5980716850756684928
+    second: VFX_Common_EnergyCharge_51
+  - first:
+      213: 2867269646702893510
+    second: VFX_Common_EnergyCharge_52
+  - first:
+      213: -4781240534711720438
+    second: VFX_Common_EnergyCharge_53
+  - first:
+      213: -3872133434274123182
+    second: VFX_Common_EnergyCharge_54
+  - first:
+      213: -6889758791662611562
+    second: VFX_Common_EnergyCharge_55
+  - first:
+      213: -7190438647445481557
+    second: VFX_Common_EnergyCharge_56
+  - first:
+      213: -4930380999827464039
+    second: VFX_Common_EnergyCharge_57
+  - first:
+      213: 8751017299302353911
+    second: VFX_Common_EnergyCharge_58
+  - first:
+      213: -3306169920253351730
+    second: VFX_Common_EnergyCharge_59
+  - first:
+      213: 2219545428617456897
+    second: VFX_Common_EnergyCharge_60
+  - first:
+      213: -1533982097432058982
+    second: VFX_Common_EnergyCharge_61
+  - first:
+      213: 9089108023567591135
+    second: VFX_Common_EnergyCharge_62
+  - first:
+      213: -757516083939880201
+    second: VFX_Common_EnergyCharge_63
+  - first:
+      213: -2822470733601451427
+    second: VFX_Common_EnergyCharge_64
+  - first:
+      213: 5800407081728923661
+    second: VFX_Common_EnergyCharge_65
+  - first:
+      213: 1901058012576420254
+    second: VFX_Common_EnergyCharge_66
+  - first:
+      213: 1742831379092345105
+    second: VFX_Common_EnergyCharge_67
+  - first:
+      213: 4416486237075642184
+    second: VFX_Common_EnergyCharge_68
+  - first:
+      213: 6035804020995031445
+    second: VFX_Common_EnergyCharge_69
+  - first:
+      213: -8758411555302423144
+    second: VFX_Common_EnergyCharge_70
+  - first:
+      213: -8516269864340946112
+    second: VFX_Common_EnergyCharge_71
+  - first:
+      213: 4928574862984570553
+    second: VFX_Common_EnergyCharge_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 624
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e336587cc85572f50800000000000000
+      internalID: 6856543020826059582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 672
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4eb6f0988699650800000000000000
+      internalID: 6240133696577070330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 696
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8effec30c01618ad0800000000000000
+      internalID: -2701771597214187544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 671
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52677898f7ddbeda0800000000000000
+      internalID: -5914390145783073243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 690
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bda7ae10d4f69ae0800000000000000
+      internalID: -1542776647623135824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 574
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866698a653bbbd2e0800000000000000
+      internalID: -2099878963143154072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 679
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c96ac01d8974e70800000000000000
+      internalID: 9099409595753208956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 671
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d4b70fb26692e50800000000000000
+      internalID: 6785066652514602290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 572
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806b8b64c43f4c900800000000000000
+      internalID: 703954950706214408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 689
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5f68efdcd8b4810800000000000000
+      internalID: 1750648796041639401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 690
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22e6297dbab013c0800000000000000
+      internalID: -4390804313742056915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_11
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 675
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aeb4cb523c0d960800000000000000
+      internalID: 7624808735978547728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 651
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52da4530d994a0ba0800000000000000
+      internalID: -6121999804742193883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 682
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885a9e015a0dd04c0800000000000000
+      internalID: -4319567060206508664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 665
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1745edb8b5b0c7d0800000000000000
+      internalID: -2900118354962069734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_15
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 645
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6165600cf4b8d7f60800000000000000
+      internalID: 8033730484939150870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_16
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 677
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b65d06a286b5c60800000000000000
+      internalID: 7807948910199401356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 684
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eb0db392df65aa0800000000000000
+      internalID: -6172467885725663671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 644
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d364b2143b656cd60800000000000000
+      internalID: 7910105123415344701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 668
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a5d7b6dbf246560800000000000000
+      internalID: 7306016986100488812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 662
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd13b951b13a33080800000000000000
+      internalID: -9208837476320595493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 631
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c5c5ce0ed2eab70800000000000000
+      internalID: 8912111156674190397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 666
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6a2d0d832a743f0800000000000000
+      internalID: -916585634241272087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 631
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c823f47530aa7ed70800000000000000
+      internalID: 9072406905687585420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 619
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b48ba4d5f991d00800000000000000
+      internalID: 943960819945196444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 644
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda58d580cbd97070800000000000000
+      internalID: 8104750624355670749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 590
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500afbc1a88df3ac0800000000000000
+      internalID: -3873139066815930363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 643
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560998f143bfcd380800000000000000
+      internalID: -8944998558578667419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_28
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 632
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10eec4eda97ee0d0800000000000000
+      internalID: -3391639681588338659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_29
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 601
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b9eb67bfb52d880800000000000000
+      internalID: -8587700403854992576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 572
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5b9710b2e83a590800000000000000
+      internalID: -7664125825494960713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 575
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3d2e5c971365770800000000000000
+      internalID: 8599114937591321518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 604
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520695a1da884de30800000000000000
+      internalID: 4527393802466975781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_33
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 579
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233facd4a4cac91b0800000000000000
+      internalID: -5648450397496741070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_34
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 606
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7610f8e926149eab0800000000000000
+      internalID: -4978376021258600089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_35
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 592
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5730bb570a953a700800000000000000
+      internalID: 550382125174162293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 444
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b93501b1be8eb60800000000000000
+      internalID: 7775723258125720400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 315
+        width: 177
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670d7f6f90a614fe0800000000000000
+      internalID: -1206566634127896458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 388
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481bea5ccc78ba7f0800000000000000
+      internalID: -600236811764190844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 315
+        width: 185
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28896173b5ca0f150800000000000000
+      internalID: 5904408619248949378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 421
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e22c64669dea6d0800000000000000
+      internalID: -2977203270348296655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 409
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7401a75bbb11a90800000000000000
+      internalID: -7344883129153206352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_42
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 315
+        width: 185
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89c16cad4a69de50800000000000000
+      internalID: 6834610791348554125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_43
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 405
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7197e524fe31c50800000000000000
+      internalID: 6634909744378746846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 412
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b680e02e308788e0800000000000000
+      internalID: -1691242130726418763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 427
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc3add532a410eb0800000000000000
+      internalID: -4755438215767638794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 416
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ec61224400f100800000000000000
+      internalID: 139616270523623293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_47
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 408
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5091ddc45d3fd000800000000000000
+      internalID: 62836354246086750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_48
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c87a5e212dc1880800000000000000
+      internalID: -8638799006599246800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_49
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 406
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1bcca7c59b511c0800000000000000
+      internalID: -4533513643030171186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 358
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5b83643f71b0030800000000000000
+      internalID: 3461887072186971598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 320
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083747026b9300da0800000000000000
+      internalID: -5980716850756684928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 348
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c95cfe5d869ac720800000000000000
+      internalID: 2867269646702893510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_53
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 347
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a062fc6d01f95adb0800000000000000
+      internalID: -4781240534711720438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_54
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 338
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2527d2f282b634ac0800000000000000
+      internalID: -3872133434274123182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_55
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 339
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69353dae1e8a260a0800000000000000
+      internalID: -6889758791662611562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_56
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 343
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba795cf852e663c90800000000000000
+      internalID: -7190438647445481557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_57
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 315
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990e2f95a94c39bb0800000000000000
+      internalID: -4930380999827464039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_58
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 315
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb073c6edbd17970800000000000000
+      internalID: 8751017299302353911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_59
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 151
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8a73079ff1e12d0800000000000000
+      internalID: -3306169920253351730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 68
+        width: 157
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10de593cec86dce10800000000000000
+      internalID: 2219545428617456897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_61
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 165
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93e0c6e86336bae0800000000000000
+      internalID: -1533982097432058982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 163
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd626ed579ff22e70800000000000000
+      internalID: 9089108023567591135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 183
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f25e199223cc75f0800000000000000
+      internalID: -757516083939880201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 146
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52dfb662d194d8d0800000000000000
+      internalID: -2822470733601451427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_65
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 66
+        width: 169
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08dc1b428f2f7050800000000000000
+      internalID: 5800407081728923661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_66
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 151
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911701b03ae16a10800000000000000
+      internalID: 1901058012576420254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_67
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 83
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1111436c7e7cf2810800000000000000
+      internalID: 1742831379092345105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_68
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8479b4445d28a4d30800000000000000
+      internalID: 4416486237075642184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591884d27cb73c350800000000000000
+      internalID: 6035804020995031445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_70
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 65
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895c581381fd37680800000000000000
+      internalID: -8758411555302423144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_71
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 68
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0430894fda120d980800000000000000
+      internalID: -8516269864340946112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyCharge_72
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 68
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b66d15a9b0d56440800000000000000
+      internalID: 4928574862984570553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_EnergyCharge_0: 6856543020826059582
+      VFX_Common_EnergyCharge_1: 6240133696577070330
+      VFX_Common_EnergyCharge_10: -4390804313742056915
+      VFX_Common_EnergyCharge_11: 7624808735978547728
+      VFX_Common_EnergyCharge_12: -6121999804742193883
+      VFX_Common_EnergyCharge_13: -4319567060206508664
+      VFX_Common_EnergyCharge_14: -2900118354962069734
+      VFX_Common_EnergyCharge_15: 8033730484939150870
+      VFX_Common_EnergyCharge_16: 7807948910199401356
+      VFX_Common_EnergyCharge_17: -6172467885725663671
+      VFX_Common_EnergyCharge_18: 7910105123415344701
+      VFX_Common_EnergyCharge_19: 7306016986100488812
+      VFX_Common_EnergyCharge_2: -2701771597214187544
+      VFX_Common_EnergyCharge_20: -9208837476320595493
+      VFX_Common_EnergyCharge_21: 8912111156674190397
+      VFX_Common_EnergyCharge_22: -916585634241272087
+      VFX_Common_EnergyCharge_23: 9072406905687585420
+      VFX_Common_EnergyCharge_24: 943960819945196444
+      VFX_Common_EnergyCharge_25: 8104750624355670749
+      VFX_Common_EnergyCharge_26: -3873139066815930363
+      VFX_Common_EnergyCharge_27: -8944998558578667419
+      VFX_Common_EnergyCharge_28: -3391639681588338659
+      VFX_Common_EnergyCharge_29: -8587700403854992576
+      VFX_Common_EnergyCharge_3: -5914390145783073243
+      VFX_Common_EnergyCharge_30: -7664125825494960713
+      VFX_Common_EnergyCharge_31: 8599114937591321518
+      VFX_Common_EnergyCharge_32: 4527393802466975781
+      VFX_Common_EnergyCharge_33: -5648450397496741070
+      VFX_Common_EnergyCharge_34: -4978376021258600089
+      VFX_Common_EnergyCharge_35: 550382125174162293
+      VFX_Common_EnergyCharge_36: 7775723258125720400
+      VFX_Common_EnergyCharge_37: -1206566634127896458
+      VFX_Common_EnergyCharge_38: -600236811764190844
+      VFX_Common_EnergyCharge_39: 5904408619248949378
+      VFX_Common_EnergyCharge_4: -1542776647623135824
+      VFX_Common_EnergyCharge_40: -2977203270348296655
+      VFX_Common_EnergyCharge_41: -7344883129153206352
+      VFX_Common_EnergyCharge_42: 6834610791348554125
+      VFX_Common_EnergyCharge_43: 6634909744378746846
+      VFX_Common_EnergyCharge_44: -1691242130726418763
+      VFX_Common_EnergyCharge_45: -4755438215767638794
+      VFX_Common_EnergyCharge_46: 139616270523623293
+      VFX_Common_EnergyCharge_47: 62836354246086750
+      VFX_Common_EnergyCharge_48: -8638799006599246800
+      VFX_Common_EnergyCharge_49: -4533513643030171186
+      VFX_Common_EnergyCharge_5: -2099878963143154072
+      VFX_Common_EnergyCharge_50: 3461887072186971598
+      VFX_Common_EnergyCharge_51: -5980716850756684928
+      VFX_Common_EnergyCharge_52: 2867269646702893510
+      VFX_Common_EnergyCharge_53: -4781240534711720438
+      VFX_Common_EnergyCharge_54: -3872133434274123182
+      VFX_Common_EnergyCharge_55: -6889758791662611562
+      VFX_Common_EnergyCharge_56: -7190438647445481557
+      VFX_Common_EnergyCharge_57: -4930380999827464039
+      VFX_Common_EnergyCharge_58: 8751017299302353911
+      VFX_Common_EnergyCharge_59: -3306169920253351730
+      VFX_Common_EnergyCharge_6: 9099409595753208956
+      VFX_Common_EnergyCharge_60: 2219545428617456897
+      VFX_Common_EnergyCharge_61: -1533982097432058982
+      VFX_Common_EnergyCharge_62: 9089108023567591135
+      VFX_Common_EnergyCharge_63: -757516083939880201
+      VFX_Common_EnergyCharge_64: -2822470733601451427
+      VFX_Common_EnergyCharge_65: 5800407081728923661
+      VFX_Common_EnergyCharge_66: 1901058012576420254
+      VFX_Common_EnergyCharge_67: 1742831379092345105
+      VFX_Common_EnergyCharge_68: 4416486237075642184
+      VFX_Common_EnergyCharge_69: 6035804020995031445
+      VFX_Common_EnergyCharge_7: 6785066652514602290
+      VFX_Common_EnergyCharge_70: -8758411555302423144
+      VFX_Common_EnergyCharge_71: -8516269864340946112
+      VFX_Common_EnergyCharge_72: 4928574862984570553
+      VFX_Common_EnergyCharge_8: 703954950706214408
+      VFX_Common_EnergyCharge_9: 1750648796041639401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

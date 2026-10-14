@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 739bdb6b471757d4686ca0a994f2ec74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8752340491565375220
+    second: VFX_P1_ShieldCreate_0
+  - first:
+      213: -874485576513026243
+    second: VFX_P1_ShieldCreate_1
+  - first:
+      213: 3091924754768976166
+    second: VFX_P1_ShieldCreate_2
+  - first:
+      213: -4946431342872506258
+    second: VFX_P1_ShieldCreate_3
+  - first:
+      213: 789429983885452231
+    second: VFX_P1_ShieldCreate_4
+  - first:
+      213: -7181069927548392841
+    second: VFX_P1_ShieldCreate_5
+  - first:
+      213: 5605918258952008217
+    second: VFX_P1_ShieldCreate_6
+  - first:
+      213: -1710269047926952595
+    second: VFX_P1_ShieldCreate_7
+  - first:
+      213: -2954335029486719098
+    second: VFX_P1_ShieldCreate_8
+  - first:
+      213: -8510321892764165773
+    second: VFX_P1_ShieldCreate_9
+  - first:
+      213: -3067751446904432667
+    second: VFX_P1_ShieldCreate_10
+  - first:
+      213: -477947075096178779
+    second: VFX_P1_ShieldCreate_11
+  - first:
+      213: 5096046035296070763
+    second: VFX_P1_ShieldCreate_12
+  - first:
+      213: -9202022113959771422
+    second: VFX_P1_ShieldCreate_13
+  - first:
+      213: 3474466164719175123
+    second: VFX_P1_ShieldCreate_14
+  - first:
+      213: 6489264137593898920
+    second: VFX_P1_ShieldCreate_15
+  - first:
+      213: 7839811839772179034
+    second: VFX_P1_ShieldCreate_16
+  - first:
+      213: -7491240082207618286
+    second: VFX_P1_ShieldCreate_17
+  - first:
+      213: 8580485761078457845
+    second: VFX_P1_ShieldCreate_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 284
+        width: 178
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c016afed1b0798680800000000000000
+      internalID: -8752340491565375220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 463
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d370dba50043dd3f0800000000000000
+      internalID: -874485576513026243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 406
+        width: 135
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629dd38ce29b8ea20800000000000000
+      internalID: 3091924754768976166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 296
+        width: 168
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60d936a6eeba5bb0800000000000000
+      internalID: -4946431342872506258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 416
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3e884436e94fa00800000000000000
+      internalID: 789429983885452231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 384
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aec35a2f6b75c90800000000000000
+      internalID: -7181069927548392841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 335
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912f5b084f83ccd40800000000000000
+      internalID: 5605918258952008217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 335
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6de7ffbc57e348e0800000000000000
+      internalID: -1710269047926952595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 281
+        width: 200
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f63f381f71007d0800000000000000
+      internalID: -2954335029486719098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 287
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379df81045345e980800000000000000
+      internalID: -8510321892764165773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 185
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7121c00582d65d0800000000000000
+      internalID: -3067751446904432667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 39
+        width: 201
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af847fdaadfd59f0800000000000000
+      internalID: -477947075096178779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_12
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 206
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c2cdc7edac8b640800000000000000
+      internalID: 5096046035296070763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 55
+        width: 131
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2832a44a9db4080800000000000000
+      internalID: -9202022113959771422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 99
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5433c7198c73030800000000000000
+      internalID: 3474466164719175123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_15
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 56
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a747fef95f7e0a50800000000000000
+      internalID: 6489264137593898920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 39
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ab587c45b9ccc60800000000000000
+      internalID: 7839811839772179034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 39
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bc8d4e5d4c90890800000000000000
+      internalID: -7491240082207618286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_ShieldCreate_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 34
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5f06d9652041770800000000000000
+      internalID: 8580485761078457845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P1_ShieldCreate_0: -8752340491565375220
+      VFX_P1_ShieldCreate_1: -874485576513026243
+      VFX_P1_ShieldCreate_10: -3067751446904432667
+      VFX_P1_ShieldCreate_11: -477947075096178779
+      VFX_P1_ShieldCreate_12: 5096046035296070763
+      VFX_P1_ShieldCreate_13: -9202022113959771422
+      VFX_P1_ShieldCreate_14: 3474466164719175123
+      VFX_P1_ShieldCreate_15: 6489264137593898920
+      VFX_P1_ShieldCreate_16: 7839811839772179034
+      VFX_P1_ShieldCreate_17: -7491240082207618286
+      VFX_P1_ShieldCreate_18: 8580485761078457845
+      VFX_P1_ShieldCreate_2: 3091924754768976166
+      VFX_P1_ShieldCreate_3: -4946431342872506258
+      VFX_P1_ShieldCreate_4: 789429983885452231
+      VFX_P1_ShieldCreate_5: -7181069927548392841
+      VFX_P1_ShieldCreate_6: 5605918258952008217
+      VFX_P1_ShieldCreate_7: -1710269047926952595
+      VFX_P1_ShieldCreate_8: -2954335029486719098
+      VFX_P1_ShieldCreate_9: -8510321892764165773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

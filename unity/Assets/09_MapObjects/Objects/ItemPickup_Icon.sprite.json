@@ -1,0 +1,38 @@
+{
+  "name": "ItemPickup_Icon",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.16331738437001594,
+  "sourceOffset": [
+    25,
+    25
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "7e90c8cfc50cc25cc5f16e43b59f8aa1d06287d68f142a7cd141013ea675ac6b",
+  "spriteSha256": "d64bcdcf0e564be400cc1f94ae2a28170cf5d93ea8ebe5f76ed0a044d389fec6"
+}

@@ -1,0 +1,4641 @@
+fileFormatVersion: 2
+guid: 258ca1171467e8148afc675a040c67ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4133812024077049302
+    second: VFX_Common_EnergyDischarge_0
+  - first:
+      213: 6395564938912365662
+    second: VFX_Common_EnergyDischarge_1
+  - first:
+      213: -6164383245924588406
+    second: VFX_Common_EnergyDischarge_2
+  - first:
+      213: -2922920446317030768
+    second: VFX_Common_EnergyDischarge_3
+  - first:
+      213: -4161999686221992002
+    second: VFX_Common_EnergyDischarge_4
+  - first:
+      213: -459679993284462064
+    second: VFX_Common_EnergyDischarge_5
+  - first:
+      213: -2507171129658039401
+    second: VFX_Common_EnergyDischarge_6
+  - first:
+      213: 1625405271033454341
+    second: VFX_Common_EnergyDischarge_7
+  - first:
+      213: 2648506227536955649
+    second: VFX_Common_EnergyDischarge_8
+  - first:
+      213: -3305153965793461462
+    second: VFX_Common_EnergyDischarge_9
+  - first:
+      213: -2856843546123977680
+    second: VFX_Common_EnergyDischarge_10
+  - first:
+      213: 5246542002428404360
+    second: VFX_Common_EnergyDischarge_11
+  - first:
+      213: 6509800201667695507
+    second: VFX_Common_EnergyDischarge_12
+  - first:
+      213: -275653010242656519
+    second: VFX_Common_EnergyDischarge_13
+  - first:
+      213: 614532755964279357
+    second: VFX_Common_EnergyDischarge_14
+  - first:
+      213: 4086805915192544078
+    second: VFX_Common_EnergyDischarge_15
+  - first:
+      213: 3556921254066837891
+    second: VFX_Common_EnergyDischarge_16
+  - first:
+      213: 446338873474786409
+    second: VFX_Common_EnergyDischarge_17
+  - first:
+      213: 3868396631015016054
+    second: VFX_Common_EnergyDischarge_18
+  - first:
+      213: -413477342721648718
+    second: VFX_Common_EnergyDischarge_19
+  - first:
+      213: -6471248475673955036
+    second: VFX_Common_EnergyDischarge_20
+  - first:
+      213: -6283701276036616257
+    second: VFX_Common_EnergyDischarge_21
+  - first:
+      213: -7121897197878975220
+    second: VFX_Common_EnergyDischarge_22
+  - first:
+      213: -4105492836921273602
+    second: VFX_Common_EnergyDischarge_23
+  - first:
+      213: -2722121048212919900
+    second: VFX_Common_EnergyDischarge_24
+  - first:
+      213: -408760100542490453
+    second: VFX_Common_EnergyDischarge_25
+  - first:
+      213: -8248926194761096898
+    second: VFX_Common_EnergyDischarge_26
+  - first:
+      213: 268142872273739633
+    second: VFX_Common_EnergyDischarge_27
+  - first:
+      213: -5720619866031860687
+    second: VFX_Common_EnergyDischarge_28
+  - first:
+      213: -4543143630532655899
+    second: VFX_Common_EnergyDischarge_29
+  - first:
+      213: 2522750558002192914
+    second: VFX_Common_EnergyDischarge_30
+  - first:
+      213: -8208643666255300559
+    second: VFX_Common_EnergyDischarge_31
+  - first:
+      213: -6384498255024605465
+    second: VFX_Common_EnergyDischarge_32
+  - first:
+      213: -9059521876457268907
+    second: VFX_Common_EnergyDischarge_33
+  - first:
+      213: -6017748487896247809
+    second: VFX_Common_EnergyDischarge_34
+  - first:
+      213: -6860447919299746981
+    second: VFX_Common_EnergyDischarge_35
+  - first:
+      213: -6408421102542322775
+    second: VFX_Common_EnergyDischarge_36
+  - first:
+      213: 539578197401506129
+    second: VFX_Common_EnergyDischarge_37
+  - first:
+      213: 6940005184666311459
+    second: VFX_Common_EnergyDischarge_38
+  - first:
+      213: -313363240717316215
+    second: VFX_Common_EnergyDischarge_39
+  - first:
+      213: -1139518370289562015
+    second: VFX_Common_EnergyDischarge_40
+  - first:
+      213: -8182629924500862323
+    second: VFX_Common_EnergyDischarge_41
+  - first:
+      213: 797545359013170766
+    second: VFX_Common_EnergyDischarge_42
+  - first:
+      213: -8481088357157023533
+    second: VFX_Common_EnergyDischarge_43
+  - first:
+      213: -5204878364627040478
+    second: VFX_Common_EnergyDischarge_44
+  - first:
+      213: -2232043799562091565
+    second: VFX_Common_EnergyDischarge_45
+  - first:
+      213: -6348417618501613581
+    second: VFX_Common_EnergyDischarge_46
+  - first:
+      213: 5108098788879102211
+    second: VFX_Common_EnergyDischarge_47
+  - first:
+      213: -8915803958405855877
+    second: VFX_Common_EnergyDischarge_48
+  - first:
+      213: -3531835951839764404
+    second: VFX_Common_EnergyDischarge_49
+  - first:
+      213: 3799378608503885354
+    second: VFX_Common_EnergyDischarge_50
+  - first:
+      213: 277501269540617784
+    second: VFX_Common_EnergyDischarge_51
+  - first:
+      213: -4106243510877339995
+    second: VFX_Common_EnergyDischarge_52
+  - first:
+      213: -737203859692601416
+    second: VFX_Common_EnergyDischarge_53
+  - first:
+      213: 8098383713793627205
+    second: VFX_Common_EnergyDischarge_54
+  - first:
+      213: -8404687809587212012
+    second: VFX_Common_EnergyDischarge_55
+  - first:
+      213: 3591065783969398290
+    second: VFX_Common_EnergyDischarge_56
+  - first:
+      213: -4101300289342603362
+    second: VFX_Common_EnergyDischarge_57
+  - first:
+      213: 9028483033659128111
+    second: VFX_Common_EnergyDischarge_58
+  - first:
+      213: -6527095058043118853
+    second: VFX_Common_EnergyDischarge_59
+  - first:
+      213: -3150862216397357201
+    second: VFX_Common_EnergyDischarge_60
+  - first:
+      213: -1222882362871065785
+    second: VFX_Common_EnergyDischarge_61
+  - first:
+      213: -5321207294186478927
+    second: VFX_Common_EnergyDischarge_62
+  - first:
+      213: -2710676683298251430
+    second: VFX_Common_EnergyDischarge_63
+  - first:
+      213: 2544055153111373497
+    second: VFX_Common_EnergyDischarge_64
+  - first:
+      213: 1178145785768964232
+    second: VFX_Common_EnergyDischarge_65
+  - first:
+      213: 6747613555933296007
+    second: VFX_Common_EnergyDischarge_66
+  - first:
+      213: -7451861661432704740
+    second: VFX_Common_EnergyDischarge_67
+  - first:
+      213: -3526878129779526966
+    second: VFX_Common_EnergyDischarge_68
+  - first:
+      213: -3897411409068301855
+    second: VFX_Common_EnergyDischarge_69
+  - first:
+      213: 1294785211163139411
+    second: VFX_Common_EnergyDischarge_70
+  - first:
+      213: 5700653726085191584
+    second: VFX_Common_EnergyDischarge_71
+  - first:
+      213: 616898164877355360
+    second: VFX_Common_EnergyDischarge_72
+  - first:
+      213: 5919511889186761635
+    second: VFX_Common_EnergyDischarge_73
+  - first:
+      213: 5866930586964604335
+    second: VFX_Common_EnergyDischarge_74
+  - first:
+      213: -6526699750166547849
+    second: VFX_Common_EnergyDischarge_75
+  - first:
+      213: 552219592134970739
+    second: VFX_Common_EnergyDischarge_76
+  - first:
+      213: -8946459861132125795
+    second: VFX_Common_EnergyDischarge_77
+  - first:
+      213: -4353640090407269290
+    second: VFX_Common_EnergyDischarge_78
+  - first:
+      213: -6896142095040896289
+    second: VFX_Common_EnergyDischarge_79
+  - first:
+      213: 297887525271063183
+    second: VFX_Common_EnergyDischarge_80
+  - first:
+      213: 8380101236439434370
+    second: VFX_Common_EnergyDischarge_81
+  - first:
+      213: 4846221565538586046
+    second: VFX_Common_EnergyDischarge_82
+  - first:
+      213: 1903500769254331074
+    second: VFX_Common_EnergyDischarge_83
+  - first:
+      213: -5520369169868945590
+    second: VFX_Common_EnergyDischarge_84
+  - first:
+      213: 5337210258339103489
+    second: VFX_Common_EnergyDischarge_85
+  - first:
+      213: 8255189444571081872
+    second: VFX_Common_EnergyDischarge_86
+  - first:
+      213: 3158663279948409179
+    second: VFX_Common_EnergyDischarge_87
+  - first:
+      213: 3504055936581892503
+    second: VFX_Common_EnergyDischarge_88
+  - first:
+      213: -1030294588153069094
+    second: VFX_Common_EnergyDischarge_89
+  - first:
+      213: 7344175051585509682
+    second: VFX_Common_EnergyDischarge_90
+  - first:
+      213: -1845536605861094229
+    second: VFX_Common_EnergyDischarge_91
+  - first:
+      213: -5406517548737815344
+    second: VFX_Common_EnergyDischarge_92
+  - first:
+      213: 4988843037032644837
+    second: VFX_Common_EnergyDischarge_93
+  - first:
+      213: -3573161231463102032
+    second: VFX_Common_EnergyDischarge_94
+  - first:
+      213: -4977993913694489062
+    second: VFX_Common_EnergyDischarge_95
+  - first:
+      213: 2405983863692000566
+    second: VFX_Common_EnergyDischarge_96
+  - first:
+      213: -3846998936386051579
+    second: VFX_Common_EnergyDischarge_97
+  - first:
+      213: -5035242785657711016
+    second: VFX_Common_EnergyDischarge_98
+  - first:
+      213: 5256964170109630221
+    second: VFX_Common_EnergyDischarge_99
+  - first:
+      213: -6814057305781525876
+    second: VFX_Common_EnergyDischarge_100
+  - first:
+      213: -8619366948108691287
+    second: VFX_Common_EnergyDischarge_101
+  - first:
+      213: -3299772613430176628
+    second: VFX_Common_EnergyDischarge_102
+  - first:
+      213: -6597434527088157689
+    second: VFX_Common_EnergyDischarge_103
+  - first:
+      213: -3606775720782394748
+    second: VFX_Common_EnergyDischarge_104
+  - first:
+      213: 9207251541262274144
+    second: VFX_Common_EnergyDischarge_105
+  - first:
+      213: 5468893141770644692
+    second: VFX_Common_EnergyDischarge_106
+  - first:
+      213: -1650106120297423353
+    second: VFX_Common_EnergyDischarge_107
+  - first:
+      213: -8795552638022119002
+    second: VFX_Common_EnergyDischarge_108
+  - first:
+      213: 5177231917626933610
+    second: VFX_Common_EnergyDischarge_109
+  - first:
+      213: 6382338819473776274
+    second: VFX_Common_EnergyDischarge_110
+  - first:
+      213: 6692230956735484756
+    second: VFX_Common_EnergyDischarge_111
+  - first:
+      213: 1047764398290008326
+    second: VFX_Common_EnergyDischarge_112
+  - first:
+      213: -717786216667628483
+    second: VFX_Common_EnergyDischarge_113
+  - first:
+      213: -7482705182967493358
+    second: VFX_Common_EnergyDischarge_114
+  - first:
+      213: 137062642148552713
+    second: VFX_Common_EnergyDischarge_115
+  - first:
+      213: -3505186379733598509
+    second: VFX_Common_EnergyDischarge_116
+  - first:
+      213: -5354728170448437450
+    second: VFX_Common_EnergyDischarge_117
+  - first:
+      213: -241156360979641580
+    second: VFX_Common_EnergyDischarge_118
+  - first:
+      213: 262170273533855052
+    second: VFX_Common_EnergyDischarge_119
+  - first:
+      213: 947627669166146665
+    second: VFX_Common_EnergyDischarge_120
+  - first:
+      213: -6062745512952358408
+    second: VFX_Common_EnergyDischarge_121
+  - first:
+      213: -2741750397324701637
+    second: VFX_Common_EnergyDischarge_122
+  - first:
+      213: -574581477368698809
+    second: VFX_Common_EnergyDischarge_123
+  - first:
+      213: 8193287336942826328
+    second: VFX_Common_EnergyDischarge_124
+  - first:
+      213: -7182259512717714975
+    second: VFX_Common_EnergyDischarge_125
+  - first:
+      213: -9088614348131464568
+    second: VFX_Common_EnergyDischarge_126
+  - first:
+      213: 6438782347073584688
+    second: VFX_Common_EnergyDischarge_127
+  - first:
+      213: 9215801278877240100
+    second: VFX_Common_EnergyDischarge_128
+  - first:
+      213: -7726927420060396039
+    second: VFX_Common_EnergyDischarge_129
+  - first:
+      213: 2964316275883338644
+    second: VFX_Common_EnergyDischarge_130
+  - first:
+      213: -156230000688796709
+    second: VFX_Common_EnergyDischarge_131
+  - first:
+      213: 6155614046321727112
+    second: VFX_Common_EnergyDischarge_132
+  - first:
+      213: -6783135198914369019
+    second: VFX_Common_EnergyDischarge_133
+  - first:
+      213: -6632171801607194200
+    second: VFX_Common_EnergyDischarge_134
+  - first:
+      213: -4863910322077711232
+    second: VFX_Common_EnergyDischarge_135
+  - first:
+      213: 7494680033822345927
+    second: VFX_Common_EnergyDischarge_136
+  - first:
+      213: 811095693828075871
+    second: VFX_Common_EnergyDischarge_137
+  - first:
+      213: 7066201805780259115
+    second: VFX_Common_EnergyDischarge_138
+  - first:
+      213: 8245117967713413391
+    second: VFX_Common_EnergyDischarge_139
+  - first:
+      213: -3711546837003922288
+    second: VFX_Common_EnergyDischarge_140
+  - first:
+      213: 1383838825585457066
+    second: VFX_Common_EnergyDischarge_141
+  - first:
+      213: -4357913554839946685
+    second: VFX_Common_EnergyDischarge_142
+  - first:
+      213: 2575021201741052034
+    second: VFX_Common_EnergyDischarge_143
+  - first:
+      213: -8346735803799547330
+    second: VFX_Common_EnergyDischarge_144
+  - first:
+      213: 9184819323949499804
+    second: VFX_Common_EnergyDischarge_145
+  - first:
+      213: 1287519677320512449
+    second: VFX_Common_EnergyDischarge_146
+  - first:
+      213: 6280946246051896571
+    second: VFX_Common_EnergyDischarge_147
+  - first:
+      213: 4539645593604002161
+    second: VFX_Common_EnergyDischarge_148
+  - first:
+      213: -2734356605218560336
+    second: VFX_Common_EnergyDischarge_149
+  - first:
+      213: -1004122982985935570
+    second: VFX_Common_EnergyDischarge_150
+  - first:
+      213: 3956526166257129298
+    second: VFX_Common_EnergyDischarge_151
+  - first:
+      213: -8399712494691272851
+    second: VFX_Common_EnergyDischarge_152
+  - first:
+      213: 8946157136338367302
+    second: VFX_Common_EnergyDischarge_153
+  - first:
+      213: 9029941807470763262
+    second: VFX_Common_EnergyDischarge_154
+  - first:
+      213: -1240601777620717628
+    second: VFX_Common_EnergyDischarge_155
+  - first:
+      213: 2108896103637926302
+    second: VFX_Common_EnergyDischarge_156
+  - first:
+      213: 3945311687895282138
+    second: VFX_Common_EnergyDischarge_157
+  - first:
+      213: 4538355089718627448
+    second: VFX_Common_EnergyDischarge_158
+  - first:
+      213: 6225238219130446442
+    second: VFX_Common_EnergyDischarge_159
+  - first:
+      213: -1812952308578233240
+    second: VFX_Common_EnergyDischarge_160
+  - first:
+      213: -1424714109374063301
+    second: VFX_Common_EnergyDischarge_161
+  - first:
+      213: -911006488808012024
+    second: VFX_Common_EnergyDischarge_162
+  - first:
+      213: -374970005649431576
+    second: VFX_Common_EnergyDischarge_163
+  - first:
+      213: -2263729226138533184
+    second: VFX_Common_EnergyDischarge_164
+  - first:
+      213: 8808969369814755908
+    second: VFX_Common_EnergyDischarge_165
+  - first:
+      213: -1028178870137174628
+    second: VFX_Common_EnergyDischarge_166
+  - first:
+      213: -7799523750736658975
+    second: VFX_Common_EnergyDischarge_167
+  - first:
+      213: -231360336697168149
+    second: VFX_Common_EnergyDischarge_168
+  - first:
+      213: -8611979385271118814
+    second: VFX_Common_EnergyDischarge_169
+  - first:
+      213: 9133483532899269931
+    second: VFX_Common_EnergyDischarge_170
+  - first:
+      213: -8241319128094003155
+    second: VFX_Common_EnergyDischarge_171
+  - first:
+      213: -5089123237928661098
+    second: VFX_Common_EnergyDischarge_172
+  - first:
+      213: -8798696695384500332
+    second: VFX_Common_EnergyDischarge_173
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 932
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2226a0bddfb1a6c0800000000000000
+      internalID: -4133812024077049302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 942
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c70d14d6c91c850800000000000000
+      internalID: 6395564938912365662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 903
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84ab4f1916b37aa0800000000000000
+      internalID: -6164383245924588406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 926
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0921c822753bf67d0800000000000000
+      internalID: -2922920446317030768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 812
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf637b265b9d36c0800000000000000
+      internalID: -4161999686221992002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 944
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01afce94b73ee99f0800000000000000
+      internalID: -459679993284462064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 936
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7932e91242db43dd0800000000000000
+      internalID: -2507171129658039401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 910
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f1ff37b799e8610800000000000000
+      internalID: 1625405271033454341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 805
+        width: 207
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10900cda16261c420800000000000000
+      internalID: 2648506227536955649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 897
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b38e4cafbb122d0800000000000000
+      internalID: -3305153965793461462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 805
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cb9665ee37a58d0800000000000000
+      internalID: -2856843546123977680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 923
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88269e167267fc840800000000000000
+      internalID: 5246542002428404360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 907
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3935b230bc4775a50800000000000000
+      internalID: 6509800201667695507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 919
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f628333c0fac2cf0800000000000000
+      internalID: -275653010242656519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 873
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ab71e1942478800800000000000000
+      internalID: 614532755964279357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 903
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b4409b35047b830800000000000000
+      internalID: 4086805915192544078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 805
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389d0b20909bc5130800000000000000
+      internalID: 3556921254066837891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 869
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964a9e237d6b13600800000000000000
+      internalID: 446338873474786409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 904
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676c7f18d3e4fa530800000000000000
+      internalID: 3868396631015016054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 849
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b757682c88034af0800000000000000
+      internalID: -413477342721648718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_20
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 854
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4257a2a2cc18136a0800000000000000
+      internalID: -6471248475673955036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 865
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf2b2f5bfecbc8a0800000000000000
+      internalID: -6283701276036616257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 835
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05e2916b30f92d90800000000000000
+      internalID: -7121897197878975220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 855
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef29563440c5607c0800000000000000
+      internalID: -4105492836921273602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_24
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 851
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a7ad3455193ad0800000000000000
+      internalID: -2722121048212919900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 844
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8dfc0badac35af0800000000000000
+      internalID: -408760100542490453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_26
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 883
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31a9de945de58d80800000000000000
+      internalID: -8248926194761096898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 868
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fddea8582a8b300800000000000000
+      internalID: 268142872273739633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_28
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 814
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134d02e7a864c90b0800000000000000
+      internalID: -5720619866031860687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_29
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 904
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4c58a40f283f0c0800000000000000
+      internalID: -4543143630532655899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 845
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212a3a2344c920320800000000000000
+      internalID: 2522750558002192914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 826
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138b719a31a051e80800000000000000
+      internalID: -8208643666255300559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 808
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e63820e9a4b567a0800000000000000
+      internalID: -6384498255024605465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 837
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55952ee4adc164280800000000000000
+      internalID: -9059521876457268907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 805
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1dc4732a9ac7ca0800000000000000
+      internalID: -6017748487896247809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 805
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53221237facac0a0800000000000000
+      internalID: -6860447919299746981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 821
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a309d3e5f6b017a0800000000000000
+      internalID: -6408421102542322775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 812
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15199a00387fc7700800000000000000
+      internalID: 539578197401506129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_38
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 805
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b976b12f9df4060800000000000000
+      internalID: 6940005184666311459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 805
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f0167fac5b6abf0800000000000000
+      internalID: -313363240717316215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_40
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 811
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ecbd3641e9f20f0800000000000000
+      internalID: -1139518370289562015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_41
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 809
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a05a5ef65717e80800000000000000
+      internalID: -8182629924500862323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_42
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 809
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ecd384743711b00800000000000000
+      internalID: 797545359013170766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_43
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 805
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d054fae21f1d4a80800000000000000
+      internalID: -8481088357157023533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_44
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 806
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2270a4934be84c7b0800000000000000
+      internalID: -5204878364627040478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 805
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d30dfb7dff2601e0800000000000000
+      internalID: -2232043799562091565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 544
+        width: 198
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f74163bfc3e5e7a0800000000000000
+      internalID: -6348417618501613581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 705
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301fdbcd8cc93e640800000000000000
+      internalID: 5108098788879102211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_48
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 704
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75823ca983b44480800000000000000
+      internalID: -8915803958405855877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_49
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 702
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4023ad0ae56cfec0800000000000000
+      internalID: -3531835951839764404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 544
+        width: 207
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8717e6ba1ab430800000000000000
+      internalID: 3799378608503885354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 694
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e30b33fe1e9d300800000000000000
+      internalID: 277501269540617784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_52
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 671
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae37ec5841b307c0800000000000000
+      internalID: -4106243510877339995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_53
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 544
+        width: 186
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfb9f7defce4c5f0800000000000000
+      internalID: -737203859692601416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_54
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 693
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5445a73a41d336070800000000000000
+      internalID: 8098383713793627205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_55
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4119f7597fc8c5b80800000000000000
+      internalID: -8404687809587212012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 697
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e3e82ed4706d130800000000000000
+      internalID: 3591065783969398290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_57
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 693
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ff680dd114517c0800000000000000
+      internalID: -4101300289342603362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_58
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 686
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29b4e1fb7d9b4d70800000000000000
+      internalID: 9028483033659128111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_59
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 690
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad12270a91b65a0800000000000000
+      internalID: -6527095058043118853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 676
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f7f671283e544d0800000000000000
+      internalID: -3150862216397357201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_61
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 671
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743daf658f2770fe0800000000000000
+      internalID: -1222882362871065785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_62
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 631
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b22ccda8264726b0800000000000000
+      internalID: -5321207294186478927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_63
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 658
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dd2171bedb16ad0800000000000000
+      internalID: -2710676683298251430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_64
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 640
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6943aceac4e4320800000000000000
+      internalID: 2544055153111373497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 582
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880f16e995d995010800000000000000
+      internalID: 1178145785768964232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 595
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785b30b57c654ad50800000000000000
+      internalID: 6747613555933296007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_67
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 573
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1193f2fc4ba59890800000000000000
+      internalID: -7451861661432704740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_68
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 551
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2b564f6030e0fc0800000000000000
+      internalID: -3526878129779526966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_69
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 581
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1edea09fc99e9c0800000000000000
+      internalID: -3897411409068301855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_70
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 562
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ddecb1a4008f110800000000000000
+      internalID: 1294785211163139411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_71
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 561
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a790da4c5acc1f40800000000000000
+      internalID: 5700653726085191584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_72
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 550
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069ea1ccc99af8800800000000000000
+      internalID: 616898164877355360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_73
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 566
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abada643b4562250800000000000000
+      internalID: 5919511889186761635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_74
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 558
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa536e5d8468b6150800000000000000
+      internalID: 5866930586964604335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_75
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 552
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77231bb38218c65a0800000000000000
+      internalID: -6526699750166547849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_76
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 547
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d47331bc0e9a700800000000000000
+      internalID: 552219592134970739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_77
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 548
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99ddeb182ac7d380800000000000000
+      internalID: -8946459861132125795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_78
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 546
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c00638763c493c0800000000000000
+      internalID: -4353640090407269290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_79
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 548
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd228784d4bfb40a0800000000000000
+      internalID: -6896142095040896289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_80
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 544
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a4dce302f422400800000000000000
+      internalID: 297887525271063183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_81
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 544
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284c8c3cca91c4470800000000000000
+      internalID: 8380101236439434370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_82
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 546
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdc3c466dc314340800000000000000
+      internalID: 4846221565538586046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_83
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 310
+        width: 195
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2561d4dd79a6a10800000000000000
+      internalID: 1903500769254331074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_84
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 416
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4781f8fc75b363b0800000000000000
+      internalID: -5520369169868945590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_85
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 446
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1038fd3c374911a40800000000000000
+      internalID: 5337210258339103489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_86
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 310
+        width: 148
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ca63ddf03509270800000000000000
+      internalID: 8255189444571081872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_87
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 447
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59256e8483d5db20800000000000000
+      internalID: 3158663279948409179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_88
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 448
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799ff0d1f48e0a030800000000000000
+      internalID: 3504055936581892503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_89
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 438
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad10123e788a3b1f0800000000000000
+      internalID: -1030294588153069094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_90
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2395a0e5c40cbe560800000000000000
+      internalID: 7344175051585509682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_91
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 446
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac5bab2c365366e0800000000000000
+      internalID: -1845536605861094229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_92
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 444
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc11933fe038f4b0800000000000000
+      internalID: -5406517548737815344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_93
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 440
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e003866f4eeb3540800000000000000
+      internalID: 4988843037032644837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_94
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 408
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9c1799ac4996ec0800000000000000
+      internalID: -3573161231463102032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_95
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 429
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16fe28f8ec9aeab0800000000000000
+      internalID: -4977993913694489062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_96
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 445
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dfeaa9395c36120800000000000000
+      internalID: 2405983863692000566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_97
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 408
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502676189d6bc9ac0800000000000000
+      internalID: -3846998936386051579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_98
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 425
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85616034d593f1ab0800000000000000
+      internalID: -5035242785657711016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_99
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 438
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0737546f0d74f840800000000000000
+      internalID: 5256964170109630221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_100
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 439
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82acb99bfa9f61a0800000000000000
+      internalID: -6814057305781525876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_101
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 436
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a81d359d6bd16880800000000000000
+      internalID: -8619366948108691287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_102
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 401
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c849ee08a4ad432d0800000000000000
+      internalID: -3299772613430176628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_103
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 440
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c530890443174a0800000000000000
+      internalID: -6597434527088157689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_104
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a034a679822fdc0800000000000000
+      internalID: -3606775720782394748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_105
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 421
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e0b92ae7ab6cf70800000000000000
+      internalID: 9207251541262274144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_106
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 410
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc2fc5465965eb40800000000000000
+      internalID: 5468893141770644692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_107
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 415
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e59f9e935a919e0800000000000000
+      internalID: -1650106120297423353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_108
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 396
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1117ff97befe580800000000000000
+      internalID: -8795552638022119002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_109
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 360
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61c7f9bff839d740800000000000000
+      internalID: 5177231917626933610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_110
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 410
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e9bea575f929850800000000000000
+      internalID: 6382338819473776274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_111
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 393
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453571329949fdc50800000000000000
+      internalID: 6692230956735484756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_112
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60970604b286a8e00800000000000000
+      internalID: 1047764398290008326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_113
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 395
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cbada2d39e906f0800000000000000
+      internalID: -717786216667628483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_114
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 378
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d8f3af747182890800000000000000
+      internalID: -7482705182967493358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_115
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 363
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900bd313fb1f6e100800000000000000
+      internalID: 137062642148552713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_116
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def0741f831b5fc0800000000000000
+      internalID: -3505186379733598509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_117
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fb4ab791f20b5b0800000000000000
+      internalID: -5354728170448437450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_118
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 380
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b8b70419d37acf0800000000000000
+      internalID: -241156360979641580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_119
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 380
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4507a8897a63a300800000000000000
+      internalID: 262170273533855052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_120
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 376
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964caf72856a62d00800000000000000
+      internalID: 947627669166146665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_121
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 375
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f991e8e31dccdba0800000000000000
+      internalID: -6062745512952358408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_122
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 361
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30dca04a8853f9d0800000000000000
+      internalID: -2741750397324701637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_123
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 363
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7486beac03da608f0800000000000000
+      internalID: -574581477368698809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_124
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 339
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853fe2d4c6764b170800000000000000
+      internalID: 8193287336942826328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_125
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 346
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e95ac3c60d735c90800000000000000
+      internalID: -7182259512717714975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_126
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 349
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a0b176761ced180800000000000000
+      internalID: -9088614348131464568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_127
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 334
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e70673e662b5950800000000000000
+      internalID: 6438782347073584688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_128
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 338
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b811c8f6a15ef70800000000000000
+      internalID: 9215801278877240100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_129
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 312
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f51312537074c490800000000000000
+      internalID: -7726927420060396039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_130
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 340
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b6fe182fd532920800000000000000
+      internalID: 2964316275883338644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_131
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 310
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb6fa164a5f4ddf0800000000000000
+      internalID: -156230000688796709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_132
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 341
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886596d7c522d6550800000000000000
+      internalID: 6155614046321727112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_133
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 339
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aa245a9767dd1a0800000000000000
+      internalID: -6783135198914369019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_134
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 330
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a937db92eac5f3a0800000000000000
+      internalID: -6632171801607194200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_135
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 324
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084c339055bef7cb0800000000000000
+      internalID: -4863910322077711232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_136
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 318
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca813148c3720860800000000000000
+      internalID: 7494680033822345927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_137
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 310
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51b8757c37914b00800000000000000
+      internalID: 811095693828075871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 323
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2191c0aa11301260800000000000000
+      internalID: 7066201805780259115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_139
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 325
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09afbc6b1b8c6270800000000000000
+      internalID: 8245117967713413391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_140
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 327
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094182df0dfed7cc0800000000000000
+      internalID: -3711546837003922288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_141
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 321
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa73a697412643310800000000000000
+      internalID: 1383838825585457066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_142
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 310
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ab7e906b49583c0800000000000000
+      internalID: -4357913554839946685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_143
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 329
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288ffd2d3205cb320800000000000000
+      internalID: 2575021201741052034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_144
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 310
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e325e7462007a2c80800000000000000
+      internalID: -8346735803799547330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_145
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 323
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95472a0388077f70800000000000000
+      internalID: 9184819323949499804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_146
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 325
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3c30033503ed110800000000000000
+      internalID: 1287519677320512449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_147
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 310
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc1f3935576a2750800000000000000
+      internalID: 6280946246051896571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_148
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 310
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1711fe48d9f000f30800000000000000
+      internalID: 4539645593604002161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_149
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 312
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b664b0a72d9d0ad0800000000000000
+      internalID: -2734356605218560336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_150
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 311
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2551509773a012f0800000000000000
+      internalID: -1004122982985935570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_151
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 310
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2575b4ce59768e630800000000000000
+      internalID: 3956526166257129298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_152
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 310
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67348a5df93e6b80800000000000000
+      internalID: -8399712494691272851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_153
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 310
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64336484482272c70800000000000000
+      internalID: 8946157136338367302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_154
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 317
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc5eb03b3cc05d70800000000000000
+      internalID: 9029941807470763262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_155
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 310
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfe239914f78cee0800000000000000
+      internalID: -1240601777620717628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_156
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 310
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e914b8535dd444d10800000000000000
+      internalID: 2108896103637926302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_157
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 310
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1f135b31090c630800000000000000
+      internalID: 3945311687895282138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_158
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 310
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cc34ba8e97bfe30800000000000000
+      internalID: 4538355089718627448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_159
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 310
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62a4757d2d746650800000000000000
+      internalID: 6225238219130446442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_160
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 187
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86458741b7917d6e0800000000000000
+      internalID: -1812952308578233240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_161
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 186
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d9544e0166a3ce0800000000000000
+      internalID: -1424714109374063301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_162
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 137
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c586dc647b53f0800000000000000
+      internalID: -911006488808012024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_163
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 187
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3e6db34c6dbcaf0800000000000000
+      internalID: -374970005649431576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_164
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 187
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2c758334e9590e0800000000000000
+      internalID: -2263729226138533184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_165
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 128
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aea1d48febf3a70800000000000000
+      internalID: 8808969369814755908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_166
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 190
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9549efd3cc2bb1f0800000000000000
+      internalID: -1028178870137174628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_167
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 174
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed7e1ce87682c390800000000000000
+      internalID: -7799523750736658975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_168
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeec04effa0accf0800000000000000
+      internalID: -231360336697168149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_169
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 167
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2249de7906a1c7880800000000000000
+      internalID: -8611979385271118814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_170
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 174
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d3754c1e6a0ce70800000000000000
+      internalID: 9133483532899269931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_171
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 113
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d203359dae3f0ad80800000000000000
+      internalID: -8241319128094003155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_172
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 115
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f8311e06dcf59b0800000000000000
+      internalID: -5089123237928661098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_EnergyDischarge_173
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 120
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497143919ffb4e580800000000000000
+      internalID: -8798696695384500332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_EnergyDischarge_0: -4133812024077049302
+      VFX_Common_EnergyDischarge_1: 6395564938912365662
+      VFX_Common_EnergyDischarge_10: -2856843546123977680
+      VFX_Common_EnergyDischarge_100: -6814057305781525876
+      VFX_Common_EnergyDischarge_101: -8619366948108691287
+      VFX_Common_EnergyDischarge_102: -3299772613430176628
+      VFX_Common_EnergyDischarge_103: -6597434527088157689
+      VFX_Common_EnergyDischarge_104: -3606775720782394748
+      VFX_Common_EnergyDischarge_105: 9207251541262274144
+      VFX_Common_EnergyDischarge_106: 5468893141770644692
+      VFX_Common_EnergyDischarge_107: -1650106120297423353
+      VFX_Common_EnergyDischarge_108: -8795552638022119002
+      VFX_Common_EnergyDischarge_109: 5177231917626933610
+      VFX_Common_EnergyDischarge_11: 5246542002428404360
+      VFX_Common_EnergyDischarge_110: 6382338819473776274
+      VFX_Common_EnergyDischarge_111: 6692230956735484756
+      VFX_Common_EnergyDischarge_112: 1047764398290008326
+      VFX_Common_EnergyDischarge_113: -717786216667628483
+      VFX_Common_EnergyDischarge_114: -7482705182967493358
+      VFX_Common_EnergyDischarge_115: 137062642148552713
+      VFX_Common_EnergyDischarge_116: -3505186379733598509
+      VFX_Common_EnergyDischarge_117: -5354728170448437450
+      VFX_Common_EnergyDischarge_118: -241156360979641580
+      VFX_Common_EnergyDischarge_119: 262170273533855052
+      VFX_Common_EnergyDischarge_12: 6509800201667695507
+      VFX_Common_EnergyDischarge_120: 947627669166146665
+      VFX_Common_EnergyDischarge_121: -6062745512952358408
+      VFX_Common_EnergyDischarge_122: -2741750397324701637
+      VFX_Common_EnergyDischarge_123: -574581477368698809
+      VFX_Common_EnergyDischarge_124: 8193287336942826328
+      VFX_Common_EnergyDischarge_125: -7182259512717714975
+      VFX_Common_EnergyDischarge_126: -9088614348131464568
+      VFX_Common_EnergyDischarge_127: 6438782347073584688
+      VFX_Common_EnergyDischarge_128: 9215801278877240100
+      VFX_Common_EnergyDischarge_129: -7726927420060396039
+      VFX_Common_EnergyDischarge_13: -275653010242656519
+      VFX_Common_EnergyDischarge_130: 2964316275883338644
+      VFX_Common_EnergyDischarge_131: -156230000688796709
+      VFX_Common_EnergyDischarge_132: 6155614046321727112
+      VFX_Common_EnergyDischarge_133: -6783135198914369019
+      VFX_Common_EnergyDischarge_134: -6632171801607194200
+      VFX_Common_EnergyDischarge_135: -4863910322077711232
+      VFX_Common_EnergyDischarge_136: 7494680033822345927
+      VFX_Common_EnergyDischarge_137: 811095693828075871
+      VFX_Common_EnergyDischarge_138: 7066201805780259115
+      VFX_Common_EnergyDischarge_139: 8245117967713413391
+      VFX_Common_EnergyDischarge_14: 614532755964279357
+      VFX_Common_EnergyDischarge_140: -3711546837003922288
+      VFX_Common_EnergyDischarge_141: 1383838825585457066
+      VFX_Common_EnergyDischarge_142: -4357913554839946685
+      VFX_Common_EnergyDischarge_143: 2575021201741052034
+      VFX_Common_EnergyDischarge_144: -8346735803799547330
+      VFX_Common_EnergyDischarge_145: 9184819323949499804
+      VFX_Common_EnergyDischarge_146: 1287519677320512449
+      VFX_Common_EnergyDischarge_147: 6280946246051896571
+      VFX_Common_EnergyDischarge_148: 4539645593604002161
+      VFX_Common_EnergyDischarge_149: -2734356605218560336
+      VFX_Common_EnergyDischarge_15: 4086805915192544078
+      VFX_Common_EnergyDischarge_150: -1004122982985935570
+      VFX_Common_EnergyDischarge_151: 3956526166257129298
+      VFX_Common_EnergyDischarge_152: -8399712494691272851
+      VFX_Common_EnergyDischarge_153: 8946157136338367302
+      VFX_Common_EnergyDischarge_154: 9029941807470763262
+      VFX_Common_EnergyDischarge_155: -1240601777620717628
+      VFX_Common_EnergyDischarge_156: 2108896103637926302
+      VFX_Common_EnergyDischarge_157: 3945311687895282138
+      VFX_Common_EnergyDischarge_158: 4538355089718627448
+      VFX_Common_EnergyDischarge_159: 6225238219130446442
+      VFX_Common_EnergyDischarge_16: 3556921254066837891
+      VFX_Common_EnergyDischarge_160: -1812952308578233240
+      VFX_Common_EnergyDischarge_161: -1424714109374063301
+      VFX_Common_EnergyDischarge_162: -911006488808012024
+      VFX_Common_EnergyDischarge_163: -374970005649431576
+      VFX_Common_EnergyDischarge_164: -2263729226138533184
+      VFX_Common_EnergyDischarge_165: 8808969369814755908
+      VFX_Common_EnergyDischarge_166: -1028178870137174628
+      VFX_Common_EnergyDischarge_167: -7799523750736658975
+      VFX_Common_EnergyDischarge_168: -231360336697168149
+      VFX_Common_EnergyDischarge_169: -8611979385271118814
+      VFX_Common_EnergyDischarge_17: 446338873474786409
+      VFX_Common_EnergyDischarge_170: 9133483532899269931
+      VFX_Common_EnergyDischarge_171: -8241319128094003155
+      VFX_Common_EnergyDischarge_172: -5089123237928661098
+      VFX_Common_EnergyDischarge_173: -8798696695384500332
+      VFX_Common_EnergyDischarge_18: 3868396631015016054
+      VFX_Common_EnergyDischarge_19: -413477342721648718
+      VFX_Common_EnergyDischarge_2: -6164383245924588406
+      VFX_Common_EnergyDischarge_20: -6471248475673955036
+      VFX_Common_EnergyDischarge_21: -6283701276036616257
+      VFX_Common_EnergyDischarge_22: -7121897197878975220
+      VFX_Common_EnergyDischarge_23: -4105492836921273602
+      VFX_Common_EnergyDischarge_24: -2722121048212919900
+      VFX_Common_EnergyDischarge_25: -408760100542490453
+      VFX_Common_EnergyDischarge_26: -8248926194761096898
+      VFX_Common_EnergyDischarge_27: 268142872273739633
+      VFX_Common_EnergyDischarge_28: -5720619866031860687
+      VFX_Common_EnergyDischarge_29: -4543143630532655899
+      VFX_Common_EnergyDischarge_3: -2922920446317030768
+      VFX_Common_EnergyDischarge_30: 2522750558002192914
+      VFX_Common_EnergyDischarge_31: -8208643666255300559
+      VFX_Common_EnergyDischarge_32: -6384498255024605465
+      VFX_Common_EnergyDischarge_33: -9059521876457268907
+      VFX_Common_EnergyDischarge_34: -6017748487896247809
+      VFX_Common_EnergyDischarge_35: -6860447919299746981
+      VFX_Common_EnergyDischarge_36: -6408421102542322775
+      VFX_Common_EnergyDischarge_37: 539578197401506129
+      VFX_Common_EnergyDischarge_38: 6940005184666311459
+      VFX_Common_EnergyDischarge_39: -313363240717316215
+      VFX_Common_EnergyDischarge_4: -4161999686221992002
+      VFX_Common_EnergyDischarge_40: -1139518370289562015
+      VFX_Common_EnergyDischarge_41: -8182629924500862323
+      VFX_Common_EnergyDischarge_42: 797545359013170766
+      VFX_Common_EnergyDischarge_43: -8481088357157023533
+      VFX_Common_EnergyDischarge_44: -5204878364627040478
+      VFX_Common_EnergyDischarge_45: -2232043799562091565
+      VFX_Common_EnergyDischarge_46: -6348417618501613581
+      VFX_Common_EnergyDischarge_47: 5108098788879102211
+      VFX_Common_EnergyDischarge_48: -8915803958405855877
+      VFX_Common_EnergyDischarge_49: -3531835951839764404
+      VFX_Common_EnergyDischarge_5: -459679993284462064
+      VFX_Common_EnergyDischarge_50: 3799378608503885354
+      VFX_Common_EnergyDischarge_51: 277501269540617784
+      VFX_Common_EnergyDischarge_52: -4106243510877339995
+      VFX_Common_EnergyDischarge_53: -737203859692601416
+      VFX_Common_EnergyDischarge_54: 8098383713793627205
+      VFX_Common_EnergyDischarge_55: -8404687809587212012
+      VFX_Common_EnergyDischarge_56: 3591065783969398290
+      VFX_Common_EnergyDischarge_57: -4101300289342603362
+      VFX_Common_EnergyDischarge_58: 9028483033659128111
+      VFX_Common_EnergyDischarge_59: -6527095058043118853
+      VFX_Common_EnergyDischarge_6: -2507171129658039401
+      VFX_Common_EnergyDischarge_60: -3150862216397357201
+      VFX_Common_EnergyDischarge_61: -1222882362871065785
+      VFX_Common_EnergyDischarge_62: -5321207294186478927
+      VFX_Common_EnergyDischarge_63: -2710676683298251430
+      VFX_Common_EnergyDischarge_64: 2544055153111373497
+      VFX_Common_EnergyDischarge_65: 1178145785768964232
+      VFX_Common_EnergyDischarge_66: 6747613555933296007
+      VFX_Common_EnergyDischarge_67: -7451861661432704740
+      VFX_Common_EnergyDischarge_68: -3526878129779526966
+      VFX_Common_EnergyDischarge_69: -3897411409068301855
+      VFX_Common_EnergyDischarge_7: 1625405271033454341
+      VFX_Common_EnergyDischarge_70: 1294785211163139411
+      VFX_Common_EnergyDischarge_71: 5700653726085191584
+      VFX_Common_EnergyDischarge_72: 616898164877355360
+      VFX_Common_EnergyDischarge_73: 5919511889186761635
+      VFX_Common_EnergyDischarge_74: 5866930586964604335
+      VFX_Common_EnergyDischarge_75: -6526699750166547849
+      VFX_Common_EnergyDischarge_76: 552219592134970739
+      VFX_Common_EnergyDischarge_77: -8946459861132125795
+      VFX_Common_EnergyDischarge_78: -4353640090407269290
+      VFX_Common_EnergyDischarge_79: -6896142095040896289
+      VFX_Common_EnergyDischarge_8: 2648506227536955649
+      VFX_Common_EnergyDischarge_80: 297887525271063183
+      VFX_Common_EnergyDischarge_81: 8380101236439434370
+      VFX_Common_EnergyDischarge_82: 4846221565538586046
+      VFX_Common_EnergyDischarge_83: 1903500769254331074
+      VFX_Common_EnergyDischarge_84: -5520369169868945590
+      VFX_Common_EnergyDischarge_85: 5337210258339103489
+      VFX_Common_EnergyDischarge_86: 8255189444571081872
+      VFX_Common_EnergyDischarge_87: 3158663279948409179
+      VFX_Common_EnergyDischarge_88: 3504055936581892503
+      VFX_Common_EnergyDischarge_89: -1030294588153069094
+      VFX_Common_EnergyDischarge_9: -3305153965793461462
+      VFX_Common_EnergyDischarge_90: 7344175051585509682
+      VFX_Common_EnergyDischarge_91: -1845536605861094229
+      VFX_Common_EnergyDischarge_92: -5406517548737815344
+      VFX_Common_EnergyDischarge_93: 4988843037032644837
+      VFX_Common_EnergyDischarge_94: -3573161231463102032
+      VFX_Common_EnergyDischarge_95: -4977993913694489062
+      VFX_Common_EnergyDischarge_96: 2405983863692000566
+      VFX_Common_EnergyDischarge_97: -3846998936386051579
+      VFX_Common_EnergyDischarge_98: -5035242785657711016
+      VFX_Common_EnergyDischarge_99: 5256964170109630221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

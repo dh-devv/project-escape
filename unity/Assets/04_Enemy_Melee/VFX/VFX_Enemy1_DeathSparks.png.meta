@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: f903ef38acf5b17478b4cb6ca2d4142d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7818452416313500191
+    second: VFX_Enemy1_DeathSparks_0
+  - first:
+      213: -7803462014191822169
+    second: VFX_Enemy1_DeathSparks_1
+  - first:
+      213: 5339944345749177250
+    second: VFX_Enemy1_DeathSparks_2
+  - first:
+      213: -2023241881793099060
+    second: VFX_Enemy1_DeathSparks_3
+  - first:
+      213: -3107674165451783175
+    second: VFX_Enemy1_DeathSparks_4
+  - first:
+      213: 619089543560867448
+    second: VFX_Enemy1_DeathSparks_5
+  - first:
+      213: -6926523114121355450
+    second: VFX_Enemy1_DeathSparks_6
+  - first:
+      213: 8937497082180247142
+    second: VFX_Enemy1_DeathSparks_7
+  - first:
+      213: -4643148913807103885
+    second: VFX_Enemy1_DeathSparks_8
+  - first:
+      213: 7409933398506818782
+    second: VFX_Enemy1_DeathSparks_9
+  - first:
+      213: -7235355767958582118
+    second: VFX_Enemy1_DeathSparks_10
+  - first:
+      213: -5970228550161408701
+    second: VFX_Enemy1_DeathSparks_11
+  - first:
+      213: 2927213805845179146
+    second: VFX_Enemy1_DeathSparks_12
+  - first:
+      213: -1053876564874338650
+    second: VFX_Enemy1_DeathSparks_13
+  - first:
+      213: -3024973588226596215
+    second: VFX_Enemy1_DeathSparks_14
+  - first:
+      213: 2845735770859327928
+    second: VFX_Enemy1_DeathSparks_15
+  - first:
+      213: 6908535347743022434
+    second: VFX_Enemy1_DeathSparks_16
+  - first:
+      213: 8655682803575511219
+    second: VFX_Enemy1_DeathSparks_17
+  - first:
+      213: -6262166428773937111
+    second: VFX_Enemy1_DeathSparks_18
+  - first:
+      213: -599666782596578794
+    second: VFX_Enemy1_DeathSparks_19
+  - first:
+      213: -3711627261310895982
+    second: VFX_Enemy1_DeathSparks_20
+  - first:
+      213: -2120060428439523425
+    second: VFX_Enemy1_DeathSparks_21
+  - first:
+      213: 517703297735658739
+    second: VFX_Enemy1_DeathSparks_22
+  - first:
+      213: -9051078665750253740
+    second: VFX_Enemy1_DeathSparks_23
+  - first:
+      213: 4893006157898950428
+    second: VFX_Enemy1_DeathSparks_24
+  - first:
+      213: -6815858320800590887
+    second: VFX_Enemy1_DeathSparks_25
+  - first:
+      213: -3586269350809540221
+    second: VFX_Enemy1_DeathSparks_26
+  - first:
+      213: -410722026245789
+    second: VFX_Enemy1_DeathSparks_27
+  - first:
+      213: -8468090347625038302
+    second: VFX_Enemy1_DeathSparks_28
+  - first:
+      213: 880494661726453004
+    second: VFX_Enemy1_DeathSparks_29
+  - first:
+      213: -8407411178552871346
+    second: VFX_Enemy1_DeathSparks_30
+  - first:
+      213: 6320681546537717470
+    second: VFX_Enemy1_DeathSparks_31
+  - first:
+      213: -3877544302789973395
+    second: VFX_Enemy1_DeathSparks_32
+  - first:
+      213: -4010141541126559075
+    second: VFX_Enemy1_DeathSparks_33
+  - first:
+      213: 4918168694624227038
+    second: VFX_Enemy1_DeathSparks_34
+  - first:
+      213: -3067019404183462640
+    second: VFX_Enemy1_DeathSparks_35
+  - first:
+      213: 4429708681248163225
+    second: VFX_Enemy1_DeathSparks_36
+  - first:
+      213: -7991461149514934481
+    second: VFX_Enemy1_DeathSparks_37
+  - first:
+      213: 492353458298978140
+    second: VFX_Enemy1_DeathSparks_38
+  - first:
+      213: 2219670000419124905
+    second: VFX_Enemy1_DeathSparks_39
+  - first:
+      213: -3908201703771305392
+    second: VFX_Enemy1_DeathSparks_40
+  - first:
+      213: -125897646661159272
+    second: VFX_Enemy1_DeathSparks_41
+  - first:
+      213: -8185741035564100159
+    second: VFX_Enemy1_DeathSparks_42
+  - first:
+      213: 7616546841058680182
+    second: VFX_Enemy1_DeathSparks_43
+  - first:
+      213: 2822465672881261406
+    second: VFX_Enemy1_DeathSparks_44
+  - first:
+      213: -9019448878981003989
+    second: VFX_Enemy1_DeathSparks_45
+  - first:
+      213: 8411984532095368767
+    second: VFX_Enemy1_DeathSparks_46
+  - first:
+      213: -6151494600044021239
+    second: VFX_Enemy1_DeathSparks_47
+  - first:
+      213: -6104930682485593710
+    second: VFX_Enemy1_DeathSparks_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 347
+        width: 46
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1229a77c09b08c60800000000000000
+      internalID: 7818452416313500191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 281
+        width: 116
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa97d184a884b390800000000000000
+      internalID: -7803462014191822169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a34cb8171b4b1a40800000000000000
+      internalID: 5339944345749177250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 403
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca87056a300ce3e0800000000000000
+      internalID: -2023241881793099060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 416
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3869acfc25fd4d0800000000000000
+      internalID: -3107674165451783175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 399
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eaa18e8a2779800800000000000000
+      internalID: 619089543560867448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 371
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f934e0deb00ef90800000000000000
+      internalID: -6926523114121355450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 181
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e917c4e3e580c70800000000000000
+      internalID: 8937497082180247142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 364
+        width: 47
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3786941d9a8309fb0800000000000000
+      internalID: -4643148913807103885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc4d4b9a2f55d660800000000000000
+      internalID: 7409933398506818782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 282
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c414b734ad69b90800000000000000
+      internalID: -7235355767958582118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 296
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ddbb7e3cc752da0800000000000000
+      internalID: -5970228550161408701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 299
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b6507827d8f9820800000000000000
+      internalID: 2927213805845179146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 287
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae5e8119d0ef51f0800000000000000
+      internalID: -1053876564874338650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 315
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982a0da6c822506d0800000000000000
+      internalID: -3024973588226596215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 313
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b151b23b951e7720800000000000000
+      internalID: 2845735770859327928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 283
+        width: 25
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dd378bb4c00ef50800000000000000
+      internalID: 6908535347743022434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 288
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8539b66a92f1870800000000000000
+      internalID: 8655682803575511219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 196
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9209d88bfc05819a0800000000000000
+      internalID: -6262166428773937111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 63
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612cab70d3e8da7f0800000000000000
+      internalID: -599666782596578794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 185
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29878eebba6ad7cc0800000000000000
+      internalID: -3711627261310895982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fef7cd5480492e0800000000000000
+      internalID: -2120060428439523425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_22
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 36
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc059808604f2700800000000000000
+      internalID: 517703297735658739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 44
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fe6dd78eb146280800000000000000
+      internalID: -9051078665750253740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 47
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17ad552d2377e340800000000000000
+      internalID: 4893006157898950428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 126
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d35a4d18f43961a0800000000000000
+      internalID: -6815858320800590887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 172
+        width: 149
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389602cb6030b3ec0800000000000000
+      internalID: -3586269350809540221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 32
+        width: 165
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3613683537a8efff0800000000000000
+      internalID: -410722026245789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 119
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e35e7d1bc4b7a80800000000000000
+      internalID: -8468090347625038302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_29
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 63
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d35d2da35283c00800000000000000
+      internalID: 880494661726453004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4635b5d310e25b80800000000000000
+      internalID: -8407411178552871346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 69
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede4fbfc06297b750800000000000000
+      internalID: 6320681546537717470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_32
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 158
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a2d5f2002303ac0800000000000000
+      internalID: -3877544302789973395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 185
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a2d16d38d1958c0800000000000000
+      internalID: -4010141541126559075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_34
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede0684ce58d04440800000000000000
+      internalID: 4918168694624227038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_35
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 39
+        width: 53
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d1a660a12cf65d0800000000000000
+      internalID: -3067019404183462640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_36
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 119
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995c244739c797d30800000000000000
+      internalID: 4429708681248163225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 162
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27d3d2dc60a81190800000000000000
+      internalID: -7991461149514934481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_38
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 152
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f78d99cd035d600800000000000000
+      internalID: 492353458298978140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_39
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 136
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6b295ea1addce10800000000000000
+      internalID: 2219670000419124905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_40
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 25
+        width: 104
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a8228c14743c9c0800000000000000
+      internalID: -3908201703771305392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_41
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 116
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89634b4e1c8b04ef0800000000000000
+      internalID: -125897646661159272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_42
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 59
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c51dd7e5e7666e80800000000000000
+      internalID: -8185741035564100159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 119
+        width: 98
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d1d6c6ff863b960800000000000000
+      internalID: 7616546841058680182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_44
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 30
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b42de43996b2720800000000000000
+      internalID: 2822465672881261406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_45
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 121
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25ca8a180b74d280800000000000000
+      internalID: -9019448878981003989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_46
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 37
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eff930d5f5db470800000000000000
+      internalID: 8411984532095368767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_47
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 161
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a74a6d04081aaa0800000000000000
+      internalID: -6151494600044021239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy1_DeathSparks_48
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 78
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299201cb3ede64ba0800000000000000
+      internalID: -6104930682485593710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Enemy1_DeathSparks_0: 7818452416313500191
+      VFX_Enemy1_DeathSparks_1: -7803462014191822169
+      VFX_Enemy1_DeathSparks_10: -7235355767958582118
+      VFX_Enemy1_DeathSparks_11: -5970228550161408701
+      VFX_Enemy1_DeathSparks_12: 2927213805845179146
+      VFX_Enemy1_DeathSparks_13: -1053876564874338650
+      VFX_Enemy1_DeathSparks_14: -3024973588226596215
+      VFX_Enemy1_DeathSparks_15: 2845735770859327928
+      VFX_Enemy1_DeathSparks_16: 6908535347743022434
+      VFX_Enemy1_DeathSparks_17: 8655682803575511219
+      VFX_Enemy1_DeathSparks_18: -6262166428773937111
+      VFX_Enemy1_DeathSparks_19: -599666782596578794
+      VFX_Enemy1_DeathSparks_2: 5339944345749177250
+      VFX_Enemy1_DeathSparks_20: -3711627261310895982
+      VFX_Enemy1_DeathSparks_21: -2120060428439523425
+      VFX_Enemy1_DeathSparks_22: 517703297735658739
+      VFX_Enemy1_DeathSparks_23: -9051078665750253740
+      VFX_Enemy1_DeathSparks_24: 4893006157898950428
+      VFX_Enemy1_DeathSparks_25: -6815858320800590887
+      VFX_Enemy1_DeathSparks_26: -3586269350809540221
+      VFX_Enemy1_DeathSparks_27: -410722026245789
+      VFX_Enemy1_DeathSparks_28: -8468090347625038302
+      VFX_Enemy1_DeathSparks_29: 880494661726453004
+      VFX_Enemy1_DeathSparks_3: -2023241881793099060
+      VFX_Enemy1_DeathSparks_30: -8407411178552871346
+      VFX_Enemy1_DeathSparks_31: 6320681546537717470
+      VFX_Enemy1_DeathSparks_32: -3877544302789973395
+      VFX_Enemy1_DeathSparks_33: -4010141541126559075
+      VFX_Enemy1_DeathSparks_34: 4918168694624227038
+      VFX_Enemy1_DeathSparks_35: -3067019404183462640
+      VFX_Enemy1_DeathSparks_36: 4429708681248163225
+      VFX_Enemy1_DeathSparks_37: -7991461149514934481
+      VFX_Enemy1_DeathSparks_38: 492353458298978140
+      VFX_Enemy1_DeathSparks_39: 2219670000419124905
+      VFX_Enemy1_DeathSparks_4: -3107674165451783175
+      VFX_Enemy1_DeathSparks_40: -3908201703771305392
+      VFX_Enemy1_DeathSparks_41: -125897646661159272
+      VFX_Enemy1_DeathSparks_42: -8185741035564100159
+      VFX_Enemy1_DeathSparks_43: 7616546841058680182
+      VFX_Enemy1_DeathSparks_44: 2822465672881261406
+      VFX_Enemy1_DeathSparks_45: -9019448878981003989
+      VFX_Enemy1_DeathSparks_46: 8411984532095368767
+      VFX_Enemy1_DeathSparks_47: -6151494600044021239
+      VFX_Enemy1_DeathSparks_48: -6104930682485593710
+      VFX_Enemy1_DeathSparks_5: 619089543560867448
+      VFX_Enemy1_DeathSparks_6: -6926523114121355450
+      VFX_Enemy1_DeathSparks_7: 8937497082180247142
+      VFX_Enemy1_DeathSparks_8: -4643148913807103885
+      VFX_Enemy1_DeathSparks_9: 7409933398506818782
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

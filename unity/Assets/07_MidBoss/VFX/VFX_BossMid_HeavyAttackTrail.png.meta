@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 5516ad2dc0c5e734985eb48d68b447b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -280974473017463683
+    second: VFX_BossMid_HeavyAttackTrail_0
+  - first:
+      213: -3137780691884521466
+    second: VFX_BossMid_HeavyAttackTrail_1
+  - first:
+      213: 4049183169952616461
+    second: VFX_BossMid_HeavyAttackTrail_2
+  - first:
+      213: 2472094024465937241
+    second: VFX_BossMid_HeavyAttackTrail_3
+  - first:
+      213: -957327767412514831
+    second: VFX_BossMid_HeavyAttackTrail_4
+  - first:
+      213: 5144677811244132428
+    second: VFX_BossMid_HeavyAttackTrail_5
+  - first:
+      213: 2202012113632660886
+    second: VFX_BossMid_HeavyAttackTrail_6
+  - first:
+      213: -4647056431147529114
+    second: VFX_BossMid_HeavyAttackTrail_7
+  - first:
+      213: 6519811578023557549
+    second: VFX_BossMid_HeavyAttackTrail_8
+  - first:
+      213: -4419445194017815454
+    second: VFX_BossMid_HeavyAttackTrail_9
+  - first:
+      213: 5939697425937275288
+    second: VFX_BossMid_HeavyAttackTrail_10
+  - first:
+      213: -3495433205281261997
+    second: VFX_BossMid_HeavyAttackTrail_11
+  - first:
+      213: 7353599978465927689
+    second: VFX_BossMid_HeavyAttackTrail_12
+  - first:
+      213: 902332796966013915
+    second: VFX_BossMid_HeavyAttackTrail_13
+  - first:
+      213: -3869869573731617121
+    second: VFX_BossMid_HeavyAttackTrail_14
+  - first:
+      213: 8236949786738584782
+    second: VFX_BossMid_HeavyAttackTrail_15
+  - first:
+      213: -8019628327092442561
+    second: VFX_BossMid_HeavyAttackTrail_16
+  - first:
+      213: 933150456374868447
+    second: VFX_BossMid_HeavyAttackTrail_17
+  - first:
+      213: -7610521500307638008
+    second: VFX_BossMid_HeavyAttackTrail_18
+  - first:
+      213: -1791384037446855683
+    second: VFX_BossMid_HeavyAttackTrail_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 573
+        width: 193
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c67d89437c91cf0800000000000000
+      internalID: -280974473017463683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 644
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608c42dd51d5474d0800000000000000
+      internalID: -3137780691884521466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 572
+        width: 149
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00148bb3a6913830800000000000000
+      internalID: 4049183169952616461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 584
+        width: 196
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95378a3ea64ae4220800000000000000
+      internalID: 2472094024465937241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 593
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff52c9b773e6b2f0800000000000000
+      internalID: -957327767412514831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 603
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c486a0f2631956740800000000000000
+      internalID: 5144677811244132428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 331
+        width: 179
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d8e20c95e1f8e10800000000000000
+      internalID: 2202012113632660886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 443
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cc14a0cc6528fb0800000000000000
+      internalID: -4647056431147529114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 319
+        width: 184
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9b29636160b7a50800000000000000
+      internalID: 6519811578023557549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 332
+        width: 205
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264c242e20afaa2c0800000000000000
+      internalID: -4419445194017815454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 383
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8991b4ac65b0e6250800000000000000
+      internalID: 5939697425937275288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 88
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356fa17f40abd7fc0800000000000000
+      internalID: -3495433205281261997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 157
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90228c8283c3d0660800000000000000
+      internalID: 7353599978465927689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 85
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb0858e5eab58c00800000000000000
+      internalID: 902332796966013915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 143
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9672aa40267b4ac0800000000000000
+      internalID: -3869869573731617121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 149
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc684790368f4270800000000000000
+      internalID: 8236949786738584782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 82
+        width: 156
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aaefcb68e84b090800000000000000
+      internalID: -8019628327092442561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 134
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9b732656733fc00800000000000000
+      internalID: 933150456374868447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809b0ba840ff16690800000000000000
+      internalID: -7610521500307638008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_HeavyAttackTrail_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 67
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3dca785b9b327e0800000000000000
+      internalID: -1791384037446855683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_BossMid_HeavyAttackTrail_0: -280974473017463683
+      VFX_BossMid_HeavyAttackTrail_1: -3137780691884521466
+      VFX_BossMid_HeavyAttackTrail_10: 5939697425937275288
+      VFX_BossMid_HeavyAttackTrail_11: -3495433205281261997
+      VFX_BossMid_HeavyAttackTrail_12: 7353599978465927689
+      VFX_BossMid_HeavyAttackTrail_13: 902332796966013915
+      VFX_BossMid_HeavyAttackTrail_14: -3869869573731617121
+      VFX_BossMid_HeavyAttackTrail_15: 8236949786738584782
+      VFX_BossMid_HeavyAttackTrail_16: -8019628327092442561
+      VFX_BossMid_HeavyAttackTrail_17: 933150456374868447
+      VFX_BossMid_HeavyAttackTrail_18: -7610521500307638008
+      VFX_BossMid_HeavyAttackTrail_19: -1791384037446855683
+      VFX_BossMid_HeavyAttackTrail_2: 4049183169952616461
+      VFX_BossMid_HeavyAttackTrail_3: 2472094024465937241
+      VFX_BossMid_HeavyAttackTrail_4: -957327767412514831
+      VFX_BossMid_HeavyAttackTrail_5: 5144677811244132428
+      VFX_BossMid_HeavyAttackTrail_6: 2202012113632660886
+      VFX_BossMid_HeavyAttackTrail_7: -4647056431147529114
+      VFX_BossMid_HeavyAttackTrail_8: 6519811578023557549
+      VFX_BossMid_HeavyAttackTrail_9: -4419445194017815454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

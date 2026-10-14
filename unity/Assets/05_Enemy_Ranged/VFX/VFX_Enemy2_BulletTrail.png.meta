@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 838019d685538ff4e9799f5040db44f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3837372058690125626
+    second: VFX_Enemy2_BulletTrail_0
+  - first:
+      213: -2497642518292013884
+    second: VFX_Enemy2_BulletTrail_1
+  - first:
+      213: 7760193642499735521
+    second: VFX_Enemy2_BulletTrail_2
+  - first:
+      213: 1850930507792760013
+    second: VFX_Enemy2_BulletTrail_3
+  - first:
+      213: 5388548249672334521
+    second: VFX_Enemy2_BulletTrail_4
+  - first:
+      213: -8563974323136697746
+    second: VFX_Enemy2_BulletTrail_5
+  - first:
+      213: 5622845511521110913
+    second: VFX_Enemy2_BulletTrail_6
+  - first:
+      213: 1261687841426940794
+    second: VFX_Enemy2_BulletTrail_7
+  - first:
+      213: -7092060175931636506
+    second: VFX_Enemy2_BulletTrail_8
+  - first:
+      213: -6053345425325794975
+    second: VFX_Enemy2_BulletTrail_9
+  - first:
+      213: -4274325133250368055
+    second: VFX_Enemy2_BulletTrail_10
+  - first:
+      213: -6908960139633221198
+    second: VFX_Enemy2_BulletTrail_11
+  - first:
+      213: -1198785053648037155
+    second: VFX_Enemy2_BulletTrail_12
+  - first:
+      213: -4881389265806374708
+    second: VFX_Enemy2_BulletTrail_13
+  - first:
+      213: -5167441346134379536
+    second: VFX_Enemy2_BulletTrail_14
+  - first:
+      213: 1862701677882310057
+    second: VFX_Enemy2_BulletTrail_15
+  - first:
+      213: -8003912934648747203
+    second: VFX_Enemy2_BulletTrail_16
+  - first:
+      213: -6779793723872262889
+    second: VFX_Enemy2_BulletTrail_17
+  - first:
+      213: -4604877624759567469
+    second: VFX_Enemy2_BulletTrail_18
+  - first:
+      213: -1647423936291000485
+    second: VFX_Enemy2_BulletTrail_19
+  - first:
+      213: 8255566101321027730
+    second: VFX_Enemy2_BulletTrail_20
+  - first:
+      213: -4964827737588127933
+    second: VFX_Enemy2_BulletTrail_21
+  - first:
+      213: -3541205278263026197
+    second: VFX_Enemy2_BulletTrail_22
+  - first:
+      213: -8597668396557760200
+    second: VFX_Enemy2_BulletTrail_23
+  - first:
+      213: -3168979036227540216
+    second: VFX_Enemy2_BulletTrail_24
+  - first:
+      213: 1836107703345377858
+    second: VFX_Enemy2_BulletTrail_25
+  - first:
+      213: 3720452354931612814
+    second: VFX_Enemy2_BulletTrail_26
+  - first:
+      213: 8514202704729290661
+    second: VFX_Enemy2_BulletTrail_27
+  - first:
+      213: 1523683421418938127
+    second: VFX_Enemy2_BulletTrail_28
+  - first:
+      213: 1929948768832771102
+    second: VFX_Enemy2_BulletTrail_29
+  - first:
+      213: 1607571229996782036
+    second: VFX_Enemy2_BulletTrail_30
+  - first:
+      213: -4594958221782390657
+    second: VFX_Enemy2_BulletTrail_31
+  - first:
+      213: 1613128068890028607
+    second: VFX_Enemy2_BulletTrail_32
+  - first:
+      213: -4783560396120543449
+    second: VFX_Enemy2_BulletTrail_33
+  - first:
+      213: 2847354796312918555
+    second: VFX_Enemy2_BulletTrail_34
+  - first:
+      213: 1918375644724323135
+    second: VFX_Enemy2_BulletTrail_35
+  - first:
+      213: -8621012391240040497
+    second: VFX_Enemy2_BulletTrail_36
+  - first:
+      213: 5048307362863542529
+    second: VFX_Enemy2_BulletTrail_37
+  - first:
+      213: -6376587011824570721
+    second: VFX_Enemy2_BulletTrail_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 281
+        width: 173
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c004c2a17aeebac0800000000000000
+      internalID: -3837372058690125626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 402
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccda49dc57965dd0800000000000000
+      internalID: -2497642518292013884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 283
+        width: 192
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eff079a00fb1bb60800000000000000
+      internalID: 7760193642499735521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 283
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccbbec7d73dfa910800000000000000
+      internalID: 1850930507792760013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 388
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcb5c45518f7ca40800000000000000
+      internalID: 5388548249672334521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 364
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aeedb1ab6a62980800000000000000
+      internalID: -8563974323136697746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 378
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b8d1d933c580e40800000000000000
+      internalID: 5622845511521110913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 364
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73aea5386a628110800000000000000
+      internalID: 1261687841426940794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 356
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e486e768d0f39d90800000000000000
+      internalID: -7092060175931636506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 364
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16958bc58623efba0800000000000000
+      internalID: -6053345425325794975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 318
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd661a00fb8ea4c0800000000000000
+      internalID: -4274325133250368055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 294
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b124d5bb517e10a0800000000000000
+      internalID: -6908960139633221198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 300
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddad24b585f0d5fe0800000000000000
+      internalID: -1198785053648037155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_13
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 303
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8c4315352d14cb0800000000000000
+      internalID: -4881389265806374708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 185
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f37ef5597f8948b0800000000000000
+      internalID: -5167441346134379536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 140
+        width: 133
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adf2b89e45a9d910800000000000000
+      internalID: 1862701677882310057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b6b1da7936ce090800000000000000
+      internalID: -8003912934648747203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 168
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715cb2e678559e1a0800000000000000
+      internalID: -6779793723872262889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 142
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bbf0ea2303810c0800000000000000
+      internalID: -4604877624759567469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 139
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f26ea88ac2329e0800000000000000
+      internalID: -1647423936291000485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 132
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2901ff811a9a19270800000000000000
+      internalID: 8255566101321027730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 133
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347ad0a3a73691bb0800000000000000
+      internalID: -4964827737588127933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 113
+        width: 97
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedd460cf8c1bdec0800000000000000
+      internalID: -3541205278263026197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 136
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839829e4522fea880800000000000000
+      internalID: -8597668396557760200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 115
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b6ff44b568504d0800000000000000
+      internalID: -3168979036227540216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 134
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24272436a3a2b7910800000000000000
+      internalID: 1836107703345377858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 132
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cd67b74b3b1a330800000000000000
+      internalID: 3720452354931612814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 126
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a73f01ff36882670800000000000000
+      internalID: 8514202704729290661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 124
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fd3dbbff5352510800000000000000
+      internalID: 1523683421418938127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 111
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14daf01e2e88ca10800000000000000
+      internalID: 1929948768832771102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 115
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d19813348d3f4610800000000000000
+      internalID: 1607571229996782036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 45
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7866e8a7dd6b30c0800000000000000
+      internalID: -4594958221782390657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_32
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 126
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ae6639e6bf26610800000000000000
+      internalID: 1613128068890028607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 120
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fab930a216d9db0800000000000000
+      internalID: -4783560396120543449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 51
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a7cbfe916d38720800000000000000
+      internalID: 2847354796312918555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 51
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33ed812c707f9a10800000000000000
+      internalID: 1918375644724323135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 109
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf75eff7e20c5880800000000000000
+      internalID: -8621012391240040497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1017878acc03f0640800000000000000
+      internalID: 5048307362863542529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy2_BulletTrail_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 64
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ea3d8b5efc187a0800000000000000
+      internalID: -6376587011824570721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Enemy2_BulletTrail_0: -3837372058690125626
+      VFX_Enemy2_BulletTrail_1: -2497642518292013884
+      VFX_Enemy2_BulletTrail_10: -4274325133250368055
+      VFX_Enemy2_BulletTrail_11: -6908960139633221198
+      VFX_Enemy2_BulletTrail_12: -1198785053648037155
+      VFX_Enemy2_BulletTrail_13: -4881389265806374708
+      VFX_Enemy2_BulletTrail_14: -5167441346134379536
+      VFX_Enemy2_BulletTrail_15: 1862701677882310057
+      VFX_Enemy2_BulletTrail_16: -8003912934648747203
+      VFX_Enemy2_BulletTrail_17: -6779793723872262889
+      VFX_Enemy2_BulletTrail_18: -4604877624759567469
+      VFX_Enemy2_BulletTrail_19: -1647423936291000485
+      VFX_Enemy2_BulletTrail_2: 7760193642499735521
+      VFX_Enemy2_BulletTrail_20: 8255566101321027730
+      VFX_Enemy2_BulletTrail_21: -4964827737588127933
+      VFX_Enemy2_BulletTrail_22: -3541205278263026197
+      VFX_Enemy2_BulletTrail_23: -8597668396557760200
+      VFX_Enemy2_BulletTrail_24: -3168979036227540216
+      VFX_Enemy2_BulletTrail_25: 1836107703345377858
+      VFX_Enemy2_BulletTrail_26: 3720452354931612814
+      VFX_Enemy2_BulletTrail_27: 8514202704729290661
+      VFX_Enemy2_BulletTrail_28: 1523683421418938127
+      VFX_Enemy2_BulletTrail_29: 1929948768832771102
+      VFX_Enemy2_BulletTrail_3: 1850930507792760013
+      VFX_Enemy2_BulletTrail_30: 1607571229996782036
+      VFX_Enemy2_BulletTrail_31: -4594958221782390657
+      VFX_Enemy2_BulletTrail_32: 1613128068890028607
+      VFX_Enemy2_BulletTrail_33: -4783560396120543449
+      VFX_Enemy2_BulletTrail_34: 2847354796312918555
+      VFX_Enemy2_BulletTrail_35: 1918375644724323135
+      VFX_Enemy2_BulletTrail_36: -8621012391240040497
+      VFX_Enemy2_BulletTrail_37: 5048307362863542529
+      VFX_Enemy2_BulletTrail_38: -6376587011824570721
+      VFX_Enemy2_BulletTrail_4: 5388548249672334521
+      VFX_Enemy2_BulletTrail_5: -8563974323136697746
+      VFX_Enemy2_BulletTrail_6: 5622845511521110913
+      VFX_Enemy2_BulletTrail_7: 1261687841426940794
+      VFX_Enemy2_BulletTrail_8: -7092060175931636506
+      VFX_Enemy2_BulletTrail_9: -6053345425325794975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

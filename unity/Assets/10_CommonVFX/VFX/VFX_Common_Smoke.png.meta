@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 6ac26beec2dd4554f95558ad07a3b58c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1023188739365362655
+    second: VFX_Common_Smoke_0
+  - first:
+      213: -5556705456781441736
+    second: VFX_Common_Smoke_1
+  - first:
+      213: 6753782237514143739
+    second: VFX_Common_Smoke_2
+  - first:
+      213: 7872499822633287363
+    second: VFX_Common_Smoke_3
+  - first:
+      213: -4842765296659743648
+    second: VFX_Common_Smoke_4
+  - first:
+      213: -5826188660149251965
+    second: VFX_Common_Smoke_5
+  - first:
+      213: 7596825978587569263
+    second: VFX_Common_Smoke_6
+  - first:
+      213: -8808342612799213785
+    second: VFX_Common_Smoke_7
+  - first:
+      213: 6343311844354225971
+    second: VFX_Common_Smoke_8
+  - first:
+      213: 549504444134636860
+    second: VFX_Common_Smoke_9
+  - first:
+      213: -4670921874860109247
+    second: VFX_Common_Smoke_10
+  - first:
+      213: 6947489258054813213
+    second: VFX_Common_Smoke_11
+  - first:
+      213: 2430908647490523649
+    second: VFX_Common_Smoke_12
+  - first:
+      213: 6213299142581718997
+    second: VFX_Common_Smoke_13
+  - first:
+      213: 7053867363896863095
+    second: VFX_Common_Smoke_14
+  - first:
+      213: -4029888716351351632
+    second: VFX_Common_Smoke_15
+  - first:
+      213: 3757609336432286673
+    second: VFX_Common_Smoke_16
+  - first:
+      213: -7955497403527227565
+    second: VFX_Common_Smoke_17
+  - first:
+      213: -7427459994574865461
+    second: VFX_Common_Smoke_18
+  - first:
+      213: -3367532333647514292
+    second: VFX_Common_Smoke_19
+  - first:
+      213: 8069792640227064596
+    second: VFX_Common_Smoke_20
+  - first:
+      213: -2447800667652590363
+    second: VFX_Common_Smoke_21
+  - first:
+      213: 5044217037302728278
+    second: VFX_Common_Smoke_22
+  - first:
+      213: -8000109482497462867
+    second: VFX_Common_Smoke_23
+  - first:
+      213: 9013525605890031834
+    second: VFX_Common_Smoke_24
+  - first:
+      213: 6652906722890478437
+    second: VFX_Common_Smoke_25
+  - first:
+      213: 1630259407090068809
+    second: VFX_Common_Smoke_26
+  - first:
+      213: 4619009519492577176
+    second: VFX_Common_Smoke_27
+  - first:
+      213: 4721638369977527846
+    second: VFX_Common_Smoke_28
+  - first:
+      213: 2679420364119706747
+    second: VFX_Common_Smoke_29
+  - first:
+      213: -5845501651162980792
+    second: VFX_Common_Smoke_30
+  - first:
+      213: -4801731976113663236
+    second: VFX_Common_Smoke_31
+  - first:
+      213: 6932333640261857866
+    second: VFX_Common_Smoke_32
+  - first:
+      213: -6737472161562871003
+    second: VFX_Common_Smoke_33
+  - first:
+      213: -4019477445547504011
+    second: VFX_Common_Smoke_34
+  - first:
+      213: -1680097858027590946
+    second: VFX_Common_Smoke_35
+  - first:
+      213: 5339632473744027672
+    second: VFX_Common_Smoke_36
+  - first:
+      213: -4936807970526964311
+    second: VFX_Common_Smoke_37
+  - first:
+      213: -3802297060749696990
+    second: VFX_Common_Smoke_38
+  - first:
+      213: -3814808763381887051
+    second: VFX_Common_Smoke_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_0
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 572
+        width: 176
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb5d04ccb8133e00800000000000000
+      internalID: 1023188739365362655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 669
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8354117e3dd92e2b0800000000000000
+      internalID: -5556705456781441736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 572
+        width: 184
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf79f5579214abd50800000000000000
+      internalID: 6753782237514143739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 677
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cef16ed0ecb04d60800000000000000
+      internalID: 7872499822633287363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 673
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cb10aee9a0bccb0800000000000000
+      internalID: -4842765296659743648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 572
+        width: 159
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38015653848352fa0800000000000000
+      internalID: -5826188660149251965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 654
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cdb225af85d6960800000000000000
+      internalID: 7596825978587569263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 645
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72faa20ff0b72c580800000000000000
+      internalID: -8808342612799213785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 641
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f24e9388f70850800000000000000
+      internalID: 6343311844354225971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 614
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3db42b616b30a700800000000000000
+      internalID: 549504444134636860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 316
+        width: 177
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1429c5b6d4d8d2fb0800000000000000
+      internalID: -4670921874860109247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 315
+        width: 188
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16033bbba07a6060800000000000000
+      internalID: 6947489258054813213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_12
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 319
+        width: 185
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102191f09825cb120800000000000000
+      internalID: 2430908647490523649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 441
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df82d496a21a3650800000000000000
+      internalID: 6213299142581718997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 421
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7792bc59efe54e160800000000000000
+      internalID: 7053867363896863095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_15
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 431
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4d5815095f218c0800000000000000
+      internalID: -4029888716351351632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 389
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbdcb668c5b52430800000000000000
+      internalID: 3757609336432286673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 386
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3579733f245689190800000000000000
+      internalID: -7955497403527227565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 357
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbb0ffbc7c5ce890800000000000000
+      internalID: -7427459994574865461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_19
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 352
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c453c4b3f2f1441d0800000000000000
+      internalID: -3367532333647514292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_20
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 325
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bbbc396a9adff60800000000000000
+      internalID: 8069792640227064596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 125
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e47a93034aa70ed0800000000000000
+      internalID: -2447800667652590363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 131
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65607668ba8a00640800000000000000
+      internalID: 5044217037302728278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 132
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad2183efc6e9f090800000000000000
+      internalID: -8000109482497462867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 153
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad086f868c9761d70800000000000000
+      internalID: 9013525605890031834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 144
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563f1b57a6fd35c50800000000000000
+      internalID: 6652906722890478437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 108
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94da7531b48df9610800000000000000
+      internalID: 1630259407090068809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 137
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897b0877fa40a1040800000000000000
+      internalID: 4619009519492577176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 149
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e6d58c411a68140800000000000000
+      internalID: 4721638369977527846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_29
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 137
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c8d4fff963f2520800000000000000
+      internalID: 2679420364119706747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 149
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e9874183b90eea0800000000000000
+      internalID: -5845501651162980792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 137
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf25c195532dc5db0800000000000000
+      internalID: -4801731976113663236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 117
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a427c4c77b8943060800000000000000
+      internalID: 6932333640261857866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_33
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 70
+        width: 109
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b36f504c0bf72a0800000000000000
+      internalID: -6737472161562871003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 113
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e42733f82f738c0800000000000000
+      internalID: -4019477445547504011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaee5056e71fa8e0800000000000000
+      internalID: -1680097858027590946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 74
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81037acb17f2a1a40800000000000000
+      internalID: 5339632473744027672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 74
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a55c60ae4fec7bb0800000000000000
+      internalID: -4936807970526964311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_38
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 97
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220a08bf7f68b3bc0800000000000000
+      internalID: -3802297060749696990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Smoke_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 86
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf439434a31f0bc0800000000000000
+      internalID: -3814808763381887051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_Smoke_0: 1023188739365362655
+      VFX_Common_Smoke_1: -5556705456781441736
+      VFX_Common_Smoke_10: -4670921874860109247
+      VFX_Common_Smoke_11: 6947489258054813213
+      VFX_Common_Smoke_12: 2430908647490523649
+      VFX_Common_Smoke_13: 6213299142581718997
+      VFX_Common_Smoke_14: 7053867363896863095
+      VFX_Common_Smoke_15: -4029888716351351632
+      VFX_Common_Smoke_16: 3757609336432286673
+      VFX_Common_Smoke_17: -7955497403527227565
+      VFX_Common_Smoke_18: -7427459994574865461
+      VFX_Common_Smoke_19: -3367532333647514292
+      VFX_Common_Smoke_2: 6753782237514143739
+      VFX_Common_Smoke_20: 8069792640227064596
+      VFX_Common_Smoke_21: -2447800667652590363
+      VFX_Common_Smoke_22: 5044217037302728278
+      VFX_Common_Smoke_23: -8000109482497462867
+      VFX_Common_Smoke_24: 9013525605890031834
+      VFX_Common_Smoke_25: 6652906722890478437
+      VFX_Common_Smoke_26: 1630259407090068809
+      VFX_Common_Smoke_27: 4619009519492577176
+      VFX_Common_Smoke_28: 4721638369977527846
+      VFX_Common_Smoke_29: 2679420364119706747
+      VFX_Common_Smoke_3: 7872499822633287363
+      VFX_Common_Smoke_30: -5845501651162980792
+      VFX_Common_Smoke_31: -4801731976113663236
+      VFX_Common_Smoke_32: 6932333640261857866
+      VFX_Common_Smoke_33: -6737472161562871003
+      VFX_Common_Smoke_34: -4019477445547504011
+      VFX_Common_Smoke_35: -1680097858027590946
+      VFX_Common_Smoke_36: 5339632473744027672
+      VFX_Common_Smoke_37: -4936807970526964311
+      VFX_Common_Smoke_38: -3802297060749696990
+      VFX_Common_Smoke_39: -3814808763381887051
+      VFX_Common_Smoke_4: -4842765296659743648
+      VFX_Common_Smoke_5: -5826188660149251965
+      VFX_Common_Smoke_6: 7596825978587569263
+      VFX_Common_Smoke_7: -8808342612799213785
+      VFX_Common_Smoke_8: 6343311844354225971
+      VFX_Common_Smoke_9: 549504444134636860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

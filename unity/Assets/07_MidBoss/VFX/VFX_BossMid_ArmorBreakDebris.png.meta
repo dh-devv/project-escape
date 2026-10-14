@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 4f7cfdafbf3466841af70d5f6d36179b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2585899308729767407
+    second: VFX_BossMid_ArmorBreakDebris_0
+  - first:
+      213: -6932773880334623228
+    second: VFX_BossMid_ArmorBreakDebris_1
+  - first:
+      213: 1001618911049162883
+    second: VFX_BossMid_ArmorBreakDebris_2
+  - first:
+      213: -8614280316485099723
+    second: VFX_BossMid_ArmorBreakDebris_3
+  - first:
+      213: -9176126617854770437
+    second: VFX_BossMid_ArmorBreakDebris_4
+  - first:
+      213: -8381708407334659127
+    second: VFX_BossMid_ArmorBreakDebris_5
+  - first:
+      213: 53140716105891220
+    second: VFX_BossMid_ArmorBreakDebris_6
+  - first:
+      213: -1857026371786981978
+    second: VFX_BossMid_ArmorBreakDebris_7
+  - first:
+      213: 8234790525391596720
+    second: VFX_BossMid_ArmorBreakDebris_8
+  - first:
+      213: -1963846948154428263
+    second: VFX_BossMid_ArmorBreakDebris_9
+  - first:
+      213: 4958266457784189029
+    second: VFX_BossMid_ArmorBreakDebris_10
+  - first:
+      213: 4412783361112023760
+    second: VFX_BossMid_ArmorBreakDebris_11
+  - first:
+      213: 5081155918331429549
+    second: VFX_BossMid_ArmorBreakDebris_12
+  - first:
+      213: -8274280434869393367
+    second: VFX_BossMid_ArmorBreakDebris_13
+  - first:
+      213: -7520833572067972568
+    second: VFX_BossMid_ArmorBreakDebris_14
+  - first:
+      213: 4649650871030331121
+    second: VFX_BossMid_ArmorBreakDebris_15
+  - first:
+      213: -3660216814988446385
+    second: VFX_BossMid_ArmorBreakDebris_16
+  - first:
+      213: 596419148187275730
+    second: VFX_BossMid_ArmorBreakDebris_17
+  - first:
+      213: -7136105583352866400
+    second: VFX_BossMid_ArmorBreakDebris_18
+  - first:
+      213: 8064280590363713603
+    second: VFX_BossMid_ArmorBreakDebris_19
+  - first:
+      213: 5616369321034738056
+    second: VFX_BossMid_ArmorBreakDebris_20
+  - first:
+      213: 5838121137400745913
+    second: VFX_BossMid_ArmorBreakDebris_21
+  - first:
+      213: -6934037849554358811
+    second: VFX_BossMid_ArmorBreakDebris_22
+  - first:
+      213: -4493252621463012455
+    second: VFX_BossMid_ArmorBreakDebris_23
+  - first:
+      213: -3063231416819686801
+    second: VFX_BossMid_ArmorBreakDebris_24
+  - first:
+      213: -417583484469262735
+    second: VFX_BossMid_ArmorBreakDebris_25
+  - first:
+      213: 1642788992758277405
+    second: VFX_BossMid_ArmorBreakDebris_26
+  - first:
+      213: -5253030516712603319
+    second: VFX_BossMid_ArmorBreakDebris_27
+  - first:
+      213: -5812133204787186741
+    second: VFX_BossMid_ArmorBreakDebris_28
+  - first:
+      213: 9114960306642621467
+    second: VFX_BossMid_ArmorBreakDebris_29
+  - first:
+      213: -5962070960227654691
+    second: VFX_BossMid_ArmorBreakDebris_30
+  - first:
+      213: -6328574542342700321
+    second: VFX_BossMid_ArmorBreakDebris_31
+  - first:
+      213: 5405074760671944451
+    second: VFX_BossMid_ArmorBreakDebris_32
+  - first:
+      213: 5907131851612061120
+    second: VFX_BossMid_ArmorBreakDebris_33
+  - first:
+      213: -5764590665404197173
+    second: VFX_BossMid_ArmorBreakDebris_34
+  - first:
+      213: -4402641781982461232
+    second: VFX_BossMid_ArmorBreakDebris_35
+  - first:
+      213: -7338079837097390655
+    second: VFX_BossMid_ArmorBreakDebris_36
+  - first:
+      213: 4017898359353493315
+    second: VFX_BossMid_ArmorBreakDebris_37
+  - first:
+      213: 1686091912179163100
+    second: VFX_BossMid_ArmorBreakDebris_38
+  - first:
+      213: -3945351767349788050
+    second: VFX_BossMid_ArmorBreakDebris_39
+  - first:
+      213: -3288998087048653029
+    second: VFX_BossMid_ArmorBreakDebris_40
+  - first:
+      213: 1321005970524637138
+    second: VFX_BossMid_ArmorBreakDebris_41
+  - first:
+      213: 2779554852840534354
+    second: VFX_BossMid_ArmorBreakDebris_42
+  - first:
+      213: -8105068971630031454
+    second: VFX_BossMid_ArmorBreakDebris_43
+  - first:
+      213: -2307177499721249209
+    second: VFX_BossMid_ArmorBreakDebris_44
+  - first:
+      213: -1822296086385878015
+    second: VFX_BossMid_ArmorBreakDebris_45
+  - first:
+      213: -7603437376142813364
+    second: VFX_BossMid_ArmorBreakDebris_46
+  - first:
+      213: -2666837994006353133
+    second: VFX_BossMid_ArmorBreakDebris_47
+  - first:
+      213: 4910173809808059392
+    second: VFX_BossMid_ArmorBreakDebris_48
+  - first:
+      213: -1621896038812354983
+    second: VFX_BossMid_ArmorBreakDebris_49
+  - first:
+      213: -1819200206475735051
+    second: VFX_BossMid_ArmorBreakDebris_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 793
+        width: 207
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe514c978b5f2e320800000000000000
+      internalID: 2585899308729767407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 793
+        width: 207
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e5c8223e6d9cf90800000000000000
+      internalID: -6932773880334623228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 937
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3802661c71776ed00800000000000000
+      internalID: 1001618911049162883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 793
+        width: 195
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f144c41bde37880800000000000000
+      internalID: -8614280316485099723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 953
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf282c05579d7a080800000000000000
+      internalID: -9176126617854770437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 918
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb99e99c903eab80800000000000000
+      internalID: -8381708407334659127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 890
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49df992233bccb000800000000000000
+      internalID: 53140716105891220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 847
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adba139a548a36e0800000000000000
+      internalID: -1857026371786981978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 844
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bce7b16a5ad74270800000000000000
+      internalID: 8234790525391596720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_9
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 841
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99435060b930fb4e0800000000000000
+      internalID: -1963846948154428263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 826
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56006f5c21d4fc440800000000000000
+      internalID: 4958266457784189029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 796
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d226d5461b5d3d30800000000000000
+      internalID: 4412783361112023760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 802
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2c488f264e38640800000000000000
+      internalID: 5081155918331429549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_13
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 795
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92825a398c9db2d80800000000000000
+      internalID: -8274280434869393367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 795
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a6e0a96b1a0a790800000000000000
+      internalID: -7520833572067972568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 794
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6395115d0e68040800000000000000
+      internalID: 4649650871030331121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 793
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45b3bd033c443dc0800000000000000
+      internalID: -3660216814988446385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_17
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 793
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d191f82e08e64800800000000000000
+      internalID: 596419148187275730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 793
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a91298d7c577fc90800000000000000
+      internalID: -7136105583352866400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_19
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 793
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340e4b578741aef60800000000000000
+      internalID: 8064280590363713603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 537
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8896da3042a51fd40800000000000000
+      internalID: 5616369321034738056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 732
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf88762e3c250150800000000000000
+      internalID: 5838121137400745913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 726
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ede23e505955cf90800000000000000
+      internalID: -6934037849554358811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 537
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bba9b0c82c4a1c0800000000000000
+      internalID: -4493252621463012455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 732
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6265af81473d75d0800000000000000
+      internalID: -3063231416819686801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 425
+        width: 199
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176c3288802743af0800000000000000
+      internalID: -417583484469262735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 652
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15674292eb5cc610800000000000000
+      internalID: 1642788992758277405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 207
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9410f09a39c7917b0800000000000000
+      internalID: -5253030516712603319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3386de4a7275fa0800000000000000
+      internalID: -5812133204787186741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_29
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 477
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1418331b18de7e70800000000000000
+      internalID: 9114960306642621467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_30
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 475
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd365f1dc08724da0800000000000000
+      internalID: -5962070960227654691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_31
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 476
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd24515ebf26c28a0800000000000000
+      internalID: -6328574542342700321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 461
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fd7468bdea20b40800000000000000
+      internalID: 5405074760671944451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_33
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 458
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd7bb82f195af150800000000000000
+      internalID: 5907131851612061120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_34
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 460
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6dc09f45f0000b0800000000000000
+      internalID: -5764590665404197173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_35
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 454
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d284af10aca6e2c0800000000000000
+      internalID: -4402641781982461232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_36
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 424
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd8a585447e92a90800000000000000
+      internalID: -7338079837097390655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_37
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 402
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347c3e4254172c730800000000000000
+      internalID: 4017898359353493315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_38
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 380
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf191c29a3366710800000000000000
+      internalID: 1686091912179163100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_39
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 396
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e620821987b4f39c0800000000000000
+      internalID: -3945351767349788050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_40
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 283
+        width: 177
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17968a6aa12b52d0800000000000000
+      internalID: -3288998087048653029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_41
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 386
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d78a436ee7255210800000000000000
+      internalID: 1321005970524637138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_42
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 378
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251f5457966f29620800000000000000
+      internalID: 2779554852840534354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 359
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad83f976b2058f80800000000000000
+      internalID: -8105068971630031454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_44
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 331
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e4757b9424bffd0800000000000000
+      internalID: -2307177499721249209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 295
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c92674d57e5b6e0800000000000000
+      internalID: -1822296086385878015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_46
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47541bbdf92b7690800000000000000
+      internalID: -7603437376142813364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 212
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b6cb559fc7dfad0800000000000000
+      internalID: -2666837994006353133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c29079011742440800000000000000
+      internalID: 4910173809808059392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_49
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 141
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956f9f7552edd79e0800000000000000
+      internalID: -1621896038812354983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_ArmorBreakDebris_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 51
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff42bdfc07e0c6e0800000000000000
+      internalID: -1819200206475735051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_BossMid_ArmorBreakDebris_0: 2585899308729767407
+      VFX_BossMid_ArmorBreakDebris_1: -6932773880334623228
+      VFX_BossMid_ArmorBreakDebris_10: 4958266457784189029
+      VFX_BossMid_ArmorBreakDebris_11: 4412783361112023760
+      VFX_BossMid_ArmorBreakDebris_12: 5081155918331429549
+      VFX_BossMid_ArmorBreakDebris_13: -8274280434869393367
+      VFX_BossMid_ArmorBreakDebris_14: -7520833572067972568
+      VFX_BossMid_ArmorBreakDebris_15: 4649650871030331121
+      VFX_BossMid_ArmorBreakDebris_16: -3660216814988446385
+      VFX_BossMid_ArmorBreakDebris_17: 596419148187275730
+      VFX_BossMid_ArmorBreakDebris_18: -7136105583352866400
+      VFX_BossMid_ArmorBreakDebris_19: 8064280590363713603
+      VFX_BossMid_ArmorBreakDebris_2: 1001618911049162883
+      VFX_BossMid_ArmorBreakDebris_20: 5616369321034738056
+      VFX_BossMid_ArmorBreakDebris_21: 5838121137400745913
+      VFX_BossMid_ArmorBreakDebris_22: -6934037849554358811
+      VFX_BossMid_ArmorBreakDebris_23: -4493252621463012455
+      VFX_BossMid_ArmorBreakDebris_24: -3063231416819686801
+      VFX_BossMid_ArmorBreakDebris_25: -417583484469262735
+      VFX_BossMid_ArmorBreakDebris_26: 1642788992758277405
+      VFX_BossMid_ArmorBreakDebris_27: -5253030516712603319
+      VFX_BossMid_ArmorBreakDebris_28: -5812133204787186741
+      VFX_BossMid_ArmorBreakDebris_29: 9114960306642621467
+      VFX_BossMid_ArmorBreakDebris_3: -8614280316485099723
+      VFX_BossMid_ArmorBreakDebris_30: -5962070960227654691
+      VFX_BossMid_ArmorBreakDebris_31: -6328574542342700321
+      VFX_BossMid_ArmorBreakDebris_32: 5405074760671944451
+      VFX_BossMid_ArmorBreakDebris_33: 5907131851612061120
+      VFX_BossMid_ArmorBreakDebris_34: -5764590665404197173
+      VFX_BossMid_ArmorBreakDebris_35: -4402641781982461232
+      VFX_BossMid_ArmorBreakDebris_36: -7338079837097390655
+      VFX_BossMid_ArmorBreakDebris_37: 4017898359353493315
+      VFX_BossMid_ArmorBreakDebris_38: 1686091912179163100
+      VFX_BossMid_ArmorBreakDebris_39: -3945351767349788050
+      VFX_BossMid_ArmorBreakDebris_4: -9176126617854770437
+      VFX_BossMid_ArmorBreakDebris_40: -3288998087048653029
+      VFX_BossMid_ArmorBreakDebris_41: 1321005970524637138
+      VFX_BossMid_ArmorBreakDebris_42: 2779554852840534354
+      VFX_BossMid_ArmorBreakDebris_43: -8105068971630031454
+      VFX_BossMid_ArmorBreakDebris_44: -2307177499721249209
+      VFX_BossMid_ArmorBreakDebris_45: -1822296086385878015
+      VFX_BossMid_ArmorBreakDebris_46: -7603437376142813364
+      VFX_BossMid_ArmorBreakDebris_47: -2666837994006353133
+      VFX_BossMid_ArmorBreakDebris_48: 4910173809808059392
+      VFX_BossMid_ArmorBreakDebris_49: -1621896038812354983
+      VFX_BossMid_ArmorBreakDebris_5: -8381708407334659127
+      VFX_BossMid_ArmorBreakDebris_50: -1819200206475735051
+      VFX_BossMid_ArmorBreakDebris_6: 53140716105891220
+      VFX_BossMid_ArmorBreakDebris_7: -1857026371786981978
+      VFX_BossMid_ArmorBreakDebris_8: 8234790525391596720
+      VFX_BossMid_ArmorBreakDebris_9: -1963846948154428263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

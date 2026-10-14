@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 3f36f9031aae5e54bb7815d72874ab39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8427969822668523180
+    second: Key_SpinFlicker_0
+  - first:
+      213: 3595517753068718976
+    second: Key_SpinFlicker_1
+  - first:
+      213: -5344015828628441604
+    second: Key_SpinFlicker_2
+  - first:
+      213: -5622145643304842730
+    second: Key_SpinFlicker_3
+  - first:
+      213: -8061409789616174366
+    second: Key_SpinFlicker_4
+  - first:
+      213: 3711691562910250223
+    second: Key_SpinFlicker_5
+  - first:
+      213: 8842408418603170852
+    second: Key_SpinFlicker_6
+  - first:
+      213: -4943550850548244084
+    second: Key_SpinFlicker_7
+  - first:
+      213: 3628555515568791209
+    second: Key_SpinFlicker_8
+  - first:
+      213: -7135861276809910556
+    second: Key_SpinFlicker_9
+  - first:
+      213: 8333733239726361966
+    second: Key_SpinFlicker_10
+  - first:
+      213: -2906839105108284855
+    second: Key_SpinFlicker_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Key_SpinFlicker_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 275
+        width: 190
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca68ed186e926f470800000000000000
+      internalID: 8427969822668523180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_SpinFlicker_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 275
+        width: 104
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b8547b858d5e130800000000000000
+      internalID: 3595517753068718976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_SpinFlicker_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 159
+        width: 275
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5798ceaed36d5b0800000000000000
+      internalID: -5344015828628441604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_SpinFlicker_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 453
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a0e4723502af1b0800000000000000
+      internalID: -5622145643304842730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_SpinFlicker_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 328
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea421de18e102090800000000000000
+      internalID: -8061409789616174366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_SpinFlicker_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 39
+        width: 192
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe47413afc3928330800000000000000
+      internalID: 3711691562910250223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_SpinFlicker_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 39
+        width: 103
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cf3cd8b9b86ba70800000000000000
+      internalID: 8842408418603170852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_SpinFlicker_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 234
+        width: 6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81edf781baf46bb0800000000000000
+      internalID: -4943550850548244084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_SpinFlicker_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 39
+        width: 50
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae134934083b5230800000000000000
+      internalID: 3628555515568791209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_SpinFlicker_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 94
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6a745e9f358fc90800000000000000
+      internalID: -7135861276809910556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_SpinFlicker_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 78
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d41ce3a3e57a370800000000000000
+      internalID: 8333733239726361966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_SpinFlicker_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 33
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a6ec82c35d8a7d0800000000000000
+      internalID: -2906839105108284855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Key_SpinFlicker_0: 8427969822668523180
+      Key_SpinFlicker_1: 3595517753068718976
+      Key_SpinFlicker_10: 8333733239726361966
+      Key_SpinFlicker_11: -2906839105108284855
+      Key_SpinFlicker_2: -5344015828628441604
+      Key_SpinFlicker_3: -5622145643304842730
+      Key_SpinFlicker_4: -8061409789616174366
+      Key_SpinFlicker_5: 3711691562910250223
+      Key_SpinFlicker_6: 8842408418603170852
+      Key_SpinFlicker_7: -4943550850548244084
+      Key_SpinFlicker_8: 3628555515568791209
+      Key_SpinFlicker_9: -7135861276809910556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

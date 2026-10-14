@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: fa497260d2cdc3c47b87d44a45d6706c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2655201135109188714
+    second: VFX_BossMid_Shockwave_0
+  - first:
+      213: 278083070978250484
+    second: VFX_BossMid_Shockwave_1
+  - first:
+      213: 6286393140615689033
+    second: VFX_BossMid_Shockwave_2
+  - first:
+      213: 2742825111209808683
+    second: VFX_BossMid_Shockwave_3
+  - first:
+      213: 8060143985072204133
+    second: VFX_BossMid_Shockwave_4
+  - first:
+      213: 2627309975071325014
+    second: VFX_BossMid_Shockwave_5
+  - first:
+      213: 5326301967089903595
+    second: VFX_BossMid_Shockwave_6
+  - first:
+      213: 5019607293559707079
+    second: VFX_BossMid_Shockwave_7
+  - first:
+      213: 1028427195777154225
+    second: VFX_BossMid_Shockwave_8
+  - first:
+      213: -9152291616066231056
+    second: VFX_BossMid_Shockwave_9
+  - first:
+      213: -7724916056284182197
+    second: VFX_BossMid_Shockwave_10
+  - first:
+      213: 7014020986959856182
+    second: VFX_BossMid_Shockwave_11
+  - first:
+      213: -6505513174757498610
+    second: VFX_BossMid_Shockwave_12
+  - first:
+      213: 8787902796612147405
+    second: VFX_BossMid_Shockwave_13
+  - first:
+      213: -3721242088113902745
+    second: VFX_BossMid_Shockwave_14
+  - first:
+      213: -3101267498382416863
+    second: VFX_BossMid_Shockwave_15
+  - first:
+      213: -3188197127625640352
+    second: VFX_BossMid_Shockwave_16
+  - first:
+      213: 6675338192227253556
+    second: VFX_BossMid_Shockwave_17
+  - first:
+      213: -4613585960265583313
+    second: VFX_BossMid_Shockwave_18
+  - first:
+      213: -4851735741335620606
+    second: VFX_BossMid_Shockwave_19
+  - first:
+      213: 3861563389701098144
+    second: VFX_BossMid_Shockwave_20
+  - first:
+      213: 1844802645878405165
+    second: VFX_BossMid_Shockwave_21
+  - first:
+      213: -4270981721969144990
+    second: VFX_BossMid_Shockwave_22
+  - first:
+      213: -3036557153394085937
+    second: VFX_BossMid_Shockwave_23
+  - first:
+      213: 7660750295023811720
+    second: VFX_BossMid_Shockwave_24
+  - first:
+      213: 2873924819333832171
+    second: VFX_BossMid_Shockwave_25
+  - first:
+      213: 650824430494776455
+    second: VFX_BossMid_Shockwave_26
+  - first:
+      213: 6845162058358749197
+    second: VFX_BossMid_Shockwave_27
+  - first:
+      213: -7780267439405304209
+    second: VFX_BossMid_Shockwave_28
+  - first:
+      213: -5223861459634590275
+    second: VFX_BossMid_Shockwave_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 827
+        width: 161
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6935a9ea2a4d62bd0800000000000000
+      internalID: -2655201135109188714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 838
+        width: 201
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f655b76413fbd300800000000000000
+      internalID: 278083070978250484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 898
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943b9d03141cd3750800000000000000
+      internalID: 6286393140615689033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 842
+        width: 185
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b239ea218e8701620800000000000000
+      internalID: 2742825111209808683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 827
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569eabcff326bdf60800000000000000
+      internalID: 8060143985072204133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 589
+        width: 178
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b77f29084167420800000000000000
+      internalID: 2627309975071325014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 577
+        width: 198
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7abda4b63dae940800000000000000
+      internalID: 5326301967089903595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 669
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5169c0d3a39a540800000000000000
+      internalID: 5019607293559707079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 576
+        width: 200
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcf5a1f515b54e00800000000000000
+      internalID: 1028427195777154225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_9
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 669
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4269f14478cf080800000000000000
+      internalID: -9152291616066231056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 316
+        width: 185
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49487176c59bc490800000000000000
+      internalID: -7724916056284182197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 437
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63280eefceec65160800000000000000
+      internalID: 7014020986959856182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 406
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a4f83c36c7b5a0800000000000000
+      internalID: -6505513174757498610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 334
+        width: 82
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc89ab08807e4f970800000000000000
+      internalID: 8787902796612147405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 317
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76becbe690e7b5cc0800000000000000
+      internalID: -3721242088113902745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 406
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124a37534a516f4d0800000000000000
+      internalID: -3101267498382416863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 324
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066f3fdaa9f31c3d0800000000000000
+      internalID: -3188197127625640352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 395
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dbd47e7b093ac50800000000000000
+      internalID: 6675338192227253556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_18
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 324
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25f3a1530049ffb0800000000000000
+      internalID: -4613585960265583313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_19
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 379
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204bf918c0c2bacb0800000000000000
+      internalID: -4851735741335620606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 383
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa89c88177079530800000000000000
+      internalID: 3861563389701098144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_21
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 352
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2878447b3e0a9910800000000000000
+      internalID: 1844802645878405165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_22
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 344
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bc7d3a0cc6ab4c0800000000000000
+      internalID: -4270981721969144990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_23
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 353
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf26cb7b5bfbd5d0800000000000000
+      internalID: -3036557153394085937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 323
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cfcdf0ec3705a60800000000000000
+      internalID: 7660750295023811720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 93
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed529f756b32e720800000000000000
+      internalID: 2873924819333832171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c79ce0f51380900800000000000000
+      internalID: 650824430494776455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 112
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d087476ff96eefe50800000000000000
+      internalID: 6845162058358749197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 91
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6675b84cffe60490800000000000000
+      internalID: -7780267439405304209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_BossMid_Shockwave_29
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 100
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd60aefdad1187b0800000000000000
+      internalID: -5223861459634590275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_BossMid_Shockwave_0: -2655201135109188714
+      VFX_BossMid_Shockwave_1: 278083070978250484
+      VFX_BossMid_Shockwave_10: -7724916056284182197
+      VFX_BossMid_Shockwave_11: 7014020986959856182
+      VFX_BossMid_Shockwave_12: -6505513174757498610
+      VFX_BossMid_Shockwave_13: 8787902796612147405
+      VFX_BossMid_Shockwave_14: -3721242088113902745
+      VFX_BossMid_Shockwave_15: -3101267498382416863
+      VFX_BossMid_Shockwave_16: -3188197127625640352
+      VFX_BossMid_Shockwave_17: 6675338192227253556
+      VFX_BossMid_Shockwave_18: -4613585960265583313
+      VFX_BossMid_Shockwave_19: -4851735741335620606
+      VFX_BossMid_Shockwave_2: 6286393140615689033
+      VFX_BossMid_Shockwave_20: 3861563389701098144
+      VFX_BossMid_Shockwave_21: 1844802645878405165
+      VFX_BossMid_Shockwave_22: -4270981721969144990
+      VFX_BossMid_Shockwave_23: -3036557153394085937
+      VFX_BossMid_Shockwave_24: 7660750295023811720
+      VFX_BossMid_Shockwave_25: 2873924819333832171
+      VFX_BossMid_Shockwave_26: 650824430494776455
+      VFX_BossMid_Shockwave_27: 6845162058358749197
+      VFX_BossMid_Shockwave_28: -7780267439405304209
+      VFX_BossMid_Shockwave_29: -5223861459634590275
+      VFX_BossMid_Shockwave_3: 2742825111209808683
+      VFX_BossMid_Shockwave_4: 8060143985072204133
+      VFX_BossMid_Shockwave_5: 2627309975071325014
+      VFX_BossMid_Shockwave_6: 5326301967089903595
+      VFX_BossMid_Shockwave_7: 5019607293559707079
+      VFX_BossMid_Shockwave_8: 1028427195777154225
+      VFX_BossMid_Shockwave_9: -9152291616066231056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

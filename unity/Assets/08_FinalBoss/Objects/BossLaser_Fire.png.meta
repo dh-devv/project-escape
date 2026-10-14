@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: cbbc7cb1964b5d448a562a0ef5ff25a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6885541657824414884
+    second: BossLaser_Fire_0
+  - first:
+      213: -6693828991345667156
+    second: BossLaser_Fire_1
+  - first:
+      213: 3701095131010244841
+    second: BossLaser_Fire_2
+  - first:
+      213: -5224225446386676814
+    second: BossLaser_Fire_3
+  - first:
+      213: -6524882177436580878
+    second: BossLaser_Fire_4
+  - first:
+      213: -143750066477925479
+    second: BossLaser_Fire_5
+  - first:
+      213: 3299230432130424874
+    second: BossLaser_Fire_6
+  - first:
+      213: 3782207605549085073
+    second: BossLaser_Fire_7
+  - first:
+      213: -3106533566839540533
+    second: BossLaser_Fire_8
+  - first:
+      213: 6577836060501154194
+    second: BossLaser_Fire_9
+  - first:
+      213: -2476645753506595134
+    second: BossLaser_Fire_10
+  - first:
+      213: 5500813632401892934
+    second: BossLaser_Fire_11
+  - first:
+      213: -4696784017814344809
+    second: BossLaser_Fire_12
+  - first:
+      213: -8173044093062291331
+    second: BossLaser_Fire_13
+  - first:
+      213: 4838551010795984679
+    second: BossLaser_Fire_14
+  - first:
+      213: -572790326147501632
+    second: BossLaser_Fire_15
+  - first:
+      213: -4580950124059100205
+    second: BossLaser_Fire_16
+  - first:
+      213: 941011058674611802
+    second: BossLaser_Fire_17
+  - first:
+      213: -571048912537500206
+    second: BossLaser_Fire_18
+  - first:
+      213: 5210459568132364109
+    second: BossLaser_Fire_19
+  - first:
+      213: -4416784395035470644
+    second: BossLaser_Fire_20
+  - first:
+      213: 4242921973437878769
+    second: BossLaser_Fire_21
+  - first:
+      213: -8502619522279864890
+    second: BossLaser_Fire_22
+  - first:
+      213: -3289790565399079031
+    second: BossLaser_Fire_23
+  - first:
+      213: -4375775607260794267
+    second: BossLaser_Fire_24
+  - first:
+      213: -5101105652087901095
+    second: BossLaser_Fire_25
+  - first:
+      213: -3741604525895151820
+    second: BossLaser_Fire_26
+  - first:
+      213: 1799511909948412080
+    second: BossLaser_Fire_27
+  - first:
+      213: 2653621522956582697
+    second: BossLaser_Fire_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossLaser_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 257
+        width: 208
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53b837e754a170a0800000000000000
+      internalID: -6885541657824414884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 261
+        width: 214
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca351af6ffdba13a0800000000000000
+      internalID: -6693828991345667156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 380
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e02bc3996eec5330800000000000000
+      internalID: 3701095131010244841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 384
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbc099b2a2df77b0800000000000000
+      internalID: -5224225446386676814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 378
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f38d9cda36f275a0800000000000000
+      internalID: -6524882177436580878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 378
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bf42f731c410ef0800000000000000
+      internalID: -143750066477925479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 213
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20ea43199839cd20800000000000000
+      internalID: 3299230432130424874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 371
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191b88b37c91d7430800000000000000
+      internalID: 3782207605549085073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 266
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4b3b91e2063e4d0800000000000000
+      internalID: -3106533566839540533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 173
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2991de0db0b294b50800000000000000
+      internalID: 6577836060501154194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 133
+        width: 145
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce72cb1fcf21add0800000000000000
+      internalID: -2476645753506595134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 181
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646e0f6aad0d65c40800000000000000
+      internalID: 5500813632401892934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 161
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ba17702dba1deb0800000000000000
+      internalID: -4696784017814344809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 174
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70ea6333b3839e80800000000000000
+      internalID: -8173044093062291331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_14
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 179
+        width: 77
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7271a12328cf52340800000000000000
+      internalID: 4838551010795984679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_15
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 219
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1b23fab3a0d08f0800000000000000
+      internalID: -572790326147501632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_16
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 179
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbfca112223d60c0800000000000000
+      internalID: -4580950124059100205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 142
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56b30a72942f0d00800000000000000
+      internalID: 941011058674611802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 219
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d544d22a0a3318f0800000000000000
+      internalID: -571048912537500206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 126
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47901bfe554f4840800000000000000
+      internalID: 5210459568132364109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 206
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc41c6c6efd64b2c0800000000000000
+      internalID: -4416784395035470644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 65
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1d67c0e03e1ea30800000000000000
+      internalID: 4242921973437878769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 22
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c50532e790a00a80800000000000000
+      internalID: -8502619522279864890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 23
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987d4fb29e05852d0800000000000000
+      internalID: -3289790565399079031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 28
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562b660e44f1643c0800000000000000
+      internalID: -4375775607260794267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_25
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 23
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954309daf6b3539b0800000000000000
+      internalID: -5101105652087901095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f8600f186231cc0800000000000000
+      internalID: -3741604525895151820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_27
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b05f814c8629f810800000000000000
+      internalID: 1799511909948412080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaser_Fire_28
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f782437be83d420800000000000000
+      internalID: 2653621522956582697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossLaser_Fire_0: -6885541657824414884
+      BossLaser_Fire_1: -6693828991345667156
+      BossLaser_Fire_10: -2476645753506595134
+      BossLaser_Fire_11: 5500813632401892934
+      BossLaser_Fire_12: -4696784017814344809
+      BossLaser_Fire_13: -8173044093062291331
+      BossLaser_Fire_14: 4838551010795984679
+      BossLaser_Fire_15: -572790326147501632
+      BossLaser_Fire_16: -4580950124059100205
+      BossLaser_Fire_17: 941011058674611802
+      BossLaser_Fire_18: -571048912537500206
+      BossLaser_Fire_19: 5210459568132364109
+      BossLaser_Fire_2: 3701095131010244841
+      BossLaser_Fire_20: -4416784395035470644
+      BossLaser_Fire_21: 4242921973437878769
+      BossLaser_Fire_22: -8502619522279864890
+      BossLaser_Fire_23: -3289790565399079031
+      BossLaser_Fire_24: -4375775607260794267
+      BossLaser_Fire_25: -5101105652087901095
+      BossLaser_Fire_26: -3741604525895151820
+      BossLaser_Fire_27: 1799511909948412080
+      BossLaser_Fire_28: 2653621522956582697
+      BossLaser_Fire_3: -5224225446386676814
+      BossLaser_Fire_4: -6524882177436580878
+      BossLaser_Fire_5: -143750066477925479
+      BossLaser_Fire_6: 3299230432130424874
+      BossLaser_Fire_7: 3782207605549085073
+      BossLaser_Fire_8: -3106533566839540533
+      BossLaser_Fire_9: 6577836060501154194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

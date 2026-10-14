@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 47ad0d94bb1fcd941b4564c2cdf1db5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7989385735017722127
+    second: Light_Destroy_0
+  - first:
+      213: 1672758162526917634
+    second: Light_Destroy_1
+  - first:
+      213: 8433234254515175996
+    second: Light_Destroy_2
+  - first:
+      213: 4500560124112311148
+    second: Light_Destroy_3
+  - first:
+      213: 6358409745770567973
+    second: Light_Destroy_4
+  - first:
+      213: -2210628229458068617
+    second: Light_Destroy_5
+  - first:
+      213: -1288181621176592766
+    second: Light_Destroy_6
+  - first:
+      213: 1156165686299706298
+    second: Light_Destroy_7
+  - first:
+      213: 7903020759552208747
+    second: Light_Destroy_8
+  - first:
+      213: 8515159186959822191
+    second: Light_Destroy_9
+  - first:
+      213: 233700113185197412
+    second: Light_Destroy_10
+  - first:
+      213: 8270299382080789941
+    second: Light_Destroy_11
+  - first:
+      213: 3272977551135919414
+    second: Light_Destroy_12
+  - first:
+      213: -2626661960508285221
+    second: Light_Destroy_13
+  - first:
+      213: -7593790007202288077
+    second: Light_Destroy_14
+  - first:
+      213: 4404288134870788596
+    second: Light_Destroy_15
+  - first:
+      213: 7020657025115908022
+    second: Light_Destroy_16
+  - first:
+      213: -7824652127476242612
+    second: Light_Destroy_17
+  - first:
+      213: 4686038316342055387
+    second: Light_Destroy_18
+  - first:
+      213: 8341820782507210711
+    second: Light_Destroy_19
+  - first:
+      213: -2789392822591778160
+    second: Light_Destroy_20
+  - first:
+      213: -8475001382160104468
+    second: Light_Destroy_21
+  - first:
+      213: 5986263718152369214
+    second: Light_Destroy_22
+  - first:
+      213: -9152433081808619858
+    second: Light_Destroy_23
+  - first:
+      213: 472686828909514442
+    second: Light_Destroy_24
+  - first:
+      213: 604098383822189793
+    second: Light_Destroy_25
+  - first:
+      213: -5261577879462272138
+    second: Light_Destroy_26
+  - first:
+      213: -7806333149248223121
+    second: Light_Destroy_27
+  - first:
+      213: -12449417389528983
+    second: Light_Destroy_28
+  - first:
+      213: -7519967832027274719
+    second: Light_Destroy_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light_Destroy_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 484
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01fd451fffffde60800000000000000
+      internalID: 7989385735017722127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 230
+        width: 221
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2045d88afa4d63710800000000000000
+      internalID: 1672758162526917634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_2
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 479
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3288009fddd80570800000000000000
+      internalID: 8433234254515175996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 468
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6390008693357e30800000000000000
+      internalID: 4500560124112311148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 458
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5295909b9fb9d3850800000000000000
+      internalID: 6358409745770567973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 469
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b73b476554251e0800000000000000
+      internalID: -2210628229458068617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 255
+        width: 216
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286159ff3a57f1ee0800000000000000
+      internalID: -1288181621176592766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 257
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3c369e0968b0010800000000000000
+      internalID: 1156165686299706298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 257
+        width: 226
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fa5a1428b2dad60800000000000000
+      internalID: 7903020759552208747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_9
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 240
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6de4a05a2ceb2670800000000000000
+      internalID: 8515159186959822191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 224
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d4f56c3054e3300800000000000000
+      internalID: 233700113185197412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 224
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdde07587106c270800000000000000
+      internalID: 8270299382080789941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 230
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dc845edb3fb6d20800000000000000
+      internalID: 3272977551135919414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_13
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 10
+        width: 174
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde5fd21dd83c8bd0800000000000000
+      internalID: -2626661960508285221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_14
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 136
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eebc9d8307d9690800000000000000
+      internalID: -7593790007202288077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9e07749bc2f1d30800000000000000
+      internalID: 4404288134870788596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 119
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b762e70e526e6160800000000000000
+      internalID: 7020657025115908022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 79
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4726cac850496390800000000000000
+      internalID: -7824652127476242612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 75
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd110716507280140800000000000000
+      internalID: 4686038316342055387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_19
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 83
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d730590ec914c370800000000000000
+      internalID: 8341820782507210711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0929466b1061a49d0800000000000000
+      internalID: -2789392822591778160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce30769352fb26a80800000000000000
+      internalID: -8475001382160104468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 25
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34f744922b731350800000000000000
+      internalID: 5986263718152369214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea673409a960cf080800000000000000
+      internalID: -9152433081808619858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace482f9a225f8600800000000000000
+      internalID: 472686828909514442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_25
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4fb198740326800800000000000000
+      internalID: 604098383822189793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_26
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 32
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6732990bbce1bf6b0800000000000000
+      internalID: -5261577879462272138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 13
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6804b84c555aa390800000000000000
+      internalID: -7806333149248223121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96826d22255c3dff0800000000000000
+      internalID: -12449417389528983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Destroy_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 16
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12266a96915b3a790800000000000000
+      internalID: -7519967832027274719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Light_Destroy_0: 7989385735017722127
+      Light_Destroy_1: 1672758162526917634
+      Light_Destroy_10: 233700113185197412
+      Light_Destroy_11: 8270299382080789941
+      Light_Destroy_12: 3272977551135919414
+      Light_Destroy_13: -2626661960508285221
+      Light_Destroy_14: -7593790007202288077
+      Light_Destroy_15: 4404288134870788596
+      Light_Destroy_16: 7020657025115908022
+      Light_Destroy_17: -7824652127476242612
+      Light_Destroy_18: 4686038316342055387
+      Light_Destroy_19: 8341820782507210711
+      Light_Destroy_2: 8433234254515175996
+      Light_Destroy_20: -2789392822591778160
+      Light_Destroy_21: -8475001382160104468
+      Light_Destroy_22: 5986263718152369214
+      Light_Destroy_23: -9152433081808619858
+      Light_Destroy_24: 472686828909514442
+      Light_Destroy_25: 604098383822189793
+      Light_Destroy_26: -5261577879462272138
+      Light_Destroy_27: -7806333149248223121
+      Light_Destroy_28: -12449417389528983
+      Light_Destroy_29: -7519967832027274719
+      Light_Destroy_3: 4500560124112311148
+      Light_Destroy_4: 6358409745770567973
+      Light_Destroy_5: -2210628229458068617
+      Light_Destroy_6: -1288181621176592766
+      Light_Destroy_7: 1156165686299706298
+      Light_Destroy_8: 7903020759552208747
+      Light_Destroy_9: 8515159186959822191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

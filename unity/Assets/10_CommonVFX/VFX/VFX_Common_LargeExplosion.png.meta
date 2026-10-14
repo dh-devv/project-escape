@@ -1,0 +1,3575 @@
+fileFormatVersion: 2
+guid: eb727496966c5244b86770ee335ea3fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5972877935917074453
+    second: VFX_Common_LargeExplosion_0
+  - first:
+      213: 8257123085240971475
+    second: VFX_Common_LargeExplosion_1
+  - first:
+      213: -6129927680005798330
+    second: VFX_Common_LargeExplosion_2
+  - first:
+      213: 5890822769035132433
+    second: VFX_Common_LargeExplosion_3
+  - first:
+      213: -3882176789679191945
+    second: VFX_Common_LargeExplosion_4
+  - first:
+      213: 3838384129318587202
+    second: VFX_Common_LargeExplosion_5
+  - first:
+      213: -1363005188411251484
+    second: VFX_Common_LargeExplosion_6
+  - first:
+      213: -1258681333824171656
+    second: VFX_Common_LargeExplosion_7
+  - first:
+      213: 5155995584782637278
+    second: VFX_Common_LargeExplosion_8
+  - first:
+      213: -6079710411472215172
+    second: VFX_Common_LargeExplosion_9
+  - first:
+      213: 8430489865178254986
+    second: VFX_Common_LargeExplosion_10
+  - first:
+      213: -9191221863075980852
+    second: VFX_Common_LargeExplosion_11
+  - first:
+      213: -6856789246237242161
+    second: VFX_Common_LargeExplosion_12
+  - first:
+      213: -7486323447034868399
+    second: VFX_Common_LargeExplosion_13
+  - first:
+      213: 7536394050208010809
+    second: VFX_Common_LargeExplosion_14
+  - first:
+      213: 1332126868652748661
+    second: VFX_Common_LargeExplosion_15
+  - first:
+      213: 4038944115188431116
+    second: VFX_Common_LargeExplosion_16
+  - first:
+      213: -570706583191749565
+    second: VFX_Common_LargeExplosion_17
+  - first:
+      213: -8285086846099295875
+    second: VFX_Common_LargeExplosion_18
+  - first:
+      213: -9053356430782478292
+    second: VFX_Common_LargeExplosion_19
+  - first:
+      213: -2807789455259951837
+    second: VFX_Common_LargeExplosion_20
+  - first:
+      213: -5559565675550380887
+    second: VFX_Common_LargeExplosion_21
+  - first:
+      213: 5143978936565527936
+    second: VFX_Common_LargeExplosion_22
+  - first:
+      213: 7485805173829498007
+    second: VFX_Common_LargeExplosion_23
+  - first:
+      213: 2498497960999770142
+    second: VFX_Common_LargeExplosion_24
+  - first:
+      213: -523185577220753781
+    second: VFX_Common_LargeExplosion_25
+  - first:
+      213: -143569752329349368
+    second: VFX_Common_LargeExplosion_26
+  - first:
+      213: 6603941814663534935
+    second: VFX_Common_LargeExplosion_27
+  - first:
+      213: 5065610184111485327
+    second: VFX_Common_LargeExplosion_28
+  - first:
+      213: -5892963806359372314
+    second: VFX_Common_LargeExplosion_29
+  - first:
+      213: -6973543672748855593
+    second: VFX_Common_LargeExplosion_30
+  - first:
+      213: 8140119526057674593
+    second: VFX_Common_LargeExplosion_31
+  - first:
+      213: -6164568870449887658
+    second: VFX_Common_LargeExplosion_32
+  - first:
+      213: 2374698502746814318
+    second: VFX_Common_LargeExplosion_33
+  - first:
+      213: -888597691856786992
+    second: VFX_Common_LargeExplosion_34
+  - first:
+      213: -7958463639534159333
+    second: VFX_Common_LargeExplosion_35
+  - first:
+      213: -258737823560163957
+    second: VFX_Common_LargeExplosion_36
+  - first:
+      213: 4116071918216673217
+    second: VFX_Common_LargeExplosion_37
+  - first:
+      213: -3327986612658453431
+    second: VFX_Common_LargeExplosion_38
+  - first:
+      213: -9046650192089821197
+    second: VFX_Common_LargeExplosion_39
+  - first:
+      213: -5967413370766854373
+    second: VFX_Common_LargeExplosion_40
+  - first:
+      213: -4070657519810078689
+    second: VFX_Common_LargeExplosion_41
+  - first:
+      213: 4312080086354659075
+    second: VFX_Common_LargeExplosion_42
+  - first:
+      213: 4371948358150339758
+    second: VFX_Common_LargeExplosion_43
+  - first:
+      213: -4172607357924581934
+    second: VFX_Common_LargeExplosion_44
+  - first:
+      213: -8514089169085511974
+    second: VFX_Common_LargeExplosion_45
+  - first:
+      213: 6858968103365875734
+    second: VFX_Common_LargeExplosion_46
+  - first:
+      213: 147841613246831131
+    second: VFX_Common_LargeExplosion_47
+  - first:
+      213: 3875396719218340601
+    second: VFX_Common_LargeExplosion_48
+  - first:
+      213: -8584751376743769064
+    second: VFX_Common_LargeExplosion_49
+  - first:
+      213: 8223167006313019842
+    second: VFX_Common_LargeExplosion_50
+  - first:
+      213: -9078489330023316577
+    second: VFX_Common_LargeExplosion_51
+  - first:
+      213: 7395644666977226193
+    second: VFX_Common_LargeExplosion_52
+  - first:
+      213: 7031690239571926293
+    second: VFX_Common_LargeExplosion_53
+  - first:
+      213: 8363904979127584327
+    second: VFX_Common_LargeExplosion_54
+  - first:
+      213: 983849898615797514
+    second: VFX_Common_LargeExplosion_55
+  - first:
+      213: -5007958092126554565
+    second: VFX_Common_LargeExplosion_56
+  - first:
+      213: 5124310543608846909
+    second: VFX_Common_LargeExplosion_57
+  - first:
+      213: -2846598384141400466
+    second: VFX_Common_LargeExplosion_58
+  - first:
+      213: 7845914112530959969
+    second: VFX_Common_LargeExplosion_59
+  - first:
+      213: 587991575423168848
+    second: VFX_Common_LargeExplosion_60
+  - first:
+      213: 6220764480553658942
+    second: VFX_Common_LargeExplosion_61
+  - first:
+      213: -2224002000063196211
+    second: VFX_Common_LargeExplosion_62
+  - first:
+      213: -4314800235084881614
+    second: VFX_Common_LargeExplosion_63
+  - first:
+      213: 2657651340528951134
+    second: VFX_Common_LargeExplosion_64
+  - first:
+      213: 83588525173113564
+    second: VFX_Common_LargeExplosion_65
+  - first:
+      213: -8883654922966372440
+    second: VFX_Common_LargeExplosion_66
+  - first:
+      213: -7357428209684722816
+    second: VFX_Common_LargeExplosion_67
+  - first:
+      213: 715799089495623847
+    second: VFX_Common_LargeExplosion_68
+  - first:
+      213: 518181949536450796
+    second: VFX_Common_LargeExplosion_69
+  - first:
+      213: 1869802472626094031
+    second: VFX_Common_LargeExplosion_70
+  - first:
+      213: -3605663304715473965
+    second: VFX_Common_LargeExplosion_71
+  - first:
+      213: 6749306590209983455
+    second: VFX_Common_LargeExplosion_72
+  - first:
+      213: 7950339181577276959
+    second: VFX_Common_LargeExplosion_73
+  - first:
+      213: -8234894059931930810
+    second: VFX_Common_LargeExplosion_74
+  - first:
+      213: 7035021547765720557
+    second: VFX_Common_LargeExplosion_75
+  - first:
+      213: 3116015901559224194
+    second: VFX_Common_LargeExplosion_76
+  - first:
+      213: 5292470678085920216
+    second: VFX_Common_LargeExplosion_77
+  - first:
+      213: 3351531340487480482
+    second: VFX_Common_LargeExplosion_78
+  - first:
+      213: -640276000515789580
+    second: VFX_Common_LargeExplosion_79
+  - first:
+      213: 5737263407559898828
+    second: VFX_Common_LargeExplosion_80
+  - first:
+      213: -44006324050085499
+    second: VFX_Common_LargeExplosion_81
+  - first:
+      213: 640399792718643515
+    second: VFX_Common_LargeExplosion_82
+  - first:
+      213: -3393695089691177144
+    second: VFX_Common_LargeExplosion_83
+  - first:
+      213: 3167721715369479711
+    second: VFX_Common_LargeExplosion_84
+  - first:
+      213: 4348097882513811636
+    second: VFX_Common_LargeExplosion_85
+  - first:
+      213: -1917866428403909626
+    second: VFX_Common_LargeExplosion_86
+  - first:
+      213: -1654648380798081288
+    second: VFX_Common_LargeExplosion_87
+  - first:
+      213: 2442049530760628012
+    second: VFX_Common_LargeExplosion_88
+  - first:
+      213: -696949012180836081
+    second: VFX_Common_LargeExplosion_89
+  - first:
+      213: 9076547904113693434
+    second: VFX_Common_LargeExplosion_90
+  - first:
+      213: 5552963119621633895
+    second: VFX_Common_LargeExplosion_91
+  - first:
+      213: -9107999683798297054
+    second: VFX_Common_LargeExplosion_92
+  - first:
+      213: -1024061974597950606
+    second: VFX_Common_LargeExplosion_93
+  - first:
+      213: -4312263595568475115
+    second: VFX_Common_LargeExplosion_94
+  - first:
+      213: -5231119035393204891
+    second: VFX_Common_LargeExplosion_95
+  - first:
+      213: 8087420001305896765
+    second: VFX_Common_LargeExplosion_96
+  - first:
+      213: -4742779885309962028
+    second: VFX_Common_LargeExplosion_97
+  - first:
+      213: 3326795891008356252
+    second: VFX_Common_LargeExplosion_98
+  - first:
+      213: -6437762582708853457
+    second: VFX_Common_LargeExplosion_99
+  - first:
+      213: -6042247650913776056
+    second: VFX_Common_LargeExplosion_100
+  - first:
+      213: -3997125479265162677
+    second: VFX_Common_LargeExplosion_101
+  - first:
+      213: 1562769925247219293
+    second: VFX_Common_LargeExplosion_102
+  - first:
+      213: 2773768107217193469
+    second: VFX_Common_LargeExplosion_103
+  - first:
+      213: 8507224700887694628
+    second: VFX_Common_LargeExplosion_104
+  - first:
+      213: -8486843268627766156
+    second: VFX_Common_LargeExplosion_105
+  - first:
+      213: -7189137707222765353
+    second: VFX_Common_LargeExplosion_106
+  - first:
+      213: 7841014072069007600
+    second: VFX_Common_LargeExplosion_107
+  - first:
+      213: -7675721728355957163
+    second: VFX_Common_LargeExplosion_108
+  - first:
+      213: 6361887852817281913
+    second: VFX_Common_LargeExplosion_109
+  - first:
+      213: 972797198754090300
+    second: VFX_Common_LargeExplosion_110
+  - first:
+      213: -6343298618755094409
+    second: VFX_Common_LargeExplosion_111
+  - first:
+      213: 6404695605903075361
+    second: VFX_Common_LargeExplosion_112
+  - first:
+      213: 9212694328807430037
+    second: VFX_Common_LargeExplosion_113
+  - first:
+      213: 2600634687676255618
+    second: VFX_Common_LargeExplosion_114
+  - first:
+      213: -6451315252083132657
+    second: VFX_Common_LargeExplosion_115
+  - first:
+      213: -4801561631224550172
+    second: VFX_Common_LargeExplosion_116
+  - first:
+      213: -3265980369869834329
+    second: VFX_Common_LargeExplosion_117
+  - first:
+      213: 4023715500214132252
+    second: VFX_Common_LargeExplosion_118
+  - first:
+      213: -4070421788046663868
+    second: VFX_Common_LargeExplosion_119
+  - first:
+      213: -3863409282952832657
+    second: VFX_Common_LargeExplosion_120
+  - first:
+      213: 2793672053837694205
+    second: VFX_Common_LargeExplosion_121
+  - first:
+      213: 1526275843670886403
+    second: VFX_Common_LargeExplosion_122
+  - first:
+      213: -1096029879512447981
+    second: VFX_Common_LargeExplosion_123
+  - first:
+      213: -9077072867549739641
+    second: VFX_Common_LargeExplosion_124
+  - first:
+      213: -4636315414799317075
+    second: VFX_Common_LargeExplosion_125
+  - first:
+      213: 6951554120108599590
+    second: VFX_Common_LargeExplosion_126
+  - first:
+      213: 1751820687281049887
+    second: VFX_Common_LargeExplosion_127
+  - first:
+      213: 8782767671860057655
+    second: VFX_Common_LargeExplosion_128
+  - first:
+      213: -5178870750657656446
+    second: VFX_Common_LargeExplosion_129
+  - first:
+      213: 4889020212566280392
+    second: VFX_Common_LargeExplosion_130
+  - first:
+      213: 6473053694018109149
+    second: VFX_Common_LargeExplosion_131
+  - first:
+      213: -8888780965606584376
+    second: VFX_Common_LargeExplosion_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 972
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7f4e6b9231c1da0800000000000000
+      internalID: -5972877935917074453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 908
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0377aa2b1379270800000000000000
+      internalID: 8257123085240971475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 979
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6468b66b04f1eeaa0800000000000000
+      internalID: -6129927680005798330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 975
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e3f17f81860c150800000000000000
+      internalID: 5890822769035132433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 980
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778c7e747ccbf1ac0800000000000000
+      internalID: -3882176789679191945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 925
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b088b670ea44530800000000000000
+      internalID: 3838384129318587202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 793
+        width: 197
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4abbda002a51de0800000000000000
+      internalID: -1363005188411251484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 965
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871def3eef3488ee0800000000000000
+      internalID: -1258681333824171656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 973
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8937eaaa6cd8740800000000000000
+      internalID: 5155995584782637278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 952
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7364faa79780aba0800000000000000
+      internalID: -6079710411472215172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 900
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e0b70addd1ff470800000000000000
+      internalID: 8430489865178254986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 908
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc95d87a968327080800000000000000
+      internalID: -9191221863075980852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 944
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc8f46628ac7d0a0800000000000000
+      internalID: -6856789246237242161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 948
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d0fc93d7c3b1890800000000000000
+      internalID: -7486323447034868399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 952
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932140a8576a69860800000000000000
+      internalID: 7536394050208010809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 956
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fecc1445aac7210800000000000000
+      internalID: 1332126868652748661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 945
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09f57506463d0830800000000000000
+      internalID: 4038944115188431116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 944
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf0e5e2617418f0800000000000000
+      internalID: -570706583191749565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 154
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d717df4e865750d80800000000000000
+      internalID: -8285086846099295875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 945
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28463efa440c5280800000000000000
+      internalID: -9053356430782478292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 948
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d9423ed5ab809d0800000000000000
+      internalID: -2807789455259951837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 925
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac6d53597478d2b0800000000000000
+      internalID: -5559565675550380887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 908
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085741eb695136740800000000000000
+      internalID: 5143978936565527936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 916
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79473e3e42ce2e760800000000000000
+      internalID: 7485805173829498007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 916
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18dd6d68a27ca220800000000000000
+      internalID: 2498497960999770142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 917
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86362e4d754db8f0800000000000000
+      internalID: -523185577220753781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 911
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8071be72210f10ef0800000000000000
+      internalID: -143569752329349368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 793
+        width: 140
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7595e5c571ae5ab50800000000000000
+      internalID: 6603941814663534935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 883
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81f09aaf99ac4640800000000000000
+      internalID: 5065610184111485327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 880
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed37bfe3acf73ea0800000000000000
+      internalID: -5892963806359372314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 821
+        width: 23
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea1202afef83f90800000000000000
+      internalID: -6973543672748855593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 890
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16783eba49387f070800000000000000
+      internalID: 8140119526057674593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 884
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656476b064d037aa0800000000000000
+      internalID: -6164568870449887658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_33
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 883
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6730e0e4bf94f020800000000000000
+      internalID: 2374698502746814318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 838
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9e4a47b111ba3f0800000000000000
+      internalID: -888597691856786992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 852
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a34bf4c7bdd8190800000000000000
+      internalID: -7958463639534159333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 838
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d1db00257c86cf0800000000000000
+      internalID: -258737823560163957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 844
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7f34b0a993f1930800000000000000
+      internalID: 4116071918216673217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 810
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944cc37eecd90d1d0800000000000000
+      internalID: -3327986612658453431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 811
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff444dd497d37280800000000000000
+      internalID: -9046650192089821197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_40
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 793
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17768fe72d7f2da0800000000000000
+      internalID: -5967413370766854373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_41
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 798
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1892719d8e1287c0800000000000000
+      internalID: -4070657519810078689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 537
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307843efdf597db30800000000000000
+      internalID: 4312080086354659075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 731
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac37ef3ed74cac30800000000000000
+      internalID: 4371948358150339758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 537
+        width: 204
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd59b327bbe716c0800000000000000
+      internalID: -4172607357924581934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_45
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 543
+        width: 196
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad648a2a201e7d980800000000000000
+      internalID: -8514089169085511974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_46
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 715
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6189bde4623ff2f50800000000000000
+      internalID: 6858968103365875734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 611
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a1998f92d3d0200800000000000000
+      internalID: 147841613246831131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_48
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 577
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f239bc88cc28c530800000000000000
+      internalID: 3875396719218340601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 545
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c54285b16dcd880800000000000000
+      internalID: -8584751376743769064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 476
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9fff3f2de8e1270800000000000000
+      internalID: 8223167006313019842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 475
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9349c2ed0ab20280800000000000000
+      internalID: -9078489330023316577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_52
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 281
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd803c04ab92a660800000000000000
+      internalID: 7395644666977226193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_53
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 444
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d14447405959160800000000000000
+      internalID: 7031690239571926293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_54
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 477
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7464500c34f821470800000000000000
+      internalID: 8363904979127584327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_55
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 454
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a077c47254657ad00800000000000000
+      internalID: 983849898615797514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_56
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 453
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36f0c406a8208ab0800000000000000
+      internalID: -5007958092126554565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 292
+        width: 171
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a18962a453d1740800000000000000
+      internalID: 5124310543608846909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 466
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e660d0ff9d9de78d0800000000000000
+      internalID: -2846598384141400466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 460
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ec1afd05942ec60800000000000000
+      internalID: 7845914112530959969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 460
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0513508f837f82800800000000000000
+      internalID: 587991575423168848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_61
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 281
+        width: 192
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aa4c60658945650800000000000000
+      internalID: 6220764480553658942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_62
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 452
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc39976d6f1c221e0800000000000000
+      internalID: -2224002000063196211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_63
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 462
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2316ef60c00ce14c0800000000000000
+      internalID: -4314800235084881614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_64
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 434
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f911930dfd1e420800000000000000
+      internalID: 2657651340528951134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_65
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 445
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd20e3e1257f82100800000000000000
+      internalID: 83588525173113564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_66
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af60794aeae6b480800000000000000
+      internalID: -8883654922966372440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_67
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 408
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bcd4d460a25e990800000000000000
+      internalID: -7357428209684722816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_68
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 416
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a84febba770fe900800000000000000
+      internalID: 715799089495623847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_69
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 415
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8b327dcb3f03700800000000000000
+      internalID: 518181949536450796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_70
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 372
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf7605317fd2f910800000000000000
+      internalID: 1869802472626094031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_71
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 412
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbe5c6f35c16fdc0800000000000000
+      internalID: -3605663304715473965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_72
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 421
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd34bad959a5aad50800000000000000
+      internalID: 6749306590209983455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_73
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 338
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e88c9ec57455e60800000000000000
+      internalID: 7950339181577276959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_74
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 342
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f68ca9b77c7bd80800000000000000
+      internalID: -8234894059931930810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_75
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 321
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de56bc513da61a160800000000000000
+      internalID: 7035021547765720557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_76
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 316
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287f7eef3ff4e3b20800000000000000
+      internalID: 3116015901559224194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_77
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 281
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d56b7f7a02a27940800000000000000
+      internalID: 5292470678085920216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_78
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 190
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4585b3ff7038e20800000000000000
+      internalID: 3351531340487480482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 183
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc6c0fae584d17f0800000000000000
+      internalID: -640276000515789580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_80
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 181
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6747efbaade9f40800000000000000
+      internalID: 5737263407559898828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_81
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589bf1f3b78a36ff0800000000000000
+      internalID: -44006324050085499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_82
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 205
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b318a3fe73823e800800000000000000
+      internalID: 640399792718643515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_83
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 137
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f48f6eb4c27e0d0800000000000000
+      internalID: -3393695089691177144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_84
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 202
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e83e7ed1206fb20800000000000000
+      internalID: 3167721715369479711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_85
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 183
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b82dd7acfb875c30800000000000000
+      internalID: 4348097882513811636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_86
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 147
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c765805ae5265e0800000000000000
+      internalID: -1917866428403909626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_87
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 195
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ea5a70128909e0800000000000000
+      internalID: -1654648380798081288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_88
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 193
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2785e41c17e3e120800000000000000
+      internalID: 2442049530760628012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_89
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 208
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01e666e090f356f0800000000000000
+      internalID: -696949012180836081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_90
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 212
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2538baa3066fd70800000000000000
+      internalID: 9076547904113693434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_91
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 213
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76774e35986101d40800000000000000
+      internalID: 5552963119621633895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_92
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22615d83b82e99180800000000000000
+      internalID: -9107999683798297054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_93
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 207
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273aa105f0dc9c1f0800000000000000
+      internalID: -1024061974597950606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_94
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514da407b13c724c0800000000000000
+      internalID: -4312263595568475115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 185
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d9a95f3f45767b0800000000000000
+      internalID: -5231119035393204891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_96
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 185
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d372a3764a94c3070800000000000000
+      internalID: 8087420001305896765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_97
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 178
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d85b3892d24e2eb0800000000000000
+      internalID: -4742779885309962028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_98
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 189
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f38cb9c372b2e20800000000000000
+      internalID: 3326795891008356252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_99
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 157
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25665d2a0978a6a0800000000000000
+      internalID: -6437762582708853457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_100
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 173
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e885256cf952ca0800000000000000
+      internalID: -6042247650913776056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_101
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 174
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aacb5ed8b5788c0800000000000000
+      internalID: -3997125479265162677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_102
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 176
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56360497f210b510800000000000000
+      internalID: 1562769925247219293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_103
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 157
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df90dffb5676e7620800000000000000
+      internalID: 2773768107217193469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_104
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 25
+        width: 203
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42df6d0dacbbf0670800000000000000
+      internalID: 8507224700887694628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_105
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 176
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474e60d230da83a80800000000000000
+      internalID: -8486843268627766156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_106
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0fe9f485d0b3c90800000000000000
+      internalID: -7189137707222765353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_107
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 179
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8238c41c0e0dc60800000000000000
+      internalID: 7841014072069007600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_108
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 176
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556889a71cb5a7590800000000000000
+      internalID: -7675721728355957163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_109
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 169
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973fb00ab47f94850800000000000000
+      internalID: 6361887852817281913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_110
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 171
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d8b3ee5e1108d00800000000000000
+      internalID: 972797198754090300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_111
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 152
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77860e4b38318f7a0800000000000000
+      internalID: -6343298618755094409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_112
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 166
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128ab5458bc02e850800000000000000
+      internalID: 6404695605903075361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_113
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 138
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59792dc5ea01adf70800000000000000
+      internalID: 9212694328807430037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_114
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 179
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d808d387f471420800000000000000
+      internalID: 2600634687676255618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_115
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 170
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07768175f25876a0800000000000000
+      internalID: -6451315252083132657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_116
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 164
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec27bbd22d6d5db0800000000000000
+      internalID: -4801561631224550172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_117
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 156
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a772825828eca2d0800000000000000
+      internalID: -3265980369869834329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_118
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e1f7bcdeb17d730800000000000000
+      internalID: 4023715500214132252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_119
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 166
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fd77523f4f287c0800000000000000
+      internalID: -4070421788046663868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_120
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 133
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6956a3f9b9626ac0800000000000000
+      internalID: -3863409282952832657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_121
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 131
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df48ee37eed15c620800000000000000
+      internalID: 2793672053837694205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_122
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 130
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30843431bcb6e2510800000000000000
+      internalID: 1526275843670886403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_123
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 131
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3144270b1ae1ac0f0800000000000000
+      internalID: -1096029879512447981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_124
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 147
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7858c51c152c70280800000000000000
+      internalID: -9077072867549739641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_125
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 124
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7083ac1bf78afb0800000000000000
+      internalID: -4636315414799317075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_126
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 119
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629e9fd24a1e87060800000000000000
+      internalID: 6951554120108599590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_127
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 139
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11519f22a7bf4810800000000000000
+      internalID: 1751820687281049887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_128
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 123
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736d00a1aa8a2e970800000000000000
+      internalID: 8782767671860057655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_129
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 44
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289c369bd74f028b0800000000000000
+      internalID: -5178870750657656446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_130
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 25
+        width: 200
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8c7bdeaf949d340800000000000000
+      internalID: 4889020212566280392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_131
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 83
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddebafbf908e4d950800000000000000
+      internalID: 6473053694018109149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_LargeExplosion_132
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 57
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf04ca7ec4b4a480800000000000000
+      internalID: -8888780965606584376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_LargeExplosion_0: -5972877935917074453
+      VFX_Common_LargeExplosion_1: 8257123085240971475
+      VFX_Common_LargeExplosion_10: 8430489865178254986
+      VFX_Common_LargeExplosion_100: -6042247650913776056
+      VFX_Common_LargeExplosion_101: -3997125479265162677
+      VFX_Common_LargeExplosion_102: 1562769925247219293
+      VFX_Common_LargeExplosion_103: 2773768107217193469
+      VFX_Common_LargeExplosion_104: 8507224700887694628
+      VFX_Common_LargeExplosion_105: -8486843268627766156
+      VFX_Common_LargeExplosion_106: -7189137707222765353
+      VFX_Common_LargeExplosion_107: 7841014072069007600
+      VFX_Common_LargeExplosion_108: -7675721728355957163
+      VFX_Common_LargeExplosion_109: 6361887852817281913
+      VFX_Common_LargeExplosion_11: -9191221863075980852
+      VFX_Common_LargeExplosion_110: 972797198754090300
+      VFX_Common_LargeExplosion_111: -6343298618755094409
+      VFX_Common_LargeExplosion_112: 6404695605903075361
+      VFX_Common_LargeExplosion_113: 9212694328807430037
+      VFX_Common_LargeExplosion_114: 2600634687676255618
+      VFX_Common_LargeExplosion_115: -6451315252083132657
+      VFX_Common_LargeExplosion_116: -4801561631224550172
+      VFX_Common_LargeExplosion_117: -3265980369869834329
+      VFX_Common_LargeExplosion_118: 4023715500214132252
+      VFX_Common_LargeExplosion_119: -4070421788046663868
+      VFX_Common_LargeExplosion_12: -6856789246237242161
+      VFX_Common_LargeExplosion_120: -3863409282952832657
+      VFX_Common_LargeExplosion_121: 2793672053837694205
+      VFX_Common_LargeExplosion_122: 1526275843670886403
+      VFX_Common_LargeExplosion_123: -1096029879512447981
+      VFX_Common_LargeExplosion_124: -9077072867549739641
+      VFX_Common_LargeExplosion_125: -4636315414799317075
+      VFX_Common_LargeExplosion_126: 6951554120108599590
+      VFX_Common_LargeExplosion_127: 1751820687281049887
+      VFX_Common_LargeExplosion_128: 8782767671860057655
+      VFX_Common_LargeExplosion_129: -5178870750657656446
+      VFX_Common_LargeExplosion_13: -7486323447034868399
+      VFX_Common_LargeExplosion_130: 4889020212566280392
+      VFX_Common_LargeExplosion_131: 6473053694018109149
+      VFX_Common_LargeExplosion_132: -8888780965606584376
+      VFX_Common_LargeExplosion_14: 7536394050208010809
+      VFX_Common_LargeExplosion_15: 1332126868652748661
+      VFX_Common_LargeExplosion_16: 4038944115188431116
+      VFX_Common_LargeExplosion_17: -570706583191749565
+      VFX_Common_LargeExplosion_18: -8285086846099295875
+      VFX_Common_LargeExplosion_19: -9053356430782478292
+      VFX_Common_LargeExplosion_2: -6129927680005798330
+      VFX_Common_LargeExplosion_20: -2807789455259951837
+      VFX_Common_LargeExplosion_21: -5559565675550380887
+      VFX_Common_LargeExplosion_22: 5143978936565527936
+      VFX_Common_LargeExplosion_23: 7485805173829498007
+      VFX_Common_LargeExplosion_24: 2498497960999770142
+      VFX_Common_LargeExplosion_25: -523185577220753781
+      VFX_Common_LargeExplosion_26: -143569752329349368
+      VFX_Common_LargeExplosion_27: 6603941814663534935
+      VFX_Common_LargeExplosion_28: 5065610184111485327
+      VFX_Common_LargeExplosion_29: -5892963806359372314
+      VFX_Common_LargeExplosion_3: 5890822769035132433
+      VFX_Common_LargeExplosion_30: -6973543672748855593
+      VFX_Common_LargeExplosion_31: 8140119526057674593
+      VFX_Common_LargeExplosion_32: -6164568870449887658
+      VFX_Common_LargeExplosion_33: 2374698502746814318
+      VFX_Common_LargeExplosion_34: -888597691856786992
+      VFX_Common_LargeExplosion_35: -7958463639534159333
+      VFX_Common_LargeExplosion_36: -258737823560163957
+      VFX_Common_LargeExplosion_37: 4116071918216673217
+      VFX_Common_LargeExplosion_38: -3327986612658453431
+      VFX_Common_LargeExplosion_39: -9046650192089821197
+      VFX_Common_LargeExplosion_4: -3882176789679191945
+      VFX_Common_LargeExplosion_40: -5967413370766854373
+      VFX_Common_LargeExplosion_41: -4070657519810078689
+      VFX_Common_LargeExplosion_42: 4312080086354659075
+      VFX_Common_LargeExplosion_43: 4371948358150339758
+      VFX_Common_LargeExplosion_44: -4172607357924581934
+      VFX_Common_LargeExplosion_45: -8514089169085511974
+      VFX_Common_LargeExplosion_46: 6858968103365875734
+      VFX_Common_LargeExplosion_47: 147841613246831131
+      VFX_Common_LargeExplosion_48: 3875396719218340601
+      VFX_Common_LargeExplosion_49: -8584751376743769064
+      VFX_Common_LargeExplosion_5: 3838384129318587202
+      VFX_Common_LargeExplosion_50: 8223167006313019842
+      VFX_Common_LargeExplosion_51: -9078489330023316577
+      VFX_Common_LargeExplosion_52: 7395644666977226193
+      VFX_Common_LargeExplosion_53: 7031690239571926293
+      VFX_Common_LargeExplosion_54: 8363904979127584327
+      VFX_Common_LargeExplosion_55: 983849898615797514
+      VFX_Common_LargeExplosion_56: -5007958092126554565
+      VFX_Common_LargeExplosion_57: 5124310543608846909
+      VFX_Common_LargeExplosion_58: -2846598384141400466
+      VFX_Common_LargeExplosion_59: 7845914112530959969
+      VFX_Common_LargeExplosion_6: -1363005188411251484
+      VFX_Common_LargeExplosion_60: 587991575423168848
+      VFX_Common_LargeExplosion_61: 6220764480553658942
+      VFX_Common_LargeExplosion_62: -2224002000063196211
+      VFX_Common_LargeExplosion_63: -4314800235084881614
+      VFX_Common_LargeExplosion_64: 2657651340528951134
+      VFX_Common_LargeExplosion_65: 83588525173113564
+      VFX_Common_LargeExplosion_66: -8883654922966372440
+      VFX_Common_LargeExplosion_67: -7357428209684722816
+      VFX_Common_LargeExplosion_68: 715799089495623847
+      VFX_Common_LargeExplosion_69: 518181949536450796
+      VFX_Common_LargeExplosion_7: -1258681333824171656
+      VFX_Common_LargeExplosion_70: 1869802472626094031
+      VFX_Common_LargeExplosion_71: -3605663304715473965
+      VFX_Common_LargeExplosion_72: 6749306590209983455
+      VFX_Common_LargeExplosion_73: 7950339181577276959
+      VFX_Common_LargeExplosion_74: -8234894059931930810
+      VFX_Common_LargeExplosion_75: 7035021547765720557
+      VFX_Common_LargeExplosion_76: 3116015901559224194
+      VFX_Common_LargeExplosion_77: 5292470678085920216
+      VFX_Common_LargeExplosion_78: 3351531340487480482
+      VFX_Common_LargeExplosion_79: -640276000515789580
+      VFX_Common_LargeExplosion_8: 5155995584782637278
+      VFX_Common_LargeExplosion_80: 5737263407559898828
+      VFX_Common_LargeExplosion_81: -44006324050085499
+      VFX_Common_LargeExplosion_82: 640399792718643515
+      VFX_Common_LargeExplosion_83: -3393695089691177144
+      VFX_Common_LargeExplosion_84: 3167721715369479711
+      VFX_Common_LargeExplosion_85: 4348097882513811636
+      VFX_Common_LargeExplosion_86: -1917866428403909626
+      VFX_Common_LargeExplosion_87: -1654648380798081288
+      VFX_Common_LargeExplosion_88: 2442049530760628012
+      VFX_Common_LargeExplosion_89: -696949012180836081
+      VFX_Common_LargeExplosion_9: -6079710411472215172
+      VFX_Common_LargeExplosion_90: 9076547904113693434
+      VFX_Common_LargeExplosion_91: 5552963119621633895
+      VFX_Common_LargeExplosion_92: -9107999683798297054
+      VFX_Common_LargeExplosion_93: -1024061974597950606
+      VFX_Common_LargeExplosion_94: -4312263595568475115
+      VFX_Common_LargeExplosion_95: -5231119035393204891
+      VFX_Common_LargeExplosion_96: 8087420001305896765
+      VFX_Common_LargeExplosion_97: -4742779885309962028
+      VFX_Common_LargeExplosion_98: 3326795891008356252
+      VFX_Common_LargeExplosion_99: -6437762582708853457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

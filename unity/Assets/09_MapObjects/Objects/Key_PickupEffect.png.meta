@@ -1,0 +1,5681 @@
+fileFormatVersion: 2
+guid: c1d33c8d3e7526b4ca1d990eb5fd0ea8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3231350781741366596
+    second: Key_PickupEffect_0
+  - first:
+      213: 6261407646967371542
+    second: Key_PickupEffect_1
+  - first:
+      213: 6586768725274183271
+    second: Key_PickupEffect_2
+  - first:
+      213: -1577218660830972611
+    second: Key_PickupEffect_3
+  - first:
+      213: 4793986035801674321
+    second: Key_PickupEffect_4
+  - first:
+      213: 1985158401651865407
+    second: Key_PickupEffect_5
+  - first:
+      213: 4003671103598514291
+    second: Key_PickupEffect_6
+  - first:
+      213: 835685071022681481
+    second: Key_PickupEffect_7
+  - first:
+      213: -2049111224313137503
+    second: Key_PickupEffect_8
+  - first:
+      213: -7263163555224156489
+    second: Key_PickupEffect_9
+  - first:
+      213: 5610227109645842943
+    second: Key_PickupEffect_10
+  - first:
+      213: -5659859039725996861
+    second: Key_PickupEffect_11
+  - first:
+      213: -8880158826703690165
+    second: Key_PickupEffect_12
+  - first:
+      213: 8664359727568985414
+    second: Key_PickupEffect_13
+  - first:
+      213: 5176706649817604226
+    second: Key_PickupEffect_14
+  - first:
+      213: -7705915435047362337
+    second: Key_PickupEffect_15
+  - first:
+      213: 2246635736579103934
+    second: Key_PickupEffect_16
+  - first:
+      213: -3849168860758797487
+    second: Key_PickupEffect_17
+  - first:
+      213: -7609560984382778654
+    second: Key_PickupEffect_18
+  - first:
+      213: 736834666311158294
+    second: Key_PickupEffect_19
+  - first:
+      213: -4503111953477674234
+    second: Key_PickupEffect_20
+  - first:
+      213: 1808895719864300188
+    second: Key_PickupEffect_21
+  - first:
+      213: 3219617906165789717
+    second: Key_PickupEffect_22
+  - first:
+      213: 5075484471116454870
+    second: Key_PickupEffect_23
+  - first:
+      213: 7223276097493527290
+    second: Key_PickupEffect_24
+  - first:
+      213: -8033667245618369391
+    second: Key_PickupEffect_25
+  - first:
+      213: 3371953587423536130
+    second: Key_PickupEffect_26
+  - first:
+      213: -6431391167604885834
+    second: Key_PickupEffect_27
+  - first:
+      213: 3252989212851669258
+    second: Key_PickupEffect_28
+  - first:
+      213: -681639868640647105
+    second: Key_PickupEffect_29
+  - first:
+      213: 6571379498865788945
+    second: Key_PickupEffect_30
+  - first:
+      213: 5410380173653748100
+    second: Key_PickupEffect_31
+  - first:
+      213: -4236703603262642053
+    second: Key_PickupEffect_32
+  - first:
+      213: -2394673541673697071
+    second: Key_PickupEffect_33
+  - first:
+      213: 5194458421625667745
+    second: Key_PickupEffect_34
+  - first:
+      213: 8457708793198491890
+    second: Key_PickupEffect_35
+  - first:
+      213: -4862457414963234456
+    second: Key_PickupEffect_36
+  - first:
+      213: 1103016237363423853
+    second: Key_PickupEffect_37
+  - first:
+      213: 3870666608082708393
+    second: Key_PickupEffect_38
+  - first:
+      213: -8575621669906835237
+    second: Key_PickupEffect_39
+  - first:
+      213: -5114400225635594202
+    second: Key_PickupEffect_40
+  - first:
+      213: 8934943929756510535
+    second: Key_PickupEffect_41
+  - first:
+      213: -8315651767110425465
+    second: Key_PickupEffect_42
+  - first:
+      213: -203188361826191584
+    second: Key_PickupEffect_43
+  - first:
+      213: 989794751011344227
+    second: Key_PickupEffect_44
+  - first:
+      213: -5951298737438656053
+    second: Key_PickupEffect_45
+  - first:
+      213: 2650064691739602696
+    second: Key_PickupEffect_46
+  - first:
+      213: 3075299176046555307
+    second: Key_PickupEffect_47
+  - first:
+      213: -5268218398135287469
+    second: Key_PickupEffect_48
+  - first:
+      213: 5360688086993905708
+    second: Key_PickupEffect_49
+  - first:
+      213: 3024840414312810701
+    second: Key_PickupEffect_50
+  - first:
+      213: 2880260459512225574
+    second: Key_PickupEffect_51
+  - first:
+      213: -3975488273190129405
+    second: Key_PickupEffect_52
+  - first:
+      213: -3657482496153488741
+    second: Key_PickupEffect_53
+  - first:
+      213: 5087025733791939546
+    second: Key_PickupEffect_54
+  - first:
+      213: -1950288420477876155
+    second: Key_PickupEffect_55
+  - first:
+      213: -667017362305234272
+    second: Key_PickupEffect_56
+  - first:
+      213: 3679889356039820118
+    second: Key_PickupEffect_57
+  - first:
+      213: 9191545203617015317
+    second: Key_PickupEffect_58
+  - first:
+      213: -7510137090095127792
+    second: Key_PickupEffect_59
+  - first:
+      213: -2982874318004369038
+    second: Key_PickupEffect_60
+  - first:
+      213: -8277889621264435092
+    second: Key_PickupEffect_61
+  - first:
+      213: -3461836606167523414
+    second: Key_PickupEffect_62
+  - first:
+      213: -8969705668849903965
+    second: Key_PickupEffect_63
+  - first:
+      213: -7692019729268609841
+    second: Key_PickupEffect_64
+  - first:
+      213: -8996064670828179098
+    second: Key_PickupEffect_65
+  - first:
+      213: 305439141535235601
+    second: Key_PickupEffect_66
+  - first:
+      213: 7848824581175102096
+    second: Key_PickupEffect_67
+  - first:
+      213: -5819783277076655152
+    second: Key_PickupEffect_68
+  - first:
+      213: -3747000472902362836
+    second: Key_PickupEffect_69
+  - first:
+      213: 6676225191667074683
+    second: Key_PickupEffect_70
+  - first:
+      213: -8083608335488339773
+    second: Key_PickupEffect_71
+  - first:
+      213: 5230188997126646246
+    second: Key_PickupEffect_72
+  - first:
+      213: -7396954199090663306
+    second: Key_PickupEffect_73
+  - first:
+      213: -9205394569539300345
+    second: Key_PickupEffect_74
+  - first:
+      213: -4936237700493560725
+    second: Key_PickupEffect_75
+  - first:
+      213: -464173916218194006
+    second: Key_PickupEffect_76
+  - first:
+      213: -746088456394061357
+    second: Key_PickupEffect_77
+  - first:
+      213: 5507441392062928195
+    second: Key_PickupEffect_78
+  - first:
+      213: 8646765631793208500
+    second: Key_PickupEffect_79
+  - first:
+      213: -6303598062923175856
+    second: Key_PickupEffect_80
+  - first:
+      213: -6166655303798971100
+    second: Key_PickupEffect_81
+  - first:
+      213: 2578578958893247470
+    second: Key_PickupEffect_82
+  - first:
+      213: -8259345911899167915
+    second: Key_PickupEffect_83
+  - first:
+      213: 4455265697458103507
+    second: Key_PickupEffect_84
+  - first:
+      213: 1931565773356082932
+    second: Key_PickupEffect_85
+  - first:
+      213: -3829907268086806962
+    second: Key_PickupEffect_86
+  - first:
+      213: 6178831731773902001
+    second: Key_PickupEffect_87
+  - first:
+      213: 3696908975794821677
+    second: Key_PickupEffect_88
+  - first:
+      213: 6993469190500221259
+    second: Key_PickupEffect_89
+  - first:
+      213: -6398064129911934129
+    second: Key_PickupEffect_90
+  - first:
+      213: -8719528873927675338
+    second: Key_PickupEffect_91
+  - first:
+      213: 7680928299594246992
+    second: Key_PickupEffect_92
+  - first:
+      213: 3918434049354429388
+    second: Key_PickupEffect_93
+  - first:
+      213: -3472049246164320307
+    second: Key_PickupEffect_94
+  - first:
+      213: 3680246837948499780
+    second: Key_PickupEffect_95
+  - first:
+      213: 4332954370357083624
+    second: Key_PickupEffect_96
+  - first:
+      213: 1183458820580307113
+    second: Key_PickupEffect_97
+  - first:
+      213: -9079268053595083361
+    second: Key_PickupEffect_98
+  - first:
+      213: 2190162200550325327
+    second: Key_PickupEffect_99
+  - first:
+      213: -8192262134770489933
+    second: Key_PickupEffect_100
+  - first:
+      213: 9033066613166061747
+    second: Key_PickupEffect_101
+  - first:
+      213: -7894842905975065168
+    second: Key_PickupEffect_102
+  - first:
+      213: 5529549012923014628
+    second: Key_PickupEffect_103
+  - first:
+      213: -2039052697085053545
+    second: Key_PickupEffect_104
+  - first:
+      213: 1566765935063016373
+    second: Key_PickupEffect_105
+  - first:
+      213: -3104444188661089528
+    second: Key_PickupEffect_106
+  - first:
+      213: -186302405219754276
+    second: Key_PickupEffect_107
+  - first:
+      213: 6000499665766637536
+    second: Key_PickupEffect_108
+  - first:
+      213: 2567235594034551938
+    second: Key_PickupEffect_109
+  - first:
+      213: 9152363505797955893
+    second: Key_PickupEffect_110
+  - first:
+      213: -8113268231452007250
+    second: Key_PickupEffect_111
+  - first:
+      213: -4006436411562532027
+    second: Key_PickupEffect_112
+  - first:
+      213: -3068075748210745677
+    second: Key_PickupEffect_113
+  - first:
+      213: 642437445278150078
+    second: Key_PickupEffect_114
+  - first:
+      213: 7929938227417768502
+    second: Key_PickupEffect_115
+  - first:
+      213: 8812281600131291418
+    second: Key_PickupEffect_116
+  - first:
+      213: 3645094807055550265
+    second: Key_PickupEffect_117
+  - first:
+      213: 4946040270453210185
+    second: Key_PickupEffect_118
+  - first:
+      213: -3686448544527717448
+    second: Key_PickupEffect_119
+  - first:
+      213: 2211608900702197152
+    second: Key_PickupEffect_120
+  - first:
+      213: 8018057969946429220
+    second: Key_PickupEffect_121
+  - first:
+      213: 485628827720046102
+    second: Key_PickupEffect_122
+  - first:
+      213: 4169585843151518661
+    second: Key_PickupEffect_123
+  - first:
+      213: 1262320949254561402
+    second: Key_PickupEffect_124
+  - first:
+      213: 3887728522958003724
+    second: Key_PickupEffect_125
+  - first:
+      213: -5901964519270531689
+    second: Key_PickupEffect_126
+  - first:
+      213: 1707788199367411069
+    second: Key_PickupEffect_127
+  - first:
+      213: 1226391452199192016
+    second: Key_PickupEffect_128
+  - first:
+      213: 825395862332277056
+    second: Key_PickupEffect_129
+  - first:
+      213: 2095050790265010458
+    second: Key_PickupEffect_130
+  - first:
+      213: -3709739888079337846
+    second: Key_PickupEffect_131
+  - first:
+      213: 6872180040104324059
+    second: Key_PickupEffect_132
+  - first:
+      213: 7486628476261254787
+    second: Key_PickupEffect_133
+  - first:
+      213: -9178815567376335710
+    second: Key_PickupEffect_134
+  - first:
+      213: -6170704992783875415
+    second: Key_PickupEffect_135
+  - first:
+      213: -3638156382710386150
+    second: Key_PickupEffect_136
+  - first:
+      213: 7634141940330021294
+    second: Key_PickupEffect_137
+  - first:
+      213: 1364177312878204701
+    second: Key_PickupEffect_138
+  - first:
+      213: -6211808473169061238
+    second: Key_PickupEffect_139
+  - first:
+      213: 6668252738425966251
+    second: Key_PickupEffect_140
+  - first:
+      213: -6256401731779700456
+    second: Key_PickupEffect_141
+  - first:
+      213: 4860363389752396693
+    second: Key_PickupEffect_142
+  - first:
+      213: -6077199310074064416
+    second: Key_PickupEffect_143
+  - first:
+      213: -8210430176701324845
+    second: Key_PickupEffect_144
+  - first:
+      213: -329768415683187137
+    second: Key_PickupEffect_145
+  - first:
+      213: -7410926364138032057
+    second: Key_PickupEffect_146
+  - first:
+      213: -3931725570885070095
+    second: Key_PickupEffect_147
+  - first:
+      213: -7069114227300170423
+    second: Key_PickupEffect_148
+  - first:
+      213: -6102704521559631959
+    second: Key_PickupEffect_149
+  - first:
+      213: 5914278026991642464
+    second: Key_PickupEffect_150
+  - first:
+      213: 7896525051118545092
+    second: Key_PickupEffect_151
+  - first:
+      213: -6883652097933784489
+    second: Key_PickupEffect_152
+  - first:
+      213: 95073885351002589
+    second: Key_PickupEffect_153
+  - first:
+      213: -4152283406841980328
+    second: Key_PickupEffect_154
+  - first:
+      213: 6579687869870885587
+    second: Key_PickupEffect_155
+  - first:
+      213: -836931690330028393
+    second: Key_PickupEffect_156
+  - first:
+      213: -8881580029186713864
+    second: Key_PickupEffect_157
+  - first:
+      213: 6428735306239999668
+    second: Key_PickupEffect_158
+  - first:
+      213: -6326088258610441428
+    second: Key_PickupEffect_159
+  - first:
+      213: 3183297789913407095
+    second: Key_PickupEffect_160
+  - first:
+      213: 5261398527156243459
+    second: Key_PickupEffect_161
+  - first:
+      213: -7183259760385310783
+    second: Key_PickupEffect_162
+  - first:
+      213: 1707187492430222445
+    second: Key_PickupEffect_163
+  - first:
+      213: -7653104882684649114
+    second: Key_PickupEffect_164
+  - first:
+      213: -3302862075851762168
+    second: Key_PickupEffect_165
+  - first:
+      213: -1868708924474992983
+    second: Key_PickupEffect_166
+  - first:
+      213: -2219628012385054539
+    second: Key_PickupEffect_167
+  - first:
+      213: 1342026791168519889
+    second: Key_PickupEffect_168
+  - first:
+      213: 1593342270829167272
+    second: Key_PickupEffect_169
+  - first:
+      213: -5813325950186089514
+    second: Key_PickupEffect_170
+  - first:
+      213: -6746361813446783096
+    second: Key_PickupEffect_171
+  - first:
+      213: -4605329817121667221
+    second: Key_PickupEffect_172
+  - first:
+      213: 781129119511001420
+    second: Key_PickupEffect_173
+  - first:
+      213: -2294921285013056764
+    second: Key_PickupEffect_174
+  - first:
+      213: -1454383166653278447
+    second: Key_PickupEffect_175
+  - first:
+      213: -4469808191061066844
+    second: Key_PickupEffect_176
+  - first:
+      213: 7686776405391347968
+    second: Key_PickupEffect_177
+  - first:
+      213: -7200198577162703206
+    second: Key_PickupEffect_178
+  - first:
+      213: -4613057491012829042
+    second: Key_PickupEffect_179
+  - first:
+      213: -9090558527643870638
+    second: Key_PickupEffect_180
+  - first:
+      213: 6013108935167953081
+    second: Key_PickupEffect_181
+  - first:
+      213: -5135143228612428713
+    second: Key_PickupEffect_182
+  - first:
+      213: 5987194744440312676
+    second: Key_PickupEffect_183
+  - first:
+      213: -1253948917172777680
+    second: Key_PickupEffect_184
+  - first:
+      213: -8497148870934217936
+    second: Key_PickupEffect_185
+  - first:
+      213: 2281123784895061208
+    second: Key_PickupEffect_186
+  - first:
+      213: 3468222774475606767
+    second: Key_PickupEffect_187
+  - first:
+      213: 2874493074846805108
+    second: Key_PickupEffect_188
+  - first:
+      213: -261813726151691462
+    second: Key_PickupEffect_189
+  - first:
+      213: 4934988325574954448
+    second: Key_PickupEffect_190
+  - first:
+      213: -3246591729555033879
+    second: Key_PickupEffect_191
+  - first:
+      213: 501862708359255483
+    second: Key_PickupEffect_192
+  - first:
+      213: -943097413018196159
+    second: Key_PickupEffect_193
+  - first:
+      213: 5576777787454358093
+    second: Key_PickupEffect_194
+  - first:
+      213: 282522028919527734
+    second: Key_PickupEffect_195
+  - first:
+      213: -3092500926170670722
+    second: Key_PickupEffect_196
+  - first:
+      213: -1666384138609048326
+    second: Key_PickupEffect_197
+  - first:
+      213: 844030715444419446
+    second: Key_PickupEffect_198
+  - first:
+      213: 8047109310582858419
+    second: Key_PickupEffect_199
+  - first:
+      213: -1826266695908160021
+    second: Key_PickupEffect_200
+  - first:
+      213: 662478057060862158
+    second: Key_PickupEffect_201
+  - first:
+      213: -3100789738364427882
+    second: Key_PickupEffect_202
+  - first:
+      213: -4274888988365484695
+    second: Key_PickupEffect_203
+  - first:
+      213: 2784923246902675267
+    second: Key_PickupEffect_204
+  - first:
+      213: -8953821907904742149
+    second: Key_PickupEffect_205
+  - first:
+      213: 2778608799422243706
+    second: Key_PickupEffect_206
+  - first:
+      213: 5915387791198444890
+    second: Key_PickupEffect_207
+  - first:
+      213: 8105059890086972709
+    second: Key_PickupEffect_208
+  - first:
+      213: -7741375938890383613
+    second: Key_PickupEffect_209
+  - first:
+      213: -7431800699531307677
+    second: Key_PickupEffect_210
+  - first:
+      213: -1255014844936935905
+    second: Key_PickupEffect_211
+  - first:
+      213: 5744193923183673929
+    second: Key_PickupEffect_212
+  - first:
+      213: -220866455875277643
+    second: Key_PickupEffect_213
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Key_PickupEffect_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 416
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dff526a6018dc20800000000000000
+      internalID: 3231350781741366596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 347
+        width: 117
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617976f941df4e650800000000000000
+      internalID: 6261407646967371542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 181
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766ce97e147e86b50800000000000000
+      internalID: 6586768725274183271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d357d040cf79c1ae0800000000000000
+      internalID: -1577218660830972611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 465
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152542266e8a78240800000000000000
+      internalID: 4793986035801674321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 470
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3777596c03bc8b10800000000000000
+      internalID: 1985158401651865407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 453
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3705c7708a5ef8730800000000000000
+      internalID: 4003671103598514291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 468
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d676af423f89b00800000000000000
+      internalID: 835685071022681481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 451
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6bc89b2381093e0800000000000000
+      internalID: -2049111224313137503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 281
+        width: 177
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b60d497a3f043b90800000000000000
+      internalID: -7263163555224156489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_10
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 462
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9f4bbf4d78bdd40800000000000000
+      internalID: 5610227109645842943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_11
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 391
+        width: 41
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4395ac0342471b0800000000000000
+      internalID: -5659859039725996861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 472
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46e641a89653c480800000000000000
+      internalID: -8880158826703690165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 432
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d13f7344dfd3870800000000000000
+      internalID: 8664359727568985414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 456
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280e7c8454b57d740800000000000000
+      internalID: 5176706649817604226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 460
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd06dc05db61f0590800000000000000
+      internalID: -7705915435047362337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 460
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcde7a9c47ad2f10800000000000000
+      internalID: 2246635736579103934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 436
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1531afd9051059ac0800000000000000
+      internalID: -3849168860758797487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 444
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e251351a98656690800000000000000
+      internalID: -7609560984382778654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 447
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a8baf9933c93a00800000000000000
+      internalID: 736834666311158294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_20
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 416
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bd52d698bb181c0800000000000000
+      internalID: -4503111953477674234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 428
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c927c32c21d7a1910800000000000000
+      internalID: 1808895719864300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_22
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 437
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514bf796d616eac20800000000000000
+      internalID: 3219617906165789717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 435
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db58e34c3ebf6640800000000000000
+      internalID: 5075484471116454870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 429
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaeba1175b3e3460800000000000000
+      internalID: 7223276097493527290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 440
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ce93d443ea28090800000000000000
+      internalID: -8033667245618369391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 420
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204eb712ce59bce20800000000000000
+      internalID: 3371953587423536130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 417
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6735bdecb1fb6a0800000000000000
+      internalID: -6431391167604885834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 421
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09833a3470f42d20800000000000000
+      internalID: 3252989212851669258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 421
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f382ee4a6245a86f0800000000000000
+      internalID: -681639868640647105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 404
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1180e2a66da323b50800000000000000
+      internalID: 6571379498865788945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 424
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489a27e3a18851b40800000000000000
+      internalID: 5410380173653748100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 424
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78a9e415843435c0800000000000000
+      internalID: -4236703603262642053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 420
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d04383f91964ced0800000000000000
+      internalID: -2394673541673697071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_34
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 420
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0c88db96c661840800000000000000
+      internalID: 5194458421625667745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_35
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 420
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f83b482651df5570800000000000000
+      internalID: 8457708793198491890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_36
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 387
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869f6a55eb4158cb0800000000000000
+      internalID: -4862457414963234456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_37
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 424
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ae8818c63be4f00800000000000000
+      internalID: 1103016237363423853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_38
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 417
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a76cbab5ce57b530800000000000000
+      internalID: 3870666608082708393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 306
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd89f0dd6854df880800000000000000
+      internalID: -8575621669906835237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 281
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62010df87100609b0800000000000000
+      internalID: -5114400225635594202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 397
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7496b2d2a2c4ffb70800000000000000
+      internalID: 8934943929756510535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 401
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784a889a6ced89c80800000000000000
+      internalID: -8315651767110425465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_43
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 403
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0273bdee2412e2df0800000000000000
+      internalID: -203188361826191584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_44
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fc396f4157cbd00800000000000000
+      internalID: 989794751011344227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 356
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9fcb2645db86da0800000000000000
+      internalID: -5951298737438656053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 337
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa1f6ebcbe6c420800000000000000
+      internalID: 2650064691739602696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_47
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 328
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba07e469e48adaa20800000000000000
+      internalID: 3075299176046555307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 371
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35108f3774783e6b0800000000000000
+      internalID: -5268218398135287469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 386
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28a0f8b96df46a40800000000000000
+      internalID: 5360688086993905708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 351
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc84c5d94546af920800000000000000
+      internalID: 3024840414312810701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 387
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f54dda0adb8f720800000000000000
+      internalID: 2880260459512225574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_52
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 337
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30175c38a7a34d8c0800000000000000
+      internalID: -3975488273190129405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_53
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 347
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92ff844c030e3dc0800000000000000
+      internalID: -3657482496153488741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_54
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 354
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb70f1e3feb89640800000000000000
+      internalID: 5087025733791939546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_55
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 363
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548cbdfb30f2fe4e0800000000000000
+      internalID: -1950288420477876155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_56
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 373
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa47c43e374eb6f0800000000000000
+      internalID: -667017362305234272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_57
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 331
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6539e775fd7911330800000000000000
+      internalID: 3679889356039820118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_58
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 325
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516a98ee9adee8f70800000000000000
+      internalID: 9191545203617015317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 323
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013e4626b12a6c790800000000000000
+      internalID: -7510137090095127792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_60
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 296
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279c6b99c93ba96d0800000000000000
+      internalID: -2982874318004369038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_61
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 306
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68f3a26f370f1d80800000000000000
+      internalID: -8277889621264435092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_62
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 340
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafd0f2c2f515ffc0800000000000000
+      internalID: -3461836606167523414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_63
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 338
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6d46cb734358380800000000000000
+      internalID: -8969705668849903965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_64
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 310
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcce5af6fc4704590800000000000000
+      internalID: -7692019729268609841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_65
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 320
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66158d658de872380800000000000000
+      internalID: -8996064670828179098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_66
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e35bbe7432d3400800000000000000
+      internalID: 305439141535235601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 325
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09acb492f50acec60800000000000000
+      internalID: 7848824581175102096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_68
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 321
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3561ca1f9fb3fa0800000000000000
+      internalID: -5819783277076655152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_69
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 323
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c291f6f1ceafffbc0800000000000000
+      internalID: -3747000472902362836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_70
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 323
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7684dd8077b6ac50800000000000000
+      internalID: 6676225191667074683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_71
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 310
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0b4d33c0141df80800000000000000
+      internalID: -8083608335488339773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_72
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 309
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9e3e1ae2d559840800000000000000
+      internalID: 5230188997126646246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 285
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670fd5fb85db85990800000000000000
+      internalID: -7396954199090663306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 295
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704dc49496edf3080800000000000000
+      internalID: -9205394569539300345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_75
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 308
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64b037f6f5fe7bb0800000000000000
+      internalID: -4936237700493560725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_76
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 312
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa700d1584cee89f0800000000000000
+      internalID: -464173916218194006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_77
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 306
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9cc99708c55a5f0800000000000000
+      internalID: -746088456394061357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_78
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 284
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345913334cc5e6c40800000000000000
+      internalID: 5507441392062928195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_79
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 307
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1713978b7ff770800000000000000
+      internalID: 8646765631793208500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 299
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058af9ca5fe1588a0800000000000000
+      internalID: -6303598062923175856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_81
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 281
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a8cc6ca3ab6aa0800000000000000
+      internalID: -6166655303798971100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_82
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 287
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebe026b6e3f8c320800000000000000
+      internalID: 2578578958893247470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_83
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 299
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ec2c27a8e06d80800000000000000
+      internalID: -8259345911899167915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_84
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 290
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d429fcfb8844dd30800000000000000
+      internalID: 4455265697458103507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_85
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 282
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6213546dc4eca10800000000000000
+      internalID: 1931565773356082932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_86
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 283
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46cff2a1af69dac0800000000000000
+      internalID: -3829907268086806962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_87
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 281
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc8b4329be9fb550800000000000000
+      internalID: 6178831731773902001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_88
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 283
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a143d502f0e4330800000000000000
+      internalID: 3696908975794821677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_89
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 281
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41876ffc2bcd0160800000000000000
+      internalID: 6993469190500221259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_90
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 286
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f433e6e72928537a0800000000000000
+      internalID: -6398064129911934129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_91
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 287
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63277ccefa20ef680800000000000000
+      internalID: -8719528873927675338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_92
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 287
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b6f8ad793289a60800000000000000
+      internalID: 7680928299594246992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_93
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 282
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3f093d103116630800000000000000
+      internalID: 3918434049354429388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_94
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 287
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf76b73b9dc0dfc0800000000000000
+      internalID: -3472049246164320307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_95
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447cca5100dd21330800000000000000
+      internalID: 3680246837948499780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_96
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed3c19fa0fb12c30800000000000000
+      internalID: 4332954370357083624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_97
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 142
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0fdfee68d7c6010800000000000000
+      internalID: 1183458820580307113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_98
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 210
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9da9ec2fc5fff180800000000000000
+      internalID: -9079268053595083361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_99
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 219
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3a4cdae4056e10800000000000000
+      internalID: 2190162200550325327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_100
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 203
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b52f1e2efc3f4e80800000000000000
+      internalID: -8192262134770489933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_101
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 208
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b83436b936eb5d70800000000000000
+      internalID: 9033066613166061747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_102
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 124
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5f7d7a432ef6290800000000000000
+      internalID: -7894842905975065168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_103
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 220
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed536bc787ecbc40800000000000000
+      internalID: 5529549012923014628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_104
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 215
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79571f71064d3b3e0800000000000000
+      internalID: -2039052697085053545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_105
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 216
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b32d9d11554eb510800000000000000
+      internalID: 1566765935063016373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_106
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 215
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b74dd557ccae4d0800000000000000
+      internalID: -3104444188661089528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_107
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 204
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde531413fe1a6df0800000000000000
+      internalID: -186302405219754276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_108
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 199
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efdedc67ae064350800000000000000
+      internalID: 6000499665766637536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_109
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 200
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c1b25cb27a0a320800000000000000
+      internalID: 2567235594034551938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_110
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 202
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53106520e1ab30f70800000000000000
+      internalID: 9152363505797955893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_111
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 191
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea467d88781e76f80800000000000000
+      internalID: -8113268231452007250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_112
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 220
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543ef998f474668c0800000000000000
+      internalID: -4006436411562532027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_113
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 185
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be58e3cc510c65d0800000000000000
+      internalID: -3068075748210745677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_114
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 192
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebda634e3756ae800800000000000000
+      internalID: 642437445278150078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_115
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 157
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632e600adcccc0e60800000000000000
+      internalID: 7929938227417768502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_116
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 220
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1959840d638b4a70800000000000000
+      internalID: 8812281600131291418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_117
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 207
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937ca2b1a6af59230800000000000000
+      internalID: 3645094807055550265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_118
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 177
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cf325bb6dd3a440800000000000000
+      internalID: 4946040270453210185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_119
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 213
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb6ba4949a17dcc0800000000000000
+      internalID: -3686448544527717448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_120
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 193
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5527cd39631be10800000000000000
+      internalID: 2211608900702197152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_121
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 180
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427852ffd3dd54f60800000000000000
+      internalID: 8018057969946429220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_122
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 181
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61651f888dc4db600800000000000000
+      internalID: 485628827720046102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_123
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 119
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb3b81ab385dd930800000000000000
+      internalID: 4169585843151518661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_124
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e1adc173aa48110800000000000000
+      internalID: 1262320949254561402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_125
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 192
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ed01a5e7cf3f530800000000000000
+      internalID: 3887728522958003724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_126
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 180
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dbbe72a82081ea0800000000000000
+      internalID: -5901964519270531689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_127
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7506eea15843b710800000000000000
+      internalID: 1707788199367411069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_128
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 31
+        width: 124
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d588ef2784050110800000000000000
+      internalID: 1226391452199192016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_129
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 179
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0418465e925647b00800000000000000
+      internalID: 825395862332277056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_130
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 188
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b52cf79d131d10800000000000000
+      internalID: 2095050790265010458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_131
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 200
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a860fe11a3b548cc0800000000000000
+      internalID: -3709739888079337846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_132
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 197
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdba2fa0653ee5f50800000000000000
+      internalID: 6872180040104324059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_133
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 154
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38640eceee8d5e760800000000000000
+      internalID: 7486628476261254787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_134
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 198
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac35b77fdb4e9080800000000000000
+      internalID: -9178815567376335710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_135
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 169
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2436bb0804d5aa0800000000000000
+      internalID: -6170704992783875415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_136
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 175
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a123a33bb0ca28dc0800000000000000
+      internalID: -3638156382710386150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_137
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 160
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea14846b5abe1f960800000000000000
+      internalID: 7634141940330021294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_138
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 156
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1790c0d9088ee210800000000000000
+      internalID: 1364177312878204701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_139
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 178
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a1fffea193bc9a0800000000000000
+      internalID: -6211808473169061238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 148
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baec76229846a8c50800000000000000
+      internalID: 6668252738425966251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_141
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 152
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819d125d5cbcc29a0800000000000000
+      internalID: -6256401731779700456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_142
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 131
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b418d60ca737340800000000000000
+      internalID: 4860363389752396693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 99
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e159c50d6379aba0800000000000000
+      internalID: -6077199310074064416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_144
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 160
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1e1984141be0e80800000000000000
+      internalID: -8210430176701324845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_145
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 160
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e6f058f5d6c6bf0800000000000000
+      internalID: -329768415683187137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_146
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 147
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744b9f09cb9172990800000000000000
+      internalID: -7410926364138032057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_147
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 136
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f25319ac64bf69c0800000000000000
+      internalID: -3931725570885070095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_148
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 110
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9450d15601675ed90800000000000000
+      internalID: -7069114227300170423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_149
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 130
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a794473296de4ba0800000000000000
+      internalID: -6102704521559631959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_150
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 120
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0672cb5c78cb31250800000000000000
+      internalID: 5914278026991642464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_151
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8e4e742b7169d60800000000000000
+      internalID: 7896525051118545092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_152
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 115
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ac84953ea5870a0800000000000000
+      internalID: -6883652097933784489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_153
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 79
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd143cbe135c15100800000000000000
+      internalID: 95073885351002589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_154
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a5f60cd302066c0800000000000000
+      internalID: -4152283406841980328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_155
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 104
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dac998c14fbf4b50800000000000000
+      internalID: 6579687869870885587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_156
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 121
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7968c98df0f9264f0800000000000000
+      internalID: -836931690330028393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_157
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 124
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f65f14250a4eb480800000000000000
+      internalID: -8881580029186713864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_158
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 122
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be727b33b4773950800000000000000
+      internalID: 6428735306239999668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_159
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 120
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2351cfee383538a0800000000000000
+      internalID: -6326088258610441428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_160
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e131e59785d2c20800000000000000
+      internalID: 3183297789913407095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_161
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 115
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c49e8951e340940800000000000000
+      internalID: 5261398527156243459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_162
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 99
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf30e47e4fef4c90800000000000000
+      internalID: -7183259760385310783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_163
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d641b43baf521b710800000000000000
+      internalID: 1707187492430222445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_164
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 79
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66126c638a5bac590800000000000000
+      internalID: -7653104882684649114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_165
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 103
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8061fbaf070e922d0800000000000000
+      internalID: -3302862075851762168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_166
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 103
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6d01052230116e0800000000000000
+      internalID: -1868708924474992983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_167
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 68
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b05844351c4231e0800000000000000
+      internalID: -2219628012385054539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_168
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 90
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de28a69146df9210800000000000000
+      internalID: 1342026791168519889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_169
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2036a7a50bc1610800000000000000
+      internalID: 1593342270829167272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_170
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 88
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3199f39dae25fa0800000000000000
+      internalID: -5813325950186089514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_171
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 79
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f8e37acab1062a0800000000000000
+      internalID: -6746361813446783096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_172
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 87
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67c2f07ee49610c0800000000000000
+      internalID: -4605329817121667221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_173
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 47
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49ba2cabc027da00800000000000000
+      internalID: 781129119511001420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_174
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4035053104dc620e0800000000000000
+      internalID: -2294921285013056764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_175
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117d250373ef0dbe0800000000000000
+      internalID: -1454383166653278447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_176
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 90
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab7cadd12d08f1c0800000000000000
+      internalID: -4469808191061066844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_177
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 33
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00194371a6aecaa60800000000000000
+      internalID: 7686776405391347968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_178
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 98
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ea1f7da81c31c90800000000000000
+      internalID: -7200198577162703206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_179
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 83
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80c9b727a02bffb0800000000000000
+      internalID: -4613057491012829042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_180
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 86
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a93e5de29d7d180800000000000000
+      internalID: -9090558527643870638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_181
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 71
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8c96cb7bad27350800000000000000
+      internalID: 6013108935167953081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_182
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 82
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cbdc3d07e4cb8b0800000000000000
+      internalID: -5135143228612428713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_183
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463537706e9c61350800000000000000
+      internalID: 5987194744440312676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_184
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 84
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d4e618a14199ee0800000000000000
+      internalID: -1253948917172777680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_185
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 35
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bba582f10141a80800000000000000
+      internalID: -8497148870934217936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_186
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 51
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc5d571ffd28af10800000000000000
+      internalID: 2281123784895061208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_187
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 29
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feac98aec3a912030800000000000000
+      internalID: 3468222774475606767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_188
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 55
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c609bc83044e720800000000000000
+      internalID: 2874493074846805108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_189
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 60
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33386f9dc9dd5cf0800000000000000
+      internalID: -261813726151691462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_190
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 51
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd48944cb99c7440800000000000000
+      internalID: 4934988325574954448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_191
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 69
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0b62de50ac1f2d0800000000000000
+      internalID: -3246591729555033879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_192
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 75
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5d4c96979f6f600800000000000000
+      internalID: 501862708359255483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_193
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 25
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147e57c46e179e2f0800000000000000
+      internalID: -943097413018196159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_194
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 36
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d428184c9d1b46d40800000000000000
+      internalID: 5576777787454358093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_195
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 53
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63998f6d948bbe300800000000000000
+      internalID: 282522028919527734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_196
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 60
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79d70cdaca3515d0800000000000000
+      internalID: -3092500926170670722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_197
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4ccde6470dfd8e0800000000000000
+      internalID: -1666384138609048326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_198
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 30
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b559db67996bb00800000000000000
+      internalID: 844030715444419446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_199
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 30
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2a70658431daf60800000000000000
+      internalID: 8047109310582858419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_200
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed8445bd1cc7a6e0800000000000000
+      internalID: -1826266695908160021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_201
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 39
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec88a9e6848913900800000000000000
+      internalID: 662478057060862158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_202
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691ac916928c7f4d0800000000000000
+      internalID: -3100789738364427882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_203
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 42
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d0f3a4d1b8ca4c0800000000000000
+      internalID: -4274888988365484695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_204
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 37
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3478c5a10f806a620800000000000000
+      internalID: 2784923246902675267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_205
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc3a350a62adb380800000000000000
+      internalID: -8953821907904742149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_206
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 39
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73665b3bf99f8620800000000000000
+      internalID: 2778608799422243706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_207
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 35
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dd013eadda71250800000000000000
+      internalID: 5915387791198444890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_208
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 43
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d86ef0705fa7070800000000000000
+      internalID: 8105059890086972709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_209
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fbea1699b119490800000000000000
+      internalID: -7741375938890383613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_210
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365dfee93a0fcd890800000000000000
+      internalID: -7431800699531307677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_211
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 25
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1621bbd5aa459ee0800000000000000
+      internalID: -1255014844936935905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_212
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942025860f977bf40800000000000000
+      internalID: 5744193923183673929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_PickupEffect_213
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 25
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc21cae0235fecf0800000000000000
+      internalID: -220866455875277643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Key_PickupEffect_0: 3231350781741366596
+      Key_PickupEffect_1: 6261407646967371542
+      Key_PickupEffect_10: 5610227109645842943
+      Key_PickupEffect_100: -8192262134770489933
+      Key_PickupEffect_101: 9033066613166061747
+      Key_PickupEffect_102: -7894842905975065168
+      Key_PickupEffect_103: 5529549012923014628
+      Key_PickupEffect_104: -2039052697085053545
+      Key_PickupEffect_105: 1566765935063016373
+      Key_PickupEffect_106: -3104444188661089528
+      Key_PickupEffect_107: -186302405219754276
+      Key_PickupEffect_108: 6000499665766637536
+      Key_PickupEffect_109: 2567235594034551938
+      Key_PickupEffect_11: -5659859039725996861
+      Key_PickupEffect_110: 9152363505797955893
+      Key_PickupEffect_111: -8113268231452007250
+      Key_PickupEffect_112: -4006436411562532027
+      Key_PickupEffect_113: -3068075748210745677
+      Key_PickupEffect_114: 642437445278150078
+      Key_PickupEffect_115: 7929938227417768502
+      Key_PickupEffect_116: 8812281600131291418
+      Key_PickupEffect_117: 3645094807055550265
+      Key_PickupEffect_118: 4946040270453210185
+      Key_PickupEffect_119: -3686448544527717448
+      Key_PickupEffect_12: -8880158826703690165
+      Key_PickupEffect_120: 2211608900702197152
+      Key_PickupEffect_121: 8018057969946429220
+      Key_PickupEffect_122: 485628827720046102
+      Key_PickupEffect_123: 4169585843151518661
+      Key_PickupEffect_124: 1262320949254561402
+      Key_PickupEffect_125: 3887728522958003724
+      Key_PickupEffect_126: -5901964519270531689
+      Key_PickupEffect_127: 1707788199367411069
+      Key_PickupEffect_128: 1226391452199192016
+      Key_PickupEffect_129: 825395862332277056
+      Key_PickupEffect_13: 8664359727568985414
+      Key_PickupEffect_130: 2095050790265010458
+      Key_PickupEffect_131: -3709739888079337846
+      Key_PickupEffect_132: 6872180040104324059
+      Key_PickupEffect_133: 7486628476261254787
+      Key_PickupEffect_134: -9178815567376335710
+      Key_PickupEffect_135: -6170704992783875415
+      Key_PickupEffect_136: -3638156382710386150
+      Key_PickupEffect_137: 7634141940330021294
+      Key_PickupEffect_138: 1364177312878204701
+      Key_PickupEffect_139: -6211808473169061238
+      Key_PickupEffect_14: 5176706649817604226
+      Key_PickupEffect_140: 6668252738425966251
+      Key_PickupEffect_141: -6256401731779700456
+      Key_PickupEffect_142: 4860363389752396693
+      Key_PickupEffect_143: -6077199310074064416
+      Key_PickupEffect_144: -8210430176701324845
+      Key_PickupEffect_145: -329768415683187137
+      Key_PickupEffect_146: -7410926364138032057
+      Key_PickupEffect_147: -3931725570885070095
+      Key_PickupEffect_148: -7069114227300170423
+      Key_PickupEffect_149: -6102704521559631959
+      Key_PickupEffect_15: -7705915435047362337
+      Key_PickupEffect_150: 5914278026991642464
+      Key_PickupEffect_151: 7896525051118545092
+      Key_PickupEffect_152: -6883652097933784489
+      Key_PickupEffect_153: 95073885351002589
+      Key_PickupEffect_154: -4152283406841980328
+      Key_PickupEffect_155: 6579687869870885587
+      Key_PickupEffect_156: -836931690330028393
+      Key_PickupEffect_157: -8881580029186713864
+      Key_PickupEffect_158: 6428735306239999668
+      Key_PickupEffect_159: -6326088258610441428
+      Key_PickupEffect_16: 2246635736579103934
+      Key_PickupEffect_160: 3183297789913407095
+      Key_PickupEffect_161: 5261398527156243459
+      Key_PickupEffect_162: -7183259760385310783
+      Key_PickupEffect_163: 1707187492430222445
+      Key_PickupEffect_164: -7653104882684649114
+      Key_PickupEffect_165: -3302862075851762168
+      Key_PickupEffect_166: -1868708924474992983
+      Key_PickupEffect_167: -2219628012385054539
+      Key_PickupEffect_168: 1342026791168519889
+      Key_PickupEffect_169: 1593342270829167272
+      Key_PickupEffect_17: -3849168860758797487
+      Key_PickupEffect_170: -5813325950186089514
+      Key_PickupEffect_171: -6746361813446783096
+      Key_PickupEffect_172: -4605329817121667221
+      Key_PickupEffect_173: 781129119511001420
+      Key_PickupEffect_174: -2294921285013056764
+      Key_PickupEffect_175: -1454383166653278447
+      Key_PickupEffect_176: -4469808191061066844
+      Key_PickupEffect_177: 7686776405391347968
+      Key_PickupEffect_178: -7200198577162703206
+      Key_PickupEffect_179: -4613057491012829042
+      Key_PickupEffect_18: -7609560984382778654
+      Key_PickupEffect_180: -9090558527643870638
+      Key_PickupEffect_181: 6013108935167953081
+      Key_PickupEffect_182: -5135143228612428713
+      Key_PickupEffect_183: 5987194744440312676
+      Key_PickupEffect_184: -1253948917172777680
+      Key_PickupEffect_185: -8497148870934217936
+      Key_PickupEffect_186: 2281123784895061208
+      Key_PickupEffect_187: 3468222774475606767
+      Key_PickupEffect_188: 2874493074846805108
+      Key_PickupEffect_189: -261813726151691462
+      Key_PickupEffect_19: 736834666311158294
+      Key_PickupEffect_190: 4934988325574954448
+      Key_PickupEffect_191: -3246591729555033879
+      Key_PickupEffect_192: 501862708359255483
+      Key_PickupEffect_193: -943097413018196159
+      Key_PickupEffect_194: 5576777787454358093
+      Key_PickupEffect_195: 282522028919527734
+      Key_PickupEffect_196: -3092500926170670722
+      Key_PickupEffect_197: -1666384138609048326
+      Key_PickupEffect_198: 844030715444419446
+      Key_PickupEffect_199: 8047109310582858419
+      Key_PickupEffect_2: 6586768725274183271
+      Key_PickupEffect_20: -4503111953477674234
+      Key_PickupEffect_200: -1826266695908160021
+      Key_PickupEffect_201: 662478057060862158
+      Key_PickupEffect_202: -3100789738364427882
+      Key_PickupEffect_203: -4274888988365484695
+      Key_PickupEffect_204: 2784923246902675267
+      Key_PickupEffect_205: -8953821907904742149
+      Key_PickupEffect_206: 2778608799422243706
+      Key_PickupEffect_207: 5915387791198444890
+      Key_PickupEffect_208: 8105059890086972709
+      Key_PickupEffect_209: -7741375938890383613
+      Key_PickupEffect_21: 1808895719864300188
+      Key_PickupEffect_210: -7431800699531307677
+      Key_PickupEffect_211: -1255014844936935905
+      Key_PickupEffect_212: 5744193923183673929
+      Key_PickupEffect_213: -220866455875277643
+      Key_PickupEffect_22: 3219617906165789717
+      Key_PickupEffect_23: 5075484471116454870
+      Key_PickupEffect_24: 7223276097493527290
+      Key_PickupEffect_25: -8033667245618369391
+      Key_PickupEffect_26: 3371953587423536130
+      Key_PickupEffect_27: -6431391167604885834
+      Key_PickupEffect_28: 3252989212851669258
+      Key_PickupEffect_29: -681639868640647105
+      Key_PickupEffect_3: -1577218660830972611
+      Key_PickupEffect_30: 6571379498865788945
+      Key_PickupEffect_31: 5410380173653748100
+      Key_PickupEffect_32: -4236703603262642053
+      Key_PickupEffect_33: -2394673541673697071
+      Key_PickupEffect_34: 5194458421625667745
+      Key_PickupEffect_35: 8457708793198491890
+      Key_PickupEffect_36: -4862457414963234456
+      Key_PickupEffect_37: 1103016237363423853
+      Key_PickupEffect_38: 3870666608082708393
+      Key_PickupEffect_39: -8575621669906835237
+      Key_PickupEffect_4: 4793986035801674321
+      Key_PickupEffect_40: -5114400225635594202
+      Key_PickupEffect_41: 8934943929756510535
+      Key_PickupEffect_42: -8315651767110425465
+      Key_PickupEffect_43: -203188361826191584
+      Key_PickupEffect_44: 989794751011344227
+      Key_PickupEffect_45: -5951298737438656053
+      Key_PickupEffect_46: 2650064691739602696
+      Key_PickupEffect_47: 3075299176046555307
+      Key_PickupEffect_48: -5268218398135287469
+      Key_PickupEffect_49: 5360688086993905708
+      Key_PickupEffect_5: 1985158401651865407
+      Key_PickupEffect_50: 3024840414312810701
+      Key_PickupEffect_51: 2880260459512225574
+      Key_PickupEffect_52: -3975488273190129405
+      Key_PickupEffect_53: -3657482496153488741
+      Key_PickupEffect_54: 5087025733791939546
+      Key_PickupEffect_55: -1950288420477876155
+      Key_PickupEffect_56: -667017362305234272
+      Key_PickupEffect_57: 3679889356039820118
+      Key_PickupEffect_58: 9191545203617015317
+      Key_PickupEffect_59: -7510137090095127792
+      Key_PickupEffect_6: 4003671103598514291
+      Key_PickupEffect_60: -2982874318004369038
+      Key_PickupEffect_61: -8277889621264435092
+      Key_PickupEffect_62: -3461836606167523414
+      Key_PickupEffect_63: -8969705668849903965
+      Key_PickupEffect_64: -7692019729268609841
+      Key_PickupEffect_65: -8996064670828179098
+      Key_PickupEffect_66: 305439141535235601
+      Key_PickupEffect_67: 7848824581175102096
+      Key_PickupEffect_68: -5819783277076655152
+      Key_PickupEffect_69: -3747000472902362836
+      Key_PickupEffect_7: 835685071022681481
+      Key_PickupEffect_70: 6676225191667074683
+      Key_PickupEffect_71: -8083608335488339773
+      Key_PickupEffect_72: 5230188997126646246
+      Key_PickupEffect_73: -7396954199090663306
+      Key_PickupEffect_74: -9205394569539300345
+      Key_PickupEffect_75: -4936237700493560725
+      Key_PickupEffect_76: -464173916218194006
+      Key_PickupEffect_77: -746088456394061357
+      Key_PickupEffect_78: 5507441392062928195
+      Key_PickupEffect_79: 8646765631793208500
+      Key_PickupEffect_8: -2049111224313137503
+      Key_PickupEffect_80: -6303598062923175856
+      Key_PickupEffect_81: -6166655303798971100
+      Key_PickupEffect_82: 2578578958893247470
+      Key_PickupEffect_83: -8259345911899167915
+      Key_PickupEffect_84: 4455265697458103507
+      Key_PickupEffect_85: 1931565773356082932
+      Key_PickupEffect_86: -3829907268086806962
+      Key_PickupEffect_87: 6178831731773902001
+      Key_PickupEffect_88: 3696908975794821677
+      Key_PickupEffect_89: 6993469190500221259
+      Key_PickupEffect_9: -7263163555224156489
+      Key_PickupEffect_90: -6398064129911934129
+      Key_PickupEffect_91: -8719528873927675338
+      Key_PickupEffect_92: 7680928299594246992
+      Key_PickupEffect_93: 3918434049354429388
+      Key_PickupEffect_94: -3472049246164320307
+      Key_PickupEffect_95: 3680246837948499780
+      Key_PickupEffect_96: 4332954370357083624
+      Key_PickupEffect_97: 1183458820580307113
+      Key_PickupEffect_98: -9079268053595083361
+      Key_PickupEffect_99: 2190162200550325327
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

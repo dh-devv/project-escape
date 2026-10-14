@@ -1,0 +1,38 @@
+{
+  "name": "Terminal_InteractionIndicator",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1266,
+    1242
+  ],
+  "sourceScale": 0.16176935229067932,
+  "sourceOffset": [
+    25,
+    27
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "b6a45f15a79d0f59b54c329eaec0ab0276af8711d9357f25fc685adc163cbad9",
+  "spriteSha256": "bc03b7e9d7aa4e5aa2c4a399df19192f0f98bac9829a22566a70fc0de27d6e04"
+}

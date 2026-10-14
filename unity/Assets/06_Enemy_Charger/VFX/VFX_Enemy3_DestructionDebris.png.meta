@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: ec3b15f46b4d6b9448ac84390ef4e969
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2535299978443004878
+    second: VFX_Enemy3_DestructionDebris_0
+  - first:
+      213: -6456529875016543222
+    second: VFX_Enemy3_DestructionDebris_1
+  - first:
+      213: -3100237002789624862
+    second: VFX_Enemy3_DestructionDebris_2
+  - first:
+      213: 1973509048827977040
+    second: VFX_Enemy3_DestructionDebris_3
+  - first:
+      213: -1779963449997910040
+    second: VFX_Enemy3_DestructionDebris_4
+  - first:
+      213: 6949802534961681694
+    second: VFX_Enemy3_DestructionDebris_5
+  - first:
+      213: -4154382763054723252
+    second: VFX_Enemy3_DestructionDebris_6
+  - first:
+      213: 8328465857294167906
+    second: VFX_Enemy3_DestructionDebris_7
+  - first:
+      213: 1170862845444886953
+    second: VFX_Enemy3_DestructionDebris_8
+  - first:
+      213: -7096837692767252602
+    second: VFX_Enemy3_DestructionDebris_9
+  - first:
+      213: -92693305618482073
+    second: VFX_Enemy3_DestructionDebris_10
+  - first:
+      213: 5395976032724503751
+    second: VFX_Enemy3_DestructionDebris_11
+  - first:
+      213: 1130178527305345521
+    second: VFX_Enemy3_DestructionDebris_12
+  - first:
+      213: -1546122311615899322
+    second: VFX_Enemy3_DestructionDebris_13
+  - first:
+      213: -5009232570723881707
+    second: VFX_Enemy3_DestructionDebris_14
+  - first:
+      213: 2621234224924140184
+    second: VFX_Enemy3_DestructionDebris_15
+  - first:
+      213: -8166422888443486780
+    second: VFX_Enemy3_DestructionDebris_16
+  - first:
+      213: -3380166108882345813
+    second: VFX_Enemy3_DestructionDebris_17
+  - first:
+      213: 8288931204443848006
+    second: VFX_Enemy3_DestructionDebris_18
+  - first:
+      213: 3052195021505698306
+    second: VFX_Enemy3_DestructionDebris_19
+  - first:
+      213: -5481941906424130968
+    second: VFX_Enemy3_DestructionDebris_20
+  - first:
+      213: 5205192854203752565
+    second: VFX_Enemy3_DestructionDebris_21
+  - first:
+      213: 7452041527626736589
+    second: VFX_Enemy3_DestructionDebris_22
+  - first:
+      213: 2826970631855407337
+    second: VFX_Enemy3_DestructionDebris_23
+  - first:
+      213: 2544649363439626655
+    second: VFX_Enemy3_DestructionDebris_24
+  - first:
+      213: 9155261924958947969
+    second: VFX_Enemy3_DestructionDebris_25
+  - first:
+      213: 4233872173783082842
+    second: VFX_Enemy3_DestructionDebris_26
+  - first:
+      213: 5214581612875824372
+    second: VFX_Enemy3_DestructionDebris_27
+  - first:
+      213: -5384567513157332775
+    second: VFX_Enemy3_DestructionDebris_28
+  - first:
+      213: 317297056498086509
+    second: VFX_Enemy3_DestructionDebris_29
+  - first:
+      213: -3627185404897497568
+    second: VFX_Enemy3_DestructionDebris_30
+  - first:
+      213: 7921153315932521740
+    second: VFX_Enemy3_DestructionDebris_31
+  - first:
+      213: -3728099244307195298
+    second: VFX_Enemy3_DestructionDebris_32
+  - first:
+      213: 2744619932977573455
+    second: VFX_Enemy3_DestructionDebris_33
+  - first:
+      213: -6907646247611125875
+    second: VFX_Enemy3_DestructionDebris_34
+  - first:
+      213: -4413857354138716152
+    second: VFX_Enemy3_DestructionDebris_35
+  - first:
+      213: 7391366455997620127
+    second: VFX_Enemy3_DestructionDebris_36
+  - first:
+      213: 3422407034880475288
+    second: VFX_Enemy3_DestructionDebris_37
+  - first:
+      213: -4539947498972799153
+    second: VFX_Enemy3_DestructionDebris_38
+  - first:
+      213: 6103175507480481458
+    second: VFX_Enemy3_DestructionDebris_39
+  - first:
+      213: -3685013037550220605
+    second: VFX_Enemy3_DestructionDebris_40
+  - first:
+      213: 8796022764579536423
+    second: VFX_Enemy3_DestructionDebris_41
+  - first:
+      213: 4410715670531243414
+    second: VFX_Enemy3_DestructionDebris_42
+  - first:
+      213: -8739514102365418835
+    second: VFX_Enemy3_DestructionDebris_43
+  - first:
+      213: 8133399340432405042
+    second: VFX_Enemy3_DestructionDebris_44
+  - first:
+      213: -2257039153660390375
+    second: VFX_Enemy3_DestructionDebris_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 539
+        width: 172
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb9626d5e13f2320800000000000000
+      internalID: 2535299978443004878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 540
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0411fd694cc566a0800000000000000
+      internalID: -6456529875016543222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 713
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3e3392fdeb9f4d0800000000000000
+      internalID: -3100237002789624862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 707
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d19681600536b10800000000000000
+      internalID: 1973509048827977040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 541
+        width: 189
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef12b14cac4c47e0800000000000000
+      internalID: -1779963449997910040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 682
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15108b7598a27060800000000000000
+      internalID: 6949802534961681694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 577
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f0e1b43eaa856c0800000000000000
+      internalID: -4154382763054723252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 577
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fecf33297a49370800000000000000
+      internalID: 8328465857294167906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 283
+        width: 191
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1127fed8dbf3010800000000000000
+      internalID: 1170862845444886953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 481
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f410618b7f28d90800000000000000
+      internalID: -7096837692767252602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 477
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cbd8dfdefa6bef0800000000000000
+      internalID: -92693305618482073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 201
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccc017dc9b52ea40800000000000000
+      internalID: 5395976032724503751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 478
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f92fc4f1633faf00800000000000000
+      internalID: 1130178527305345521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_13
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 473
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64914d403f11b8ae0800000000000000
+      internalID: -1546122311615899322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_14
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 461
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dafa85481ab7ab0800000000000000
+      internalID: -5009232570723881707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 283
+        width: 187
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89223b1c3ae706420800000000000000
+      internalID: 2621234224924140184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_16
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 466
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdd4b886a90bae80800000000000000
+      internalID: -8166422888443486780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_17
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 464
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0e04635dc3711d0800000000000000
+      internalID: -3380166108882345813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 431
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64db6888303380370800000000000000
+      internalID: 8288931204443848006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 337
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a101a63339b5a20800000000000000
+      internalID: 3052195021505698306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 292
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862134471ea3ce3b0800000000000000
+      internalID: -5481941906424130968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 294
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5706736925f8c3840800000000000000
+      internalID: 5205192854203752565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_22
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 282
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3a6a96948fa6760800000000000000
+      internalID: 7452041527626736589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0043ecfca6b3720800000000000000
+      internalID: 2826970631855407337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 45
+        width: 166
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f992eb92d19605320800000000000000
+      internalID: 2544649363439626655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 173
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a46dec6360e0f70800000000000000
+      internalID: 9155261924958947969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 175
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5760ce5f4cb1ca30800000000000000
+      internalID: 4233872173783082842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 207
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc3fbf495aed5840800000000000000
+      internalID: 5214581612875824372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 217
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0162d106c2645b0800000000000000
+      internalID: -5384567513157332775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 208
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6278d4edf3476400800000000000000
+      internalID: 317297056498086509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 224
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e6a968716a9adc0800000000000000
+      internalID: -3627185404897497568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 205
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05c09709f69ded60800000000000000
+      internalID: 7921153315932521740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 203
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5adaa75d71234cc0800000000000000
+      internalID: -3728099244307195298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 200
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea5949949d61620800000000000000
+      internalID: 2744619932977573455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_34
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 195
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f2419065c1320a0800000000000000
+      internalID: -6907646247611125875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_35
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 210
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808f05d3f14deb2c0800000000000000
+      internalID: -4413857354138716152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 171
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fd97e61a8639660800000000000000
+      internalID: 7391366455997620127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 179
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89049d6c015de7f20800000000000000
+      internalID: 3422407034880475288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 51
+        width: 161
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f9dc8adcddef0c0800000000000000
+      internalID: -4539947498972799153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_39
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 154
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be0d3db9c5d2b450800000000000000
+      internalID: 6103175507480481458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_40
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 149
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cac2289a243cdcc0800000000000000
+      internalID: -3685013037550220605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_41
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 105
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e330fd910c11a70800000000000000
+      internalID: 8796022764579536423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_42
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 139
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d734b8882063d30800000000000000
+      internalID: 4410715670531243414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_43
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 41
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa0ef25a3207b680800000000000000
+      internalID: -8739514102365418835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_44
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 100
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232bed68b93afd070800000000000000
+      internalID: 8133399340432405042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_DestructionDebris_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 39
+        width: 36
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9149ce919d26da0e0800000000000000
+      internalID: -2257039153660390375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Enemy3_DestructionDebris_0: 2535299978443004878
+      VFX_Enemy3_DestructionDebris_1: -6456529875016543222
+      VFX_Enemy3_DestructionDebris_10: -92693305618482073
+      VFX_Enemy3_DestructionDebris_11: 5395976032724503751
+      VFX_Enemy3_DestructionDebris_12: 1130178527305345521
+      VFX_Enemy3_DestructionDebris_13: -1546122311615899322
+      VFX_Enemy3_DestructionDebris_14: -5009232570723881707
+      VFX_Enemy3_DestructionDebris_15: 2621234224924140184
+      VFX_Enemy3_DestructionDebris_16: -8166422888443486780
+      VFX_Enemy3_DestructionDebris_17: -3380166108882345813
+      VFX_Enemy3_DestructionDebris_18: 8288931204443848006
+      VFX_Enemy3_DestructionDebris_19: 3052195021505698306
+      VFX_Enemy3_DestructionDebris_2: -3100237002789624862
+      VFX_Enemy3_DestructionDebris_20: -5481941906424130968
+      VFX_Enemy3_DestructionDebris_21: 5205192854203752565
+      VFX_Enemy3_DestructionDebris_22: 7452041527626736589
+      VFX_Enemy3_DestructionDebris_23: 2826970631855407337
+      VFX_Enemy3_DestructionDebris_24: 2544649363439626655
+      VFX_Enemy3_DestructionDebris_25: 9155261924958947969
+      VFX_Enemy3_DestructionDebris_26: 4233872173783082842
+      VFX_Enemy3_DestructionDebris_27: 5214581612875824372
+      VFX_Enemy3_DestructionDebris_28: -5384567513157332775
+      VFX_Enemy3_DestructionDebris_29: 317297056498086509
+      VFX_Enemy3_DestructionDebris_3: 1973509048827977040
+      VFX_Enemy3_DestructionDebris_30: -3627185404897497568
+      VFX_Enemy3_DestructionDebris_31: 7921153315932521740
+      VFX_Enemy3_DestructionDebris_32: -3728099244307195298
+      VFX_Enemy3_DestructionDebris_33: 2744619932977573455
+      VFX_Enemy3_DestructionDebris_34: -6907646247611125875
+      VFX_Enemy3_DestructionDebris_35: -4413857354138716152
+      VFX_Enemy3_DestructionDebris_36: 7391366455997620127
+      VFX_Enemy3_DestructionDebris_37: 3422407034880475288
+      VFX_Enemy3_DestructionDebris_38: -4539947498972799153
+      VFX_Enemy3_DestructionDebris_39: 6103175507480481458
+      VFX_Enemy3_DestructionDebris_4: -1779963449997910040
+      VFX_Enemy3_DestructionDebris_40: -3685013037550220605
+      VFX_Enemy3_DestructionDebris_41: 8796022764579536423
+      VFX_Enemy3_DestructionDebris_42: 4410715670531243414
+      VFX_Enemy3_DestructionDebris_43: -8739514102365418835
+      VFX_Enemy3_DestructionDebris_44: 8133399340432405042
+      VFX_Enemy3_DestructionDebris_45: -2257039153660390375
+      VFX_Enemy3_DestructionDebris_5: 6949802534961681694
+      VFX_Enemy3_DestructionDebris_6: -4154382763054723252
+      VFX_Enemy3_DestructionDebris_7: 8328465857294167906
+      VFX_Enemy3_DestructionDebris_8: 1170862845444886953
+      VFX_Enemy3_DestructionDebris_9: -7096837692767252602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

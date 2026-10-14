@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: 89225559755426b4c95b3d672b67f33c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2621922441392360062
+    second: VFX_P3_OverloadExplosion_0
+  - first:
+      213: 5277117593163510712
+    second: VFX_P3_OverloadExplosion_1
+  - first:
+      213: 4886576262955082894
+    second: VFX_P3_OverloadExplosion_2
+  - first:
+      213: -3271858796056458789
+    second: VFX_P3_OverloadExplosion_3
+  - first:
+      213: -1132984326418153872
+    second: VFX_P3_OverloadExplosion_4
+  - first:
+      213: 4023078226087140672
+    second: VFX_P3_OverloadExplosion_5
+  - first:
+      213: -8446070867655209166
+    second: VFX_P3_OverloadExplosion_6
+  - first:
+      213: -6299145654793069501
+    second: VFX_P3_OverloadExplosion_7
+  - first:
+      213: 3319529157877098876
+    second: VFX_P3_OverloadExplosion_8
+  - first:
+      213: -6513292286570191722
+    second: VFX_P3_OverloadExplosion_9
+  - first:
+      213: -5275436858260990903
+    second: VFX_P3_OverloadExplosion_10
+  - first:
+      213: 4396280532369456191
+    second: VFX_P3_OverloadExplosion_11
+  - first:
+      213: 2410792190200668287
+    second: VFX_P3_OverloadExplosion_12
+  - first:
+      213: -2391800131925313671
+    second: VFX_P3_OverloadExplosion_13
+  - first:
+      213: 5093549850778593533
+    second: VFX_P3_OverloadExplosion_14
+  - first:
+      213: -6809609461257112192
+    second: VFX_P3_OverloadExplosion_15
+  - first:
+      213: -4900426447455804411
+    second: VFX_P3_OverloadExplosion_16
+  - first:
+      213: -6123608576813904423
+    second: VFX_P3_OverloadExplosion_17
+  - first:
+      213: 8568894959290252563
+    second: VFX_P3_OverloadExplosion_18
+  - first:
+      213: -6292141509398866153
+    second: VFX_P3_OverloadExplosion_19
+  - first:
+      213: 3855310370282965620
+    second: VFX_P3_OverloadExplosion_20
+  - first:
+      213: -804475792037753360
+    second: VFX_P3_OverloadExplosion_21
+  - first:
+      213: 8766242730258226353
+    second: VFX_P3_OverloadExplosion_22
+  - first:
+      213: -5192253440756674014
+    second: VFX_P3_OverloadExplosion_23
+  - first:
+      213: -5263408868311621225
+    second: VFX_P3_OverloadExplosion_24
+  - first:
+      213: 2149647586945401756
+    second: VFX_P3_OverloadExplosion_25
+  - first:
+      213: 8544551233197207563
+    second: VFX_P3_OverloadExplosion_26
+  - first:
+      213: -7177882196152825201
+    second: VFX_P3_OverloadExplosion_27
+  - first:
+      213: -2840633616129847973
+    second: VFX_P3_OverloadExplosion_28
+  - first:
+      213: -6223382180619214803
+    second: VFX_P3_OverloadExplosion_29
+  - first:
+      213: 9049583856351763712
+    second: VFX_P3_OverloadExplosion_30
+  - first:
+      213: 793928487619030001
+    second: VFX_P3_OverloadExplosion_31
+  - first:
+      213: 2311270354208120271
+    second: VFX_P3_OverloadExplosion_32
+  - first:
+      213: -8473027810139994160
+    second: VFX_P3_OverloadExplosion_33
+  - first:
+      213: 1937257039805281847
+    second: VFX_P3_OverloadExplosion_34
+  - first:
+      213: -7831657568563055341
+    second: VFX_P3_OverloadExplosion_35
+  - first:
+      213: -6215582957750217211
+    second: VFX_P3_OverloadExplosion_36
+  - first:
+      213: -139603323003663257
+    second: VFX_P3_OverloadExplosion_37
+  - first:
+      213: -3338786485659251484
+    second: VFX_P3_OverloadExplosion_38
+  - first:
+      213: -8246821836218800266
+    second: VFX_P3_OverloadExplosion_39
+  - first:
+      213: 3070067582699169259
+    second: VFX_P3_OverloadExplosion_40
+  - first:
+      213: 6661857467184001171
+    second: VFX_P3_OverloadExplosion_41
+  - first:
+      213: -2534533472668904618
+    second: VFX_P3_OverloadExplosion_42
+  - first:
+      213: 3164831596991510699
+    second: VFX_P3_OverloadExplosion_43
+  - first:
+      213: -202993061969926241
+    second: VFX_P3_OverloadExplosion_44
+  - first:
+      213: -2406524146428479488
+    second: VFX_P3_OverloadExplosion_45
+  - first:
+      213: -5268806482255403135
+    second: VFX_P3_OverloadExplosion_46
+  - first:
+      213: -5354785003565026516
+    second: VFX_P3_OverloadExplosion_47
+  - first:
+      213: -189184450135609118
+    second: VFX_P3_OverloadExplosion_48
+  - first:
+      213: -7117799278948725147
+    second: VFX_P3_OverloadExplosion_49
+  - first:
+      213: -2456599881399381674
+    second: VFX_P3_OverloadExplosion_50
+  - first:
+      213: 9145145111401998875
+    second: VFX_P3_OverloadExplosion_51
+  - first:
+      213: 6619498170936733507
+    second: VFX_P3_OverloadExplosion_52
+  - first:
+      213: -3200317705118361806
+    second: VFX_P3_OverloadExplosion_53
+  - first:
+      213: 3339852578664970535
+    second: VFX_P3_OverloadExplosion_54
+  - first:
+      213: -8594960000605658252
+    second: VFX_P3_OverloadExplosion_55
+  - first:
+      213: 4675170076608403000
+    second: VFX_P3_OverloadExplosion_56
+  - first:
+      213: -839926881398346416
+    second: VFX_P3_OverloadExplosion_57
+  - first:
+      213: -1225839273250493541
+    second: VFX_P3_OverloadExplosion_58
+  - first:
+      213: -8903024894210083756
+    second: VFX_P3_OverloadExplosion_59
+  - first:
+      213: 2090227530405328657
+    second: VFX_P3_OverloadExplosion_60
+  - first:
+      213: 7895881087467368747
+    second: VFX_P3_OverloadExplosion_61
+  - first:
+      213: -1571863145334205758
+    second: VFX_P3_OverloadExplosion_62
+  - first:
+      213: 4590831135543907797
+    second: VFX_P3_OverloadExplosion_63
+  - first:
+      213: -5431305950093380654
+    second: VFX_P3_OverloadExplosion_64
+  - first:
+      213: -5908522317911703531
+    second: VFX_P3_OverloadExplosion_65
+  - first:
+      213: -4958570840477157980
+    second: VFX_P3_OverloadExplosion_66
+  - first:
+      213: 6314123322319892069
+    second: VFX_P3_OverloadExplosion_67
+  - first:
+      213: -3264055035341126425
+    second: VFX_P3_OverloadExplosion_68
+  - first:
+      213: 6824368145049034392
+    second: VFX_P3_OverloadExplosion_69
+  - first:
+      213: 6932052760296306435
+    second: VFX_P3_OverloadExplosion_70
+  - first:
+      213: -2054060304768608946
+    second: VFX_P3_OverloadExplosion_71
+  - first:
+      213: 6214665699551890651
+    second: VFX_P3_OverloadExplosion_72
+  - first:
+      213: 8812035630210108599
+    second: VFX_P3_OverloadExplosion_73
+  - first:
+      213: -1087716806200155086
+    second: VFX_P3_OverloadExplosion_74
+  - first:
+      213: -1311916715475196546
+    second: VFX_P3_OverloadExplosion_75
+  - first:
+      213: -1363062220794418335
+    second: VFX_P3_OverloadExplosion_76
+  - first:
+      213: 612515541432774346
+    second: VFX_P3_OverloadExplosion_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 960
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a01d3a190f26420800000000000000
+      internalID: 2621922441392360062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 943
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3b97add761c3940800000000000000
+      internalID: 5277117593163510712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 937
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e842b41983b90d340800000000000000
+      internalID: 4886576262955082894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 803
+        width: 184
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd941d192c50892d0800000000000000
+      internalID: -3271858796056458789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 954
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eb2c702c4d640f0800000000000000
+      internalID: -1132984326418153872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 793
+        width: 190
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d5889d458d4d730800000000000000
+      internalID: 4023078226087140672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 973
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fc2a98b4789ca80800000000000000
+      internalID: -8446070867655209166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 908
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c1d99b660f498a0800000000000000
+      internalID: -6299145654793069501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 954
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79e0d47e26511e20800000000000000
+      internalID: 3319529157877098876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 954
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69421bc9c232c95a0800000000000000
+      internalID: -6513292286570191722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 956
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944d95cb022e9c6b0800000000000000
+      internalID: -5275436858260990903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 793
+        width: 200
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cb8d80ad9b20d30800000000000000
+      internalID: 4396280532369456191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 920
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70623c59bad47120800000000000000
+      internalID: 2410792190200668287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 937
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977fbdac37e9eced0800000000000000
+      internalID: -2391800131925313671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 926
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8e66d3a9cefa640800000000000000
+      internalID: 5093549850778593533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 909
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08571aa16486f71a0800000000000000
+      internalID: -6809609461257112192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 908
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504a77f0c103efbb0800000000000000
+      internalID: -4900426447455804411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 898
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddc8739172940ba0800000000000000
+      internalID: -6123608576813904423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 871
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d7126c094dae670800000000000000
+      internalID: 8568894959290252563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 901
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7175ac762a2dda8a0800000000000000
+      internalID: -6292141509398866153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 909
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a889ffa50d08530800000000000000
+      internalID: 3855310370282965620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 899
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd4039878de5d4f0800000000000000
+      internalID: -804475792037753360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 896
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc54ef4153f7a970800000000000000
+      internalID: 8766242730258226353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 873
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22216ef510961f7b0800000000000000
+      internalID: -5192253440756674014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 831
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79125a0658d94f6b0800000000000000
+      internalID: -5263408868311621225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 847
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93082c471515dd10800000000000000
+      internalID: 2149647586945401756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 837
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0078db5318549670800000000000000
+      internalID: 8544551233197207563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 834
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ac5b23c2a036c90800000000000000
+      internalID: -7177882196152825201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 827
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d0c85c6ca0498d0800000000000000
+      internalID: -2840633616129847973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 815
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2022be21ea12a9a0800000000000000
+      internalID: -6223382180619214803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dd4f21294969d70800000000000000
+      internalID: 9049583856351763712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 799
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb6899c0c9940b00800000000000000
+      internalID: 793928487619030001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 537
+        width: 207
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd577a3428431020800000000000000
+      internalID: 2311270354208120271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 723
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d789944912c96a80800000000000000
+      internalID: -8473027810139994160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 537
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736f730830582ea10800000000000000
+      internalID: 1937257039805281847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 537
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315bc4f6fec505390800000000000000
+      internalID: -7831657568563055341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_36
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 731
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50693534b30ddb9a0800000000000000
+      internalID: -6215582957750217211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 580
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c07e27487001ef0800000000000000
+      internalID: -139603323003663257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 564
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc765816f3aa1d0800000000000000
+      internalID: -3338786485659251484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 537
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6776e36cb376d8d80800000000000000
+      internalID: -8246821836218800266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_40
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 537
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5e93753321b9a20800000000000000
+      internalID: 3070067582699169259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_41
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 281
+        width: 202
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39039c3021ca37c50800000000000000
+      internalID: 6661857467184001171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 477
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6539b323c3783dcd0800000000000000
+      internalID: -2534533472668904618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_43
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 472
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba87c98c19dbbeb20800000000000000
+      internalID: 3164831596991510699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97e969b2e2de2df0800000000000000
+      internalID: -202993061969926241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_45
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 425
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008fab40a0f4a9ed0800000000000000
+      internalID: -2406524146428479488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_46
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 460
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18724e27b6071e6b0800000000000000
+      internalID: -5268806482255403135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_47
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 416
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23faedf86bffa5b0800000000000000
+      internalID: -5354785003565026516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_48
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 281
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0b3a4beb1ef5df0800000000000000
+      internalID: -189184450135609118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_49
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 417
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ecabb744f783d90800000000000000
+      internalID: -7117799278948725147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_50
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 407
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6515ce96c6768edd0800000000000000
+      internalID: -2456599881399381674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_51
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 403
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a248896051aee70800000000000000
+      internalID: 9145145111401998875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_52
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 395
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f280ec38e2ddb50800000000000000
+      internalID: 6619498170936733507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_53
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 388
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237d602d0003693d0800000000000000
+      internalID: -3200317705118361806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_54
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 323
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7297f79993a895e20800000000000000
+      internalID: 3339852578664970535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_55
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4736531ea6198b880800000000000000
+      internalID: -8594960000605658252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 140
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83697c02a6a81e040800000000000000
+      internalID: 4675170076608403000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 88
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d23f493faf754f0800000000000000
+      internalID: -839926881398346416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 146
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b6e2efca1fcfee0800000000000000
+      internalID: -1225839273250493541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 140
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454f52a670a127480800000000000000
+      internalID: -8903024894210083756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_60
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 132
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1173d894ddaf10d10800000000000000
+      internalID: 2090227530405328657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_61
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 175
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21b73fc30ec39d60800000000000000
+      internalID: 7895881087467368747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_62
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 134
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c293d22cce9f2ae0800000000000000
+      internalID: -1571863145334205758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_63
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5d5e13898e5bf30800000000000000
+      internalID: 4590831135543907797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 130
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3f732c30020a4b0800000000000000
+      internalID: -5431305950093380654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510c76da146b00ea0800000000000000
+      internalID: -5908522317911703531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_66
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5bfbb971e9f2bb0800000000000000
+      internalID: -4958570840477157980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_67
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 60
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ee2ee35b540a750800000000000000
+      internalID: 6314123322319892069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_68
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 83
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4ca233d3fb3b2d0800000000000000
+      internalID: -3264055035341126425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_69
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e932ebba605be50800000000000000
+      internalID: 6824368145049034392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_70
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3073ab50249933060800000000000000
+      internalID: 6932052760296306435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_71
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 61
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45590329038e73e0800000000000000
+      internalID: -2054060304768608946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 83
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc489be68dee3650800000000000000
+      internalID: 6214665699551890651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 73
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc42cea7b3aa4a70800000000000000
+      internalID: 8812035630210108599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_74
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 25
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234a736e357a7e0f0800000000000000
+      internalID: -1087716806200155086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_75
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 52
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e752437b2b22bcde0800000000000000
+      internalID: -1311916715475196546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b2bcac12e651de0800000000000000
+      internalID: -1363062220794418335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P3_OverloadExplosion_77
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 25
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acea182c3a7108800800000000000000
+      internalID: 612515541432774346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P3_OverloadExplosion_0: 2621922441392360062
+      VFX_P3_OverloadExplosion_1: 5277117593163510712
+      VFX_P3_OverloadExplosion_10: -5275436858260990903
+      VFX_P3_OverloadExplosion_11: 4396280532369456191
+      VFX_P3_OverloadExplosion_12: 2410792190200668287
+      VFX_P3_OverloadExplosion_13: -2391800131925313671
+      VFX_P3_OverloadExplosion_14: 5093549850778593533
+      VFX_P3_OverloadExplosion_15: -6809609461257112192
+      VFX_P3_OverloadExplosion_16: -4900426447455804411
+      VFX_P3_OverloadExplosion_17: -6123608576813904423
+      VFX_P3_OverloadExplosion_18: 8568894959290252563
+      VFX_P3_OverloadExplosion_19: -6292141509398866153
+      VFX_P3_OverloadExplosion_2: 4886576262955082894
+      VFX_P3_OverloadExplosion_20: 3855310370282965620
+      VFX_P3_OverloadExplosion_21: -804475792037753360
+      VFX_P3_OverloadExplosion_22: 8766242730258226353
+      VFX_P3_OverloadExplosion_23: -5192253440756674014
+      VFX_P3_OverloadExplosion_24: -5263408868311621225
+      VFX_P3_OverloadExplosion_25: 2149647586945401756
+      VFX_P3_OverloadExplosion_26: 8544551233197207563
+      VFX_P3_OverloadExplosion_27: -7177882196152825201
+      VFX_P3_OverloadExplosion_28: -2840633616129847973
+      VFX_P3_OverloadExplosion_29: -6223382180619214803
+      VFX_P3_OverloadExplosion_3: -3271858796056458789
+      VFX_P3_OverloadExplosion_30: 9049583856351763712
+      VFX_P3_OverloadExplosion_31: 793928487619030001
+      VFX_P3_OverloadExplosion_32: 2311270354208120271
+      VFX_P3_OverloadExplosion_33: -8473027810139994160
+      VFX_P3_OverloadExplosion_34: 1937257039805281847
+      VFX_P3_OverloadExplosion_35: -7831657568563055341
+      VFX_P3_OverloadExplosion_36: -6215582957750217211
+      VFX_P3_OverloadExplosion_37: -139603323003663257
+      VFX_P3_OverloadExplosion_38: -3338786485659251484
+      VFX_P3_OverloadExplosion_39: -8246821836218800266
+      VFX_P3_OverloadExplosion_4: -1132984326418153872
+      VFX_P3_OverloadExplosion_40: 3070067582699169259
+      VFX_P3_OverloadExplosion_41: 6661857467184001171
+      VFX_P3_OverloadExplosion_42: -2534533472668904618
+      VFX_P3_OverloadExplosion_43: 3164831596991510699
+      VFX_P3_OverloadExplosion_44: -202993061969926241
+      VFX_P3_OverloadExplosion_45: -2406524146428479488
+      VFX_P3_OverloadExplosion_46: -5268806482255403135
+      VFX_P3_OverloadExplosion_47: -5354785003565026516
+      VFX_P3_OverloadExplosion_48: -189184450135609118
+      VFX_P3_OverloadExplosion_49: -7117799278948725147
+      VFX_P3_OverloadExplosion_5: 4023078226087140672
+      VFX_P3_OverloadExplosion_50: -2456599881399381674
+      VFX_P3_OverloadExplosion_51: 9145145111401998875
+      VFX_P3_OverloadExplosion_52: 6619498170936733507
+      VFX_P3_OverloadExplosion_53: -3200317705118361806
+      VFX_P3_OverloadExplosion_54: 3339852578664970535
+      VFX_P3_OverloadExplosion_55: -8594960000605658252
+      VFX_P3_OverloadExplosion_56: 4675170076608403000
+      VFX_P3_OverloadExplosion_57: -839926881398346416
+      VFX_P3_OverloadExplosion_58: -1225839273250493541
+      VFX_P3_OverloadExplosion_59: -8903024894210083756
+      VFX_P3_OverloadExplosion_6: -8446070867655209166
+      VFX_P3_OverloadExplosion_60: 2090227530405328657
+      VFX_P3_OverloadExplosion_61: 7895881087467368747
+      VFX_P3_OverloadExplosion_62: -1571863145334205758
+      VFX_P3_OverloadExplosion_63: 4590831135543907797
+      VFX_P3_OverloadExplosion_64: -5431305950093380654
+      VFX_P3_OverloadExplosion_65: -5908522317911703531
+      VFX_P3_OverloadExplosion_66: -4958570840477157980
+      VFX_P3_OverloadExplosion_67: 6314123322319892069
+      VFX_P3_OverloadExplosion_68: -3264055035341126425
+      VFX_P3_OverloadExplosion_69: 6824368145049034392
+      VFX_P3_OverloadExplosion_7: -6299145654793069501
+      VFX_P3_OverloadExplosion_70: 6932052760296306435
+      VFX_P3_OverloadExplosion_71: -2054060304768608946
+      VFX_P3_OverloadExplosion_72: 6214665699551890651
+      VFX_P3_OverloadExplosion_73: 8812035630210108599
+      VFX_P3_OverloadExplosion_74: -1087716806200155086
+      VFX_P3_OverloadExplosion_75: -1311916715475196546
+      VFX_P3_OverloadExplosion_76: -1363062220794418335
+      VFX_P3_OverloadExplosion_77: 612515541432774346
+      VFX_P3_OverloadExplosion_8: 3319529157877098876
+      VFX_P3_OverloadExplosion_9: -6513292286570191722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

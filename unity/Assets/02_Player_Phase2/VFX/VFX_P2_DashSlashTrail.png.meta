@@ -1,0 +1,3081 @@
+fileFormatVersion: 2
+guid: 23d557127573d0a4b9e93239a0cbe3b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -129364694356987806
+    second: VFX_P2_DashSlashTrail_0
+  - first:
+      213: -5926967819005771145
+    second: VFX_P2_DashSlashTrail_1
+  - first:
+      213: -1926843042504214030
+    second: VFX_P2_DashSlashTrail_2
+  - first:
+      213: -913579038915957618
+    second: VFX_P2_DashSlashTrail_3
+  - first:
+      213: -7306712049283400306
+    second: VFX_P2_DashSlashTrail_4
+  - first:
+      213: 2477929392191782609
+    second: VFX_P2_DashSlashTrail_5
+  - first:
+      213: 1307893267780493186
+    second: VFX_P2_DashSlashTrail_6
+  - first:
+      213: -6780189523493291129
+    second: VFX_P2_DashSlashTrail_7
+  - first:
+      213: -3384476033553707185
+    second: VFX_P2_DashSlashTrail_8
+  - first:
+      213: 57268500501653829
+    second: VFX_P2_DashSlashTrail_9
+  - first:
+      213: -1887407286773697686
+    second: VFX_P2_DashSlashTrail_10
+  - first:
+      213: -3766204174486354045
+    second: VFX_P2_DashSlashTrail_11
+  - first:
+      213: -1958271719065276047
+    second: VFX_P2_DashSlashTrail_12
+  - first:
+      213: -5935283983520182716
+    second: VFX_P2_DashSlashTrail_13
+  - first:
+      213: -4941221762675179871
+    second: VFX_P2_DashSlashTrail_14
+  - first:
+      213: 8785617935085667946
+    second: VFX_P2_DashSlashTrail_15
+  - first:
+      213: -4375859822023416927
+    second: VFX_P2_DashSlashTrail_16
+  - first:
+      213: -5670179215591382717
+    second: VFX_P2_DashSlashTrail_17
+  - first:
+      213: -803550294131825281
+    second: VFX_P2_DashSlashTrail_18
+  - first:
+      213: -6032903413276897115
+    second: VFX_P2_DashSlashTrail_19
+  - first:
+      213: -3477064094859619122
+    second: VFX_P2_DashSlashTrail_20
+  - first:
+      213: 5602478047301087080
+    second: VFX_P2_DashSlashTrail_21
+  - first:
+      213: 4996802077802430773
+    second: VFX_P2_DashSlashTrail_22
+  - first:
+      213: 937705775735976926
+    second: VFX_P2_DashSlashTrail_23
+  - first:
+      213: -4693832634948065562
+    second: VFX_P2_DashSlashTrail_24
+  - first:
+      213: -1386860616561814280
+    second: VFX_P2_DashSlashTrail_25
+  - first:
+      213: 1438160472571664020
+    second: VFX_P2_DashSlashTrail_26
+  - first:
+      213: -8756004633406009124
+    second: VFX_P2_DashSlashTrail_27
+  - first:
+      213: -2830603339413899941
+    second: VFX_P2_DashSlashTrail_28
+  - first:
+      213: 7686649123223666381
+    second: VFX_P2_DashSlashTrail_29
+  - first:
+      213: 7347226853052244848
+    second: VFX_P2_DashSlashTrail_30
+  - first:
+      213: -2100737727147138765
+    second: VFX_P2_DashSlashTrail_31
+  - first:
+      213: -1591937357629083660
+    second: VFX_P2_DashSlashTrail_32
+  - first:
+      213: -5130382706449995969
+    second: VFX_P2_DashSlashTrail_33
+  - first:
+      213: 2108682268644194248
+    second: VFX_P2_DashSlashTrail_34
+  - first:
+      213: 4784774071046596398
+    second: VFX_P2_DashSlashTrail_35
+  - first:
+      213: -3910110601891157196
+    second: VFX_P2_DashSlashTrail_36
+  - first:
+      213: 8970086838943007179
+    second: VFX_P2_DashSlashTrail_37
+  - first:
+      213: 5959685227964366699
+    second: VFX_P2_DashSlashTrail_38
+  - first:
+      213: -4562478077220738518
+    second: VFX_P2_DashSlashTrail_39
+  - first:
+      213: -3786838787034693477
+    second: VFX_P2_DashSlashTrail_40
+  - first:
+      213: 729515956861552814
+    second: VFX_P2_DashSlashTrail_41
+  - first:
+      213: 3256369647560687323
+    second: VFX_P2_DashSlashTrail_42
+  - first:
+      213: 6623889933001438592
+    second: VFX_P2_DashSlashTrail_43
+  - first:
+      213: 6635305425178544986
+    second: VFX_P2_DashSlashTrail_44
+  - first:
+      213: 1309057576878496734
+    second: VFX_P2_DashSlashTrail_45
+  - first:
+      213: 4497068740134176462
+    second: VFX_P2_DashSlashTrail_46
+  - first:
+      213: -4871341311562649142
+    second: VFX_P2_DashSlashTrail_47
+  - first:
+      213: 7795747901551218652
+    second: VFX_P2_DashSlashTrail_48
+  - first:
+      213: -6587756906275925306
+    second: VFX_P2_DashSlashTrail_49
+  - first:
+      213: 4239912078747266144
+    second: VFX_P2_DashSlashTrail_50
+  - first:
+      213: 3817067287481073357
+    second: VFX_P2_DashSlashTrail_51
+  - first:
+      213: 5846561549557436762
+    second: VFX_P2_DashSlashTrail_52
+  - first:
+      213: -4819742132581912702
+    second: VFX_P2_DashSlashTrail_53
+  - first:
+      213: 4683596950948535231
+    second: VFX_P2_DashSlashTrail_54
+  - first:
+      213: -2391510788990115628
+    second: VFX_P2_DashSlashTrail_55
+  - first:
+      213: 8319346797109184674
+    second: VFX_P2_DashSlashTrail_56
+  - first:
+      213: -1251774633034037929
+    second: VFX_P2_DashSlashTrail_57
+  - first:
+      213: 3068192871393024866
+    second: VFX_P2_DashSlashTrail_58
+  - first:
+      213: -8538667064725691020
+    second: VFX_P2_DashSlashTrail_59
+  - first:
+      213: -6479305270849143861
+    second: VFX_P2_DashSlashTrail_60
+  - first:
+      213: -8785611916773896514
+    second: VFX_P2_DashSlashTrail_61
+  - first:
+      213: 7038643893098158640
+    second: VFX_P2_DashSlashTrail_62
+  - first:
+      213: -5989256288259968858
+    second: VFX_P2_DashSlashTrail_63
+  - first:
+      213: -1705581477625912067
+    second: VFX_P2_DashSlashTrail_64
+  - first:
+      213: 4000114132322481562
+    second: VFX_P2_DashSlashTrail_65
+  - first:
+      213: -7589448125197068840
+    second: VFX_P2_DashSlashTrail_66
+  - first:
+      213: 8521401169016444731
+    second: VFX_P2_DashSlashTrail_67
+  - first:
+      213: -9100738679465463413
+    second: VFX_P2_DashSlashTrail_68
+  - first:
+      213: -108391065329613487
+    second: VFX_P2_DashSlashTrail_69
+  - first:
+      213: -6177797152153677648
+    second: VFX_P2_DashSlashTrail_70
+  - first:
+      213: -3617226603056470741
+    second: VFX_P2_DashSlashTrail_71
+  - first:
+      213: -1048377155027360365
+    second: VFX_P2_DashSlashTrail_72
+  - first:
+      213: -3765996808115215032
+    second: VFX_P2_DashSlashTrail_73
+  - first:
+      213: -8989534799277100288
+    second: VFX_P2_DashSlashTrail_74
+  - first:
+      213: -3783507874614712543
+    second: VFX_P2_DashSlashTrail_75
+  - first:
+      213: 8400708641089131503
+    second: VFX_P2_DashSlashTrail_76
+  - first:
+      213: -56429661821099199
+    second: VFX_P2_DashSlashTrail_77
+  - first:
+      213: 3550407164149351307
+    second: VFX_P2_DashSlashTrail_78
+  - first:
+      213: 1725751548956971427
+    second: VFX_P2_DashSlashTrail_79
+  - first:
+      213: 7009788664856344093
+    second: VFX_P2_DashSlashTrail_80
+  - first:
+      213: 7132411122351844212
+    second: VFX_P2_DashSlashTrail_81
+  - first:
+      213: 8895234989650825517
+    second: VFX_P2_DashSlashTrail_82
+  - first:
+      213: 4924523897658081793
+    second: VFX_P2_DashSlashTrail_83
+  - first:
+      213: 7213442202063552678
+    second: VFX_P2_DashSlashTrail_84
+  - first:
+      213: -5676952358566245781
+    second: VFX_P2_DashSlashTrail_85
+  - first:
+      213: -6917561273883163204
+    second: VFX_P2_DashSlashTrail_86
+  - first:
+      213: -3435237586038813773
+    second: VFX_P2_DashSlashTrail_87
+  - first:
+      213: -2342816831470583181
+    second: VFX_P2_DashSlashTrail_88
+  - first:
+      213: 3953248599618633268
+    second: VFX_P2_DashSlashTrail_89
+  - first:
+      213: -9053906894739200605
+    second: VFX_P2_DashSlashTrail_90
+  - first:
+      213: 6530224453132543077
+    second: VFX_P2_DashSlashTrail_91
+  - first:
+      213: -5995738141325644831
+    second: VFX_P2_DashSlashTrail_92
+  - first:
+      213: 3882021802061344076
+    second: VFX_P2_DashSlashTrail_93
+  - first:
+      213: -6995553268040897860
+    second: VFX_P2_DashSlashTrail_94
+  - first:
+      213: 8307901389100669190
+    second: VFX_P2_DashSlashTrail_95
+  - first:
+      213: -4551392044726613052
+    second: VFX_P2_DashSlashTrail_96
+  - first:
+      213: -6145753855130365343
+    second: VFX_P2_DashSlashTrail_97
+  - first:
+      213: -6606013134653932769
+    second: VFX_P2_DashSlashTrail_98
+  - first:
+      213: -1070982299163513149
+    second: VFX_P2_DashSlashTrail_99
+  - first:
+      213: 4391335132902248440
+    second: VFX_P2_DashSlashTrail_100
+  - first:
+      213: 8817793595780318018
+    second: VFX_P2_DashSlashTrail_101
+  - first:
+      213: 902214279750946843
+    second: VFX_P2_DashSlashTrail_102
+  - first:
+      213: 4253400272700316043
+    second: VFX_P2_DashSlashTrail_103
+  - first:
+      213: 5241527485955780811
+    second: VFX_P2_DashSlashTrail_104
+  - first:
+      213: -8065850783854976731
+    second: VFX_P2_DashSlashTrail_105
+  - first:
+      213: -2062661362561203764
+    second: VFX_P2_DashSlashTrail_106
+  - first:
+      213: -5469285998602519230
+    second: VFX_P2_DashSlashTrail_107
+  - first:
+      213: 7743319820064454830
+    second: VFX_P2_DashSlashTrail_108
+  - first:
+      213: -1752683469508360627
+    second: VFX_P2_DashSlashTrail_109
+  - first:
+      213: -6589041865035933942
+    second: VFX_P2_DashSlashTrail_110
+  - first:
+      213: -2984445614488617875
+    second: VFX_P2_DashSlashTrail_111
+  - first:
+      213: -5853961596683397018
+    second: VFX_P2_DashSlashTrail_112
+  - first:
+      213: 1081138762901230
+    second: VFX_P2_DashSlashTrail_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 688
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260ff52fe77643ef0800000000000000
+      internalID: -129364694356987806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 674
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7724df8cb2e2fbda0800000000000000
+      internalID: -5926967819005771145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 671
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f97a91367a7245e0800000000000000
+      internalID: -1926843042504214030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 542
+        width: 195
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ceb2754b05253f0800000000000000
+      internalID: -913579038915957618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 686
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d75629a18599a90800000000000000
+      internalID: -7306712049283400306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 712
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de371057af536220800000000000000
+      internalID: 2477929392191782609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 696
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f5e2e5ff1962210800000000000000
+      internalID: 1307893267780493186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 544
+        width: 198
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b7b562d8de7e1a0800000000000000
+      internalID: -6780189523493291129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_8
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 694
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f453daafce701d0800000000000000
+      internalID: -3384476033553707185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 680
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5496835d5657bc000800000000000000
+      internalID: 57268500501653829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 660
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63be5592159ec5e0800000000000000
+      internalID: -1887407286773697686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 678
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387c52ce141cbbbc0800000000000000
+      internalID: -3766204174486354045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171bb633f32d2d4e0800000000000000
+      internalID: -1958271719065276047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 682
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ec639d9a2a1ada0800000000000000
+      internalID: -5935283983520182716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 552
+        width: 110
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aef05f8cf04d6bb0800000000000000
+      internalID: -4941221762675179871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 672
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a660519b6f8cce970800000000000000
+      internalID: 8785617935085667946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 658
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3e3691da2d543c0800000000000000
+      internalID: -4375859822023416927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_17
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 672
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3416fd99b0a7f41b0800000000000000
+      internalID: -5670179215591382717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 669
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75ac1fc34739d4f0800000000000000
+      internalID: -803550294131825281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 643
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0936f2f42d64ca0800000000000000
+      internalID: -6032903413276897115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 641
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec490a4c0acfebfc0800000000000000
+      internalID: -3477064094859619122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 643
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f2e4fc91000cd40800000000000000
+      internalID: 5602478047301087080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 554
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531095cf305385540800000000000000
+      internalID: 4996802077802430773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 581
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed333925f66630d00800000000000000
+      internalID: 937705775735976926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 580
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6e8c666182cdeb0800000000000000
+      internalID: -4693832634948065562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 568
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f49adcfd91e0cce0800000000000000
+      internalID: -1386860616561814280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 561
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49654a1845f55f310800000000000000
+      internalID: 1438160472571664020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0192e5d2c6c7680800000000000000
+      internalID: -8756004633406009124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 281
+        width: 198
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55333e824da7b8d0800000000000000
+      internalID: -2830603339413899941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 463
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce70d6e6a67caa60800000000000000
+      internalID: 7686649123223666381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073e36445e796f560800000000000000
+      internalID: 7347226853052244848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 465
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3312227da2ea8d2e0800000000000000
+      internalID: -2100737727147138765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 478
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff28dd586d48e9e0800000000000000
+      internalID: -1591937357629083660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_33
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 470
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37ad344c183dc8b0800000000000000
+      internalID: -5130382706449995969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_34
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 459
+        width: 94
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7b3bed95b834d10800000000000000
+      internalID: 2108682268644194248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 456
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e276b33baaee66240800000000000000
+      internalID: 4784774071046596398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_36
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 458
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be9cdcf1f7cb9c0800000000000000
+      internalID: -3910110601891157196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 383
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1ca9754762c7c70800000000000000
+      internalID: 8970086838943007179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_38
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 427
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f75f9932e05b250800000000000000
+      internalID: 5959685227964366699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 281
+        width: 186
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a20cf9c52dea0c0800000000000000
+      internalID: -4562478077220738518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_40
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 412
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90402dcf22727bc0800000000000000
+      internalID: -3786838787034693477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 403
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea846bac5e2cf1a00800000000000000
+      internalID: 729515956861552814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_42
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 377
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdef73401f2f03d20800000000000000
+      internalID: 3256369647560687323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_43
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 381
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08536d79cc8cceb50800000000000000
+      internalID: 6623889933001438592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_44
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 354
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b4dfbf027551c50800000000000000
+      internalID: 6635305425178544986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_45
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 308
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb50643ee4ba2210800000000000000
+      internalID: 1309057576878496734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_46
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 294
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec60632513cc86e30800000000000000
+      internalID: 4497068740134176462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_47
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 290
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac17f98f2e4856cb0800000000000000
+      internalID: -4871341311562649142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_48
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 289
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf057ea96f003c60800000000000000
+      internalID: 7795747901551218652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_49
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 286
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c21cc64ff59394a0800000000000000
+      internalID: -6587756906275925306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_50
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 294
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c6e94529137da30800000000000000
+      internalID: 4239912078747266144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 188
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceb21a6972f8f430800000000000000
+      internalID: 3817067287481073357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 199
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5114deb0c8232150800000000000000
+      internalID: 5846561549557436762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_53
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 216
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fa8760116dc1db0800000000000000
+      internalID: -4819742132581912702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 169
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbd364bc9a7ff040800000000000000
+      internalID: 4683596950948535231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_55
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 214
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0eab1bb95afced0800000000000000
+      internalID: -2391510788990115628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_56
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 153
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a80afc85d1447370800000000000000
+      internalID: 8319346797109184674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_57
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 195
+        width: 78
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755492b7a9dc0aee0800000000000000
+      internalID: -1251774633034037929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_58
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 206
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b54c91929649a20800000000000000
+      internalID: 3068192871393024866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_59
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 175
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475a2bf5b8f808980800000000000000
+      internalID: -8538667064725691020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_60
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 175
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb78bb5f22e416a0800000000000000
+      internalID: -6479305270849143861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_61
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 185
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebec046828c331680800000000000000
+      internalID: -8785611916773896514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_62
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 182
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a969414594ea160800000000000000
+      internalID: 7038643893098158640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_63
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 168
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a07d756323e1eca0800000000000000
+      internalID: -5989256288259968858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_64
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 169
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df42f92ceae8458e0800000000000000
+      internalID: -1705581477625912067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_65
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95f91e1c92438730800000000000000
+      internalID: 4000114132322481562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 169
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5df58042ddca690800000000000000
+      internalID: -7589448125197068840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_67
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 163
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37d2d30739124670800000000000000
+      internalID: 8521401169016444731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_68
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 156
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81bdc8836ea3b180800000000000000
+      internalID: -9100738679465463413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 151
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155c33e76eaee7ef0800000000000000
+      internalID: -108391065329613487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_70
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 177
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0d573b83e044aa0800000000000000
+      internalID: -6177797152153677648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_71
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 158
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25e9b4c1970dcdc0800000000000000
+      internalID: -3617226603056470741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_72
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 172
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395a5f3388a6371f0800000000000000
+      internalID: -1048377155027360365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 155
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845a90b2bdd7cbbc0800000000000000
+      internalID: -3765996808115215032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_74
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 150
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00373198ab1ce3380800000000000000
+      internalID: -8989534799277100288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_75
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 146
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12762b842a74e7bc0800000000000000
+      internalID: -3783507874614712543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_76
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 164
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe31cad0000559470800000000000000
+      internalID: 8400708641089131503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 51
+        width: 88
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143ab548585873ff0800000000000000
+      internalID: -56429661821099199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_78
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 145
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83cf134184954130800000000000000
+      internalID: 3550407164149351307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_79
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 154
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1192ee3e913f710800000000000000
+      internalID: 1725751548956971427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_80
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 110
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d167257b6a5c74160800000000000000
+      internalID: 7009788664856344093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_81
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 138
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ba3db602a6bf260800000000000000
+      internalID: 7132411122351844212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_82
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 120
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2153c71819327b70800000000000000
+      internalID: 8895234989650825517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_83
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 84
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10205d7c46c675440800000000000000
+      internalID: 4924523897658081793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_84
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a04fcdd67b4b1460800000000000000
+      internalID: 7213442202063552678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ac7dc58e96731b0800000000000000
+      internalID: -5676952358566245781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_86
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 138
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb502361ca2efff90800000000000000
+      internalID: -6917561273883163204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_87
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 127
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb061dbd959350d0800000000000000
+      internalID: -3435237586038813773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_88
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 127
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372c36a2184ac7fd0800000000000000
+      internalID: -2342816831470583181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_89
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e3419f7a2ccd630800000000000000
+      internalID: 3953248599618633268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_90
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 81
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a52c9d16af0a5280800000000000000
+      internalID: -9053906894739200605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_91
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 94
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564e880aa8400aa50800000000000000
+      internalID: 6530224453132543077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_92
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 91
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb26006debdacca0800000000000000
+      internalID: -5995738141325644831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_93
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 49
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d203ad246bfd530800000000000000
+      internalID: 3882021802061344076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 109
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba6913ed5dcaee90800000000000000
+      internalID: -6995553268040897860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_95
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609d156db489b4370800000000000000
+      internalID: 8307901389100669190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_96
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 89
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb0884bc0536d0c0800000000000000
+      internalID: -4551392044726613052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_97
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 87
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16297fb2e65e5baa0800000000000000
+      internalID: -6145753855130365343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_98
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 65
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b336fdd0ab254a0800000000000000
+      internalID: -6606013134653932769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_99
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 72
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cea0a1f54b1321f0800000000000000
+      internalID: -1070982299163513149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_100
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffc45e790821fc30800000000000000
+      internalID: 4391335132902248440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_101
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 70
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24343338e881f5a70800000000000000
+      internalID: 8817793595780318018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_102
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 49
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1017d77b1f458c00800000000000000
+      internalID: 902214279750946843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_103
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 36
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b891ad5330d170b30800000000000000
+      internalID: 4253400272700316043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_104
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 65
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc037d84a75adb840800000000000000
+      internalID: 5241527485955780811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_105
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 71
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521a4016277501090800000000000000
+      internalID: -8065850783854976731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1cd905b64ff53e0800000000000000
+      internalID: -2062661362561203764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_107
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 34
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d774e9c513914b0800000000000000
+      internalID: -5469285998602519230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_108
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 66
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8fe29b95cc57b60800000000000000
+      internalID: 7743319820064454830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_109
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46414caba73da7e0800000000000000
+      internalID: -1752683469508360627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_110
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 59
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a071b5085550f84a0800000000000000
+      internalID: -6589041865035933942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_111
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 59
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cfee0a68e1596d0800000000000000
+      internalID: -2984445614488617875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_112
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 39
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66858e481fc82cea0800000000000000
+      internalID: -5853961596683397018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P2_DashSlashTrail_113
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 43
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee66aeb3a47d30000800000000000000
+      internalID: 1081138762901230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P2_DashSlashTrail_0: -129364694356987806
+      VFX_P2_DashSlashTrail_1: -5926967819005771145
+      VFX_P2_DashSlashTrail_10: -1887407286773697686
+      VFX_P2_DashSlashTrail_100: 4391335132902248440
+      VFX_P2_DashSlashTrail_101: 8817793595780318018
+      VFX_P2_DashSlashTrail_102: 902214279750946843
+      VFX_P2_DashSlashTrail_103: 4253400272700316043
+      VFX_P2_DashSlashTrail_104: 5241527485955780811
+      VFX_P2_DashSlashTrail_105: -8065850783854976731
+      VFX_P2_DashSlashTrail_106: -2062661362561203764
+      VFX_P2_DashSlashTrail_107: -5469285998602519230
+      VFX_P2_DashSlashTrail_108: 7743319820064454830
+      VFX_P2_DashSlashTrail_109: -1752683469508360627
+      VFX_P2_DashSlashTrail_11: -3766204174486354045
+      VFX_P2_DashSlashTrail_110: -6589041865035933942
+      VFX_P2_DashSlashTrail_111: -2984445614488617875
+      VFX_P2_DashSlashTrail_112: -5853961596683397018
+      VFX_P2_DashSlashTrail_113: 1081138762901230
+      VFX_P2_DashSlashTrail_12: -1958271719065276047
+      VFX_P2_DashSlashTrail_13: -5935283983520182716
+      VFX_P2_DashSlashTrail_14: -4941221762675179871
+      VFX_P2_DashSlashTrail_15: 8785617935085667946
+      VFX_P2_DashSlashTrail_16: -4375859822023416927
+      VFX_P2_DashSlashTrail_17: -5670179215591382717
+      VFX_P2_DashSlashTrail_18: -803550294131825281
+      VFX_P2_DashSlashTrail_19: -6032903413276897115
+      VFX_P2_DashSlashTrail_2: -1926843042504214030
+      VFX_P2_DashSlashTrail_20: -3477064094859619122
+      VFX_P2_DashSlashTrail_21: 5602478047301087080
+      VFX_P2_DashSlashTrail_22: 4996802077802430773
+      VFX_P2_DashSlashTrail_23: 937705775735976926
+      VFX_P2_DashSlashTrail_24: -4693832634948065562
+      VFX_P2_DashSlashTrail_25: -1386860616561814280
+      VFX_P2_DashSlashTrail_26: 1438160472571664020
+      VFX_P2_DashSlashTrail_27: -8756004633406009124
+      VFX_P2_DashSlashTrail_28: -2830603339413899941
+      VFX_P2_DashSlashTrail_29: 7686649123223666381
+      VFX_P2_DashSlashTrail_3: -913579038915957618
+      VFX_P2_DashSlashTrail_30: 7347226853052244848
+      VFX_P2_DashSlashTrail_31: -2100737727147138765
+      VFX_P2_DashSlashTrail_32: -1591937357629083660
+      VFX_P2_DashSlashTrail_33: -5130382706449995969
+      VFX_P2_DashSlashTrail_34: 2108682268644194248
+      VFX_P2_DashSlashTrail_35: 4784774071046596398
+      VFX_P2_DashSlashTrail_36: -3910110601891157196
+      VFX_P2_DashSlashTrail_37: 8970086838943007179
+      VFX_P2_DashSlashTrail_38: 5959685227964366699
+      VFX_P2_DashSlashTrail_39: -4562478077220738518
+      VFX_P2_DashSlashTrail_4: -7306712049283400306
+      VFX_P2_DashSlashTrail_40: -3786838787034693477
+      VFX_P2_DashSlashTrail_41: 729515956861552814
+      VFX_P2_DashSlashTrail_42: 3256369647560687323
+      VFX_P2_DashSlashTrail_43: 6623889933001438592
+      VFX_P2_DashSlashTrail_44: 6635305425178544986
+      VFX_P2_DashSlashTrail_45: 1309057576878496734
+      VFX_P2_DashSlashTrail_46: 4497068740134176462
+      VFX_P2_DashSlashTrail_47: -4871341311562649142
+      VFX_P2_DashSlashTrail_48: 7795747901551218652
+      VFX_P2_DashSlashTrail_49: -6587756906275925306
+      VFX_P2_DashSlashTrail_5: 2477929392191782609
+      VFX_P2_DashSlashTrail_50: 4239912078747266144
+      VFX_P2_DashSlashTrail_51: 3817067287481073357
+      VFX_P2_DashSlashTrail_52: 5846561549557436762
+      VFX_P2_DashSlashTrail_53: -4819742132581912702
+      VFX_P2_DashSlashTrail_54: 4683596950948535231
+      VFX_P2_DashSlashTrail_55: -2391510788990115628
+      VFX_P2_DashSlashTrail_56: 8319346797109184674
+      VFX_P2_DashSlashTrail_57: -1251774633034037929
+      VFX_P2_DashSlashTrail_58: 3068192871393024866
+      VFX_P2_DashSlashTrail_59: -8538667064725691020
+      VFX_P2_DashSlashTrail_6: 1307893267780493186
+      VFX_P2_DashSlashTrail_60: -6479305270849143861
+      VFX_P2_DashSlashTrail_61: -8785611916773896514
+      VFX_P2_DashSlashTrail_62: 7038643893098158640
+      VFX_P2_DashSlashTrail_63: -5989256288259968858
+      VFX_P2_DashSlashTrail_64: -1705581477625912067
+      VFX_P2_DashSlashTrail_65: 4000114132322481562
+      VFX_P2_DashSlashTrail_66: -7589448125197068840
+      VFX_P2_DashSlashTrail_67: 8521401169016444731
+      VFX_P2_DashSlashTrail_68: -9100738679465463413
+      VFX_P2_DashSlashTrail_69: -108391065329613487
+      VFX_P2_DashSlashTrail_7: -6780189523493291129
+      VFX_P2_DashSlashTrail_70: -6177797152153677648
+      VFX_P2_DashSlashTrail_71: -3617226603056470741
+      VFX_P2_DashSlashTrail_72: -1048377155027360365
+      VFX_P2_DashSlashTrail_73: -3765996808115215032
+      VFX_P2_DashSlashTrail_74: -8989534799277100288
+      VFX_P2_DashSlashTrail_75: -3783507874614712543
+      VFX_P2_DashSlashTrail_76: 8400708641089131503
+      VFX_P2_DashSlashTrail_77: -56429661821099199
+      VFX_P2_DashSlashTrail_78: 3550407164149351307
+      VFX_P2_DashSlashTrail_79: 1725751548956971427
+      VFX_P2_DashSlashTrail_8: -3384476033553707185
+      VFX_P2_DashSlashTrail_80: 7009788664856344093
+      VFX_P2_DashSlashTrail_81: 7132411122351844212
+      VFX_P2_DashSlashTrail_82: 8895234989650825517
+      VFX_P2_DashSlashTrail_83: 4924523897658081793
+      VFX_P2_DashSlashTrail_84: 7213442202063552678
+      VFX_P2_DashSlashTrail_85: -5676952358566245781
+      VFX_P2_DashSlashTrail_86: -6917561273883163204
+      VFX_P2_DashSlashTrail_87: -3435237586038813773
+      VFX_P2_DashSlashTrail_88: -2342816831470583181
+      VFX_P2_DashSlashTrail_89: 3953248599618633268
+      VFX_P2_DashSlashTrail_9: 57268500501653829
+      VFX_P2_DashSlashTrail_90: -9053906894739200605
+      VFX_P2_DashSlashTrail_91: 6530224453132543077
+      VFX_P2_DashSlashTrail_92: -5995738141325644831
+      VFX_P2_DashSlashTrail_93: 3882021802061344076
+      VFX_P2_DashSlashTrail_94: -6995553268040897860
+      VFX_P2_DashSlashTrail_95: 8307901389100669190
+      VFX_P2_DashSlashTrail_96: -4551392044726613052
+      VFX_P2_DashSlashTrail_97: -6145753855130365343
+      VFX_P2_DashSlashTrail_98: -6606013134653932769
+      VFX_P2_DashSlashTrail_99: -1070982299163513149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,50 @@
+{
+  "name": "Elevator_Operating",
+  "sourcePage": 12,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.3518900343642612,
+  "sourceOffset": [
+    17,
+    36
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "94d52f68c4ef8c7cf3cc5f4bb8471e24c46457889266f0dbf00b4c6861667dc6",
+  "spriteSha256": "df963616e548547a2fb83db4fa3b1ca34664ce8f56f6b3929704bcf00b6ff578"
+}

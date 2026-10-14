@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 79b71ce66e5405a4fb8e4b4e58649ffa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4210142474974575828
+    second: Light_BrokenSparks_0
+  - first:
+      213: 6745087434652465392
+    second: Light_BrokenSparks_1
+  - first:
+      213: -2446852722051654329
+    second: Light_BrokenSparks_2
+  - first:
+      213: -9182947530399461083
+    second: Light_BrokenSparks_3
+  - first:
+      213: -707917012463266746
+    second: Light_BrokenSparks_4
+  - first:
+      213: 1364043797286241409
+    second: Light_BrokenSparks_5
+  - first:
+      213: -1972683023712036357
+    second: Light_BrokenSparks_6
+  - first:
+      213: 2332238062594635196
+    second: Light_BrokenSparks_7
+  - first:
+      213: 4117185283709242277
+    second: Light_BrokenSparks_8
+  - first:
+      213: -6444865131116204998
+    second: Light_BrokenSparks_9
+  - first:
+      213: -7935020771620147596
+    second: Light_BrokenSparks_10
+  - first:
+      213: -5525148009412609601
+    second: Light_BrokenSparks_11
+  - first:
+      213: -4272752569915637611
+    second: Light_BrokenSparks_12
+  - first:
+      213: -3089243113245897497
+    second: Light_BrokenSparks_13
+  - first:
+      213: -7055116809685358115
+    second: Light_BrokenSparks_14
+  - first:
+      213: 5022877774969616582
+    second: Light_BrokenSparks_15
+  - first:
+      213: -7524330651539757439
+    second: Light_BrokenSparks_16
+  - first:
+      213: -3860238801283568598
+    second: Light_BrokenSparks_17
+  - first:
+      213: 5603188618356093618
+    second: Light_BrokenSparks_18
+  - first:
+      213: 2632718166135221143
+    second: Light_BrokenSparks_19
+  - first:
+      213: 8896440278857791663
+    second: Light_BrokenSparks_20
+  - first:
+      213: -5564787839690394830
+    second: Light_BrokenSparks_21
+  - first:
+      213: -4285715577744822146
+    second: Light_BrokenSparks_22
+  - first:
+      213: 1643318576128474796
+    second: Light_BrokenSparks_23
+  - first:
+      213: -4588194365184951365
+    second: Light_BrokenSparks_24
+  - first:
+      213: 3481172124221441559
+    second: Light_BrokenSparks_25
+  - first:
+      213: -9141790416311799195
+    second: Light_BrokenSparks_26
+  - first:
+      213: 5952840534987647206
+    second: Light_BrokenSparks_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light_BrokenSparks_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 287
+        width: 188
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c234b5da9b19295c0800000000000000
+      internalID: -4210142474974575828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 207
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f83969e84d5b9d50800000000000000
+      internalID: 6745087434652465392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 192
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dd96cc9680b0ed0800000000000000
+      internalID: -2446852722051654329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 468
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5215d7bdfdd9f8080800000000000000
+      internalID: -9182947530399461083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 421
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644dba55a39fc26f0800000000000000
+      internalID: -707917012463266746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 287
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184425b4b9e0ee210800000000000000
+      internalID: 1364043797286241409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 293
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9533ddd3f9f94e0800000000000000
+      internalID: -1972683023712036357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 289
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb539944926cd5020800000000000000
+      internalID: 2332238062594635196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 287
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab84f5a33e232930800000000000000
+      internalID: 4117185283709242277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 290
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c64824f4d3f86a0800000000000000
+      internalID: -6444865131116204998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 59
+        width: 183
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e2c3656a421e190800000000000000
+      internalID: -7935020771620147596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 137
+        width: 15
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9318fa82bb253b0800000000000000
+      internalID: -5525148009412609601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 199
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5908a09fc2224b4c0800000000000000
+      internalID: -4272752569915637611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 31
+        width: 177
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec082a81cdc025d0800000000000000
+      internalID: -3089243113245897497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 205
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd921d524a0371e90800000000000000
+      internalID: -7055116809685358115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 208
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8b44759b8d4b540800000000000000
+      internalID: 5022877774969616582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_16
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 199
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186a3665325349790800000000000000
+      internalID: -7524330651539757439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_17
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 202
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c205d334dad6ac0800000000000000
+      internalID: -3860238801283568598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_18
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 204
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b270a68c5682cd40800000000000000
+      internalID: 5603188618356093618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_19
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 203
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b253e293b498420800000000000000
+      internalID: 2632718166135221143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 194
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8bbca5c41867b70800000000000000
+      internalID: 8896440278857791663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 189
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23337dc71f6e5c2b0800000000000000
+      internalID: -5564787839690394830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 185
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70792483641684c0800000000000000
+      internalID: -4285715577744822146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 192
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae30fec98d3ec610800000000000000
+      internalID: 1643318576128474796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_24
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 144
+        width: 10
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbb3beb8857350c0800000000000000
+      internalID: -4588194365184951365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 53
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716063a5a9b9f4030800000000000000
+      internalID: 3481172124221441559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 90
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5623aa83d06d12180800000000000000
+      internalID: -9141790416311799195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_BrokenSparks_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 25
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e82c745decbc9250800000000000000
+      internalID: 5952840534987647206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Light_BrokenSparks_0: -4210142474974575828
+      Light_BrokenSparks_1: 6745087434652465392
+      Light_BrokenSparks_10: -7935020771620147596
+      Light_BrokenSparks_11: -5525148009412609601
+      Light_BrokenSparks_12: -4272752569915637611
+      Light_BrokenSparks_13: -3089243113245897497
+      Light_BrokenSparks_14: -7055116809685358115
+      Light_BrokenSparks_15: 5022877774969616582
+      Light_BrokenSparks_16: -7524330651539757439
+      Light_BrokenSparks_17: -3860238801283568598
+      Light_BrokenSparks_18: 5603188618356093618
+      Light_BrokenSparks_19: 2632718166135221143
+      Light_BrokenSparks_2: -2446852722051654329
+      Light_BrokenSparks_20: 8896440278857791663
+      Light_BrokenSparks_21: -5564787839690394830
+      Light_BrokenSparks_22: -4285715577744822146
+      Light_BrokenSparks_23: 1643318576128474796
+      Light_BrokenSparks_24: -4588194365184951365
+      Light_BrokenSparks_25: 3481172124221441559
+      Light_BrokenSparks_26: -9141790416311799195
+      Light_BrokenSparks_27: 5952840534987647206
+      Light_BrokenSparks_3: -9182947530399461083
+      Light_BrokenSparks_4: -707917012463266746
+      Light_BrokenSparks_5: 1364043797286241409
+      Light_BrokenSparks_6: -1972683023712036357
+      Light_BrokenSparks_7: 2332238062594635196
+      Light_BrokenSparks_8: 4117185283709242277
+      Light_BrokenSparks_9: -6444865131116204998
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,38 @@
+{
+  "name": "DestructibleCrate_Base",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.2128898128898129,
+  "sourceOffset": [
+    -6,
+    26
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "b838f0ddd0e517088976b50227e2df37cadec001e581c12ffa4f3d23d8c7c778",
+  "spriteSha256": "e3c49ff67effe69a216d397184074362dee14a4b43d5e0e8bf99af4f148414b0"
+}

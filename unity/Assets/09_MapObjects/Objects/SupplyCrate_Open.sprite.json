@@ -1,0 +1,38 @@
+{
+  "name": "SupplyCrate_Open",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.21974248927038628,
+  "sourceOffset": [
+    -10,
+    3
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "7c530890e070c051c93200682168ef30433fdc6de9a3633111cfe294b131ce12",
+  "spriteSha256": "78e3a3e22d2e9c921adf0d127a1b2d4d05c5b24732614badae139c2a58373ccc"
+}

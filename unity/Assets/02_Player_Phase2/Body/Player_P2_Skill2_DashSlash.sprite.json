@@ -1,0 +1,102 @@
+{
+  "name": "Player_P2_Skill2_DashSlash",
+  "sourcePage": 4,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    37
+  ],
+  "sourceRegions": [
+    [
+      169,
+      49,
+      394,
+      494
+    ],
+    [
+      574,
+      153,
+      978,
+      490
+    ],
+    [
+      1082,
+      96,
+      1499,
+      494
+    ],
+    [
+      41,
+      614,
+      594,
+      964
+    ],
+    [
+      588,
+      606,
+      1017,
+      964
+    ],
+    [
+      1128,
+      551,
+      1423,
+      963
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      -9,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "c34cde571dc5624d43ae22d5379e32f37bfcf62c4363a8966cf62d67ee38718a",
+  "spriteSha256": "46865da176370efacce6e751e20a6889415aa82af34551cd3978a3357ccc5ae0",
+  "proposedCombatTiming": {
+    "hitFrames": [
+      4
+    ],
+    "note": "돌진 후 팔/무기 전개; 궤적 VFX 별도"
+  },
+  "combatTimingFrameIndexBase": 1
+}

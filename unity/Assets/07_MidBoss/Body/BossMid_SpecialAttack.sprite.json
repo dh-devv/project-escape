@@ -1,0 +1,122 @@
+{
+  "name": "BossMid_SpecialAttack",
+  "sourcePage": 9,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.48995215311004786,
+  "sourceOffset": [
+    25,
+    28
+  ],
+  "sourceRegions": [
+    [
+      60,
+      179,
+      401,
+      420
+    ],
+    [
+      490,
+      69,
+      792,
+      416
+    ],
+    [
+      889,
+      32,
+      1183,
+      416
+    ],
+    [
+      30,
+      503,
+      409,
+      816
+    ],
+    [
+      467,
+      581,
+      822,
+      825
+    ],
+    [
+      875,
+      587,
+      1236,
+      813
+    ],
+    [
+      97,
+      861,
+      395,
+      1212
+    ],
+    [
+      473,
+      917,
+      779,
+      1213
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "335ff816b199d8b6da9b7f85f9e6a9d94afcdfa0f27ab1d4e0b0d63ad870bc0b",
+  "spriteSha256": "eceec3d2975ed8e6d90f044a902ecb134bc5c4b25bc55e08eb3dbfbf2c812175",
+  "proposedCombatTiming": {
+    "hitFrames": [
+      5
+    ],
+    "note": "지면 강타와 충격파 생성 시점"
+  },
+  "combatTimingFrameIndexBase": 1
+}

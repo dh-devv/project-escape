@@ -1,0 +1,4173 @@
+fileFormatVersion: 2
+guid: 7641d9ca5e9673c4dad913697592d16d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2870338823882846469
+    second: Checkpoint_ActivationEffect_0
+  - first:
+      213: 8243801071938797463
+    second: Checkpoint_ActivationEffect_1
+  - first:
+      213: -1741911591682803912
+    second: Checkpoint_ActivationEffect_2
+  - first:
+      213: -3612264617758592086
+    second: Checkpoint_ActivationEffect_3
+  - first:
+      213: -3654141693572403866
+    second: Checkpoint_ActivationEffect_4
+  - first:
+      213: 8057988295137254394
+    second: Checkpoint_ActivationEffect_5
+  - first:
+      213: 6923450761440363629
+    second: Checkpoint_ActivationEffect_6
+  - first:
+      213: 2210604972729287556
+    second: Checkpoint_ActivationEffect_7
+  - first:
+      213: 1773137064166215032
+    second: Checkpoint_ActivationEffect_8
+  - first:
+      213: 7967561591826194008
+    second: Checkpoint_ActivationEffect_9
+  - first:
+      213: 5614504688118248570
+    second: Checkpoint_ActivationEffect_10
+  - first:
+      213: 1357023519419154923
+    second: Checkpoint_ActivationEffect_11
+  - first:
+      213: -1812426529969823843
+    second: Checkpoint_ActivationEffect_12
+  - first:
+      213: -5095960758604743727
+    second: Checkpoint_ActivationEffect_13
+  - first:
+      213: -6817524550150096602
+    second: Checkpoint_ActivationEffect_14
+  - first:
+      213: -5537263851529076487
+    second: Checkpoint_ActivationEffect_15
+  - first:
+      213: 370145886169207242
+    second: Checkpoint_ActivationEffect_16
+  - first:
+      213: 4994319324435577890
+    second: Checkpoint_ActivationEffect_17
+  - first:
+      213: 1340489428646243872
+    second: Checkpoint_ActivationEffect_18
+  - first:
+      213: -5314662498579717394
+    second: Checkpoint_ActivationEffect_19
+  - first:
+      213: -613214576448565834
+    second: Checkpoint_ActivationEffect_20
+  - first:
+      213: -3721124426974993243
+    second: Checkpoint_ActivationEffect_21
+  - first:
+      213: -5414669988551241455
+    second: Checkpoint_ActivationEffect_22
+  - first:
+      213: -4510546056277205985
+    second: Checkpoint_ActivationEffect_23
+  - first:
+      213: -7816085410337924346
+    second: Checkpoint_ActivationEffect_24
+  - first:
+      213: 906274747171343018
+    second: Checkpoint_ActivationEffect_25
+  - first:
+      213: 8929990701113522030
+    second: Checkpoint_ActivationEffect_26
+  - first:
+      213: -4829735781011566142
+    second: Checkpoint_ActivationEffect_27
+  - first:
+      213: 67831624897226883
+    second: Checkpoint_ActivationEffect_28
+  - first:
+      213: 2220600601375198447
+    second: Checkpoint_ActivationEffect_29
+  - first:
+      213: -3382573113494331892
+    second: Checkpoint_ActivationEffect_30
+  - first:
+      213: 8025838424724619716
+    second: Checkpoint_ActivationEffect_31
+  - first:
+      213: 6580641512475747557
+    second: Checkpoint_ActivationEffect_32
+  - first:
+      213: 8035262027982804
+    second: Checkpoint_ActivationEffect_33
+  - first:
+      213: 6584446297455096454
+    second: Checkpoint_ActivationEffect_34
+  - first:
+      213: -1016196556036845640
+    second: Checkpoint_ActivationEffect_35
+  - first:
+      213: -6535777930204430375
+    second: Checkpoint_ActivationEffect_36
+  - first:
+      213: 523210371869912382
+    second: Checkpoint_ActivationEffect_37
+  - first:
+      213: 5104815193408014364
+    second: Checkpoint_ActivationEffect_38
+  - first:
+      213: -7472211118549122886
+    second: Checkpoint_ActivationEffect_39
+  - first:
+      213: 594765903140420240
+    second: Checkpoint_ActivationEffect_40
+  - first:
+      213: 6559161194363422596
+    second: Checkpoint_ActivationEffect_41
+  - first:
+      213: 8776380872415502962
+    second: Checkpoint_ActivationEffect_42
+  - first:
+      213: -7260882733070925874
+    second: Checkpoint_ActivationEffect_43
+  - first:
+      213: -8201373547651838226
+    second: Checkpoint_ActivationEffect_44
+  - first:
+      213: -9188290354019463092
+    second: Checkpoint_ActivationEffect_45
+  - first:
+      213: 2655857814811204665
+    second: Checkpoint_ActivationEffect_46
+  - first:
+      213: -7669836436009804492
+    second: Checkpoint_ActivationEffect_47
+  - first:
+      213: -8585461194491032550
+    second: Checkpoint_ActivationEffect_48
+  - first:
+      213: -6936257509045475678
+    second: Checkpoint_ActivationEffect_49
+  - first:
+      213: -4980030030793308200
+    second: Checkpoint_ActivationEffect_50
+  - first:
+      213: -6472069797605151312
+    second: Checkpoint_ActivationEffect_51
+  - first:
+      213: 3951638049339091697
+    second: Checkpoint_ActivationEffect_52
+  - first:
+      213: -1740780855333699184
+    second: Checkpoint_ActivationEffect_53
+  - first:
+      213: 5903149095214418520
+    second: Checkpoint_ActivationEffect_54
+  - first:
+      213: -5924626990045228555
+    second: Checkpoint_ActivationEffect_55
+  - first:
+      213: 1720647861669226090
+    second: Checkpoint_ActivationEffect_56
+  - first:
+      213: -2768766963582177236
+    second: Checkpoint_ActivationEffect_57
+  - first:
+      213: -7840082200638642268
+    second: Checkpoint_ActivationEffect_58
+  - first:
+      213: -5241154756219959260
+    second: Checkpoint_ActivationEffect_59
+  - first:
+      213: -3754876307237338394
+    second: Checkpoint_ActivationEffect_60
+  - first:
+      213: -8269626402804984896
+    second: Checkpoint_ActivationEffect_61
+  - first:
+      213: 3746614616091335174
+    second: Checkpoint_ActivationEffect_62
+  - first:
+      213: -784719383928174527
+    second: Checkpoint_ActivationEffect_63
+  - first:
+      213: -5250527002521605923
+    second: Checkpoint_ActivationEffect_64
+  - first:
+      213: 5390172175223677296
+    second: Checkpoint_ActivationEffect_65
+  - first:
+      213: -8283592845043498765
+    second: Checkpoint_ActivationEffect_66
+  - first:
+      213: -8719033076694043832
+    second: Checkpoint_ActivationEffect_67
+  - first:
+      213: -5793394238410313332
+    second: Checkpoint_ActivationEffect_68
+  - first:
+      213: 5906692928577131072
+    second: Checkpoint_ActivationEffect_69
+  - first:
+      213: -3521444229952026569
+    second: Checkpoint_ActivationEffect_70
+  - first:
+      213: 1015055434263410173
+    second: Checkpoint_ActivationEffect_71
+  - first:
+      213: -9180350656988799677
+    second: Checkpoint_ActivationEffect_72
+  - first:
+      213: 8749617997893449639
+    second: Checkpoint_ActivationEffect_73
+  - first:
+      213: -9023502916859177153
+    second: Checkpoint_ActivationEffect_74
+  - first:
+      213: 1499635505094688026
+    second: Checkpoint_ActivationEffect_75
+  - first:
+      213: -914261800877293166
+    second: Checkpoint_ActivationEffect_76
+  - first:
+      213: -4629980454988566596
+    second: Checkpoint_ActivationEffect_77
+  - first:
+      213: 4639003911453084889
+    second: Checkpoint_ActivationEffect_78
+  - first:
+      213: 1716378718673647092
+    second: Checkpoint_ActivationEffect_79
+  - first:
+      213: -8939910065906637277
+    second: Checkpoint_ActivationEffect_80
+  - first:
+      213: -8988206682031781997
+    second: Checkpoint_ActivationEffect_81
+  - first:
+      213: 7440451387614018279
+    second: Checkpoint_ActivationEffect_82
+  - first:
+      213: -3571924901619597551
+    second: Checkpoint_ActivationEffect_83
+  - first:
+      213: 3763850047297241839
+    second: Checkpoint_ActivationEffect_84
+  - first:
+      213: 7856273662620011291
+    second: Checkpoint_ActivationEffect_85
+  - first:
+      213: -1462316139647347670
+    second: Checkpoint_ActivationEffect_86
+  - first:
+      213: -460933865542495454
+    second: Checkpoint_ActivationEffect_87
+  - first:
+      213: -5256076709657976344
+    second: Checkpoint_ActivationEffect_88
+  - first:
+      213: -3365942804039335479
+    second: Checkpoint_ActivationEffect_89
+  - first:
+      213: 3859209392863860353
+    second: Checkpoint_ActivationEffect_90
+  - first:
+      213: -2421549945919575387
+    second: Checkpoint_ActivationEffect_91
+  - first:
+      213: 5284386939610683998
+    second: Checkpoint_ActivationEffect_92
+  - first:
+      213: -2049065085265610163
+    second: Checkpoint_ActivationEffect_93
+  - first:
+      213: 1644464868835657330
+    second: Checkpoint_ActivationEffect_94
+  - first:
+      213: 5124538185972703386
+    second: Checkpoint_ActivationEffect_95
+  - first:
+      213: -2760139390191994443
+    second: Checkpoint_ActivationEffect_96
+  - first:
+      213: -2275158698666983664
+    second: Checkpoint_ActivationEffect_97
+  - first:
+      213: 1581058558149126614
+    second: Checkpoint_ActivationEffect_98
+  - first:
+      213: 7904680381204444074
+    second: Checkpoint_ActivationEffect_99
+  - first:
+      213: 7829467950837958360
+    second: Checkpoint_ActivationEffect_100
+  - first:
+      213: 5705850037419276999
+    second: Checkpoint_ActivationEffect_101
+  - first:
+      213: 4527450382936785839
+    second: Checkpoint_ActivationEffect_102
+  - first:
+      213: 2532407624666110165
+    second: Checkpoint_ActivationEffect_103
+  - first:
+      213: -1576154637173701711
+    second: Checkpoint_ActivationEffect_104
+  - first:
+      213: -2838287727860533411
+    second: Checkpoint_ActivationEffect_105
+  - first:
+      213: -7990763498271644123
+    second: Checkpoint_ActivationEffect_106
+  - first:
+      213: 5124132190112865795
+    second: Checkpoint_ActivationEffect_107
+  - first:
+      213: -2149628590393444984
+    second: Checkpoint_ActivationEffect_108
+  - first:
+      213: -4051528092429068607
+    second: Checkpoint_ActivationEffect_109
+  - first:
+      213: 7769983864445972725
+    second: Checkpoint_ActivationEffect_110
+  - first:
+      213: -6702492642567324558
+    second: Checkpoint_ActivationEffect_111
+  - first:
+      213: -6197308195586644259
+    second: Checkpoint_ActivationEffect_112
+  - first:
+      213: 2597057796379685313
+    second: Checkpoint_ActivationEffect_113
+  - first:
+      213: -5852895850029763291
+    second: Checkpoint_ActivationEffect_114
+  - first:
+      213: -8659541916790210941
+    second: Checkpoint_ActivationEffect_115
+  - first:
+      213: 2884988714991619968
+    second: Checkpoint_ActivationEffect_116
+  - first:
+      213: -8289547708906020886
+    second: Checkpoint_ActivationEffect_117
+  - first:
+      213: 4252995426996953300
+    second: Checkpoint_ActivationEffect_118
+  - first:
+      213: 7767997453212893530
+    second: Checkpoint_ActivationEffect_119
+  - first:
+      213: 7829597777652641918
+    second: Checkpoint_ActivationEffect_120
+  - first:
+      213: -6224159665686744104
+    second: Checkpoint_ActivationEffect_121
+  - first:
+      213: 1575722258258697849
+    second: Checkpoint_ActivationEffect_122
+  - first:
+      213: 5672430885964304163
+    second: Checkpoint_ActivationEffect_123
+  - first:
+      213: 4281513817075250530
+    second: Checkpoint_ActivationEffect_124
+  - first:
+      213: -2757156182922252555
+    second: Checkpoint_ActivationEffect_125
+  - first:
+      213: -4189867943421310721
+    second: Checkpoint_ActivationEffect_126
+  - first:
+      213: -8528844098920157740
+    second: Checkpoint_ActivationEffect_127
+  - first:
+      213: -8114962155110763704
+    second: Checkpoint_ActivationEffect_128
+  - first:
+      213: 1516535286133849596
+    second: Checkpoint_ActivationEffect_129
+  - first:
+      213: 4064841841688529308
+    second: Checkpoint_ActivationEffect_130
+  - first:
+      213: -5062261753941972646
+    second: Checkpoint_ActivationEffect_131
+  - first:
+      213: -530543881709421110
+    second: Checkpoint_ActivationEffect_132
+  - first:
+      213: 3285128629654833839
+    second: Checkpoint_ActivationEffect_133
+  - first:
+      213: -517857515713573598
+    second: Checkpoint_ActivationEffect_134
+  - first:
+      213: 5025425406794642620
+    second: Checkpoint_ActivationEffect_135
+  - first:
+      213: -5355021405605242100
+    second: Checkpoint_ActivationEffect_136
+  - first:
+      213: 6447794528511553822
+    second: Checkpoint_ActivationEffect_137
+  - first:
+      213: -6816279356963918859
+    second: Checkpoint_ActivationEffect_138
+  - first:
+      213: 6971365177279199709
+    second: Checkpoint_ActivationEffect_139
+  - first:
+      213: 8569039747296067021
+    second: Checkpoint_ActivationEffect_140
+  - first:
+      213: 5857982425435397251
+    second: Checkpoint_ActivationEffect_141
+  - first:
+      213: -8061070316468015323
+    second: Checkpoint_ActivationEffect_142
+  - first:
+      213: 2538818996449009989
+    second: Checkpoint_ActivationEffect_143
+  - first:
+      213: 7131386675508585837
+    second: Checkpoint_ActivationEffect_144
+  - first:
+      213: 1399712852242519581
+    second: Checkpoint_ActivationEffect_145
+  - first:
+      213: 1816266951881338514
+    second: Checkpoint_ActivationEffect_146
+  - first:
+      213: -2686483900705656495
+    second: Checkpoint_ActivationEffect_147
+  - first:
+      213: -266195949848175697
+    second: Checkpoint_ActivationEffect_148
+  - first:
+      213: 3357499024918864413
+    second: Checkpoint_ActivationEffect_149
+  - first:
+      213: 2232993384168021062
+    second: Checkpoint_ActivationEffect_150
+  - first:
+      213: -7477802906651489466
+    second: Checkpoint_ActivationEffect_151
+  - first:
+      213: 2711310523581230221
+    second: Checkpoint_ActivationEffect_152
+  - first:
+      213: 1478781257698555481
+    second: Checkpoint_ActivationEffect_153
+  - first:
+      213: -9158253572967731091
+    second: Checkpoint_ActivationEffect_154
+  - first:
+      213: -1513995067717852830
+    second: Checkpoint_ActivationEffect_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 728
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe43712c028a28d0800000000000000
+      internalID: -2870338823882846469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 537
+        width: 142
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f75ebb56dd76270800000000000000
+      internalID: 8243801071938797463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 736
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8377c9be2ac73d7e0800000000000000
+      internalID: -1741911591682803912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 625
+        width: 36
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa379cff778aeddc0800000000000000
+      internalID: -3612264617758592086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 726
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d2cab7d71e94dc0800000000000000
+      internalID: -3654141693572403866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 721
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb59ef49a9b3df60800000000000000
+      internalID: 8057988295137254394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_6
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 721
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d648f8719c9051060800000000000000
+      internalID: 6923450761440363629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 706
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483cd3aa285adae10800000000000000
+      internalID: 2210604972729287556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 704
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dc4bfe3c27b9810800000000000000
+      internalID: 1773137064166215032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 705
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e98d6cd07729e60800000000000000
+      internalID: 7967561591826194008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 697
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74bd05544abaed40800000000000000
+      internalID: 5614504688118248570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 711
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be144da73bd15d210800000000000000
+      internalID: 1357023519419154923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 616
+        width: 89
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f97a37ca7f8d6e0800000000000000
+      internalID: -1812426529969823843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 720
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbb80a80b28749b0800000000000000
+      internalID: -5095960758604743727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 722
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6297cccda894361a0800000000000000
+      internalID: -6817524550150096602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 722
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f08ffd5ddfa723b0800000000000000
+      internalID: -5537263851529076487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_16
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 726
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1103ce8b5032500800000000000000
+      internalID: 370145886169207242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 629
+        width: 43
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cf9dbe6f26f4540800000000000000
+      internalID: 4994319324435577890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 537
+        width: 179
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e20ab78006a9210800000000000000
+      internalID: 1340489428646243872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_19
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 724
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e017ad968e36b0800000000000000
+      internalID: -5314662498579717394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_20
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 724
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd01b7779c6d77f0800000000000000
+      internalID: -613214576448565834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 701
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4602d8c09eb5cc0800000000000000
+      internalID: -3721124426974993243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 703
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1115f64655a3bd4b0800000000000000
+      internalID: -5414669988551241455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 713
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cde8c72425761c0800000000000000
+      internalID: -4510546056277205985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 682
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bd1be0bbfa78390800000000000000
+      internalID: -7816085410337924346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 703
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa0e06b41cb39c00800000000000000
+      internalID: 906274747171343018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_26
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 693
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67b963ca33bdeb70800000000000000
+      internalID: 8929990701113522030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_27
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 708
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1dfcd65e459fcb0800000000000000
+      internalID: -4829735781011566142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_28
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 703
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3886982e08cf0f000800000000000000
+      internalID: 67831624897226883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_29
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 682
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecccf05b7821de10800000000000000
+      internalID: 2220600601375198447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 702
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e1267ccafae01d0800000000000000
+      internalID: -3382573113494331892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 706
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1446a4681816f60800000000000000
+      internalID: 8025838424724619716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 689
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e46e410792235b50800000000000000
+      internalID: 6580641512475747557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 696
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7eada370c8c1000800000000000000
+      internalID: 8035262027982804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 620
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682727a8507a06b50800000000000000
+      internalID: 6584446297455096454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 692
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfc277cd9eb5e1f0800000000000000
+      internalID: -1016196556036845640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 545
+        width: 122
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfb35bb9904c45a0800000000000000
+      internalID: -6535777930204430375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 692
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d2b16af01d24700800000000000000
+      internalID: 523210371869912382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 675
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c180a173f52f7d640800000000000000
+      internalID: 5104815193408014364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 627
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0c720c39f5d4890800000000000000
+      internalID: -7472211118549122886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 616
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09af23d0078014800800000000000000
+      internalID: 594765903140420240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 620
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4870f86ba52d60b50800000000000000
+      internalID: 6559161194363422596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 571
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272ebd977e7fbc970800000000000000
+      internalID: 8776380872415502962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 617
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf3a83cf992c3b90800000000000000
+      internalID: -7260882733070925874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_44
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 592
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee4ded063ede2e80800000000000000
+      internalID: -8201373547651838226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_45
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 603
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40958bca92ac7080800000000000000
+      internalID: -9188290354019463092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_46
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 623
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c54c97c908bd420800000000000000
+      internalID: 2655857814811204665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_47
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 591
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d9942e5644f8590800000000000000
+      internalID: -7669836436009804492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 587
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c067508805ad880800000000000000
+      internalID: -8585461194491032550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_49
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 596
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a665be9b867dbf90800000000000000
+      internalID: -6936257509045475678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_50
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 580
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d789c3821163eab0800000000000000
+      internalID: -4980030030793308200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_51
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 595
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bde5304fc69e26a0800000000000000
+      internalID: -6472069797605151312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_52
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 591
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa26c38ed907d630800000000000000
+      internalID: 3951638049339091697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 580
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091c80ef80187d7e0800000000000000
+      internalID: -1740780855333699184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 563
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a8c6c63d23ce150800000000000000
+      internalID: 5903149095214418520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_55
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 553
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f199af742f77cda0800000000000000
+      internalID: -5924626990045228555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_56
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 554
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6664522d18f0e710800000000000000
+      internalID: 1720647861669226090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 570
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20f8ddbd1d5399d0800000000000000
+      internalID: -2768766963582177236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_58
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 537
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7221de6ce623390800000000000000
+      internalID: -7840082200638642268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_59
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 561
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42809ae948da347b0800000000000000
+      internalID: -5241154756219959260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_60
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 572
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2869b84eff3ebc0800000000000000
+      internalID: -3754876307237338394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 537
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c31e9bd9926c3d80800000000000000
+      internalID: -8269626402804984896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 561
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a19669426aef330800000000000000
+      internalID: 3746614616091335174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_63
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 555
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1480990c0ed1c15f0800000000000000
+      internalID: -784719383928174527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_64
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 553
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd86a1b72816227b0800000000000000
+      internalID: -5250527002521605923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 537
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071e666f80dbdca40800000000000000
+      internalID: 5390172175223677296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_66
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 544
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0073f1234ca0d80800000000000000
+      internalID: -8283592845043498765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_67
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 537
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84335c6bc95cff680800000000000000
+      internalID: -8719033076694043832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_68
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 537
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8132c782aab99fa0800000000000000
+      internalID: -5793394238410313332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_69
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 537
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042d62d6ce9c8f150800000000000000
+      internalID: 5906692928577131072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_70
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 537
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7384c595121512fc0800000000000000
+      internalID: -3521444229952026569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_71
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 541
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5b99a1a83361e00800000000000000
+      internalID: 1015055434263410173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_72
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 537
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d98a097b7d89080800000000000000
+      internalID: -9180350656988799677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_73
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 545
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7bdcc2633ec6970800000000000000
+      internalID: 8749617997893449639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_74
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 538
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3758ead7e316c280800000000000000
+      internalID: -9023502916859177153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 281
+        width: 182
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d7bb5eb86cfc410800000000000000
+      internalID: 1499635505094688026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_76
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 435
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291000f6cb3ef43f0800000000000000
+      internalID: -914261800877293166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 427
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfa76f8e410fbfb0800000000000000
+      internalID: -4629980454988566596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_78
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc0fcd9a7d016040800000000000000
+      internalID: 4639003911453084889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_79
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f53592d95dc1d710800000000000000
+      internalID: 1716378718673647092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_80
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 408
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32622b5292f0fe380800000000000000
+      internalID: -8939910065906637277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 402
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39704bde4a9734380800000000000000
+      internalID: -8988206682031781997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_82
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 409
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eabb47ad1bc14760800000000000000
+      internalID: 7440451387614018279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_83
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 383
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f77921a39fd6ec0800000000000000
+      internalID: -3571924901619597551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_84
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 360
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe24df02da1eb3430800000000000000
+      internalID: 3763850047297241839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 312
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b09b69547170d60800000000000000
+      internalID: 7856273662620011291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 307
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24dffaf73fc4bbe0800000000000000
+      internalID: -1462316139647347670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_87
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 285
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2235467671f6a99f0800000000000000
+      internalID: -460933865542495454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_88
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 284
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1e1a8941aae07b0800000000000000
+      internalID: -5256076709657976344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_89
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 281
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c104fe6ad4c941d0800000000000000
+      internalID: -3365942804039335479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_90
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 281
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186508fee7aae8530800000000000000
+      internalID: 3859209392863860353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_91
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 281
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aae893772de46ed0800000000000000
+      internalID: -2421549945919575387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_92
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 180
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a55377ce9e55940800000000000000
+      internalID: 5284386939610683998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 163
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a761f49224093e0800000000000000
+      internalID: -2049065085265610163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_94
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 221
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2760f80e51052d610800000000000000
+      internalID: 1644464868835657330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 212
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90e3d444540e1740800000000000000
+      internalID: 5124538185972703386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_96
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 193
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9fa0539d302b9d0800000000000000
+      internalID: -2760139390191994443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_97
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 198
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f7056c7330d60e0800000000000000
+      internalID: -2275158698666983664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 221
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9e19fb16c01f510800000000000000
+      internalID: 1581058558149126614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_99
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 48
+        width: 169
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3b0b80de013bd60800000000000000
+      internalID: 7904680381204444074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_100
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 221
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d680067e9bd7ac60800000000000000
+      internalID: 7829467950837958360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 226
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca760ec0604f2f40800000000000000
+      internalID: 5705850037419276999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_102
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa34725c22cb4de30800000000000000
+      internalID: 4527450382936785839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_103
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 221
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d6be315be42320800000000000000
+      internalID: 2532407624666110165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_104
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 192
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b34d2455bf502ae0800000000000000
+      internalID: -1576154637173701711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_105
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 207
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57b58279506c98d0800000000000000
+      internalID: -2838287727860533411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_106
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 213
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266c596fea1b1190800000000000000
+      internalID: -7990763498271644123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_107
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 166
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e52ddf3139c1740800000000000000
+      internalID: 5124132190112865795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_108
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 149
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885339eaf2cfa22e0800000000000000
+      internalID: -2149628590393444984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 184
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6df357aa416c7c0800000000000000
+      internalID: -4051528092429068607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_110
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 167
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0b1d6582784db60800000000000000
+      internalID: 7769983864445972725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_111
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 113
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cfa12f376fbf2a0800000000000000
+      internalID: -6702492642567324558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_112
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 133
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6e076e70dbef9a0800000000000000
+      internalID: -6197308195586644259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_113
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 139
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1be565e4a9a0420800000000000000
+      internalID: 2597057796379685313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_114
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 134
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5253e9ffb3656cea0800000000000000
+      internalID: -5852895850029763291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_115
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 127
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e3d14c18023d780800000000000000
+      internalID: -8659541916790210941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_116
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 135
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f061273f9890820800000000000000
+      internalID: 2884988714991619968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_117
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 148
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd006574c95fc80800000000000000
+      internalID: -8289547708906020886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 110
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0a389becca50b30800000000000000
+      internalID: 4252995426996953300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_119
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 112
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51c4eee6887dcb60800000000000000
+      internalID: 7767997453212893530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_120
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 104
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e707c2f12b158ac60800000000000000
+      internalID: 7829597777652641918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_121
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 85
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d37d65d2c75f99a0800000000000000
+      internalID: -6224159665686744104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_122
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 83
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e9f2c9b071ed510800000000000000
+      internalID: 1575722258258697849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_123
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 87
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f4bd246d588be40800000000000000
+      internalID: 5672430885964304163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_124
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26572b7d12efa6b30800000000000000
+      internalID: 4281513817075250530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_125
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 71
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fea5a64f0d9cb9d0800000000000000
+      internalID: -2757156182922252555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_126
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 25
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff88398ed499ad5c0800000000000000
+      internalID: -4189867943421310721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_127
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 67
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd6d23da7573a980800000000000000
+      internalID: -8528844098920157740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_128
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 51
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84372e23aecd16f80800000000000000
+      internalID: -8114962155110763704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_129
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 58
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd7a5bcec0db0510800000000000000
+      internalID: 1516535286133849596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_130
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c994df95e18396830800000000000000
+      internalID: 4064841841688529308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_131
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a592e3c71cb3fb9b0800000000000000
+      internalID: -5062261753941972646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_132
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 49
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdf3f8862123a8f0800000000000000
+      internalID: -530543881709421110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_133
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 51
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaca04551f179d20800000000000000
+      internalID: 3285128629654833839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_134
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 25
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d40ab455330d8f0800000000000000
+      internalID: -517857515713573598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_135
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 60
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4b73918c5edb540800000000000000
+      internalID: 5025425406794642620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_136
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 47
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b594a57642fa5b0800000000000000
+      internalID: -5355021405605242100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_137
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 31
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1173a836fa2b7950800000000000000
+      internalID: 6447794528511553822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_138
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 25
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb665ef906b761a0800000000000000
+      internalID: -6816279356963918859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_139
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9314f51b34fb060800000000000000
+      internalID: 6971365177279199709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_140
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 48
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf8cbdf385be670800000000000000
+      internalID: 8569039747296067021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_141
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 37
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cde80aafbbb4150800000000000000
+      internalID: 5857982425435397251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_142
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 37
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f6a7da143512090800000000000000
+      internalID: -8061070316468015323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_143
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 25
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5416b501d62bb3320800000000000000
+      internalID: 2538818996449009989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_144
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65a4adc566c7f260800000000000000
+      internalID: 7131386675508585837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_145
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 25
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16d6715c67cc6310800000000000000
+      internalID: 1399712852242519581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_146
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 25
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e2b247b2da43910800000000000000
+      internalID: 1816266951881338514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_147
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 25
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15132ab3021b7bad0800000000000000
+      internalID: -2686483900705656495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_148
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 33
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabd6a8a1384e4cf0800000000000000
+      internalID: -266195949848175697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_149
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 42
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12620a039b389e20800000000000000
+      internalID: 3357499024918864413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_150
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 25
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cd129e6af2dfe10800000000000000
+      internalID: 2232993384168021062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_151
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 30
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b87a020e1893890800000000000000
+      internalID: -7477802906651489466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_152
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 30
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c66d95e8280a520800000000000000
+      internalID: 2711310523581230221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_153
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 30
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956b0ad08bfa58410800000000000000
+      internalID: 1478781257698555481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_154
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 25
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d607e4cd5e857e080800000000000000
+      internalID: -9158253572967731091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint_ActivationEffect_155
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261ebf4e1853dfae0800000000000000
+      internalID: -1513995067717852830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Checkpoint_ActivationEffect_0: -2870338823882846469
+      Checkpoint_ActivationEffect_1: 8243801071938797463
+      Checkpoint_ActivationEffect_10: 5614504688118248570
+      Checkpoint_ActivationEffect_100: 7829467950837958360
+      Checkpoint_ActivationEffect_101: 5705850037419276999
+      Checkpoint_ActivationEffect_102: 4527450382936785839
+      Checkpoint_ActivationEffect_103: 2532407624666110165
+      Checkpoint_ActivationEffect_104: -1576154637173701711
+      Checkpoint_ActivationEffect_105: -2838287727860533411
+      Checkpoint_ActivationEffect_106: -7990763498271644123
+      Checkpoint_ActivationEffect_107: 5124132190112865795
+      Checkpoint_ActivationEffect_108: -2149628590393444984
+      Checkpoint_ActivationEffect_109: -4051528092429068607
+      Checkpoint_ActivationEffect_11: 1357023519419154923
+      Checkpoint_ActivationEffect_110: 7769983864445972725
+      Checkpoint_ActivationEffect_111: -6702492642567324558
+      Checkpoint_ActivationEffect_112: -6197308195586644259
+      Checkpoint_ActivationEffect_113: 2597057796379685313
+      Checkpoint_ActivationEffect_114: -5852895850029763291
+      Checkpoint_ActivationEffect_115: -8659541916790210941
+      Checkpoint_ActivationEffect_116: 2884988714991619968
+      Checkpoint_ActivationEffect_117: -8289547708906020886
+      Checkpoint_ActivationEffect_118: 4252995426996953300
+      Checkpoint_ActivationEffect_119: 7767997453212893530
+      Checkpoint_ActivationEffect_12: -1812426529969823843
+      Checkpoint_ActivationEffect_120: 7829597777652641918
+      Checkpoint_ActivationEffect_121: -6224159665686744104
+      Checkpoint_ActivationEffect_122: 1575722258258697849
+      Checkpoint_ActivationEffect_123: 5672430885964304163
+      Checkpoint_ActivationEffect_124: 4281513817075250530
+      Checkpoint_ActivationEffect_125: -2757156182922252555
+      Checkpoint_ActivationEffect_126: -4189867943421310721
+      Checkpoint_ActivationEffect_127: -8528844098920157740
+      Checkpoint_ActivationEffect_128: -8114962155110763704
+      Checkpoint_ActivationEffect_129: 1516535286133849596
+      Checkpoint_ActivationEffect_13: -5095960758604743727
+      Checkpoint_ActivationEffect_130: 4064841841688529308
+      Checkpoint_ActivationEffect_131: -5062261753941972646
+      Checkpoint_ActivationEffect_132: -530543881709421110
+      Checkpoint_ActivationEffect_133: 3285128629654833839
+      Checkpoint_ActivationEffect_134: -517857515713573598
+      Checkpoint_ActivationEffect_135: 5025425406794642620
+      Checkpoint_ActivationEffect_136: -5355021405605242100
+      Checkpoint_ActivationEffect_137: 6447794528511553822
+      Checkpoint_ActivationEffect_138: -6816279356963918859
+      Checkpoint_ActivationEffect_139: 6971365177279199709
+      Checkpoint_ActivationEffect_14: -6817524550150096602
+      Checkpoint_ActivationEffect_140: 8569039747296067021
+      Checkpoint_ActivationEffect_141: 5857982425435397251
+      Checkpoint_ActivationEffect_142: -8061070316468015323
+      Checkpoint_ActivationEffect_143: 2538818996449009989
+      Checkpoint_ActivationEffect_144: 7131386675508585837
+      Checkpoint_ActivationEffect_145: 1399712852242519581
+      Checkpoint_ActivationEffect_146: 1816266951881338514
+      Checkpoint_ActivationEffect_147: -2686483900705656495
+      Checkpoint_ActivationEffect_148: -266195949848175697
+      Checkpoint_ActivationEffect_149: 3357499024918864413
+      Checkpoint_ActivationEffect_15: -5537263851529076487
+      Checkpoint_ActivationEffect_150: 2232993384168021062
+      Checkpoint_ActivationEffect_151: -7477802906651489466
+      Checkpoint_ActivationEffect_152: 2711310523581230221
+      Checkpoint_ActivationEffect_153: 1478781257698555481
+      Checkpoint_ActivationEffect_154: -9158253572967731091
+      Checkpoint_ActivationEffect_155: -1513995067717852830
+      Checkpoint_ActivationEffect_16: 370145886169207242
+      Checkpoint_ActivationEffect_17: 4994319324435577890
+      Checkpoint_ActivationEffect_18: 1340489428646243872
+      Checkpoint_ActivationEffect_19: -5314662498579717394
+      Checkpoint_ActivationEffect_2: -1741911591682803912
+      Checkpoint_ActivationEffect_20: -613214576448565834
+      Checkpoint_ActivationEffect_21: -3721124426974993243
+      Checkpoint_ActivationEffect_22: -5414669988551241455
+      Checkpoint_ActivationEffect_23: -4510546056277205985
+      Checkpoint_ActivationEffect_24: -7816085410337924346
+      Checkpoint_ActivationEffect_25: 906274747171343018
+      Checkpoint_ActivationEffect_26: 8929990701113522030
+      Checkpoint_ActivationEffect_27: -4829735781011566142
+      Checkpoint_ActivationEffect_28: 67831624897226883
+      Checkpoint_ActivationEffect_29: 2220600601375198447
+      Checkpoint_ActivationEffect_3: -3612264617758592086
+      Checkpoint_ActivationEffect_30: -3382573113494331892
+      Checkpoint_ActivationEffect_31: 8025838424724619716
+      Checkpoint_ActivationEffect_32: 6580641512475747557
+      Checkpoint_ActivationEffect_33: 8035262027982804
+      Checkpoint_ActivationEffect_34: 6584446297455096454
+      Checkpoint_ActivationEffect_35: -1016196556036845640
+      Checkpoint_ActivationEffect_36: -6535777930204430375
+      Checkpoint_ActivationEffect_37: 523210371869912382
+      Checkpoint_ActivationEffect_38: 5104815193408014364
+      Checkpoint_ActivationEffect_39: -7472211118549122886
+      Checkpoint_ActivationEffect_4: -3654141693572403866
+      Checkpoint_ActivationEffect_40: 594765903140420240
+      Checkpoint_ActivationEffect_41: 6559161194363422596
+      Checkpoint_ActivationEffect_42: 8776380872415502962
+      Checkpoint_ActivationEffect_43: -7260882733070925874
+      Checkpoint_ActivationEffect_44: -8201373547651838226
+      Checkpoint_ActivationEffect_45: -9188290354019463092
+      Checkpoint_ActivationEffect_46: 2655857814811204665
+      Checkpoint_ActivationEffect_47: -7669836436009804492
+      Checkpoint_ActivationEffect_48: -8585461194491032550
+      Checkpoint_ActivationEffect_49: -6936257509045475678
+      Checkpoint_ActivationEffect_5: 8057988295137254394
+      Checkpoint_ActivationEffect_50: -4980030030793308200
+      Checkpoint_ActivationEffect_51: -6472069797605151312
+      Checkpoint_ActivationEffect_52: 3951638049339091697
+      Checkpoint_ActivationEffect_53: -1740780855333699184
+      Checkpoint_ActivationEffect_54: 5903149095214418520
+      Checkpoint_ActivationEffect_55: -5924626990045228555
+      Checkpoint_ActivationEffect_56: 1720647861669226090
+      Checkpoint_ActivationEffect_57: -2768766963582177236
+      Checkpoint_ActivationEffect_58: -7840082200638642268
+      Checkpoint_ActivationEffect_59: -5241154756219959260
+      Checkpoint_ActivationEffect_6: 6923450761440363629
+      Checkpoint_ActivationEffect_60: -3754876307237338394
+      Checkpoint_ActivationEffect_61: -8269626402804984896
+      Checkpoint_ActivationEffect_62: 3746614616091335174
+      Checkpoint_ActivationEffect_63: -784719383928174527
+      Checkpoint_ActivationEffect_64: -5250527002521605923
+      Checkpoint_ActivationEffect_65: 5390172175223677296
+      Checkpoint_ActivationEffect_66: -8283592845043498765
+      Checkpoint_ActivationEffect_67: -8719033076694043832
+      Checkpoint_ActivationEffect_68: -5793394238410313332
+      Checkpoint_ActivationEffect_69: 5906692928577131072
+      Checkpoint_ActivationEffect_7: 2210604972729287556
+      Checkpoint_ActivationEffect_70: -3521444229952026569
+      Checkpoint_ActivationEffect_71: 1015055434263410173
+      Checkpoint_ActivationEffect_72: -9180350656988799677
+      Checkpoint_ActivationEffect_73: 8749617997893449639
+      Checkpoint_ActivationEffect_74: -9023502916859177153
+      Checkpoint_ActivationEffect_75: 1499635505094688026
+      Checkpoint_ActivationEffect_76: -914261800877293166
+      Checkpoint_ActivationEffect_77: -4629980454988566596
+      Checkpoint_ActivationEffect_78: 4639003911453084889
+      Checkpoint_ActivationEffect_79: 1716378718673647092
+      Checkpoint_ActivationEffect_8: 1773137064166215032
+      Checkpoint_ActivationEffect_80: -8939910065906637277
+      Checkpoint_ActivationEffect_81: -8988206682031781997
+      Checkpoint_ActivationEffect_82: 7440451387614018279
+      Checkpoint_ActivationEffect_83: -3571924901619597551
+      Checkpoint_ActivationEffect_84: 3763850047297241839
+      Checkpoint_ActivationEffect_85: 7856273662620011291
+      Checkpoint_ActivationEffect_86: -1462316139647347670
+      Checkpoint_ActivationEffect_87: -460933865542495454
+      Checkpoint_ActivationEffect_88: -5256076709657976344
+      Checkpoint_ActivationEffect_89: -3365942804039335479
+      Checkpoint_ActivationEffect_9: 7967561591826194008
+      Checkpoint_ActivationEffect_90: 3859209392863860353
+      Checkpoint_ActivationEffect_91: -2421549945919575387
+      Checkpoint_ActivationEffect_92: 5284386939610683998
+      Checkpoint_ActivationEffect_93: -2049065085265610163
+      Checkpoint_ActivationEffect_94: 1644464868835657330
+      Checkpoint_ActivationEffect_95: 5124538185972703386
+      Checkpoint_ActivationEffect_96: -2760139390191994443
+      Checkpoint_ActivationEffect_97: -2275158698666983664
+      Checkpoint_ActivationEffect_98: 1581058558149126614
+      Checkpoint_ActivationEffect_99: 7904680381204444074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

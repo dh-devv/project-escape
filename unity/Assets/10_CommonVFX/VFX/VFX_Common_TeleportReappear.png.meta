@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: b0ebafbe354833f42ad83865caf5fa9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6038707452283850948
+    second: VFX_Common_TeleportReappear_0
+  - first:
+      213: 123061671108219515
+    second: VFX_Common_TeleportReappear_1
+  - first:
+      213: 2018671264039422590
+    second: VFX_Common_TeleportReappear_2
+  - first:
+      213: 3635888059304088697
+    second: VFX_Common_TeleportReappear_3
+  - first:
+      213: -7124415257483007103
+    second: VFX_Common_TeleportReappear_4
+  - first:
+      213: 8479085521232058015
+    second: VFX_Common_TeleportReappear_5
+  - first:
+      213: 2610483076642217251
+    second: VFX_Common_TeleportReappear_6
+  - first:
+      213: -821697582039697368
+    second: VFX_Common_TeleportReappear_7
+  - first:
+      213: -2450032377521166606
+    second: VFX_Common_TeleportReappear_8
+  - first:
+      213: 416128003990355652
+    second: VFX_Common_TeleportReappear_9
+  - first:
+      213: 2787381491491729809
+    second: VFX_Common_TeleportReappear_10
+  - first:
+      213: 8288590709798835489
+    second: VFX_Common_TeleportReappear_11
+  - first:
+      213: 3528798298530524785
+    second: VFX_Common_TeleportReappear_12
+  - first:
+      213: 6817768681410177614
+    second: VFX_Common_TeleportReappear_13
+  - first:
+      213: -773718921631595628
+    second: VFX_Common_TeleportReappear_14
+  - first:
+      213: 7062202163898401389
+    second: VFX_Common_TeleportReappear_15
+  - first:
+      213: 6412605352826210748
+    second: VFX_Common_TeleportReappear_16
+  - first:
+      213: 8656213098256938816
+    second: VFX_Common_TeleportReappear_17
+  - first:
+      213: 3384471773499879559
+    second: VFX_Common_TeleportReappear_18
+  - first:
+      213: 5961375728855376278
+    second: VFX_Common_TeleportReappear_19
+  - first:
+      213: 4141586927950708161
+    second: VFX_Common_TeleportReappear_20
+  - first:
+      213: 227973372235330680
+    second: VFX_Common_TeleportReappear_21
+  - first:
+      213: 291023080084995584
+    second: VFX_Common_TeleportReappear_22
+  - first:
+      213: -8812592760249629659
+    second: VFX_Common_TeleportReappear_23
+  - first:
+      213: -5584209303954983130
+    second: VFX_Common_TeleportReappear_24
+  - first:
+      213: -233146425863808088
+    second: VFX_Common_TeleportReappear_25
+  - first:
+      213: 9096300521175078813
+    second: VFX_Common_TeleportReappear_26
+  - first:
+      213: -8872372612161898132
+    second: VFX_Common_TeleportReappear_27
+  - first:
+      213: 1894254759071793958
+    second: VFX_Common_TeleportReappear_28
+  - first:
+      213: 6175504212225324928
+    second: VFX_Common_TeleportReappear_29
+  - first:
+      213: -7039586217101633394
+    second: VFX_Common_TeleportReappear_30
+  - first:
+      213: -3998608508375284138
+    second: VFX_Common_TeleportReappear_31
+  - first:
+      213: -7693169916042461823
+    second: VFX_Common_TeleportReappear_32
+  - first:
+      213: 4670019433133652750
+    second: VFX_Common_TeleportReappear_33
+  - first:
+      213: -900604251584415802
+    second: VFX_Common_TeleportReappear_34
+  - first:
+      213: -4429471874484008951
+    second: VFX_Common_TeleportReappear_35
+  - first:
+      213: -2546409788246177759
+    second: VFX_Common_TeleportReappear_36
+  - first:
+      213: 8982251411593084153
+    second: VFX_Common_TeleportReappear_37
+  - first:
+      213: -219579086967449852
+    second: VFX_Common_TeleportReappear_38
+  - first:
+      213: -563445679928351130
+    second: VFX_Common_TeleportReappear_39
+  - first:
+      213: -3785128375073253797
+    second: VFX_Common_TeleportReappear_40
+  - first:
+      213: -6538480552306661570
+    second: VFX_Common_TeleportReappear_41
+  - first:
+      213: 2663352405356095966
+    second: VFX_Common_TeleportReappear_42
+  - first:
+      213: 2957850516918232985
+    second: VFX_Common_TeleportReappear_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 434
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fed1c0193323ca0800000000000000
+      internalID: -6038707452283850948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 281
+        width: 169
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b721fd710f335b100800000000000000
+      internalID: 123061671108219515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 475
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7acb5bb1d2c30c10800000000000000
+      internalID: 2018671264039422590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 468
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97497e91de4457230800000000000000
+      internalID: 3635888059304088697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 457
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b2a51f11ef02d90800000000000000
+      internalID: -7124415257483007103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 472
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96d1318b53cba570800000000000000
+      internalID: 8479085521232058015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 393
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d9d6bf68c4a3420800000000000000
+      internalID: 2610483076642217251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 471
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828f9b5176eb894f0800000000000000
+      internalID: -821697582039697368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f625a1988cbffdd0800000000000000
+      internalID: -2450032377521166606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 427
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceffe2073266c500800000000000000
+      internalID: 416128003990355652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_10
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 447
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191fcd5c2b4cea620800000000000000
+      internalID: 2787381491491729809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 469
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1259922f55df60370800000000000000
+      internalID: 8288590709798835489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 457
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e2aeb2b5fc8f030800000000000000
+      internalID: 3528798298530524785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_13
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 281
+        width: 168
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aac306e749d9e50800000000000000
+      internalID: 6817768681410177614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 379
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49386287db23345f0800000000000000
+      internalID: -773718921631595628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62c82f637bf10260800000000000000
+      internalID: 7062202163898401389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 379
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb989fbc7962ef850800000000000000
+      internalID: 6412605352826210748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 364
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04730b543fb012870800000000000000
+      internalID: 8656213098256938816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 281
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780fbc3752f08fe20800000000000000
+      internalID: 3384471773499879559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 388
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6916f0304af0bb250800000000000000
+      internalID: 5961375728855376278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 348
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd37ee2e5fd97930800000000000000
+      internalID: 4141586927950708161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 418
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874b55ef29ce92300800000000000000
+      internalID: 227973372235330680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 437
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ef7ed03fbe90400800000000000000
+      internalID: 291023080084995584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 408
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524442f539163b580800000000000000
+      internalID: -8812592760249629659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 376
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f4567937e082b0800000000000000
+      internalID: -5584209303954983130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 428
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab5cb99f82b3ccf0800000000000000
+      internalID: -233146425863808088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 405
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9757d6312d8c3e70800000000000000
+      internalID: 9096300521175078813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 371
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c697f29fd100fd480800000000000000
+      internalID: -8872372612161898132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_28
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 421
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623419ccaaeb94a10800000000000000
+      internalID: 1894254759071793958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 416
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0877e9e9c5cc3b550800000000000000
+      internalID: 6175504212225324928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_30
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 434
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88dbe302ad5e4e90800000000000000
+      internalID: -7039586217101633394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_31
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 299
+        width: 32
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656cf664fb61288c0800000000000000
+      internalID: -3998608508375284138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 31
+        width: 183
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d3195b8be5c3590800000000000000
+      internalID: -7693169916042461823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 188
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b3a1e7eed3fc040800000000000000
+      internalID: 4670019433133652750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 30
+        width: 206
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7ba1d64396083f0800000000000000
+      internalID: -900604251584415802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 25
+        width: 181
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9080cca6cca5782c0800000000000000
+      internalID: -4429471874484008951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_36
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 209
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128420ff9c559acd0800000000000000
+      internalID: -2546409788246177759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_37
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 197
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcb14f911e57ac70800000000000000
+      internalID: 8982251411593084153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_38
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 190
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4075339dbf5e3fcf0800000000000000
+      internalID: -219579086967449852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_39
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 187
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66664ada32d3e28f0800000000000000
+      internalID: -563445679928351130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 146
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56d18e1cc5887bc0800000000000000
+      internalID: -3785128375073253797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3726fc7496a245a0800000000000000
+      internalID: -6538480552306661570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_42
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 167
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9aee0d6e026f420800000000000000
+      internalID: 2663352405356095966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_TeleportReappear_43
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 123
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997ed9faf556c0920800000000000000
+      internalID: 2957850516918232985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_TeleportReappear_0: -6038707452283850948
+      VFX_Common_TeleportReappear_1: 123061671108219515
+      VFX_Common_TeleportReappear_10: 2787381491491729809
+      VFX_Common_TeleportReappear_11: 8288590709798835489
+      VFX_Common_TeleportReappear_12: 3528798298530524785
+      VFX_Common_TeleportReappear_13: 6817768681410177614
+      VFX_Common_TeleportReappear_14: -773718921631595628
+      VFX_Common_TeleportReappear_15: 7062202163898401389
+      VFX_Common_TeleportReappear_16: 6412605352826210748
+      VFX_Common_TeleportReappear_17: 8656213098256938816
+      VFX_Common_TeleportReappear_18: 3384471773499879559
+      VFX_Common_TeleportReappear_19: 5961375728855376278
+      VFX_Common_TeleportReappear_2: 2018671264039422590
+      VFX_Common_TeleportReappear_20: 4141586927950708161
+      VFX_Common_TeleportReappear_21: 227973372235330680
+      VFX_Common_TeleportReappear_22: 291023080084995584
+      VFX_Common_TeleportReappear_23: -8812592760249629659
+      VFX_Common_TeleportReappear_24: -5584209303954983130
+      VFX_Common_TeleportReappear_25: -233146425863808088
+      VFX_Common_TeleportReappear_26: 9096300521175078813
+      VFX_Common_TeleportReappear_27: -8872372612161898132
+      VFX_Common_TeleportReappear_28: 1894254759071793958
+      VFX_Common_TeleportReappear_29: 6175504212225324928
+      VFX_Common_TeleportReappear_3: 3635888059304088697
+      VFX_Common_TeleportReappear_30: -7039586217101633394
+      VFX_Common_TeleportReappear_31: -3998608508375284138
+      VFX_Common_TeleportReappear_32: -7693169916042461823
+      VFX_Common_TeleportReappear_33: 4670019433133652750
+      VFX_Common_TeleportReappear_34: -900604251584415802
+      VFX_Common_TeleportReappear_35: -4429471874484008951
+      VFX_Common_TeleportReappear_36: -2546409788246177759
+      VFX_Common_TeleportReappear_37: 8982251411593084153
+      VFX_Common_TeleportReappear_38: -219579086967449852
+      VFX_Common_TeleportReappear_39: -563445679928351130
+      VFX_Common_TeleportReappear_4: -7124415257483007103
+      VFX_Common_TeleportReappear_40: -3785128375073253797
+      VFX_Common_TeleportReappear_41: -6538480552306661570
+      VFX_Common_TeleportReappear_42: 2663352405356095966
+      VFX_Common_TeleportReappear_43: 2957850516918232985
+      VFX_Common_TeleportReappear_5: 8479085521232058015
+      VFX_Common_TeleportReappear_6: 2610483076642217251
+      VFX_Common_TeleportReappear_7: -821697582039697368
+      VFX_Common_TeleportReappear_8: -2450032377521166606
+      VFX_Common_TeleportReappear_9: 416128003990355652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

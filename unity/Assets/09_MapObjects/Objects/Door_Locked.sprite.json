@@ -1,0 +1,42 @@
+{
+  "name": "Door_Locked",
+  "sourcePage": 12,
+  "frameCount": 2,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.3205007824726135,
+  "sourceOffset": [
+    12,
+    30
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "f3151176e2c030709b19c6e113d2e9cc205f97f41d5cfcebca5eee7004c538f5",
+  "spriteSha256": "4d07fb33fe4f0b019b4804008758c2909c1669960a0bdf7be7109244bb66eb26"
+}

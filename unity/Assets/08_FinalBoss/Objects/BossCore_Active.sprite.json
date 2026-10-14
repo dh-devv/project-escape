@@ -1,0 +1,95 @@
+{
+  "name": "BossCore_Active",
+  "sourcePage": 11,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    25
+  ],
+  "sourceRegions": [
+    [
+      116,
+      53,
+      434,
+      466
+    ],
+    [
+      609,
+      53,
+      928,
+      466
+    ],
+    [
+      1102,
+      15,
+      1422,
+      466
+    ],
+    [
+      102,
+      503,
+      453,
+      976
+    ],
+    [
+      609,
+      522,
+      928,
+      976
+    ],
+    [
+      1104,
+      536,
+      1423,
+      976
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "f8862eba285c234f0dbf80bd6fe6b960f1cb47cc3d0f3c54987e046f3871a879",
+  "spriteSha256": "6b5ff64b7470cf8bc720ef3d8e86be86bbc2d3592b914e0b7b9a2bf07e713471"
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Player_P3_Dash",
+  "sourcePage": 5,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    13
+  ],
+  "sourceRegions": [
+    [
+      56,
+      195,
+      450,
+      529
+    ],
+    [
+      533,
+      186,
+      1001,
+      533
+    ],
+    [
+      1080,
+      162,
+      1528,
+      531
+    ],
+    [
+      69,
+      677,
+      493,
+      970
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "2cbd12d1586e910459a47a46ee17fb8d5a8ca654ffd9b1b77050a6725d94d9b5",
+  "spriteSha256": "c40133b14bbb77b81ed003a0bb2c6db23dbb14c5343b6a56c7006145f6f9dcc1"
+}

@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 14e02ecd97389384ebc406d8cdde6a12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5352766016661732901
+    second: VFX_P1_SuitBreakDebris_0
+  - first:
+      213: -2619987268006691774
+    second: VFX_P1_SuitBreakDebris_1
+  - first:
+      213: -1177553796886017805
+    second: VFX_P1_SuitBreakDebris_2
+  - first:
+      213: -7424815332660100243
+    second: VFX_P1_SuitBreakDebris_3
+  - first:
+      213: -4278031007509954353
+    second: VFX_P1_SuitBreakDebris_4
+  - first:
+      213: 3206996606296555436
+    second: VFX_P1_SuitBreakDebris_5
+  - first:
+      213: 3911188425804452049
+    second: VFX_P1_SuitBreakDebris_6
+  - first:
+      213: -6556811529182365158
+    second: VFX_P1_SuitBreakDebris_7
+  - first:
+      213: -2980184400151194001
+    second: VFX_P1_SuitBreakDebris_8
+  - first:
+      213: -5277979258132525176
+    second: VFX_P1_SuitBreakDebris_9
+  - first:
+      213: 3308948090788263421
+    second: VFX_P1_SuitBreakDebris_10
+  - first:
+      213: 1699555298580776814
+    second: VFX_P1_SuitBreakDebris_11
+  - first:
+      213: 7792299767341335912
+    second: VFX_P1_SuitBreakDebris_12
+  - first:
+      213: 3110598856207105708
+    second: VFX_P1_SuitBreakDebris_13
+  - first:
+      213: -5569346892416274595
+    second: VFX_P1_SuitBreakDebris_14
+  - first:
+      213: -925696683437388325
+    second: VFX_P1_SuitBreakDebris_15
+  - first:
+      213: 5047151645454267616
+    second: VFX_P1_SuitBreakDebris_16
+  - first:
+      213: -9173316272718747610
+    second: VFX_P1_SuitBreakDebris_17
+  - first:
+      213: 3262456040322413502
+    second: VFX_P1_SuitBreakDebris_18
+  - first:
+      213: 7193645952021890215
+    second: VFX_P1_SuitBreakDebris_19
+  - first:
+      213: -5966447464169331251
+    second: VFX_P1_SuitBreakDebris_20
+  - first:
+      213: -7374711705176720270
+    second: VFX_P1_SuitBreakDebris_21
+  - first:
+      213: -8102751658099268255
+    second: VFX_P1_SuitBreakDebris_22
+  - first:
+      213: 7431492577100991072
+    second: VFX_P1_SuitBreakDebris_23
+  - first:
+      213: 1481102705554367413
+    second: VFX_P1_SuitBreakDebris_24
+  - first:
+      213: -8991118669725075981
+    second: VFX_P1_SuitBreakDebris_25
+  - first:
+      213: -7178928387100813782
+    second: VFX_P1_SuitBreakDebris_26
+  - first:
+      213: -2636816786587780161
+    second: VFX_P1_SuitBreakDebris_27
+  - first:
+      213: 3212548796752023837
+    second: VFX_P1_SuitBreakDebris_28
+  - first:
+      213: -5530413749672561895
+    second: VFX_P1_SuitBreakDebris_29
+  - first:
+      213: 7911189140533173892
+    second: VFX_P1_SuitBreakDebris_30
+  - first:
+      213: -651559800475645460
+    second: VFX_P1_SuitBreakDebris_31
+  - first:
+      213: 433501814553960829
+    second: VFX_P1_SuitBreakDebris_32
+  - first:
+      213: 4679346536628064792
+    second: VFX_P1_SuitBreakDebris_33
+  - first:
+      213: 8264425982246821528
+    second: VFX_P1_SuitBreakDebris_34
+  - first:
+      213: -1686698299919318830
+    second: VFX_P1_SuitBreakDebris_35
+  - first:
+      213: -6175746330029441738
+    second: VFX_P1_SuitBreakDebris_36
+  - first:
+      213: 1445683154898497106
+    second: VFX_P1_SuitBreakDebris_37
+  - first:
+      213: -7251567084384226808
+    second: VFX_P1_SuitBreakDebris_38
+  - first:
+      213: -6919005482483878890
+    second: VFX_P1_SuitBreakDebris_39
+  - first:
+      213: -6367882888728810792
+    second: VFX_P1_SuitBreakDebris_40
+  - first:
+      213: -5721474385385709112
+    second: VFX_P1_SuitBreakDebris_41
+  - first:
+      213: 2754325318334337549
+    second: VFX_P1_SuitBreakDebris_42
+  - first:
+      213: -8266802570866105795
+    second: VFX_P1_SuitBreakDebris_43
+  - first:
+      213: 889483187363288617
+    second: VFX_P1_SuitBreakDebris_44
+  - first:
+      213: 6961376985686026714
+    second: VFX_P1_SuitBreakDebris_45
+  - first:
+      213: -1688088275739994978
+    second: VFX_P1_SuitBreakDebris_46
+  - first:
+      213: 2391638861550704500
+    second: VFX_P1_SuitBreakDebris_47
+  - first:
+      213: -3805992677788998449
+    second: VFX_P1_SuitBreakDebris_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 572
+        width: 153
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eb7ecf458d84a40800000000000000
+      internalID: 5352766016661732901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 572
+        width: 193
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c3a66067fe3abd0800000000000000
+      internalID: -2619987268006691774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 644
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f842b88f0d78afe0800000000000000
+      internalID: -1177553796886017805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 572
+        width: 197
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63cbe51bc1c5f890800000000000000
+      internalID: -7424815332660100243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_4
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 671
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc04343f67161a4c0800000000000000
+      internalID: -4278031007509954353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_5
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 580
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf703a0c6a818c20800000000000000
+      internalID: 3206996606296555436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 315
+        width: 196
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d091b1a625574630800000000000000
+      internalID: 3911188425804452049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 444
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a36e757a68105a0800000000000000
+      internalID: -6556811529182365158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 440
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66d3d7e31244a6d0800000000000000
+      internalID: -2980184400151194001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 447
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f812324d9d0c6b0800000000000000
+      internalID: -5277979258132525176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 442
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df534abc1cebbed20800000000000000
+      internalID: 3308948090788263421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 441
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e674a081a88069710800000000000000
+      internalID: 1699555298580776814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 315
+        width: 182
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8654dbf5a5fc32c60800000000000000
+      internalID: 7792299767341335912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 386
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caef5f6dd211b2b20800000000000000
+      internalID: 3110598856207105708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 447
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f2a9e4284b5b2b0800000000000000
+      internalID: -5569346892416274595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_15
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 440
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd05fd55c34723f0800000000000000
+      internalID: -925696683437388325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_16
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 424
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e474da3ea51b0640800000000000000
+      internalID: 5047151645454267616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_17
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 420
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628e948c375d1b080800000000000000
+      internalID: -9173316272718747610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_18
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 428
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3beb2cb72964d20800000000000000
+      internalID: 3262456040322413502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_19
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 412
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4013a31e6f4d360800000000000000
+      internalID: 7193645952021890215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_20
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 416
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5282794abe23da0800000000000000
+      internalID: -5966447464169331251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 409
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cb60ce6c2c7a990800000000000000
+      internalID: -7374711705176720270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 416
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16529c31c4e3d8f80800000000000000
+      internalID: -8102751658099268255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_23
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 315
+        width: 149
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a8e090027f12760800000000000000
+      internalID: 7431492577100991072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 397
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b32070401fed8410800000000000000
+      internalID: 1481102705554367413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 395
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f577a5f431293380800000000000000
+      internalID: -8991118669725075981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_26
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 388
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2653e2eaa25f5c90800000000000000
+      internalID: -7178928387100813782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_27
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 403
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbf5a16a15286bd0800000000000000
+      internalID: -2636816786587780161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_28
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 340
+        width: 19
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11530e1c14459c20800000000000000
+      internalID: 3212548796752023837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 384
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913b4ddfef50043b0800000000000000
+      internalID: -5530413749672561895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_30
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e5868ab903acd60800000000000000
+      internalID: 7911189140533173892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 315
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce989b640d135f6f0800000000000000
+      internalID: -651559800475645460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_32
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 332
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71e9f18a9b140600800000000000000
+      internalID: 433501814553960829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_33
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 315
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8129ba002e060f040800000000000000
+      internalID: 4679346536628064792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_34
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 315
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e9450e4a321b270800000000000000
+      internalID: 8264425982246821528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_35
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 315
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0cd0e25d4a798e0800000000000000
+      internalID: -1686698299919318830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 190
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d3cafee675b4aa0800000000000000
+      internalID: -6175746330029441738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 184
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ead797b29101410800000000000000
+      internalID: 1445683154898497106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802fc5e38224d5b90800000000000000
+      internalID: -7251567084384226808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 75
+        width: 47
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61471911c21caff90800000000000000
+      internalID: -6919005482483878890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 172
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dae70e404cb0a7a0800000000000000
+      internalID: -6367882888728810792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 70
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1a6933c5d3990b0800000000000000
+      internalID: -5721474385385709112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 149
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02de23b844593620800000000000000
+      internalID: 2754325318334337549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 157
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d326d377cda664d80800000000000000
+      internalID: -8266802570866105795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_44
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 128
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92698780f34185c00800000000000000
+      internalID: 889483187363288617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_45
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 66
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9256b4c77cb9060800000000000000
+      internalID: 6961376985686026714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_46
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 113
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94140738a4b298e0800000000000000
+      internalID: -1688088275739994978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477dfb58fdec03120800000000000000
+      internalID: 2391638861550704500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_SuitBreakDebris_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 70
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc426a613d56e2bc0800000000000000
+      internalID: -3805992677788998449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P1_SuitBreakDebris_0: 5352766016661732901
+      VFX_P1_SuitBreakDebris_1: -2619987268006691774
+      VFX_P1_SuitBreakDebris_10: 3308948090788263421
+      VFX_P1_SuitBreakDebris_11: 1699555298580776814
+      VFX_P1_SuitBreakDebris_12: 7792299767341335912
+      VFX_P1_SuitBreakDebris_13: 3110598856207105708
+      VFX_P1_SuitBreakDebris_14: -5569346892416274595
+      VFX_P1_SuitBreakDebris_15: -925696683437388325
+      VFX_P1_SuitBreakDebris_16: 5047151645454267616
+      VFX_P1_SuitBreakDebris_17: -9173316272718747610
+      VFX_P1_SuitBreakDebris_18: 3262456040322413502
+      VFX_P1_SuitBreakDebris_19: 7193645952021890215
+      VFX_P1_SuitBreakDebris_2: -1177553796886017805
+      VFX_P1_SuitBreakDebris_20: -5966447464169331251
+      VFX_P1_SuitBreakDebris_21: -7374711705176720270
+      VFX_P1_SuitBreakDebris_22: -8102751658099268255
+      VFX_P1_SuitBreakDebris_23: 7431492577100991072
+      VFX_P1_SuitBreakDebris_24: 1481102705554367413
+      VFX_P1_SuitBreakDebris_25: -8991118669725075981
+      VFX_P1_SuitBreakDebris_26: -7178928387100813782
+      VFX_P1_SuitBreakDebris_27: -2636816786587780161
+      VFX_P1_SuitBreakDebris_28: 3212548796752023837
+      VFX_P1_SuitBreakDebris_29: -5530413749672561895
+      VFX_P1_SuitBreakDebris_3: -7424815332660100243
+      VFX_P1_SuitBreakDebris_30: 7911189140533173892
+      VFX_P1_SuitBreakDebris_31: -651559800475645460
+      VFX_P1_SuitBreakDebris_32: 433501814553960829
+      VFX_P1_SuitBreakDebris_33: 4679346536628064792
+      VFX_P1_SuitBreakDebris_34: 8264425982246821528
+      VFX_P1_SuitBreakDebris_35: -1686698299919318830
+      VFX_P1_SuitBreakDebris_36: -6175746330029441738
+      VFX_P1_SuitBreakDebris_37: 1445683154898497106
+      VFX_P1_SuitBreakDebris_38: -7251567084384226808
+      VFX_P1_SuitBreakDebris_39: -6919005482483878890
+      VFX_P1_SuitBreakDebris_4: -4278031007509954353
+      VFX_P1_SuitBreakDebris_40: -6367882888728810792
+      VFX_P1_SuitBreakDebris_41: -5721474385385709112
+      VFX_P1_SuitBreakDebris_42: 2754325318334337549
+      VFX_P1_SuitBreakDebris_43: -8266802570866105795
+      VFX_P1_SuitBreakDebris_44: 889483187363288617
+      VFX_P1_SuitBreakDebris_45: 6961376985686026714
+      VFX_P1_SuitBreakDebris_46: -1688088275739994978
+      VFX_P1_SuitBreakDebris_47: 2391638861550704500
+      VFX_P1_SuitBreakDebris_48: -3805992677788998449
+      VFX_P1_SuitBreakDebris_5: 3206996606296555436
+      VFX_P1_SuitBreakDebris_6: 3911188425804452049
+      VFX_P1_SuitBreakDebris_7: -6556811529182365158
+      VFX_P1_SuitBreakDebris_8: -2980184400151194001
+      VFX_P1_SuitBreakDebris_9: -5277979258132525176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

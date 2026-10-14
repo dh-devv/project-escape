@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: 60febe97726237743a3fc5df4f46cf57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1628320127421809390
+    second: VFX_Common_ItemPickupLight_0
+  - first:
+      213: 7443162673753549215
+    second: VFX_Common_ItemPickupLight_1
+  - first:
+      213: -1937286301165119319
+    second: VFX_Common_ItemPickupLight_2
+  - first:
+      213: 8404705659536857576
+    second: VFX_Common_ItemPickupLight_3
+  - first:
+      213: 8605318330689301750
+    second: VFX_Common_ItemPickupLight_4
+  - first:
+      213: -1260654743552790420
+    second: VFX_Common_ItemPickupLight_5
+  - first:
+      213: -1276495548667108010
+    second: VFX_Common_ItemPickupLight_6
+  - first:
+      213: 2549120551220338497
+    second: VFX_Common_ItemPickupLight_7
+  - first:
+      213: 7371751263149959405
+    second: VFX_Common_ItemPickupLight_8
+  - first:
+      213: -3908790947040032239
+    second: VFX_Common_ItemPickupLight_9
+  - first:
+      213: 9183949529886466363
+    second: VFX_Common_ItemPickupLight_10
+  - first:
+      213: 1770576771131263286
+    second: VFX_Common_ItemPickupLight_11
+  - first:
+      213: -687423845344437900
+    second: VFX_Common_ItemPickupLight_12
+  - first:
+      213: -4249787004683221989
+    second: VFX_Common_ItemPickupLight_13
+  - first:
+      213: 3208380066942865288
+    second: VFX_Common_ItemPickupLight_14
+  - first:
+      213: -4419587178177140832
+    second: VFX_Common_ItemPickupLight_15
+  - first:
+      213: -1773915245881090511
+    second: VFX_Common_ItemPickupLight_16
+  - first:
+      213: -5521201232894701094
+    second: VFX_Common_ItemPickupLight_17
+  - first:
+      213: 440836998882900855
+    second: VFX_Common_ItemPickupLight_18
+  - first:
+      213: 156164382265062039
+    second: VFX_Common_ItemPickupLight_19
+  - first:
+      213: 5382071387237020906
+    second: VFX_Common_ItemPickupLight_20
+  - first:
+      213: -5253881965111203010
+    second: VFX_Common_ItemPickupLight_21
+  - first:
+      213: -391350224929621711
+    second: VFX_Common_ItemPickupLight_22
+  - first:
+      213: 8965644099530420220
+    second: VFX_Common_ItemPickupLight_23
+  - first:
+      213: 4700772772273101781
+    second: VFX_Common_ItemPickupLight_24
+  - first:
+      213: 8459154713689493947
+    second: VFX_Common_ItemPickupLight_25
+  - first:
+      213: 7511716128749761489
+    second: VFX_Common_ItemPickupLight_26
+  - first:
+      213: 3223301161076356525
+    second: VFX_Common_ItemPickupLight_27
+  - first:
+      213: -7384785777302282286
+    second: VFX_Common_ItemPickupLight_28
+  - first:
+      213: -3590015740659894774
+    second: VFX_Common_ItemPickupLight_29
+  - first:
+      213: -1708319016051035883
+    second: VFX_Common_ItemPickupLight_30
+  - first:
+      213: 1407205484709207217
+    second: VFX_Common_ItemPickupLight_31
+  - first:
+      213: 572877378864306148
+    second: VFX_Common_ItemPickupLight_32
+  - first:
+      213: 6817965947778361257
+    second: VFX_Common_ItemPickupLight_33
+  - first:
+      213: -4373287754861507322
+    second: VFX_Common_ItemPickupLight_34
+  - first:
+      213: -6286949493125600300
+    second: VFX_Common_ItemPickupLight_35
+  - first:
+      213: 670151789434329055
+    second: VFX_Common_ItemPickupLight_36
+  - first:
+      213: 8060185978668968036
+    second: VFX_Common_ItemPickupLight_37
+  - first:
+      213: -2165277096923810471
+    second: VFX_Common_ItemPickupLight_38
+  - first:
+      213: 8989245467356000450
+    second: VFX_Common_ItemPickupLight_39
+  - first:
+      213: -5115530175570561786
+    second: VFX_Common_ItemPickupLight_40
+  - first:
+      213: 8749235005278286700
+    second: VFX_Common_ItemPickupLight_41
+  - first:
+      213: -9072114897438115898
+    second: VFX_Common_ItemPickupLight_42
+  - first:
+      213: -2384519333778648441
+    second: VFX_Common_ItemPickupLight_43
+  - first:
+      213: 4454961187484333517
+    second: VFX_Common_ItemPickupLight_44
+  - first:
+      213: -2022966471510954693
+    second: VFX_Common_ItemPickupLight_45
+  - first:
+      213: -1384666043542676541
+    second: VFX_Common_ItemPickupLight_46
+  - first:
+      213: -5135499265092947050
+    second: VFX_Common_ItemPickupLight_47
+  - first:
+      213: 3949929740070507804
+    second: VFX_Common_ItemPickupLight_48
+  - first:
+      213: -2576949937352347746
+    second: VFX_Common_ItemPickupLight_49
+  - first:
+      213: 2761312886206762832
+    second: VFX_Common_ItemPickupLight_50
+  - first:
+      213: -3654800000680149910
+    second: VFX_Common_ItemPickupLight_51
+  - first:
+      213: -3341740229647106498
+    second: VFX_Common_ItemPickupLight_52
+  - first:
+      213: -4602253777864806373
+    second: VFX_Common_ItemPickupLight_53
+  - first:
+      213: -1125413209013439739
+    second: VFX_Common_ItemPickupLight_54
+  - first:
+      213: -6038670522614710652
+    second: VFX_Common_ItemPickupLight_55
+  - first:
+      213: -1584658829728588687
+    second: VFX_Common_ItemPickupLight_56
+  - first:
+      213: 8708062093358581361
+    second: VFX_Common_ItemPickupLight_57
+  - first:
+      213: -1696290270850449984
+    second: VFX_Common_ItemPickupLight_58
+  - first:
+      213: 633857370316323651
+    second: VFX_Common_ItemPickupLight_59
+  - first:
+      213: -6732965085061615649
+    second: VFX_Common_ItemPickupLight_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 145
+        width: 80
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee288975784f89610800000000000000
+      internalID: 1628320127421809390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 378
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99e686240d6b4760800000000000000
+      internalID: 7443162673753549215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 205
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a892de8f506d15e0800000000000000
+      internalID: -1937286301165119319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 281
+        width: 198
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9d86e644383a470800000000000000
+      internalID: 8404705659536857576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 460
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fca4e7cd6b3c6770800000000000000
+      internalID: 8605318330689301750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_5
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 455
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60ff12a031418ee0800000000000000
+      internalID: -1260654743552790420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 448
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6556458cf0af84ee0800000000000000
+      internalID: -1276495548667108010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 451
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fd221b2ab406320800000000000000
+      internalID: 2549120551220338497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 464
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8279477b8bd4660800000000000000
+      internalID: 7371751263149959405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_9
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 454
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a8a64e75f21c9c0800000000000000
+      internalID: -3908790947040032239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_10
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 436
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31aff35071f37f70800000000000000
+      internalID: 9183949529886466363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 422
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63946d2413a529810800000000000000
+      internalID: 1770576771131263286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 441
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799c10a7a7c576f0800000000000000
+      internalID: -687423845344437900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_13
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 425
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1409ce4c39b505c0800000000000000
+      internalID: -4249787004683221989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 412
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fc2921ca4768c20800000000000000
+      internalID: 3208380066942865288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 392
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a761ee90e87aa2c0800000000000000
+      internalID: -4419587178177140832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 394
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e9b938b79c167e0800000000000000
+      internalID: -1773915245881090511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 414
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1dcd33bb0c063b0800000000000000
+      internalID: -5521201232894701094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 319
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bb3423aea2e1600800000000000000
+      internalID: 440836998882900855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 400
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7923a73adaeca2200800000000000000
+      internalID: 156164382265062039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 287
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae47e084965f0ba40800000000000000
+      internalID: 5382071387237020906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 384
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b27b160367617b0800000000000000
+      internalID: -5253881965111203010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 386
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139fc4c3b05a19af0800000000000000
+      internalID: -391350224929621711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_23
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 385
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff66177ecd5c6c70800000000000000
+      internalID: 8965644099530420220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_24
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 384
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db9a2d3eef7c3140800000000000000
+      internalID: 4700772772273101781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb19881c464f46570800000000000000
+      internalID: 8459154713689493947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 357
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3b3b3350afe3860800000000000000
+      internalID: 7511716128749761489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 281
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da57f0604577bbc20800000000000000
+      internalID: 3223301161076356525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_28
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 293
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df5a893678f38990800000000000000
+      internalID: -7384785777302282286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_29
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 284
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06f7ef54b3bd2ec0800000000000000
+      internalID: -3590015740659894774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 283
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511bb3de7e4da48e0800000000000000
+      internalID: -1708319016051035883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 281
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcd212cee5678310800000000000000
+      internalID: 1407205484709207217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 116
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7501bd0f443f700800000000000000
+      internalID: 572877378864306148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 179
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7e90808e74e9e50800000000000000
+      internalID: 6817965947778361257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 188
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d0ae625f5fe43c0800000000000000
+      internalID: -4373287754861507322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 156
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db2d65eeb440c8a0800000000000000
+      internalID: -6286949493125600300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_36
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 163
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd753da708bdc4900800000000000000
+      internalID: 670151789434329055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_37
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 188
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468e52261788bdf60800000000000000
+      internalID: 8060185978668968036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_38
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 91
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9553195d3f363f1e0800000000000000
+      internalID: -2165277096923810471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_39
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 134
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c07b80202730cc70800000000000000
+      internalID: 8989245467356000450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_40
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 148
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6053357986cf109b0800000000000000
+      internalID: -5115530175570561786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_41
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 40
+        width: 74
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c637602c1e68b6970800000000000000
+      internalID: 8749235005278286700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_42
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 144
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7fba0219f591280800000000000000
+      internalID: -9072114897438115898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_43
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 159
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7829216bc4c78eed0800000000000000
+      internalID: -2384519333778648441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_44
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 134
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5f72cb89333dd30800000000000000
+      internalID: 4454961187484333517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_45
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 148
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d601956bafce3e0800000000000000
+      internalID: -2022966471510954693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_46
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 164
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbd716d19da8cce0800000000000000
+      internalID: -1384666043542676541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_47
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 150
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693fadf90aa0bb8b0800000000000000
+      internalID: -5135499265092947050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_48
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 149
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1557a4cb28f0d630800000000000000
+      internalID: 3949929740070507804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_49
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 40
+        width: 86
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fe52c6fa5dc3cd0800000000000000
+      internalID: -2576949937352347746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_50
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f0010a077225620800000000000000
+      internalID: 2761312886206762832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_51
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 137
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cbc5a63ca874dc0800000000000000
+      internalID: -3654800000680149910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_52
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 150
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e704867f0cf91d0800000000000000
+      internalID: -3341740229647106498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_53
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 44
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b103b24a2928120c0800000000000000
+      internalID: -4602253777864806373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_54
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 34
+        width: 141
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503b83b26aab160f0800000000000000
+      internalID: -1125413209013439739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_55
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 119
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e7de76725523ca0800000000000000
+      internalID: -6038670522614710652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_56
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c57d3b039220ae0800000000000000
+      internalID: -1584658829728588687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_57
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 56
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176ceac265049d870800000000000000
+      internalID: 8708062093358581361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_58
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 51
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdf10a6cf09578e0800000000000000
+      internalID: -1696290270850449984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 35
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bb7f38be9ebc800800000000000000
+      internalID: 633857370316323651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_ItemPickupLight_60
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf6bcb8de3bf82a0800000000000000
+      internalID: -6732965085061615649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_ItemPickupLight_0: 1628320127421809390
+      VFX_Common_ItemPickupLight_1: 7443162673753549215
+      VFX_Common_ItemPickupLight_10: 9183949529886466363
+      VFX_Common_ItemPickupLight_11: 1770576771131263286
+      VFX_Common_ItemPickupLight_12: -687423845344437900
+      VFX_Common_ItemPickupLight_13: -4249787004683221989
+      VFX_Common_ItemPickupLight_14: 3208380066942865288
+      VFX_Common_ItemPickupLight_15: -4419587178177140832
+      VFX_Common_ItemPickupLight_16: -1773915245881090511
+      VFX_Common_ItemPickupLight_17: -5521201232894701094
+      VFX_Common_ItemPickupLight_18: 440836998882900855
+      VFX_Common_ItemPickupLight_19: 156164382265062039
+      VFX_Common_ItemPickupLight_2: -1937286301165119319
+      VFX_Common_ItemPickupLight_20: 5382071387237020906
+      VFX_Common_ItemPickupLight_21: -5253881965111203010
+      VFX_Common_ItemPickupLight_22: -391350224929621711
+      VFX_Common_ItemPickupLight_23: 8965644099530420220
+      VFX_Common_ItemPickupLight_24: 4700772772273101781
+      VFX_Common_ItemPickupLight_25: 8459154713689493947
+      VFX_Common_ItemPickupLight_26: 7511716128749761489
+      VFX_Common_ItemPickupLight_27: 3223301161076356525
+      VFX_Common_ItemPickupLight_28: -7384785777302282286
+      VFX_Common_ItemPickupLight_29: -3590015740659894774
+      VFX_Common_ItemPickupLight_3: 8404705659536857576
+      VFX_Common_ItemPickupLight_30: -1708319016051035883
+      VFX_Common_ItemPickupLight_31: 1407205484709207217
+      VFX_Common_ItemPickupLight_32: 572877378864306148
+      VFX_Common_ItemPickupLight_33: 6817965947778361257
+      VFX_Common_ItemPickupLight_34: -4373287754861507322
+      VFX_Common_ItemPickupLight_35: -6286949493125600300
+      VFX_Common_ItemPickupLight_36: 670151789434329055
+      VFX_Common_ItemPickupLight_37: 8060185978668968036
+      VFX_Common_ItemPickupLight_38: -2165277096923810471
+      VFX_Common_ItemPickupLight_39: 8989245467356000450
+      VFX_Common_ItemPickupLight_4: 8605318330689301750
+      VFX_Common_ItemPickupLight_40: -5115530175570561786
+      VFX_Common_ItemPickupLight_41: 8749235005278286700
+      VFX_Common_ItemPickupLight_42: -9072114897438115898
+      VFX_Common_ItemPickupLight_43: -2384519333778648441
+      VFX_Common_ItemPickupLight_44: 4454961187484333517
+      VFX_Common_ItemPickupLight_45: -2022966471510954693
+      VFX_Common_ItemPickupLight_46: -1384666043542676541
+      VFX_Common_ItemPickupLight_47: -5135499265092947050
+      VFX_Common_ItemPickupLight_48: 3949929740070507804
+      VFX_Common_ItemPickupLight_49: -2576949937352347746
+      VFX_Common_ItemPickupLight_5: -1260654743552790420
+      VFX_Common_ItemPickupLight_50: 2761312886206762832
+      VFX_Common_ItemPickupLight_51: -3654800000680149910
+      VFX_Common_ItemPickupLight_52: -3341740229647106498
+      VFX_Common_ItemPickupLight_53: -4602253777864806373
+      VFX_Common_ItemPickupLight_54: -1125413209013439739
+      VFX_Common_ItemPickupLight_55: -6038670522614710652
+      VFX_Common_ItemPickupLight_56: -1584658829728588687
+      VFX_Common_ItemPickupLight_57: 8708062093358581361
+      VFX_Common_ItemPickupLight_58: -1696290270850449984
+      VFX_Common_ItemPickupLight_59: 633857370316323651
+      VFX_Common_ItemPickupLight_6: -1276495548667108010
+      VFX_Common_ItemPickupLight_60: -6732965085061615649
+      VFX_Common_ItemPickupLight_7: 2549120551220338497
+      VFX_Common_ItemPickupLight_8: 7371751263149959405
+      VFX_Common_ItemPickupLight_9: -3908790947040032239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

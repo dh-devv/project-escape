@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 29555ff8612e27a4fb7606cbb2aedb73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6910714564024220909
+    second: VFX_Enemy3_ChargeAfterimage_0
+  - first:
+      213: -7082359701832921468
+    second: VFX_Enemy3_ChargeAfterimage_1
+  - first:
+      213: -1646519708293428050
+    second: VFX_Enemy3_ChargeAfterimage_2
+  - first:
+      213: -27546187189703591
+    second: VFX_Enemy3_ChargeAfterimage_3
+  - first:
+      213: -7836227574704633274
+    second: VFX_Enemy3_ChargeAfterimage_4
+  - first:
+      213: -8442072974456730860
+    second: VFX_Enemy3_ChargeAfterimage_5
+  - first:
+      213: 5629866057883295137
+    second: VFX_Enemy3_ChargeAfterimage_6
+  - first:
+      213: 1943784883441960154
+    second: VFX_Enemy3_ChargeAfterimage_7
+  - first:
+      213: 2486063530138929046
+    second: VFX_Enemy3_ChargeAfterimage_8
+  - first:
+      213: -7174924591016495057
+    second: VFX_Enemy3_ChargeAfterimage_9
+  - first:
+      213: -8914767131016986451
+    second: VFX_Enemy3_ChargeAfterimage_10
+  - first:
+      213: -1367272366914605464
+    second: VFX_Enemy3_ChargeAfterimage_11
+  - first:
+      213: 4337175288619870750
+    second: VFX_Enemy3_ChargeAfterimage_12
+  - first:
+      213: -8889675445553873912
+    second: VFX_Enemy3_ChargeAfterimage_13
+  - first:
+      213: 1097788980537414966
+    second: VFX_Enemy3_ChargeAfterimage_14
+  - first:
+      213: 1040698398684457536
+    second: VFX_Enemy3_ChargeAfterimage_15
+  - first:
+      213: -4670912994392354195
+    second: VFX_Enemy3_ChargeAfterimage_16
+  - first:
+      213: 8859127541849557562
+    second: VFX_Enemy3_ChargeAfterimage_17
+  - first:
+      213: -1443882785808004030
+    second: VFX_Enemy3_ChargeAfterimage_18
+  - first:
+      213: -4736479708321789783
+    second: VFX_Enemy3_ChargeAfterimage_19
+  - first:
+      213: -1318615182718596372
+    second: VFX_Enemy3_ChargeAfterimage_20
+  - first:
+      213: -3751595089749832632
+    second: VFX_Enemy3_ChargeAfterimage_21
+  - first:
+      213: 8223782216385775270
+    second: VFX_Enemy3_ChargeAfterimage_22
+  - first:
+      213: 6516656126958587806
+    second: VFX_Enemy3_ChargeAfterimage_23
+  - first:
+      213: -4807995574140180849
+    second: VFX_Enemy3_ChargeAfterimage_24
+  - first:
+      213: 1453506592940226714
+    second: VFX_Enemy3_ChargeAfterimage_25
+  - first:
+      213: 4959393694840359527
+    second: VFX_Enemy3_ChargeAfterimage_26
+  - first:
+      213: 623010682691788405
+    second: VFX_Enemy3_ChargeAfterimage_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 282
+        width: 190
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec38cc084ac7ef50800000000000000
+      internalID: 6910714564024220909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 205
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e05b8006766bd90800000000000000
+      internalID: -7082359701832921468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 470
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac8d778c036629e0800000000000000
+      internalID: -1646519708293428050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_3
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 451
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c24a183e22e9ff0800000000000000
+      internalID: -27546187189703591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_4
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 447
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a0c96f980204390800000000000000
+      internalID: -7836227574704633274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 282
+        width: 201
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bc4959b5bb7da80800000000000000
+      internalID: -8442072974456730860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 428
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad9921f95d412e40800000000000000
+      internalID: 5629866057883295137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 436
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad405598d06b9fa10800000000000000
+      internalID: 1943784883441960154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 395
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6970cf2eb95408220800000000000000
+      internalID: 2486063530138929046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f283f3e491c8d6c90800000000000000
+      internalID: -7174924591016495057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_10
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 281
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0876cd682684480800000000000000
+      internalID: -8914767131016986451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 198
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ee8d2c609760de0800000000000000
+      internalID: -1367272366914605464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 201
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a2ac612fdb03c30800000000000000
+      internalID: 4337175288619870750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 201
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cbf33284781a480800000000000000
+      internalID: -8889675445553873912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 184
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635554fe2412c3f00800000000000000
+      internalID: 1097788980537414966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 193
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aa7e30ead417e00800000000000000
+      internalID: 1040698398684457536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 168
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62dc7011659d2fb0800000000000000
+      internalID: -4670912994392354195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 35
+        width: 204
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a82d7cf81f1fa70800000000000000
+      internalID: 8859127541849557562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 168
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ccc9e914c46fbe0800000000000000
+      internalID: -1443882785808004030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 180
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a842abdcc4a44eb0800000000000000
+      internalID: -4736479708321789783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 179
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea0f964a7653bde0800000000000000
+      internalID: -1318615182718596372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 120
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c8c568428afebc0800000000000000
+      internalID: -3751595089749832632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 153
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a649d5ba5eb02270800000000000000
+      internalID: 8223782216385775270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 135
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f4db28830df6a50800000000000000
+      internalID: 6516656126958587806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_24
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8669b9cf71964db0800000000000000
+      internalID: -4807995574140180849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_25
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 126
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98f3e69b84eb2410800000000000000
+      internalID: 1453506592940226714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_26
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 87
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a854a1a4e43d440800000000000000
+      internalID: 4959393694840359527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_ChargeAfterimage_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 67
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e1e114ae065a800800000000000000
+      internalID: 623010682691788405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Enemy3_ChargeAfterimage_0: 6910714564024220909
+      VFX_Enemy3_ChargeAfterimage_1: -7082359701832921468
+      VFX_Enemy3_ChargeAfterimage_10: -8914767131016986451
+      VFX_Enemy3_ChargeAfterimage_11: -1367272366914605464
+      VFX_Enemy3_ChargeAfterimage_12: 4337175288619870750
+      VFX_Enemy3_ChargeAfterimage_13: -8889675445553873912
+      VFX_Enemy3_ChargeAfterimage_14: 1097788980537414966
+      VFX_Enemy3_ChargeAfterimage_15: 1040698398684457536
+      VFX_Enemy3_ChargeAfterimage_16: -4670912994392354195
+      VFX_Enemy3_ChargeAfterimage_17: 8859127541849557562
+      VFX_Enemy3_ChargeAfterimage_18: -1443882785808004030
+      VFX_Enemy3_ChargeAfterimage_19: -4736479708321789783
+      VFX_Enemy3_ChargeAfterimage_2: -1646519708293428050
+      VFX_Enemy3_ChargeAfterimage_20: -1318615182718596372
+      VFX_Enemy3_ChargeAfterimage_21: -3751595089749832632
+      VFX_Enemy3_ChargeAfterimage_22: 8223782216385775270
+      VFX_Enemy3_ChargeAfterimage_23: 6516656126958587806
+      VFX_Enemy3_ChargeAfterimage_24: -4807995574140180849
+      VFX_Enemy3_ChargeAfterimage_25: 1453506592940226714
+      VFX_Enemy3_ChargeAfterimage_26: 4959393694840359527
+      VFX_Enemy3_ChargeAfterimage_27: 623010682691788405
+      VFX_Enemy3_ChargeAfterimage_3: -27546187189703591
+      VFX_Enemy3_ChargeAfterimage_4: -7836227574704633274
+      VFX_Enemy3_ChargeAfterimage_5: -8442072974456730860
+      VFX_Enemy3_ChargeAfterimage_6: 5629866057883295137
+      VFX_Enemy3_ChargeAfterimage_7: 1943784883441960154
+      VFX_Enemy3_ChargeAfterimage_8: 2486063530138929046
+      VFX_Enemy3_ChargeAfterimage_9: -7174924591016495057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

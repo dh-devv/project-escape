@@ -1,0 +1,55 @@
+{
+  "name": "Generator_Broken",
+  "sourcePage": 12,
+  "frameCount": 2,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2972423802612482,
+  "sourceOffset": [
+    20,
+    57
+  ],
+  "sourceRegions": [
+    [
+      32,
+      173,
+      701,
+      564
+    ],
+    [
+      766,
+      170,
+      1459,
+      564
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "8a9e856068dae547f5b0fbd79caea06f946f7a0c729f9c35d08e84c425bd48b8",
+  "spriteSha256": "833f4dc2294fc08800d86114de3345f67477427303caa4b9b7d81ac810368860"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Door_Opening",
+  "sourcePage": 12,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.5550135501355014,
+  "sourceOffset": [
+    21,
+    -23
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "3c0b8ca493f0ff5af6f28f7feb9ebdafdbcb5ccb4d444feb6f411727a9138e09",
+  "spriteSha256": "dd93129f2946dcdd99dc862600e84a5b89eb539f96cc389364b1b06bad10160b"
+}

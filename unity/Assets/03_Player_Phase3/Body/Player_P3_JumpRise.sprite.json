@@ -1,0 +1,65 @@
+{
+  "name": "Player_P3_JumpRise",
+  "sourcePage": 5,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    27
+  ],
+  "sourceRegions": [
+    [
+      202,
+      52,
+      607,
+      700
+    ],
+    [
+      932,
+      80,
+      1319,
+      586
+    ],
+    [
+      1603,
+      27,
+      2049,
+      700
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "9f7702dcb44ffa6fac7f03bb35320cf24154a20adf7eed09c869a23218d11000",
+  "spriteSha256": "b8e2bbc6a4da27e6e0fb8f6fb03b7260dc5cf59870a040ece0070c1ad30b9929"
+}

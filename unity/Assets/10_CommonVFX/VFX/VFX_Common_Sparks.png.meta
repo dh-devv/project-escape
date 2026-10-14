@@ -1,0 +1,2977 @@
+fileFormatVersion: 2
+guid: 32a63fcd29ea8454c9f57e45e539172d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 383937644216852945
+    second: VFX_Common_Sparks_0
+  - first:
+      213: -4502734522449704361
+    second: VFX_Common_Sparks_1
+  - first:
+      213: 7454885583431953942
+    second: VFX_Common_Sparks_2
+  - first:
+      213: -49356387626695445
+    second: VFX_Common_Sparks_3
+  - first:
+      213: 7683060289823190132
+    second: VFX_Common_Sparks_4
+  - first:
+      213: -3311360512460134187
+    second: VFX_Common_Sparks_5
+  - first:
+      213: -1086581521507474516
+    second: VFX_Common_Sparks_6
+  - first:
+      213: -1927291723933775800
+    second: VFX_Common_Sparks_7
+  - first:
+      213: -3131036367905675144
+    second: VFX_Common_Sparks_8
+  - first:
+      213: 7493174431953199118
+    second: VFX_Common_Sparks_9
+  - first:
+      213: 7511318100370811565
+    second: VFX_Common_Sparks_10
+  - first:
+      213: -340863848840501993
+    second: VFX_Common_Sparks_11
+  - first:
+      213: -8410387906334906356
+    second: VFX_Common_Sparks_12
+  - first:
+      213: -7253300536783380888
+    second: VFX_Common_Sparks_13
+  - first:
+      213: 5349830597840350936
+    second: VFX_Common_Sparks_14
+  - first:
+      213: -2197532740407074039
+    second: VFX_Common_Sparks_15
+  - first:
+      213: 5839528635475409316
+    second: VFX_Common_Sparks_16
+  - first:
+      213: 6420811158868654159
+    second: VFX_Common_Sparks_17
+  - first:
+      213: -969510099322639303
+    second: VFX_Common_Sparks_18
+  - first:
+      213: 6263978472297618795
+    second: VFX_Common_Sparks_19
+  - first:
+      213: -7014344748747438726
+    second: VFX_Common_Sparks_20
+  - first:
+      213: 600457592668454303
+    second: VFX_Common_Sparks_21
+  - first:
+      213: -9017660354618154681
+    second: VFX_Common_Sparks_22
+  - first:
+      213: -8956608294961929463
+    second: VFX_Common_Sparks_23
+  - first:
+      213: 9175626916056408081
+    second: VFX_Common_Sparks_24
+  - first:
+      213: 9150883549081160668
+    second: VFX_Common_Sparks_25
+  - first:
+      213: 8394331987535834534
+    second: VFX_Common_Sparks_26
+  - first:
+      213: -6150717951142305282
+    second: VFX_Common_Sparks_27
+  - first:
+      213: 6949680173539138747
+    second: VFX_Common_Sparks_28
+  - first:
+      213: 1070498682863095609
+    second: VFX_Common_Sparks_29
+  - first:
+      213: -3460169631964966224
+    second: VFX_Common_Sparks_30
+  - first:
+      213: -8798782352104546630
+    second: VFX_Common_Sparks_31
+  - first:
+      213: -6916633740313971376
+    second: VFX_Common_Sparks_32
+  - first:
+      213: 3648594512180591029
+    second: VFX_Common_Sparks_33
+  - first:
+      213: 727942565596467467
+    second: VFX_Common_Sparks_34
+  - first:
+      213: 5425289910070782670
+    second: VFX_Common_Sparks_35
+  - first:
+      213: 8062479533781278282
+    second: VFX_Common_Sparks_36
+  - first:
+      213: 7514511936305688392
+    second: VFX_Common_Sparks_37
+  - first:
+      213: -2006239313897298860
+    second: VFX_Common_Sparks_38
+  - first:
+      213: 4092039718244181331
+    second: VFX_Common_Sparks_39
+  - first:
+      213: -6842790860956491227
+    second: VFX_Common_Sparks_40
+  - first:
+      213: 2649682242337413845
+    second: VFX_Common_Sparks_41
+  - first:
+      213: 3481445739827250894
+    second: VFX_Common_Sparks_42
+  - first:
+      213: -328158814541396583
+    second: VFX_Common_Sparks_43
+  - first:
+      213: 7293184465522061526
+    second: VFX_Common_Sparks_44
+  - first:
+      213: -7977293893125046623
+    second: VFX_Common_Sparks_45
+  - first:
+      213: -5755142803306901793
+    second: VFX_Common_Sparks_46
+  - first:
+      213: -1775194166843975354
+    second: VFX_Common_Sparks_47
+  - first:
+      213: -9171561209792274336
+    second: VFX_Common_Sparks_48
+  - first:
+      213: 3769052499588831315
+    second: VFX_Common_Sparks_49
+  - first:
+      213: -30662867799911121
+    second: VFX_Common_Sparks_50
+  - first:
+      213: 7760926597748145417
+    second: VFX_Common_Sparks_51
+  - first:
+      213: 5257900714384064071
+    second: VFX_Common_Sparks_52
+  - first:
+      213: 1561191542693585108
+    second: VFX_Common_Sparks_53
+  - first:
+      213: -9016823968907343149
+    second: VFX_Common_Sparks_54
+  - first:
+      213: 3600471190563733555
+    second: VFX_Common_Sparks_55
+  - first:
+      213: 3742814128161063536
+    second: VFX_Common_Sparks_56
+  - first:
+      213: 175204916286143138
+    second: VFX_Common_Sparks_57
+  - first:
+      213: 6802554485093554479
+    second: VFX_Common_Sparks_58
+  - first:
+      213: -6692538589656808647
+    second: VFX_Common_Sparks_59
+  - first:
+      213: 4518553911373601410
+    second: VFX_Common_Sparks_60
+  - first:
+      213: 1743939870544805321
+    second: VFX_Common_Sparks_61
+  - first:
+      213: -7897784203171432976
+    second: VFX_Common_Sparks_62
+  - first:
+      213: -6910420053649345091
+    second: VFX_Common_Sparks_63
+  - first:
+      213: -4486963632384392100
+    second: VFX_Common_Sparks_64
+  - first:
+      213: 6517808989645621962
+    second: VFX_Common_Sparks_65
+  - first:
+      213: 134597012180767343
+    second: VFX_Common_Sparks_66
+  - first:
+      213: 5603419298972685866
+    second: VFX_Common_Sparks_67
+  - first:
+      213: -627925653208041425
+    second: VFX_Common_Sparks_68
+  - first:
+      213: 7896782672618576484
+    second: VFX_Common_Sparks_69
+  - first:
+      213: -8049885861848885447
+    second: VFX_Common_Sparks_70
+  - first:
+      213: 8706576572052705955
+    second: VFX_Common_Sparks_71
+  - first:
+      213: 685179859291557299
+    second: VFX_Common_Sparks_72
+  - first:
+      213: -8934383517456172019
+    second: VFX_Common_Sparks_73
+  - first:
+      213: -6884309557250425190
+    second: VFX_Common_Sparks_74
+  - first:
+      213: 1341490970955000111
+    second: VFX_Common_Sparks_75
+  - first:
+      213: -3459906255137850187
+    second: VFX_Common_Sparks_76
+  - first:
+      213: 6952056583238533016
+    second: VFX_Common_Sparks_77
+  - first:
+      213: -6944549947075308517
+    second: VFX_Common_Sparks_78
+  - first:
+      213: 8532450673384529007
+    second: VFX_Common_Sparks_79
+  - first:
+      213: 678724904384078661
+    second: VFX_Common_Sparks_80
+  - first:
+      213: -4817677636671496185
+    second: VFX_Common_Sparks_81
+  - first:
+      213: 1851402689813416956
+    second: VFX_Common_Sparks_82
+  - first:
+      213: -7315933051082911485
+    second: VFX_Common_Sparks_83
+  - first:
+      213: 9060390552079547928
+    second: VFX_Common_Sparks_84
+  - first:
+      213: 4408154233036110266
+    second: VFX_Common_Sparks_85
+  - first:
+      213: -1485417521025569266
+    second: VFX_Common_Sparks_86
+  - first:
+      213: -5024895035585875215
+    second: VFX_Common_Sparks_87
+  - first:
+      213: -4991764824162808117
+    second: VFX_Common_Sparks_88
+  - first:
+      213: 5197298626581421121
+    second: VFX_Common_Sparks_89
+  - first:
+      213: -8328582731312221757
+    second: VFX_Common_Sparks_90
+  - first:
+      213: 2523845907723670314
+    second: VFX_Common_Sparks_91
+  - first:
+      213: -3352893232996517218
+    second: VFX_Common_Sparks_92
+  - first:
+      213: -5398819108027763300
+    second: VFX_Common_Sparks_93
+  - first:
+      213: -1152757861045340578
+    second: VFX_Common_Sparks_94
+  - first:
+      213: 6594795749073582386
+    second: VFX_Common_Sparks_95
+  - first:
+      213: -3269629197098214460
+    second: VFX_Common_Sparks_96
+  - first:
+      213: -1867318775299903298
+    second: VFX_Common_Sparks_97
+  - first:
+      213: -2427853798590802538
+    second: VFX_Common_Sparks_98
+  - first:
+      213: -6665642246980305935
+    second: VFX_Common_Sparks_99
+  - first:
+      213: 1465669633134035971
+    second: VFX_Common_Sparks_100
+  - first:
+      213: 3304552958794815305
+    second: VFX_Common_Sparks_101
+  - first:
+      213: -1721103824423723864
+    second: VFX_Common_Sparks_102
+  - first:
+      213: 766812520516337571
+    second: VFX_Common_Sparks_103
+  - first:
+      213: 1961790769199915391
+    second: VFX_Common_Sparks_104
+  - first:
+      213: -2345709410127841699
+    second: VFX_Common_Sparks_105
+  - first:
+      213: 5862661452655647998
+    second: VFX_Common_Sparks_106
+  - first:
+      213: 6807513328753585327
+    second: VFX_Common_Sparks_107
+  - first:
+      213: 7365126986809646260
+    second: VFX_Common_Sparks_108
+  - first:
+      213: -1836721561640594048
+    second: VFX_Common_Sparks_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 428
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d12273d045045500800000000000000
+      internalID: 383937644216852945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 429
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a4f7feec21381c0800000000000000
+      internalID: -4502734522449704361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 453
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e64a1c0f2157760800000000000000
+      internalID: 7454885583431953942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 461
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be44d1080a6a05ff0800000000000000
+      internalID: -49356387626695445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 460
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c22d280a6bf9a60800000000000000
+      internalID: 7683060289823190132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_5
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 453
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8ee83882fab02d0800000000000000
+      internalID: -3311360512460134187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_6
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 456
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca32b07fcdfabe0f0800000000000000
+      internalID: -1086581521507474516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 283
+        width: 207
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84880686362e045e0800000000000000
+      internalID: -1927291723933775800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_8
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 472
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878272823035c84d0800000000000000
+      internalID: -3131036367905675144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 177
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e002c90027a1df760800000000000000
+      internalID: 7493174431953199118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 416
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa609ff3009d3860800000000000000
+      internalID: 7511318100370811565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 453
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e61da222054bf0800000000000000
+      internalID: -340863848840501993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 429
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08aaa362cc484b80800000000000000
+      internalID: -8410387906334906356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 396
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e50e76799175b90800000000000000
+      internalID: -7253300536783380888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 373
+        width: 25
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de2ac8859a6e3a40800000000000000
+      internalID: 5349830597840350936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 436
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903eeb99d9bc081e0800000000000000
+      internalID: -2197532740407074039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 384
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9bb35da5c2a0150800000000000000
+      internalID: 5839528635475409316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 281
+        width: 129
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48fa36eabd4b1950800000000000000
+      internalID: 6420811158868654159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 420
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c68bb83bb9b82f0800000000000000
+      internalID: -969510099322639303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 408
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d5ef98b3f1ee650800000000000000
+      internalID: 6263978472297618795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7548c65d9a08ae90800000000000000
+      internalID: -7014344748747438726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 409
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d70b9cff0455800800000000000000
+      internalID: 600457592668454303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 404
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741acd16fa5dad280800000000000000
+      internalID: -9017660354618154681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_23
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 412
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9032a7ab53cb3b380800000000000000
+      internalID: -8956608294961929463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_24
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 379
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1102e0bc010665f70800000000000000
+      internalID: 9175626916056408081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 389
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbc2fbba187efe70800000000000000
+      internalID: 9150883549081160668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 397
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ada5c3b778ae7470800000000000000
+      internalID: 8394331987535834534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 372
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef16b808c9244aaa0800000000000000
+      internalID: -6150717951142305282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_28
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 388
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc106efb49327060800000000000000
+      internalID: 6949680173539138747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_29
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 393
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f049c51ec2bde00800000000000000
+      internalID: 1070498682863095609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 331
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b252207d020bffc0800000000000000
+      internalID: -3460169631964966224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 347
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe15d6911274e580800000000000000
+      internalID: -8798782352104546630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 308
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055ba13524e2300a0800000000000000
+      internalID: -6916633740313971376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 343
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9b6f3b06962a230800000000000000
+      internalID: 3648594512180591029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 326
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01934718eb2a1a00800000000000000
+      internalID: 727942565596467467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 325
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaa745cd608a4b40800000000000000
+      internalID: 5425289910070782670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 283
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ed3eb4b6ea3ef60800000000000000
+      internalID: 8062479533781278282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_37
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 340
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84feeefdac8e84860800000000000000
+      internalID: 7514511936305688392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_38
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 328
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4546ab839f76824e0800000000000000
+      internalID: -2006239313897298860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_39
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 361
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355ebb47178d9c830800000000000000
+      internalID: 4092039718244181331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 327
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522266477f58901a0800000000000000
+      internalID: -6842790860956491227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_41
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 336
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da9e26f5ff85c420800000000000000
+      internalID: 2649682242337413845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_42
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 316
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec643337474905030800000000000000
+      internalID: 3481445739827250894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 307
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995c85dfb45227bf0800000000000000
+      internalID: -328158814541396583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 308
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0f6d461a8963560800000000000000
+      internalID: 7293184465522061526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_45
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 300
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae736f3875fa4190800000000000000
+      internalID: -7977293893125046623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 291
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde0f39cc10a120b0800000000000000
+      internalID: -5755142803306901793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_47
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 312
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6495be58f4e3d57e0800000000000000
+      internalID: -1775194166843975354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 283
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06064963ca118b080800000000000000
+      internalID: -9171561209792274336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 286
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3585ac1774d5e4430800000000000000
+      internalID: 3769052499588831315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 287
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25ddf0c840139ff0800000000000000
+      internalID: -30662867799911121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 289
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90db8aa1f9954bb60800000000000000
+      internalID: 7760926597748145417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 281
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e722997d0d7f840800000000000000
+      internalID: 5257900714384064071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_53
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 281
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d06890cf677aa510800000000000000
+      internalID: 1561191542693585108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_54
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 283
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dacc0b9f5ecdd280800000000000000
+      internalID: -9016823968907343149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_55
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 284
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3304491c87177f130800000000000000
+      internalID: 3600471190563733555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 25
+        width: 193
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0728a598e9521f330800000000000000
+      internalID: 3742814128161063536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa332e61f37e6200800000000000000
+      internalID: 175204916286143138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_58
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 222
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29dd314347876e50800000000000000
+      internalID: 6802554485093554479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_59
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 214
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93389ed7c935f13a0800000000000000
+      internalID: -6692538589656808647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_60
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 164
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a10e197d025be30800000000000000
+      internalID: 4518553911373601410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_61
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 208
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdb67d8218b33810800000000000000
+      internalID: 1743939870544805321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_62
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 220
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f576498c1f656290800000000000000
+      internalID: -7897784203171432976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_63
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 201
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5be7df2914910a0800000000000000
+      internalID: -6910420053649345091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_64
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 212
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54c1ab695a1bb1c0800000000000000
+      internalID: -4486963632384392100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_65
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 200
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acacca54eb8e37a50800000000000000
+      internalID: 6517808989645621962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_66
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 179
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f621ddaf44f2ed100800000000000000
+      internalID: 134597012180767343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_67
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 172
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26d5da0a2853cd40800000000000000
+      internalID: 5603419298972685866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_68
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 208
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28fd2ff1f82947f0800000000000000
+      internalID: -627925653208041425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_69
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 209
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ad3e57002079d60800000000000000
+      internalID: 7896782672618576484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_70
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 197
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937de02757f094090800000000000000
+      internalID: -8049885861848885447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_71
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 179
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a290fa4349f3d870800000000000000
+      internalID: 8706576572052705955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_72
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 32
+        width: 173
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd4358a37f328900800000000000000
+      internalID: 685179859291557299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 209
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c7beaf681b20480800000000000000
+      internalID: -8934383517456172019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_74
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 204
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ef24caee40670a0800000000000000
+      internalID: -6884309557250425190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_75
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 200
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29aa293eeeed9210800000000000000
+      internalID: 1341490970955000111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 210
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc3b52a791fbffc0800000000000000
+      internalID: -3459906255137850187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_77
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 194
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f395ef0aaaa7060800000000000000
+      internalID: 6952056583238533016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_78
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 195
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b145e9fed9000af90800000000000000
+      internalID: -6944549947075308517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_79
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 25
+        width: 129
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c90aa3eaa596670800000000000000
+      internalID: 8532450673384529007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_80
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 198
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543260a54b05b6900800000000000000
+      internalID: 678724904384078661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_81
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 180
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7002adfe6bb242db0800000000000000
+      internalID: -4817677636671496185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_82
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 182
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb088eefe081b910800000000000000
+      internalID: 1851402689813416956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_83
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 180
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d9a9c6a5987a90800000000000000
+      internalID: -7315933051082911485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_84
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 169
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eb10ff339fcbd70800000000000000
+      internalID: 9060390552079547928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_85
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 153
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab970476be8ec2d30800000000000000
+      internalID: 4408154233036110266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_86
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e212c72acb26be0800000000000000
+      internalID: -1485417521025569266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_87
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 160
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2b742969cf34ab0800000000000000
+      internalID: -5024895035585875215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_88
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 165
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce4c750750b9bab0800000000000000
+      internalID: -4991764824162808117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 148
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cd20d7093802840800000000000000
+      internalID: 5197298626581421121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_90
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 140
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1bea1f12eea6c80800000000000000
+      internalID: -8328582731312221757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_91
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 130
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2351bd2b70860320800000000000000
+      internalID: 2523845907723670314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_92
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 139
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a7e657e512871d0800000000000000
+      internalID: -3352893232996517218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_93
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 148
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95f96b10aa8315b0800000000000000
+      internalID: -5398819108027763300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_94
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 143
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e567a5c35d49000f0800000000000000
+      internalID: -1152757861045340578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_95
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 107
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23979c50bcb658b50800000000000000
+      internalID: 6594795749073582386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_96
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 77
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb17b78191ff92d0800000000000000
+      internalID: -3269629197098214460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_97
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 96
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0f4d3a773f516e0800000000000000
+      internalID: -1867318775299903298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_98
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 107
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695996065d78e4ed0800000000000000
+      internalID: -2427853798590802538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_99
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 79
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbf6e441b1ee73a0800000000000000
+      internalID: -6665642246980305935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_100
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 88
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304080114ca175410800000000000000
+      internalID: 1465669633134035971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_101
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 83
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9475e6268612cdd20800000000000000
+      internalID: 3304552958794815305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_102
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 88
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac58a3c0396d18e0800000000000000
+      internalID: -1721103824423723864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_103
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 81
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afb2b6bce344aa00800000000000000
+      internalID: 766812520516337571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_104
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 40
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f712dc18f4ea93b10800000000000000
+      internalID: 1961790769199915391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_105
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 38
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56f90738bd527fd0800000000000000
+      internalID: -2345709410127841699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_106
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 63
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc5aeb878b5c5150800000000000000
+      internalID: 5862661452655647998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_107
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 56
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac28140e45297e50800000000000000
+      internalID: 6807513328753585327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_108
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 44
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc9e6ee8ff263660800000000000000
+      internalID: 7365126986809646260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Common_Sparks_109
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0859c179877a286e0800000000000000
+      internalID: -1836721561640594048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Common_Sparks_0: 383937644216852945
+      VFX_Common_Sparks_1: -4502734522449704361
+      VFX_Common_Sparks_10: 7511318100370811565
+      VFX_Common_Sparks_100: 1465669633134035971
+      VFX_Common_Sparks_101: 3304552958794815305
+      VFX_Common_Sparks_102: -1721103824423723864
+      VFX_Common_Sparks_103: 766812520516337571
+      VFX_Common_Sparks_104: 1961790769199915391
+      VFX_Common_Sparks_105: -2345709410127841699
+      VFX_Common_Sparks_106: 5862661452655647998
+      VFX_Common_Sparks_107: 6807513328753585327
+      VFX_Common_Sparks_108: 7365126986809646260
+      VFX_Common_Sparks_109: -1836721561640594048
+      VFX_Common_Sparks_11: -340863848840501993
+      VFX_Common_Sparks_12: -8410387906334906356
+      VFX_Common_Sparks_13: -7253300536783380888
+      VFX_Common_Sparks_14: 5349830597840350936
+      VFX_Common_Sparks_15: -2197532740407074039
+      VFX_Common_Sparks_16: 5839528635475409316
+      VFX_Common_Sparks_17: 6420811158868654159
+      VFX_Common_Sparks_18: -969510099322639303
+      VFX_Common_Sparks_19: 6263978472297618795
+      VFX_Common_Sparks_2: 7454885583431953942
+      VFX_Common_Sparks_20: -7014344748747438726
+      VFX_Common_Sparks_21: 600457592668454303
+      VFX_Common_Sparks_22: -9017660354618154681
+      VFX_Common_Sparks_23: -8956608294961929463
+      VFX_Common_Sparks_24: 9175626916056408081
+      VFX_Common_Sparks_25: 9150883549081160668
+      VFX_Common_Sparks_26: 8394331987535834534
+      VFX_Common_Sparks_27: -6150717951142305282
+      VFX_Common_Sparks_28: 6949680173539138747
+      VFX_Common_Sparks_29: 1070498682863095609
+      VFX_Common_Sparks_3: -49356387626695445
+      VFX_Common_Sparks_30: -3460169631964966224
+      VFX_Common_Sparks_31: -8798782352104546630
+      VFX_Common_Sparks_32: -6916633740313971376
+      VFX_Common_Sparks_33: 3648594512180591029
+      VFX_Common_Sparks_34: 727942565596467467
+      VFX_Common_Sparks_35: 5425289910070782670
+      VFX_Common_Sparks_36: 8062479533781278282
+      VFX_Common_Sparks_37: 7514511936305688392
+      VFX_Common_Sparks_38: -2006239313897298860
+      VFX_Common_Sparks_39: 4092039718244181331
+      VFX_Common_Sparks_4: 7683060289823190132
+      VFX_Common_Sparks_40: -6842790860956491227
+      VFX_Common_Sparks_41: 2649682242337413845
+      VFX_Common_Sparks_42: 3481445739827250894
+      VFX_Common_Sparks_43: -328158814541396583
+      VFX_Common_Sparks_44: 7293184465522061526
+      VFX_Common_Sparks_45: -7977293893125046623
+      VFX_Common_Sparks_46: -5755142803306901793
+      VFX_Common_Sparks_47: -1775194166843975354
+      VFX_Common_Sparks_48: -9171561209792274336
+      VFX_Common_Sparks_49: 3769052499588831315
+      VFX_Common_Sparks_5: -3311360512460134187
+      VFX_Common_Sparks_50: -30662867799911121
+      VFX_Common_Sparks_51: 7760926597748145417
+      VFX_Common_Sparks_52: 5257900714384064071
+      VFX_Common_Sparks_53: 1561191542693585108
+      VFX_Common_Sparks_54: -9016823968907343149
+      VFX_Common_Sparks_55: 3600471190563733555
+      VFX_Common_Sparks_56: 3742814128161063536
+      VFX_Common_Sparks_57: 175204916286143138
+      VFX_Common_Sparks_58: 6802554485093554479
+      VFX_Common_Sparks_59: -6692538589656808647
+      VFX_Common_Sparks_6: -1086581521507474516
+      VFX_Common_Sparks_60: 4518553911373601410
+      VFX_Common_Sparks_61: 1743939870544805321
+      VFX_Common_Sparks_62: -7897784203171432976
+      VFX_Common_Sparks_63: -6910420053649345091
+      VFX_Common_Sparks_64: -4486963632384392100
+      VFX_Common_Sparks_65: 6517808989645621962
+      VFX_Common_Sparks_66: 134597012180767343
+      VFX_Common_Sparks_67: 5603419298972685866
+      VFX_Common_Sparks_68: -627925653208041425
+      VFX_Common_Sparks_69: 7896782672618576484
+      VFX_Common_Sparks_7: -1927291723933775800
+      VFX_Common_Sparks_70: -8049885861848885447
+      VFX_Common_Sparks_71: 8706576572052705955
+      VFX_Common_Sparks_72: 685179859291557299
+      VFX_Common_Sparks_73: -8934383517456172019
+      VFX_Common_Sparks_74: -6884309557250425190
+      VFX_Common_Sparks_75: 1341490970955000111
+      VFX_Common_Sparks_76: -3459906255137850187
+      VFX_Common_Sparks_77: 6952056583238533016
+      VFX_Common_Sparks_78: -6944549947075308517
+      VFX_Common_Sparks_79: 8532450673384529007
+      VFX_Common_Sparks_8: -3131036367905675144
+      VFX_Common_Sparks_80: 678724904384078661
+      VFX_Common_Sparks_81: -4817677636671496185
+      VFX_Common_Sparks_82: 1851402689813416956
+      VFX_Common_Sparks_83: -7315933051082911485
+      VFX_Common_Sparks_84: 9060390552079547928
+      VFX_Common_Sparks_85: 4408154233036110266
+      VFX_Common_Sparks_86: -1485417521025569266
+      VFX_Common_Sparks_87: -5024895035585875215
+      VFX_Common_Sparks_88: -4991764824162808117
+      VFX_Common_Sparks_89: 5197298626581421121
+      VFX_Common_Sparks_9: 7493174431953199118
+      VFX_Common_Sparks_90: -8328582731312221757
+      VFX_Common_Sparks_91: 2523845907723670314
+      VFX_Common_Sparks_92: -3352893232996517218
+      VFX_Common_Sparks_93: -5398819108027763300
+      VFX_Common_Sparks_94: -1152757861045340578
+      VFX_Common_Sparks_95: 6594795749073582386
+      VFX_Common_Sparks_96: -3269629197098214460
+      VFX_Common_Sparks_97: -1867318775299903298
+      VFX_Common_Sparks_98: -2427853798590802538
+      VFX_Common_Sparks_99: -6665642246980305935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

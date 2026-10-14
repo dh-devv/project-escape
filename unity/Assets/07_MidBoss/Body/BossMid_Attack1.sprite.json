@@ -1,0 +1,102 @@
+{
+  "name": "BossMid_Attack1",
+  "sourcePage": 9,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    21
+  ],
+  "sourceRegions": [
+    [
+      5,
+      164,
+      534,
+      531
+    ],
+    [
+      529,
+      4,
+      977,
+      531
+    ],
+    [
+      1063,
+      227,
+      1521,
+      546
+    ],
+    [
+      102,
+      672,
+      532,
+      998
+    ],
+    [
+      532,
+      543,
+      996,
+      981
+    ],
+    [
+      1024,
+      627,
+      1497,
+      981
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "bf11581ab1a3ac1dc39c442276e756a11b08399a3e2e868f964a672f36548ead",
+  "spriteSha256": "941519977d6938011987db34b4dce20f93653a77604adccfc2e88ea8f1d7052f",
+  "proposedCombatTiming": {
+    "hitFrames": [
+      3
+    ],
+    "note": "무기 바닥 접촉; 4번은 후속 자세"
+  },
+  "combatTimingFrameIndexBase": 1
+}

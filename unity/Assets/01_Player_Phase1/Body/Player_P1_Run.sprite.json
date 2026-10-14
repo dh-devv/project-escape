@@ -1,0 +1,115 @@
+{
+  "name": "Player_P1_Run",
+  "sourcePage": 3,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.48995215311004786,
+  "sourceOffset": [
+    25,
+    24
+  ],
+  "sourceRegions": [
+    [
+      64,
+      57,
+      392,
+      420
+    ],
+    [
+      482,
+      80,
+      780,
+      421
+    ],
+    [
+      956,
+      63,
+      1182,
+      422
+    ],
+    [
+      36,
+      474,
+      431,
+      813
+    ],
+    [
+      467,
+      474,
+      818,
+      830
+    ],
+    [
+      910,
+      495,
+      1219,
+      827
+    ],
+    [
+      144,
+      864,
+      374,
+      1216
+    ],
+    [
+      448,
+      864,
+      852,
+      1199
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "0b15eeb0994780f5f9aa19539e4217ecda230cef6df406b022322831eef90428",
+  "spriteSha256": "31cc0e68631f10c8ad05fb6ca7ecd30f4942eacda05221cd8ea31ebe3d4ffa56"
+}

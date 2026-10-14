@@ -1,0 +1,3289 @@
+fileFormatVersion: 2
+guid: 36a455a66a6da224594602991444ffef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8021364643396520609
+    second: VFX_Enemy3_CollisionShockwave_0
+  - first:
+      213: 6775605842016135716
+    second: VFX_Enemy3_CollisionShockwave_1
+  - first:
+      213: 591519119682732011
+    second: VFX_Enemy3_CollisionShockwave_2
+  - first:
+      213: -2831351427743450491
+    second: VFX_Enemy3_CollisionShockwave_3
+  - first:
+      213: 123400143275207172
+    second: VFX_Enemy3_CollisionShockwave_4
+  - first:
+      213: -326352564989815582
+    second: VFX_Enemy3_CollisionShockwave_5
+  - first:
+      213: -1521703626558481532
+    second: VFX_Enemy3_CollisionShockwave_6
+  - first:
+      213: 7162114468462644485
+    second: VFX_Enemy3_CollisionShockwave_7
+  - first:
+      213: -7178168022700782541
+    second: VFX_Enemy3_CollisionShockwave_8
+  - first:
+      213: 8279938830977585566
+    second: VFX_Enemy3_CollisionShockwave_9
+  - first:
+      213: 4628118055320841389
+    second: VFX_Enemy3_CollisionShockwave_10
+  - first:
+      213: 7259422209135863823
+    second: VFX_Enemy3_CollisionShockwave_11
+  - first:
+      213: -3583034431069140081
+    second: VFX_Enemy3_CollisionShockwave_12
+  - first:
+      213: -8043634129250680361
+    second: VFX_Enemy3_CollisionShockwave_13
+  - first:
+      213: -2655506312351114969
+    second: VFX_Enemy3_CollisionShockwave_14
+  - first:
+      213: 8808067248582694528
+    second: VFX_Enemy3_CollisionShockwave_15
+  - first:
+      213: 732006195793228918
+    second: VFX_Enemy3_CollisionShockwave_16
+  - first:
+      213: -6306817358067341340
+    second: VFX_Enemy3_CollisionShockwave_17
+  - first:
+      213: -4705512135995273824
+    second: VFX_Enemy3_CollisionShockwave_18
+  - first:
+      213: 8714170082629563723
+    second: VFX_Enemy3_CollisionShockwave_19
+  - first:
+      213: 2823097511597700102
+    second: VFX_Enemy3_CollisionShockwave_20
+  - first:
+      213: -4121936372525298524
+    second: VFX_Enemy3_CollisionShockwave_21
+  - first:
+      213: -753063441891609913
+    second: VFX_Enemy3_CollisionShockwave_22
+  - first:
+      213: -7713137367732997965
+    second: VFX_Enemy3_CollisionShockwave_23
+  - first:
+      213: -7400478863797283912
+    second: VFX_Enemy3_CollisionShockwave_24
+  - first:
+      213: 7195874582198917165
+    second: VFX_Enemy3_CollisionShockwave_25
+  - first:
+      213: 8256986849545482150
+    second: VFX_Enemy3_CollisionShockwave_26
+  - first:
+      213: 6065240035834296671
+    second: VFX_Enemy3_CollisionShockwave_27
+  - first:
+      213: 8540591543637524887
+    second: VFX_Enemy3_CollisionShockwave_28
+  - first:
+      213: 8918887306938774644
+    second: VFX_Enemy3_CollisionShockwave_29
+  - first:
+      213: 7735554753935037845
+    second: VFX_Enemy3_CollisionShockwave_30
+  - first:
+      213: 2297338681237664614
+    second: VFX_Enemy3_CollisionShockwave_31
+  - first:
+      213: 5017153472138131551
+    second: VFX_Enemy3_CollisionShockwave_32
+  - first:
+      213: -7245388876151918694
+    second: VFX_Enemy3_CollisionShockwave_33
+  - first:
+      213: -9133872331637295727
+    second: VFX_Enemy3_CollisionShockwave_34
+  - first:
+      213: 2336675134382415496
+    second: VFX_Enemy3_CollisionShockwave_35
+  - first:
+      213: -3378571033313209676
+    second: VFX_Enemy3_CollisionShockwave_36
+  - first:
+      213: -3575268664829328147
+    second: VFX_Enemy3_CollisionShockwave_37
+  - first:
+      213: -6272978963839785195
+    second: VFX_Enemy3_CollisionShockwave_38
+  - first:
+      213: 3467173739433040667
+    second: VFX_Enemy3_CollisionShockwave_39
+  - first:
+      213: -469562110064553767
+    second: VFX_Enemy3_CollisionShockwave_40
+  - first:
+      213: 145658112958160395
+    second: VFX_Enemy3_CollisionShockwave_41
+  - first:
+      213: -451440290725767165
+    second: VFX_Enemy3_CollisionShockwave_42
+  - first:
+      213: -2242600772347873043
+    second: VFX_Enemy3_CollisionShockwave_43
+  - first:
+      213: 3161135808289430694
+    second: VFX_Enemy3_CollisionShockwave_44
+  - first:
+      213: 5110582483102943434
+    second: VFX_Enemy3_CollisionShockwave_45
+  - first:
+      213: -7716226825441878243
+    second: VFX_Enemy3_CollisionShockwave_46
+  - first:
+      213: -713517752792706196
+    second: VFX_Enemy3_CollisionShockwave_47
+  - first:
+      213: -8970845570412748693
+    second: VFX_Enemy3_CollisionShockwave_48
+  - first:
+      213: 5684110776398176088
+    second: VFX_Enemy3_CollisionShockwave_49
+  - first:
+      213: -4606312772847954686
+    second: VFX_Enemy3_CollisionShockwave_50
+  - first:
+      213: 6295986804100397701
+    second: VFX_Enemy3_CollisionShockwave_51
+  - first:
+      213: -828894281855366488
+    second: VFX_Enemy3_CollisionShockwave_52
+  - first:
+      213: 1956896102172401122
+    second: VFX_Enemy3_CollisionShockwave_53
+  - first:
+      213: -9006068373233016288
+    second: VFX_Enemy3_CollisionShockwave_54
+  - first:
+      213: -5923581271346949160
+    second: VFX_Enemy3_CollisionShockwave_55
+  - first:
+      213: -5720388547144484011
+    second: VFX_Enemy3_CollisionShockwave_56
+  - first:
+      213: 4270998874639793389
+    second: VFX_Enemy3_CollisionShockwave_57
+  - first:
+      213: -6264002059980671258
+    second: VFX_Enemy3_CollisionShockwave_58
+  - first:
+      213: 4248986141635507550
+    second: VFX_Enemy3_CollisionShockwave_59
+  - first:
+      213: 7870997703469409739
+    second: VFX_Enemy3_CollisionShockwave_60
+  - first:
+      213: 3447541650360830781
+    second: VFX_Enemy3_CollisionShockwave_61
+  - first:
+      213: 4139773047831750694
+    second: VFX_Enemy3_CollisionShockwave_62
+  - first:
+      213: 2121551636997316797
+    second: VFX_Enemy3_CollisionShockwave_63
+  - first:
+      213: 856637538115243344
+    second: VFX_Enemy3_CollisionShockwave_64
+  - first:
+      213: -6082863729450100144
+    second: VFX_Enemy3_CollisionShockwave_65
+  - first:
+      213: -6796119375716531738
+    second: VFX_Enemy3_CollisionShockwave_66
+  - first:
+      213: 8576940008156492126
+    second: VFX_Enemy3_CollisionShockwave_67
+  - first:
+      213: -1748509291964294675
+    second: VFX_Enemy3_CollisionShockwave_68
+  - first:
+      213: -2701884461876090115
+    second: VFX_Enemy3_CollisionShockwave_69
+  - first:
+      213: 4579956800223029625
+    second: VFX_Enemy3_CollisionShockwave_70
+  - first:
+      213: 6124635841663580821
+    second: VFX_Enemy3_CollisionShockwave_71
+  - first:
+      213: -1166400851237937111
+    second: VFX_Enemy3_CollisionShockwave_72
+  - first:
+      213: 5061037228150395213
+    second: VFX_Enemy3_CollisionShockwave_73
+  - first:
+      213: -3708196468394268876
+    second: VFX_Enemy3_CollisionShockwave_74
+  - first:
+      213: -9148370547581738777
+    second: VFX_Enemy3_CollisionShockwave_75
+  - first:
+      213: 1526351314229489641
+    second: VFX_Enemy3_CollisionShockwave_76
+  - first:
+      213: 112801610081895824
+    second: VFX_Enemy3_CollisionShockwave_77
+  - first:
+      213: 6903167551802178472
+    second: VFX_Enemy3_CollisionShockwave_78
+  - first:
+      213: -8948361689954428012
+    second: VFX_Enemy3_CollisionShockwave_79
+  - first:
+      213: -7028589394592259530
+    second: VFX_Enemy3_CollisionShockwave_80
+  - first:
+      213: -4564480835171617498
+    second: VFX_Enemy3_CollisionShockwave_81
+  - first:
+      213: -5522742542878456006
+    second: VFX_Enemy3_CollisionShockwave_82
+  - first:
+      213: -2441019536825212529
+    second: VFX_Enemy3_CollisionShockwave_83
+  - first:
+      213: 7030384841922379600
+    second: VFX_Enemy3_CollisionShockwave_84
+  - first:
+      213: 2367064581765097919
+    second: VFX_Enemy3_CollisionShockwave_85
+  - first:
+      213: -1049717271021563931
+    second: VFX_Enemy3_CollisionShockwave_86
+  - first:
+      213: -3846834750526578285
+    second: VFX_Enemy3_CollisionShockwave_87
+  - first:
+      213: 5110005944067642418
+    second: VFX_Enemy3_CollisionShockwave_88
+  - first:
+      213: 1297180367148554
+    second: VFX_Enemy3_CollisionShockwave_89
+  - first:
+      213: 2204550918019213719
+    second: VFX_Enemy3_CollisionShockwave_90
+  - first:
+      213: -4277114537977008527
+    second: VFX_Enemy3_CollisionShockwave_91
+  - first:
+      213: -769129551286520780
+    second: VFX_Enemy3_CollisionShockwave_92
+  - first:
+      213: -1625610710490488881
+    second: VFX_Enemy3_CollisionShockwave_93
+  - first:
+      213: -3835955449714327520
+    second: VFX_Enemy3_CollisionShockwave_94
+  - first:
+      213: -6312858397314536850
+    second: VFX_Enemy3_CollisionShockwave_95
+  - first:
+      213: -8966581480246444262
+    second: VFX_Enemy3_CollisionShockwave_96
+  - first:
+      213: -8578287800826412800
+    second: VFX_Enemy3_CollisionShockwave_97
+  - first:
+      213: 5811526817118465478
+    second: VFX_Enemy3_CollisionShockwave_98
+  - first:
+      213: -4041158995660438245
+    second: VFX_Enemy3_CollisionShockwave_99
+  - first:
+      213: -2029892075823375997
+    second: VFX_Enemy3_CollisionShockwave_100
+  - first:
+      213: -1477692232877438241
+    second: VFX_Enemy3_CollisionShockwave_101
+  - first:
+      213: 2780908945951014345
+    second: VFX_Enemy3_CollisionShockwave_102
+  - first:
+      213: 3440546471196930015
+    second: VFX_Enemy3_CollisionShockwave_103
+  - first:
+      213: 3426764487072041077
+    second: VFX_Enemy3_CollisionShockwave_104
+  - first:
+      213: -3523263961820173046
+    second: VFX_Enemy3_CollisionShockwave_105
+  - first:
+      213: 9033236160495181346
+    second: VFX_Enemy3_CollisionShockwave_106
+  - first:
+      213: -2118312507382199230
+    second: VFX_Enemy3_CollisionShockwave_107
+  - first:
+      213: 1468045283098065092
+    second: VFX_Enemy3_CollisionShockwave_108
+  - first:
+      213: -6138858040488840978
+    second: VFX_Enemy3_CollisionShockwave_109
+  - first:
+      213: -6509497348662201365
+    second: VFX_Enemy3_CollisionShockwave_110
+  - first:
+      213: -5903560782680771092
+    second: VFX_Enemy3_CollisionShockwave_111
+  - first:
+      213: -3282862994134149435
+    second: VFX_Enemy3_CollisionShockwave_112
+  - first:
+      213: -5866054953413852309
+    second: VFX_Enemy3_CollisionShockwave_113
+  - first:
+      213: 91478385134524995
+    second: VFX_Enemy3_CollisionShockwave_114
+  - first:
+      213: -9153932748904607396
+    second: VFX_Enemy3_CollisionShockwave_115
+  - first:
+      213: -1458018103787726916
+    second: VFX_Enemy3_CollisionShockwave_116
+  - first:
+      213: 2364149358452558412
+    second: VFX_Enemy3_CollisionShockwave_117
+  - first:
+      213: -4961980632271373266
+    second: VFX_Enemy3_CollisionShockwave_118
+  - first:
+      213: 6972870158795587895
+    second: VFX_Enemy3_CollisionShockwave_119
+  - first:
+      213: 137923078214024836
+    second: VFX_Enemy3_CollisionShockwave_120
+  - first:
+      213: 4670858700922125066
+    second: VFX_Enemy3_CollisionShockwave_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 611
+        width: 155
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa0787e4ac915f60800000000000000
+      internalID: 8021364643396520609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 705
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aee675d99c70e50800000000000000
+      internalID: 6775605842016135716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 704
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef7a8e518f753800800000000000000
+      internalID: 591519119682732011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 671
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a7e0ba0e405b8d0800000000000000
+      internalID: -2831351427743450491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 712
+        width: 77
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aa629c6c766b100800000000000000
+      internalID: 123400143275207172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 663
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e49e3c3210987bf0800000000000000
+      internalID: -326352564989815582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 698
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bde8d2d92d1eae0800000000000000
+      internalID: -1521703626558481532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 727
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dc66d9921f46360800000000000000
+      internalID: 7162114468462644485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_8
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 688
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c0ad40736026c90800000000000000
+      internalID: -7178168022700782541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_9
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 714
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91d16e6f7048e270800000000000000
+      internalID: 8279938830977585566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_10
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 711
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac68f9b9d06a3040800000000000000
+      internalID: 4628118055320841389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 694
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08ef128906aeb460800000000000000
+      internalID: 7259422209135863823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 682
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b412e2b21864ec0800000000000000
+      internalID: -3583034431069140081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_13
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 664
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d10ece50654f5090800000000000000
+      internalID: -8043634129250680361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 682
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7291181141fb52bd0800000000000000
+      internalID: -2655506312351114969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_15
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 679
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0861685de7a8c3a70800000000000000
+      internalID: 8808067248582694528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_16
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 680
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674f3a9b1cb982a00800000000000000
+      internalID: 732006195793228918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_17
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 672
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7e02d170fa978a0800000000000000
+      internalID: -6306817358067341340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 633
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad46b7a4a9a2beb0800000000000000
+      internalID: -4705512135995273824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 642
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45b87f3583fee870800000000000000
+      internalID: 8714170082629563723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 657
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604f119ba38ad2720800000000000000
+      internalID: 2823097511597700102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 661
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac0ed845b0fbc6c0800000000000000
+      internalID: -4121936372525298524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_22
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 537
+        width: 183
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2b7bc1ac49c85f0800000000000000
+      internalID: -753063441891609913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_23
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 662
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0bb741e6e65f490800000000000000
+      internalID: -7713137367732997965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 652
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3939bcea73c4990800000000000000
+      internalID: -7400478863797283912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 633
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d289a30aec1ecd360800000000000000
+      internalID: 7195874582198917165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_26
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 537
+        width: 199
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afea32dac5b69270800000000000000
+      internalID: 8256986849545482150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 540
+        width: 185
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5971657daf0c2450800000000000000
+      internalID: 6065240035834296671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 635
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791483a42c6468670800000000000000
+      internalID: 8540591543637524887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 550
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47473d950c046cb70800000000000000
+      internalID: 8918887306938774644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_30
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 550
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595d1e060163a5b60800000000000000
+      internalID: 7735554753935037845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_31
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 551
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6637fe7db59c1ef10800000000000000
+      internalID: 2297338681237664614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_32
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 537
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58396a308280a540800000000000000
+      internalID: 5017153472138131551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 447
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fe5617435337b90800000000000000
+      internalID: -7245388876151918694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 434
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1957df8f187fd3180800000000000000
+      internalID: -9133872331637295727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 407
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e1a5c87a98d6020800000000000000
+      internalID: 2336675134382415496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 416
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b211feab87ec11d0800000000000000
+      internalID: -3378571033313209676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 451
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de443488718126ec0800000000000000
+      internalID: -3575268664829328147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 416
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517e4d83ed6e1f8a0800000000000000
+      internalID: -6272978963839785195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 420
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b18796520ed1030800000000000000
+      internalID: 3467173739433040667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d09e9dafb7cb79f0800000000000000
+      internalID: -469562110064553767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_41
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 407
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5681384b750200800000000000000
+      internalID: 145658112958160395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 416
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308ddf982792cb9f0800000000000000
+      internalID: -451440290725767165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_43
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 431
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de83037ba7ea0e0e0800000000000000
+      internalID: -2242600772347873043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_44
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 419
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acdbdbe44c9edb20800000000000000
+      internalID: 3161135808289430694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 426
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac84facf0bf6ce640800000000000000
+      internalID: 5110582483102943434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_46
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 414
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f5237a5947ae490800000000000000
+      internalID: -7716226825441878243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_47
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 452
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c631bdb52631916f0800000000000000
+      internalID: -713517752792706196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_48
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 403
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6069a8bb77218380800000000000000
+      internalID: -8970845570412748693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 448
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fde2ba2a402ee40800000000000000
+      internalID: 5684110776398176088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_50
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 412
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2059d0a30f61310c0800000000000000
+      internalID: -4606312772847954686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_51
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 404
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a73f804a6df5750800000000000000
+      internalID: 6295986804100397701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_52
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 422
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa88a5da0d2f74f0800000000000000
+      internalID: -828894281855366488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_53
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 427
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed155803aa482b10800000000000000
+      internalID: 1956896102172401122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_54
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 461
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022e09ed784040380800000000000000
+      internalID: -9006068373233016288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_55
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 289
+        width: 202
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3553bd7363bcda0800000000000000
+      internalID: -5923581271346949160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_56
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b7d3e9ce81d90b0800000000000000
+      internalID: -5720388547144484011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_57
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 401
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec7ff609d2a54b30800000000000000
+      internalID: 4270998874639793389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_58
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 399
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e67986805bc119a0800000000000000
+      internalID: -6264002059980671258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_59
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 388
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55fdbb326e67fa30800000000000000
+      internalID: 4248986141635507550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_60
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 382
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5a53f75b66b3d60800000000000000
+      internalID: 7870997703469409739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_61
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 404
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b0f1a7dd028df20800000000000000
+      internalID: 3447541650360830781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_62
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 400
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6286fbe47ad637930800000000000000
+      internalID: 4139773047831750694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_63
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 394
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0afdf29f3417d10800000000000000
+      internalID: 2121551636997316797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_64
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 391
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dcf906d4363eb00800000000000000
+      internalID: 856637538115243344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 283
+        width: 207
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ad40d9aa3559ba0800000000000000
+      internalID: -6082863729450100144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_66
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 391
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e144476f655fa1a0800000000000000
+      internalID: -6796119375716531738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_67
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 376
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51f00eae79670770800000000000000
+      internalID: 8576940008156492126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_68
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 381
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de99ffd101c0cb7e0800000000000000
+      internalID: -1748509291964294675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_69
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 382
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa6ab9a56af08ad0800000000000000
+      internalID: -2701884461876090115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_70
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 300
+        width: 115
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979ade3b1764f8f30800000000000000
+      internalID: 4579956800223029625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_71
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 385
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59abbf829d31ff450800000000000000
+      internalID: 6124635841663580821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_72
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 378
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920ef3c0b9c10dfe0800000000000000
+      internalID: -1166400851237937111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_73
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 381
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d419ee26b8a6c3640800000000000000
+      internalID: 5061037228150395213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_74
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 307
+        width: 113
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437600875f6d98cc0800000000000000
+      internalID: -3708196468394268876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_75
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 290
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0aeb505757a0180800000000000000
+      internalID: -9148370547581738777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 168
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef691fee60be2510800000000000000
+      internalID: 1526351314229489641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_77
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 206
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095060b7770c09100800000000000000
+      internalID: 112801610081895824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_78
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 211
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abfb26505afccf50800000000000000
+      internalID: 6903167551802178472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_79
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 183
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b5d84147801d380800000000000000
+      internalID: -8948361689954428012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_80
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 168
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63220474f2f657e90800000000000000
+      internalID: -7028589394592259530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_81
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 203
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62574833dd4b7a0c0800000000000000
+      internalID: -4564480835171617498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_82
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 128
+        width: 23
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37cac10be64b53b0800000000000000
+      internalID: -5522742542878456006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_83
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 167
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81aeb11aa1cf1ed0800000000000000
+      internalID: -2441019536825212529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 191
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ff211e3c1f09160800000000000000
+      internalID: 7030384841922379600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_85
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 206
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9648422b089d020800000000000000
+      internalID: 2367064581765097919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_86
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 183
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efca2224b7ae61f0800000000000000
+      internalID: -1049717271021563931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_87
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 209
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3912c310d2c4d9ac0800000000000000
+      internalID: -3846834750526578285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_88
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 180
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234594805536ae640800000000000000
+      internalID: 5110005944067642418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_89
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 194
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a065ef657cb940000800000000000000
+      internalID: 1297180367148554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_90
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 149
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799ebc53163289e10800000000000000
+      internalID: 2204550918019213719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_91
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 143
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ea8342df2a4a4c0800000000000000
+      internalID: -4277114537977008527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_92
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434bf458fb08355f0800000000000000
+      internalID: -769129551286520780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_93
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 167
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfd422fbaba079e0800000000000000
+      internalID: -1625610710490488881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_94
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 169
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020cd8d97d2f3cac0800000000000000
+      internalID: -3835955449714327520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 167
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aa9be0cb83468a0800000000000000
+      internalID: -6312858397314536850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_96
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 147
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f705496ad409380800000000000000
+      internalID: -8966581480246444262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_97
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 167
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001cca2e1bcc3f880800000000000000
+      internalID: -8578287800826412800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_98
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 167
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cda00179d0b6a050800000000000000
+      internalID: 5811526817118465478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_99
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 167
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1509ceed4beae7c0800000000000000
+      internalID: -4041158995660438245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_100
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 36
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389da2079ef54d3e0800000000000000
+      internalID: -2029892075823375997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_101
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 150
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda8cfb4ebe2e7be0800000000000000
+      internalID: -1477692232877438241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_102
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdbd14d3f5c79620800000000000000
+      internalID: 2780908945951014345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_103
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 62
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfaae869c64fbf20800000000000000
+      internalID: 3440546471196930015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_104
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 139
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5784adc25205e8f20800000000000000
+      internalID: 3426764487072041077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_105
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 127
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0de5c1081ada1fc0800000000000000
+      internalID: -3523263961820173046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_106
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 145
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e57868d608c5d70800000000000000
+      internalID: 9033236160495181346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_107
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 130
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c87327ffd3a92e0800000000000000
+      internalID: -2118312507382199230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_108
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 124
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c87f3d286b8f5410800000000000000
+      internalID: 1468045283098065092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_109
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0bc1223256ecaa0800000000000000
+      internalID: -6138858040488840978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_110
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 130
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be374a276ae99a5a0800000000000000
+      internalID: -6509497348662201365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_111
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 121
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b26e1fb6521ea0800000000000000
+      internalID: -5903560782680771092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_112
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 69
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6db5c008de072d0800000000000000
+      internalID: -3282862994134149435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_113
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 63
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63c8dc7916979ea0800000000000000
+      internalID: -5866054953413852309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_114
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 59
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ad19a4b1ff44100800000000000000
+      internalID: 91478385134524995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_115
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 52
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51d9bb1aa2b6f080800000000000000
+      internalID: -9153932748904607396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_116
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 70
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7d4af624414cbe0800000000000000
+      internalID: -1458018103787726916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_117
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 105
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a4882d0552fc020800000000000000
+      internalID: 2364149358452558412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_118
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 84
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cb81797e0832bb0800000000000000
+      internalID: -4961980632271373266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_119
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 37
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731ceef277c94c060800000000000000
+      internalID: 6972870158795587895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_120
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 25
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e76431f400ae100800000000000000
+      internalID: 137923078214024836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Enemy3_CollisionShockwave_121
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 41
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b7180cd3932d040800000000000000
+      internalID: 4670858700922125066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Enemy3_CollisionShockwave_0: 8021364643396520609
+      VFX_Enemy3_CollisionShockwave_1: 6775605842016135716
+      VFX_Enemy3_CollisionShockwave_10: 4628118055320841389
+      VFX_Enemy3_CollisionShockwave_100: -2029892075823375997
+      VFX_Enemy3_CollisionShockwave_101: -1477692232877438241
+      VFX_Enemy3_CollisionShockwave_102: 2780908945951014345
+      VFX_Enemy3_CollisionShockwave_103: 3440546471196930015
+      VFX_Enemy3_CollisionShockwave_104: 3426764487072041077
+      VFX_Enemy3_CollisionShockwave_105: -3523263961820173046
+      VFX_Enemy3_CollisionShockwave_106: 9033236160495181346
+      VFX_Enemy3_CollisionShockwave_107: -2118312507382199230
+      VFX_Enemy3_CollisionShockwave_108: 1468045283098065092
+      VFX_Enemy3_CollisionShockwave_109: -6138858040488840978
+      VFX_Enemy3_CollisionShockwave_11: 7259422209135863823
+      VFX_Enemy3_CollisionShockwave_110: -6509497348662201365
+      VFX_Enemy3_CollisionShockwave_111: -5903560782680771092
+      VFX_Enemy3_CollisionShockwave_112: -3282862994134149435
+      VFX_Enemy3_CollisionShockwave_113: -5866054953413852309
+      VFX_Enemy3_CollisionShockwave_114: 91478385134524995
+      VFX_Enemy3_CollisionShockwave_115: -9153932748904607396
+      VFX_Enemy3_CollisionShockwave_116: -1458018103787726916
+      VFX_Enemy3_CollisionShockwave_117: 2364149358452558412
+      VFX_Enemy3_CollisionShockwave_118: -4961980632271373266
+      VFX_Enemy3_CollisionShockwave_119: 6972870158795587895
+      VFX_Enemy3_CollisionShockwave_12: -3583034431069140081
+      VFX_Enemy3_CollisionShockwave_120: 137923078214024836
+      VFX_Enemy3_CollisionShockwave_121: 4670858700922125066
+      VFX_Enemy3_CollisionShockwave_13: -8043634129250680361
+      VFX_Enemy3_CollisionShockwave_14: -2655506312351114969
+      VFX_Enemy3_CollisionShockwave_15: 8808067248582694528
+      VFX_Enemy3_CollisionShockwave_16: 732006195793228918
+      VFX_Enemy3_CollisionShockwave_17: -6306817358067341340
+      VFX_Enemy3_CollisionShockwave_18: -4705512135995273824
+      VFX_Enemy3_CollisionShockwave_19: 8714170082629563723
+      VFX_Enemy3_CollisionShockwave_2: 591519119682732011
+      VFX_Enemy3_CollisionShockwave_20: 2823097511597700102
+      VFX_Enemy3_CollisionShockwave_21: -4121936372525298524
+      VFX_Enemy3_CollisionShockwave_22: -753063441891609913
+      VFX_Enemy3_CollisionShockwave_23: -7713137367732997965
+      VFX_Enemy3_CollisionShockwave_24: -7400478863797283912
+      VFX_Enemy3_CollisionShockwave_25: 7195874582198917165
+      VFX_Enemy3_CollisionShockwave_26: 8256986849545482150
+      VFX_Enemy3_CollisionShockwave_27: 6065240035834296671
+      VFX_Enemy3_CollisionShockwave_28: 8540591543637524887
+      VFX_Enemy3_CollisionShockwave_29: 8918887306938774644
+      VFX_Enemy3_CollisionShockwave_3: -2831351427743450491
+      VFX_Enemy3_CollisionShockwave_30: 7735554753935037845
+      VFX_Enemy3_CollisionShockwave_31: 2297338681237664614
+      VFX_Enemy3_CollisionShockwave_32: 5017153472138131551
+      VFX_Enemy3_CollisionShockwave_33: -7245388876151918694
+      VFX_Enemy3_CollisionShockwave_34: -9133872331637295727
+      VFX_Enemy3_CollisionShockwave_35: 2336675134382415496
+      VFX_Enemy3_CollisionShockwave_36: -3378571033313209676
+      VFX_Enemy3_CollisionShockwave_37: -3575268664829328147
+      VFX_Enemy3_CollisionShockwave_38: -6272978963839785195
+      VFX_Enemy3_CollisionShockwave_39: 3467173739433040667
+      VFX_Enemy3_CollisionShockwave_4: 123400143275207172
+      VFX_Enemy3_CollisionShockwave_40: -469562110064553767
+      VFX_Enemy3_CollisionShockwave_41: 145658112958160395
+      VFX_Enemy3_CollisionShockwave_42: -451440290725767165
+      VFX_Enemy3_CollisionShockwave_43: -2242600772347873043
+      VFX_Enemy3_CollisionShockwave_44: 3161135808289430694
+      VFX_Enemy3_CollisionShockwave_45: 5110582483102943434
+      VFX_Enemy3_CollisionShockwave_46: -7716226825441878243
+      VFX_Enemy3_CollisionShockwave_47: -713517752792706196
+      VFX_Enemy3_CollisionShockwave_48: -8970845570412748693
+      VFX_Enemy3_CollisionShockwave_49: 5684110776398176088
+      VFX_Enemy3_CollisionShockwave_5: -326352564989815582
+      VFX_Enemy3_CollisionShockwave_50: -4606312772847954686
+      VFX_Enemy3_CollisionShockwave_51: 6295986804100397701
+      VFX_Enemy3_CollisionShockwave_52: -828894281855366488
+      VFX_Enemy3_CollisionShockwave_53: 1956896102172401122
+      VFX_Enemy3_CollisionShockwave_54: -9006068373233016288
+      VFX_Enemy3_CollisionShockwave_55: -5923581271346949160
+      VFX_Enemy3_CollisionShockwave_56: -5720388547144484011
+      VFX_Enemy3_CollisionShockwave_57: 4270998874639793389
+      VFX_Enemy3_CollisionShockwave_58: -6264002059980671258
+      VFX_Enemy3_CollisionShockwave_59: 4248986141635507550
+      VFX_Enemy3_CollisionShockwave_6: -1521703626558481532
+      VFX_Enemy3_CollisionShockwave_60: 7870997703469409739
+      VFX_Enemy3_CollisionShockwave_61: 3447541650360830781
+      VFX_Enemy3_CollisionShockwave_62: 4139773047831750694
+      VFX_Enemy3_CollisionShockwave_63: 2121551636997316797
+      VFX_Enemy3_CollisionShockwave_64: 856637538115243344
+      VFX_Enemy3_CollisionShockwave_65: -6082863729450100144
+      VFX_Enemy3_CollisionShockwave_66: -6796119375716531738
+      VFX_Enemy3_CollisionShockwave_67: 8576940008156492126
+      VFX_Enemy3_CollisionShockwave_68: -1748509291964294675
+      VFX_Enemy3_CollisionShockwave_69: -2701884461876090115
+      VFX_Enemy3_CollisionShockwave_7: 7162114468462644485
+      VFX_Enemy3_CollisionShockwave_70: 4579956800223029625
+      VFX_Enemy3_CollisionShockwave_71: 6124635841663580821
+      VFX_Enemy3_CollisionShockwave_72: -1166400851237937111
+      VFX_Enemy3_CollisionShockwave_73: 5061037228150395213
+      VFX_Enemy3_CollisionShockwave_74: -3708196468394268876
+      VFX_Enemy3_CollisionShockwave_75: -9148370547581738777
+      VFX_Enemy3_CollisionShockwave_76: 1526351314229489641
+      VFX_Enemy3_CollisionShockwave_77: 112801610081895824
+      VFX_Enemy3_CollisionShockwave_78: 6903167551802178472
+      VFX_Enemy3_CollisionShockwave_79: -8948361689954428012
+      VFX_Enemy3_CollisionShockwave_8: -7178168022700782541
+      VFX_Enemy3_CollisionShockwave_80: -7028589394592259530
+      VFX_Enemy3_CollisionShockwave_81: -4564480835171617498
+      VFX_Enemy3_CollisionShockwave_82: -5522742542878456006
+      VFX_Enemy3_CollisionShockwave_83: -2441019536825212529
+      VFX_Enemy3_CollisionShockwave_84: 7030384841922379600
+      VFX_Enemy3_CollisionShockwave_85: 2367064581765097919
+      VFX_Enemy3_CollisionShockwave_86: -1049717271021563931
+      VFX_Enemy3_CollisionShockwave_87: -3846834750526578285
+      VFX_Enemy3_CollisionShockwave_88: 5110005944067642418
+      VFX_Enemy3_CollisionShockwave_89: 1297180367148554
+      VFX_Enemy3_CollisionShockwave_9: 8279938830977585566
+      VFX_Enemy3_CollisionShockwave_90: 2204550918019213719
+      VFX_Enemy3_CollisionShockwave_91: -4277114537977008527
+      VFX_Enemy3_CollisionShockwave_92: -769129551286520780
+      VFX_Enemy3_CollisionShockwave_93: -1625610710490488881
+      VFX_Enemy3_CollisionShockwave_94: -3835955449714327520
+      VFX_Enemy3_CollisionShockwave_95: -6312858397314536850
+      VFX_Enemy3_CollisionShockwave_96: -8966581480246444262
+      VFX_Enemy3_CollisionShockwave_97: -8578287800826412800
+      VFX_Enemy3_CollisionShockwave_98: 5811526817118465478
+      VFX_Enemy3_CollisionShockwave_99: -4041158995660438245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5317 @@
+fileFormatVersion: 2
+guid: 3239f7f513e206140b2c384c1e41903f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3790333471759883483
+    second: VFX_P1_GravityBoostEnergy_0
+  - first:
+      213: -8983921327544549091
+    second: VFX_P1_GravityBoostEnergy_1
+  - first:
+      213: 40780689075626421
+    second: VFX_P1_GravityBoostEnergy_2
+  - first:
+      213: 2920296961430617058
+    second: VFX_P1_GravityBoostEnergy_3
+  - first:
+      213: -6884918670319039418
+    second: VFX_P1_GravityBoostEnergy_4
+  - first:
+      213: -243489928889217793
+    second: VFX_P1_GravityBoostEnergy_5
+  - first:
+      213: -657979252848912589
+    second: VFX_P1_GravityBoostEnergy_6
+  - first:
+      213: 6578211667089171450
+    second: VFX_P1_GravityBoostEnergy_7
+  - first:
+      213: 8974791586473329062
+    second: VFX_P1_GravityBoostEnergy_8
+  - first:
+      213: 1398432231201270433
+    second: VFX_P1_GravityBoostEnergy_9
+  - first:
+      213: -2971427366593456814
+    second: VFX_P1_GravityBoostEnergy_10
+  - first:
+      213: -8816323164364263265
+    second: VFX_P1_GravityBoostEnergy_11
+  - first:
+      213: 5785729093144015047
+    second: VFX_P1_GravityBoostEnergy_12
+  - first:
+      213: -5145355476307225832
+    second: VFX_P1_GravityBoostEnergy_13
+  - first:
+      213: 3028056013047363181
+    second: VFX_P1_GravityBoostEnergy_14
+  - first:
+      213: -8153064207880871692
+    second: VFX_P1_GravityBoostEnergy_15
+  - first:
+      213: 4496369525563633125
+    second: VFX_P1_GravityBoostEnergy_16
+  - first:
+      213: 5711304584017301749
+    second: VFX_P1_GravityBoostEnergy_17
+  - first:
+      213: -8333925210198224141
+    second: VFX_P1_GravityBoostEnergy_18
+  - first:
+      213: -7664833537691059557
+    second: VFX_P1_GravityBoostEnergy_19
+  - first:
+      213: -7333312658426336668
+    second: VFX_P1_GravityBoostEnergy_20
+  - first:
+      213: -5173407674831060402
+    second: VFX_P1_GravityBoostEnergy_21
+  - first:
+      213: -2346358783575008419
+    second: VFX_P1_GravityBoostEnergy_22
+  - first:
+      213: 8568230649349686997
+    second: VFX_P1_GravityBoostEnergy_23
+  - first:
+      213: 2417107912167181
+    second: VFX_P1_GravityBoostEnergy_24
+  - first:
+      213: 311539200699010805
+    second: VFX_P1_GravityBoostEnergy_25
+  - first:
+      213: 3759320929022048456
+    second: VFX_P1_GravityBoostEnergy_26
+  - first:
+      213: -2200232132981482482
+    second: VFX_P1_GravityBoostEnergy_27
+  - first:
+      213: 4554700531723901979
+    second: VFX_P1_GravityBoostEnergy_28
+  - first:
+      213: -8250758979612266277
+    second: VFX_P1_GravityBoostEnergy_29
+  - first:
+      213: -2223815334118424431
+    second: VFX_P1_GravityBoostEnergy_30
+  - first:
+      213: 1785559916849975998
+    second: VFX_P1_GravityBoostEnergy_31
+  - first:
+      213: 8410368213969051054
+    second: VFX_P1_GravityBoostEnergy_32
+  - first:
+      213: -3155298867047388046
+    second: VFX_P1_GravityBoostEnergy_33
+  - first:
+      213: -6704908815618142186
+    second: VFX_P1_GravityBoostEnergy_34
+  - first:
+      213: 9189675357543040944
+    second: VFX_P1_GravityBoostEnergy_35
+  - first:
+      213: -4493416397966403164
+    second: VFX_P1_GravityBoostEnergy_36
+  - first:
+      213: -3948044918629531493
+    second: VFX_P1_GravityBoostEnergy_37
+  - first:
+      213: 8775195518185096550
+    second: VFX_P1_GravityBoostEnergy_38
+  - first:
+      213: -8217194008413416188
+    second: VFX_P1_GravityBoostEnergy_39
+  - first:
+      213: -6003401849420314812
+    second: VFX_P1_GravityBoostEnergy_40
+  - first:
+      213: 2152793532675396182
+    second: VFX_P1_GravityBoostEnergy_41
+  - first:
+      213: -8600746420922840163
+    second: VFX_P1_GravityBoostEnergy_42
+  - first:
+      213: -809451456735450511
+    second: VFX_P1_GravityBoostEnergy_43
+  - first:
+      213: 5802091977608756303
+    second: VFX_P1_GravityBoostEnergy_44
+  - first:
+      213: 3670451175983472978
+    second: VFX_P1_GravityBoostEnergy_45
+  - first:
+      213: -7432965736378370086
+    second: VFX_P1_GravityBoostEnergy_46
+  - first:
+      213: -1463953816195200990
+    second: VFX_P1_GravityBoostEnergy_47
+  - first:
+      213: -725634517954529352
+    second: VFX_P1_GravityBoostEnergy_48
+  - first:
+      213: 599215637243820393
+    second: VFX_P1_GravityBoostEnergy_49
+  - first:
+      213: -6829514528831953709
+    second: VFX_P1_GravityBoostEnergy_50
+  - first:
+      213: 3833992587883928317
+    second: VFX_P1_GravityBoostEnergy_51
+  - first:
+      213: 5648273272460553574
+    second: VFX_P1_GravityBoostEnergy_52
+  - first:
+      213: -4784794363722626519
+    second: VFX_P1_GravityBoostEnergy_53
+  - first:
+      213: -7198156520406226438
+    second: VFX_P1_GravityBoostEnergy_54
+  - first:
+      213: 3079560065655848089
+    second: VFX_P1_GravityBoostEnergy_55
+  - first:
+      213: -7848115259215085936
+    second: VFX_P1_GravityBoostEnergy_56
+  - first:
+      213: -2568279631497230818
+    second: VFX_P1_GravityBoostEnergy_57
+  - first:
+      213: 2531567147601903940
+    second: VFX_P1_GravityBoostEnergy_58
+  - first:
+      213: 6529990384220247363
+    second: VFX_P1_GravityBoostEnergy_59
+  - first:
+      213: 2629855183978754597
+    second: VFX_P1_GravityBoostEnergy_60
+  - first:
+      213: 8569706857131556107
+    second: VFX_P1_GravityBoostEnergy_61
+  - first:
+      213: -6602565083418689138
+    second: VFX_P1_GravityBoostEnergy_62
+  - first:
+      213: 8072457631614881728
+    second: VFX_P1_GravityBoostEnergy_63
+  - first:
+      213: 1436103888665157413
+    second: VFX_P1_GravityBoostEnergy_64
+  - first:
+      213: -6828246908747373196
+    second: VFX_P1_GravityBoostEnergy_65
+  - first:
+      213: -4615222170109325259
+    second: VFX_P1_GravityBoostEnergy_66
+  - first:
+      213: -3975954672284760791
+    second: VFX_P1_GravityBoostEnergy_67
+  - first:
+      213: -5056819396398485114
+    second: VFX_P1_GravityBoostEnergy_68
+  - first:
+      213: -5294025555662490605
+    second: VFX_P1_GravityBoostEnergy_69
+  - first:
+      213: 8457934295201884821
+    second: VFX_P1_GravityBoostEnergy_70
+  - first:
+      213: -84699348594521407
+    second: VFX_P1_GravityBoostEnergy_71
+  - first:
+      213: 331850068141621364
+    second: VFX_P1_GravityBoostEnergy_72
+  - first:
+      213: -7314636430665108032
+    second: VFX_P1_GravityBoostEnergy_73
+  - first:
+      213: -6411323888917309611
+    second: VFX_P1_GravityBoostEnergy_74
+  - first:
+      213: -7166725058004772423
+    second: VFX_P1_GravityBoostEnergy_75
+  - first:
+      213: -3443363081330819888
+    second: VFX_P1_GravityBoostEnergy_76
+  - first:
+      213: -3335083599948130582
+    second: VFX_P1_GravityBoostEnergy_77
+  - first:
+      213: 1649540721314317525
+    second: VFX_P1_GravityBoostEnergy_78
+  - first:
+      213: 76046566826519495
+    second: VFX_P1_GravityBoostEnergy_79
+  - first:
+      213: 7767748963138049434
+    second: VFX_P1_GravityBoostEnergy_80
+  - first:
+      213: 1272631571902137132
+    second: VFX_P1_GravityBoostEnergy_81
+  - first:
+      213: -6068442591554331118
+    second: VFX_P1_GravityBoostEnergy_82
+  - first:
+      213: 2744075027583974106
+    second: VFX_P1_GravityBoostEnergy_83
+  - first:
+      213: -5426074722556186556
+    second: VFX_P1_GravityBoostEnergy_84
+  - first:
+      213: 1453389224954718189
+    second: VFX_P1_GravityBoostEnergy_85
+  - first:
+      213: -3159567680977886923
+    second: VFX_P1_GravityBoostEnergy_86
+  - first:
+      213: 1628457775411499751
+    second: VFX_P1_GravityBoostEnergy_87
+  - first:
+      213: 2371947730939953715
+    second: VFX_P1_GravityBoostEnergy_88
+  - first:
+      213: -6277605669851273811
+    second: VFX_P1_GravityBoostEnergy_89
+  - first:
+      213: 3772204146822700376
+    second: VFX_P1_GravityBoostEnergy_90
+  - first:
+      213: -4152871228029765278
+    second: VFX_P1_GravityBoostEnergy_91
+  - first:
+      213: 2647272323081708056
+    second: VFX_P1_GravityBoostEnergy_92
+  - first:
+      213: 1829775840090203200
+    second: VFX_P1_GravityBoostEnergy_93
+  - first:
+      213: 8574390147139185067
+    second: VFX_P1_GravityBoostEnergy_94
+  - first:
+      213: -8543517961291015797
+    second: VFX_P1_GravityBoostEnergy_95
+  - first:
+      213: -1400135976463355245
+    second: VFX_P1_GravityBoostEnergy_96
+  - first:
+      213: -916572674536808077
+    second: VFX_P1_GravityBoostEnergy_97
+  - first:
+      213: -7526795241993536354
+    second: VFX_P1_GravityBoostEnergy_98
+  - first:
+      213: 2912135189482074363
+    second: VFX_P1_GravityBoostEnergy_99
+  - first:
+      213: -5414782703985379609
+    second: VFX_P1_GravityBoostEnergy_100
+  - first:
+      213: -3263648475912839284
+    second: VFX_P1_GravityBoostEnergy_101
+  - first:
+      213: -2868852179516212468
+    second: VFX_P1_GravityBoostEnergy_102
+  - first:
+      213: -5659802727777845744
+    second: VFX_P1_GravityBoostEnergy_103
+  - first:
+      213: -4275510857017557537
+    second: VFX_P1_GravityBoostEnergy_104
+  - first:
+      213: -5542340772109328630
+    second: VFX_P1_GravityBoostEnergy_105
+  - first:
+      213: 7110006756583385936
+    second: VFX_P1_GravityBoostEnergy_106
+  - first:
+      213: 6472227245424949276
+    second: VFX_P1_GravityBoostEnergy_107
+  - first:
+      213: 1512159230247597073
+    second: VFX_P1_GravityBoostEnergy_108
+  - first:
+      213: 5202032316881731522
+    second: VFX_P1_GravityBoostEnergy_109
+  - first:
+      213: -3357666027905630764
+    second: VFX_P1_GravityBoostEnergy_110
+  - first:
+      213: 1050441806077918156
+    second: VFX_P1_GravityBoostEnergy_111
+  - first:
+      213: -3562185710500665396
+    second: VFX_P1_GravityBoostEnergy_112
+  - first:
+      213: 3533359395361297990
+    second: VFX_P1_GravityBoostEnergy_113
+  - first:
+      213: -8048509366047249574
+    second: VFX_P1_GravityBoostEnergy_114
+  - first:
+      213: -188808683649831503
+    second: VFX_P1_GravityBoostEnergy_115
+  - first:
+      213: 2486188236135024660
+    second: VFX_P1_GravityBoostEnergy_116
+  - first:
+      213: 702980872768081792
+    second: VFX_P1_GravityBoostEnergy_117
+  - first:
+      213: 7546772028658298010
+    second: VFX_P1_GravityBoostEnergy_118
+  - first:
+      213: 5955662438245467641
+    second: VFX_P1_GravityBoostEnergy_119
+  - first:
+      213: -6639401257534041844
+    second: VFX_P1_GravityBoostEnergy_120
+  - first:
+      213: 1045974182382356345
+    second: VFX_P1_GravityBoostEnergy_121
+  - first:
+      213: -5010242915783473347
+    second: VFX_P1_GravityBoostEnergy_122
+  - first:
+      213: -6166309496191058639
+    second: VFX_P1_GravityBoostEnergy_123
+  - first:
+      213: 5317702998546221930
+    second: VFX_P1_GravityBoostEnergy_124
+  - first:
+      213: 6310925246094240213
+    second: VFX_P1_GravityBoostEnergy_125
+  - first:
+      213: -114843769617081737
+    second: VFX_P1_GravityBoostEnergy_126
+  - first:
+      213: -1371140442528134767
+    second: VFX_P1_GravityBoostEnergy_127
+  - first:
+      213: -6186497737458099292
+    second: VFX_P1_GravityBoostEnergy_128
+  - first:
+      213: -3498143754936453154
+    second: VFX_P1_GravityBoostEnergy_129
+  - first:
+      213: -6060694030915862314
+    second: VFX_P1_GravityBoostEnergy_130
+  - first:
+      213: 2031098572245229949
+    second: VFX_P1_GravityBoostEnergy_131
+  - first:
+      213: -1965658995893264381
+    second: VFX_P1_GravityBoostEnergy_132
+  - first:
+      213: -2130172671936969147
+    second: VFX_P1_GravityBoostEnergy_133
+  - first:
+      213: 9122960105591948131
+    second: VFX_P1_GravityBoostEnergy_134
+  - first:
+      213: 665479987248461068
+    second: VFX_P1_GravityBoostEnergy_135
+  - first:
+      213: 1653071550470919985
+    second: VFX_P1_GravityBoostEnergy_136
+  - first:
+      213: -2917621513658886096
+    second: VFX_P1_GravityBoostEnergy_137
+  - first:
+      213: -3107800647992731619
+    second: VFX_P1_GravityBoostEnergy_138
+  - first:
+      213: -8398910423122958686
+    second: VFX_P1_GravityBoostEnergy_139
+  - first:
+      213: 17343484114407399
+    second: VFX_P1_GravityBoostEnergy_140
+  - first:
+      213: 5665518798524685995
+    second: VFX_P1_GravityBoostEnergy_141
+  - first:
+      213: -3447064675695449155
+    second: VFX_P1_GravityBoostEnergy_142
+  - first:
+      213: 5586724455316564006
+    second: VFX_P1_GravityBoostEnergy_143
+  - first:
+      213: 6798316676631380676
+    second: VFX_P1_GravityBoostEnergy_144
+  - first:
+      213: 5379329731356151295
+    second: VFX_P1_GravityBoostEnergy_145
+  - first:
+      213: -2468872969515094379
+    second: VFX_P1_GravityBoostEnergy_146
+  - first:
+      213: -8155500126518118724
+    second: VFX_P1_GravityBoostEnergy_147
+  - first:
+      213: 9002262778248918576
+    second: VFX_P1_GravityBoostEnergy_148
+  - first:
+      213: 7818926745940121124
+    second: VFX_P1_GravityBoostEnergy_149
+  - first:
+      213: 2810720364721660723
+    second: VFX_P1_GravityBoostEnergy_150
+  - first:
+      213: -1692030678789975656
+    second: VFX_P1_GravityBoostEnergy_151
+  - first:
+      213: 4301510088524389961
+    second: VFX_P1_GravityBoostEnergy_152
+  - first:
+      213: 2914549329108551458
+    second: VFX_P1_GravityBoostEnergy_153
+  - first:
+      213: 2757264030438340528
+    second: VFX_P1_GravityBoostEnergy_154
+  - first:
+      213: 6729219116979464971
+    second: VFX_P1_GravityBoostEnergy_155
+  - first:
+      213: -4072252617910606033
+    second: VFX_P1_GravityBoostEnergy_156
+  - first:
+      213: -1026803628665531161
+    second: VFX_P1_GravityBoostEnergy_157
+  - first:
+      213: -4503291336685670546
+    second: VFX_P1_GravityBoostEnergy_158
+  - first:
+      213: -5875175379151034208
+    second: VFX_P1_GravityBoostEnergy_159
+  - first:
+      213: -758548478993852578
+    second: VFX_P1_GravityBoostEnergy_160
+  - first:
+      213: -8915011600885189417
+    second: VFX_P1_GravityBoostEnergy_161
+  - first:
+      213: 9187907015410260177
+    second: VFX_P1_GravityBoostEnergy_162
+  - first:
+      213: -3145549917563140824
+    second: VFX_P1_GravityBoostEnergy_163
+  - first:
+      213: 8072662371401320513
+    second: VFX_P1_GravityBoostEnergy_164
+  - first:
+      213: 8522788058433925254
+    second: VFX_P1_GravityBoostEnergy_165
+  - first:
+      213: 7346714151091351304
+    second: VFX_P1_GravityBoostEnergy_166
+  - first:
+      213: 7926186197085541240
+    second: VFX_P1_GravityBoostEnergy_167
+  - first:
+      213: -6805624854020783651
+    second: VFX_P1_GravityBoostEnergy_168
+  - first:
+      213: 134121616049580714
+    second: VFX_P1_GravityBoostEnergy_169
+  - first:
+      213: 3625078874511200158
+    second: VFX_P1_GravityBoostEnergy_170
+  - first:
+      213: -2985922182191009562
+    second: VFX_P1_GravityBoostEnergy_171
+  - first:
+      213: -4545121930277910230
+    second: VFX_P1_GravityBoostEnergy_172
+  - first:
+      213: 432878372282220091
+    second: VFX_P1_GravityBoostEnergy_173
+  - first:
+      213: -3651702214142753072
+    second: VFX_P1_GravityBoostEnergy_174
+  - first:
+      213: -7310321286764299892
+    second: VFX_P1_GravityBoostEnergy_175
+  - first:
+      213: 483711751809453937
+    second: VFX_P1_GravityBoostEnergy_176
+  - first:
+      213: 8856341335418783645
+    second: VFX_P1_GravityBoostEnergy_177
+  - first:
+      213: -6330812329316747183
+    second: VFX_P1_GravityBoostEnergy_178
+  - first:
+      213: -1555712716470519279
+    second: VFX_P1_GravityBoostEnergy_179
+  - first:
+      213: -9035487029360353868
+    second: VFX_P1_GravityBoostEnergy_180
+  - first:
+      213: 5422393319160544910
+    second: VFX_P1_GravityBoostEnergy_181
+  - first:
+      213: -4194564959464196814
+    second: VFX_P1_GravityBoostEnergy_182
+  - first:
+      213: -6293034938059061314
+    second: VFX_P1_GravityBoostEnergy_183
+  - first:
+      213: 4555210098998438594
+    second: VFX_P1_GravityBoostEnergy_184
+  - first:
+      213: 7497749534427674963
+    second: VFX_P1_GravityBoostEnergy_185
+  - first:
+      213: 8160412138427306047
+    second: VFX_P1_GravityBoostEnergy_186
+  - first:
+      213: -2096547513235475228
+    second: VFX_P1_GravityBoostEnergy_187
+  - first:
+      213: -5747761557232691204
+    second: VFX_P1_GravityBoostEnergy_188
+  - first:
+      213: 618174212134566407
+    second: VFX_P1_GravityBoostEnergy_189
+  - first:
+      213: 4565169792586904697
+    second: VFX_P1_GravityBoostEnergy_190
+  - first:
+      213: -6481910187086737371
+    second: VFX_P1_GravityBoostEnergy_191
+  - first:
+      213: -8392759188401738700
+    second: VFX_P1_GravityBoostEnergy_192
+  - first:
+      213: 7026180302293118780
+    second: VFX_P1_GravityBoostEnergy_193
+  - first:
+      213: -8930660372979587683
+    second: VFX_P1_GravityBoostEnergy_194
+  - first:
+      213: 6653400156570555130
+    second: VFX_P1_GravityBoostEnergy_195
+  - first:
+      213: 5068797298213856663
+    second: VFX_P1_GravityBoostEnergy_196
+  - first:
+      213: -7640587433923394189
+    second: VFX_P1_GravityBoostEnergy_197
+  - first:
+      213: 8845693995615889027
+    second: VFX_P1_GravityBoostEnergy_198
+  - first:
+      213: 3784336351227090793
+    second: VFX_P1_GravityBoostEnergy_199
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 700
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc5584e538f99430800000000000000
+      internalID: 3790333471759883483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 697
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11c6a5c623b25380800000000000000
+      internalID: -8983921327544549091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 702
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b16c0612d1e09000800000000000000
+      internalID: 40780689075626421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_3
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb79b03d9af68820800000000000000
+      internalID: 2920296961430617058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_4
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 700
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ccd2c72fad370a0800000000000000
+      internalID: -6884918670319039418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_5
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 694
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc4c222333fe9cf0800000000000000
+      internalID: -243489928889217793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 663
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3371d5c0b536ed6f0800000000000000
+      internalID: -657979252848912589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 690
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af32e2a88a08a4b50800000000000000
+      internalID: 6578211667089171450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 705
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a148ecb56ddc8c70800000000000000
+      internalID: 8974791586473329062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 687
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa653f74ba386310800000000000000
+      internalID: 1398432231201270433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 671
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255925aad8e53c6d0800000000000000
+      internalID: -2971427366593456814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 689
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90350bfac026a580800000000000000
+      internalID: -8816323164364263265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 689
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0fd73c4f90b4050800000000000000
+      internalID: 5785729093144015047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 695
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813d89f94760898b0800000000000000
+      internalID: -5145355476307225832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 690
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d667ca986e0d50a20800000000000000
+      internalID: 3028056013047363181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 696
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f02f4abc4f7ade80800000000000000
+      internalID: -8153064207880871692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 688
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edac1eb240566e30800000000000000
+      internalID: 4496369525563633125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_17
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 668
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f059666241a24f40800000000000000
+      internalID: 5711304584017301749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 674
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f256752d23f75c80800000000000000
+      internalID: -8333925210198224141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 546
+        width: 141
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a7c6be18a01a590800000000000000
+      internalID: -7664833537691059557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_20
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 700
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a6f9f9df6da3a90800000000000000
+      internalID: -7333312658426336668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_21
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 698
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e424a6f212d5438b0800000000000000
+      internalID: -5173407674831060402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_22
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 704
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bd46d2e1f007fd0800000000000000
+      internalID: -2346358783575008419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_23
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 694
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d64a10116878e670800000000000000
+      internalID: 8568230649349686997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 694
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f0d7ac856980000800000000000000
+      internalID: 2417107912167181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 683
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe064f904fc25400800000000000000
+      internalID: 311539200699010805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 667
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8fc0b977acb2430800000000000000
+      internalID: 3759320929022048456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_27
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 689
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c1d3a48843771e0800000000000000
+      internalID: -2200232132981482482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_28
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 676
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c9fa3700c853f30800000000000000
+      internalID: 4554700531723901979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 678
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b8d42c6a6f7d80800000000000000
+      internalID: -8250758979612266277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 546
+        width: 94
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1900ec36cbb6321e0800000000000000
+      internalID: -2223815334118424431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 668
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2d409b84597c810800000000000000
+      internalID: 1785559916849975998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 546
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead9cdf9451a7b470800000000000000
+      internalID: 8410368213969051054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 683
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ca27dd5602634d0800000000000000
+      internalID: -3155298867047388046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_34
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 589
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61012b1d4f063f2a0800000000000000
+      internalID: -6704908815618142186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_35
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b783877c09488f70800000000000000
+      internalID: 9189675357543040944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_36
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 672
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a91c4bd79d24a1c0800000000000000
+      internalID: -4493416397966403164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 626
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b900dcb601ab539c0800000000000000
+      internalID: -3948044918629531493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 667
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665c500b4d1c7c970800000000000000
+      internalID: 8775195518185096550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 674
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405dc0ef599a6fd80800000000000000
+      internalID: -8217194008413416188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_40
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 634
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447016943d1afaca0800000000000000
+      internalID: -6003401849420314812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_41
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 668
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65210eddf4240ed10800000000000000
+      internalID: 2152793532675396182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_42
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b8ea9e2b204a880800000000000000
+      internalID: -8600746420922840163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_43
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 621
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a6c52503044c4f0800000000000000
+      internalID: -809451456735450511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 657
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c738fa9eb258050800000000000000
+      internalID: 5802091977608756303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 633
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251e8edc5ef00f230800000000000000
+      internalID: 3670451175983472978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 634
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad774875b0dc8d890800000000000000
+      internalID: -7432965736378370086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 618
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2288b12b2cdfeabe0800000000000000
+      internalID: -1463953816195200990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 546
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7fe8020470ee5f0800000000000000
+      internalID: -725634517954529352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 605
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969f6c18277d05800800000000000000
+      internalID: 599215637243820393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 615
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d42a9868b0b831a0800000000000000
+      internalID: -6829514528831953709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_51
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 607
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa5d4002f3153530800000000000000
+      internalID: 3833992587883928317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_52
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 596
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d285f8d92b26e40800000000000000
+      internalID: 5648273272460553574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_53
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 596
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a850b80eef89db0800000000000000
+      internalID: -4784794363722626519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 604
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9668b38c20b1c90800000000000000
+      internalID: -7198156520406226438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 595
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c35e1409bccba20800000000000000
+      internalID: 3079560065655848089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 604
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e792ab0c4e51390800000000000000
+      internalID: -7848115259215085936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 599
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e168cb05843ab5cd0800000000000000
+      internalID: -2568279631497230818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_58
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 604
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4414cdd68eee12320800000000000000
+      internalID: 2531567147601903940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 586
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3451a2638af2f9a50800000000000000
+      internalID: 6529990384220247363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_60
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 585
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522f5c33b5f1f7420800000000000000
+      internalID: 2629855183978754597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_61
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 604
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d3e887bf6bde670800000000000000
+      internalID: 8569706857131556107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_62
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 584
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e818e6cd90afe54a0800000000000000
+      internalID: -6602565083418689138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_63
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 604
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfcbcc3271270070800000000000000
+      internalID: 8072457631614881728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_64
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 596
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f9170c0e01ee310800000000000000
+      internalID: 1436103888665157413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 564
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47524753d913d31a0800000000000000
+      internalID: -6828246908747373196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 573
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530502783ef63ffb0800000000000000
+      internalID: -4615222170109325259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_67
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 556
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92589638a4292d8c0800000000000000
+      internalID: -3975954672284760791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 582
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681fc581d8192d9b0800000000000000
+      internalID: -5056819396398485114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_69
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 568
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314b5ea5ec7d786b0800000000000000
+      internalID: -5294025555662490605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_70
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 560
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a2a1fed6e906570800000000000000
+      internalID: 8457934295201884821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_71
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 562
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca0156246613def0800000000000000
+      internalID: -84699348594521407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_72
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 546
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4704546f0e7fa9400800000000000000
+      internalID: 331850068141621364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 546
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c53311cbe03d7a90800000000000000
+      internalID: -7314636430665108032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_74
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 546
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5579b1544e66607a0800000000000000
+      internalID: -6411323888917309611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_75
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 551
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b91cbad78daa8c90800000000000000
+      internalID: -7166725058004772423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_76
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 546
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcf4907587b630d0800000000000000
+      internalID: -3443363081330819888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_77
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 546
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae65cd8c22767b1d0800000000000000
+      internalID: -3335083599948130582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_78
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 553
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d44b70eb8854e610800000000000000
+      internalID: 1649540721314317525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_79
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 290
+        width: 188
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb251a13fb2e0100800000000000000
+      internalID: 76046566826519495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_80
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a959044d6869ccb60800000000000000
+      internalID: 7767748963138049434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 466
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c238c250cab49a110800000000000000
+      internalID: 1272631571902137132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_82
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 470
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e9d8e6d9f88cba0800000000000000
+      internalID: -6068442591554331118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_83
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 457
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adab928e2b9e41620800000000000000
+      internalID: 2744075027583974106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_84
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 467
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440ff45d9c5b2b4b0800000000000000
+      internalID: -5426074722556186556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_85
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 292
+        width: 139
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de76ec9bcc97b2410800000000000000
+      internalID: 1453389224954718189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_86
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 467
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531228b2fe5f624d0800000000000000
+      internalID: -3159567680977886923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_87
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 455
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2102308b1799610800000000000000
+      internalID: 1628457775411499751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 453
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3324878e4e9dae020800000000000000
+      internalID: 2371947730939953715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_89
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 459
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5698847e671e8a0800000000000000
+      internalID: -6277605669851273811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_90
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 424
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d5f9f7faf895430800000000000000
+      internalID: 3772204146822700376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_91
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 452
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2697857fe990e56c0800000000000000
+      internalID: -4152871228029765278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_92
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 439
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8122209e6200db420800000000000000
+      internalID: 2647272323081708056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_93
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 457
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0442b279e6ba46910800000000000000
+      internalID: 1829775840090203200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_94
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 440
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba927d5e86a5ef670800000000000000
+      internalID: 8574390147139185067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 429
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8954110ea35f6980800000000000000
+      internalID: -8543517961291015797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_96
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 309
+        width: 85
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39238a56fb7b19ce0800000000000000
+      internalID: -1400135976463355245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_97
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 450
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371676b320ea743f0800000000000000
+      internalID: -916572674536808077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_98
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 408
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cffd72b937b8790800000000000000
+      internalID: -7526795241993536354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_99
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 420
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf07ef2968bf96820800000000000000
+      internalID: 2912135189482074363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_100
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 393
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6b509c1d3dad4b0800000000000000
+      internalID: -5414782703985379609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_101
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 417
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f5871b00135b2d0800000000000000
+      internalID: -3263648475912839284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_102
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 402
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bb4de742acf28d0800000000000000
+      internalID: -2868852179516212468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_103
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 386
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eb300f7675471b0800000000000000
+      internalID: -5659802727777845744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_104
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 425
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd742637855aa4c0800000000000000
+      internalID: -4275510857017557537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_105
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 331
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f524eae66a513b0800000000000000
+      internalID: -5542340772109328630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_106
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 428
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ba7c48971dba260800000000000000
+      internalID: 7110006756583385936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_107
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 418
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18b82d6368f1d950800000000000000
+      internalID: 6472227245424949276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_108
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 440
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1147cb2eec44cf410800000000000000
+      internalID: 1512159230247597073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_109
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 417
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf76d5a4d4513840800000000000000
+      internalID: 5202032316881731522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_110
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 389
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddb94c898c2761d0800000000000000
+      internalID: -3357666027905630764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_111
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 394
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb7e74d14be39e00800000000000000
+      internalID: 1050441806077918156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_112
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 402
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7a2a538f2909ec0800000000000000
+      internalID: -3562185710500665396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_113
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 344
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6469c4846a3090130800000000000000
+      internalID: 3533359395361297990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_114
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 362
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b6959df53fd4090800000000000000
+      internalID: -8048509366047249574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_115
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 335
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdea88a087316df0800000000000000
+      internalID: -188808683649831503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_116
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 345
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41845934707b08220800000000000000
+      internalID: 2486188236135024660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_117
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 355
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f4c35116d71c900800000000000000
+      internalID: 702980872768081792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_118
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 330
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c2801fc258bb860800000000000000
+      internalID: 7546772028658298010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_119
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 340
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f502c1ee63c6a250800000000000000
+      internalID: 5955662438245467641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_120
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 337
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01d66bbbbb1cd3a0800000000000000
+      internalID: -6639401257534041844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_121
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 353
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97741212afb048e00800000000000000
+      internalID: 1045974182382356345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_122
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 351
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d370f4e0d9a087ab0800000000000000
+      internalID: -5010242915783473347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_123
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 333
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13df9680f2edc6aa0800000000000000
+      internalID: -6166309496191058639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_124
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 308
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b8069e3b64cc940800000000000000
+      internalID: 5317702998546221930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_125
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 343
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9ed791319e49750800000000000000
+      internalID: 6310925246094240213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_126
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 339
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a9e43333ef76ef0800000000000000
+      internalID: -114843769617081737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_127
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 322
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19940f9380bb8fce0800000000000000
+      internalID: -1371140442528134767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_128
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 330
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab5d03d515252aa0800000000000000
+      internalID: -6186497737458099292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_129
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 326
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7f2c1f9c8147fc0800000000000000
+      internalID: -3498143754936453154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_130
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 305
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d00eeac3e614eba0800000000000000
+      internalID: -6060694030915862314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_131
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 326
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71ea76e369ef2c10800000000000000
+      internalID: 2031098572245229949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_132
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 306
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3002b38ce8398b4e0800000000000000
+      internalID: -1965658995893264381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_133
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546c3f2bd3b1072e0800000000000000
+      internalID: -2130172671936969147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_134
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 291
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3634ed961e34b9e70800000000000000
+      internalID: 9122960105591948131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_135
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 290
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c057315c5824c3900800000000000000
+      internalID: 665479987248461068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_136
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 290
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1379f1a11d3e0f610800000000000000
+      internalID: 1653071550470919985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_137
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 311
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038135901b68287d0800000000000000
+      internalID: -2917621513658886096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_138
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d181aa7c6cfded4d0800000000000000
+      internalID: -3107800647992731619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_139
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 309
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a62e613873117b80800000000000000
+      internalID: -8398910423122958686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_140
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 290
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef8ec19ecd9d3000800000000000000
+      internalID: 17343484114407399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_141
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae9c5e7457ff9e40800000000000000
+      internalID: 5665518798524685995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_142
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 290
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb2067d0f09920d0800000000000000
+      internalID: -3447064675695449155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_143
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 290
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628a129da48088d40800000000000000
+      internalID: 5586724455316564006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_144
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 290
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c24a359ff8785e50800000000000000
+      internalID: 6798316676631380676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_145
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 305
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd4e27c3e737aa40800000000000000
+      internalID: 5379329731356151295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_146
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 290
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e2d786d1dccbdd0800000000000000
+      internalID: -2468872969515094379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_147
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 300
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6fb3938d7d1de80800000000000000
+      internalID: -8155500126518118724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_148
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 290
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0367f300d467eec70800000000000000
+      internalID: 9002262778248918576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_149
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 290
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426df80f278628c60800000000000000
+      internalID: 7818926745940121124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_150
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 301
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333e036a74fa10720800000000000000
+      internalID: 2810720364721660723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_151
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 295
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89119a9ff03b488e0800000000000000
+      internalID: -1692030678789975656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_152
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 151
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e514892a802bb30800000000000000
+      internalID: 4301510088524389961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_153
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 215
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2274ed14c2f827820800000000000000
+      internalID: 2914549329108551458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_154
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b73d3ee605c34620800000000000000
+      internalID: 2757264030438340528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_155
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 214
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b245b422df26d50800000000000000
+      internalID: 6729219116979464971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_156
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 207
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27a8c9d1d37c77c0800000000000000
+      internalID: -4072252617910606033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_157
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 201
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e41f4b3a8f00c1f0800000000000000
+      internalID: -1026803628665531161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_158
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 189
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fa1c483681181c0800000000000000
+      internalID: -4503291336685670546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_159
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 194
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8e494ee1f277ea0800000000000000
+      internalID: -5875175379151034208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_160
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 198
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5798a46d281975f0800000000000000
+      internalID: -758548478993852578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_161
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 189
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d470c8ce24874480800000000000000
+      internalID: -8915011600885189417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_162
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 185
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d819da30c0028f70800000000000000
+      internalID: 9187907015410260177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_163
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 113
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825c36c0403c854d0800000000000000
+      internalID: -3145549917563140824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_164
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 194
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148c90fe7abd70070800000000000000
+      internalID: 8072662371401320513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_165
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 198
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68035ee5596074670800000000000000
+      internalID: 8522788058433925254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_166
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 78
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa22a8895c4f560800000000000000
+      internalID: 7346714151091351304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_167
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87353ecf9587ffd60800000000000000
+      internalID: 7926186197085541240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_168
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 85
+        width: 38
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd18585c0409d81a0800000000000000
+      internalID: -6805624854020783651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_169
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 163
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa265136ee7cd100800000000000000
+      internalID: 134121616049580714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_170
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 151
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f4306a70ede4230800000000000000
+      internalID: 3625078874511200158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_171
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 135
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0bb8b689fdf86d0800000000000000
+      internalID: -2985922182191009562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_172
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 174
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2982fc7fab7ce0c0800000000000000
+      internalID: -4545121930277910230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_173
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 172
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eb4da0694e10600800000000000000
+      internalID: 432878372282220091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_174
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 172
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6838c0f2c825dc0800000000000000
+      internalID: -3651702214142753072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_175
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 163
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89ff6c75858c8a90800000000000000
+      internalID: -7310321286764299892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_176
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 159
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fc844864d76b600800000000000000
+      internalID: 483711751809453937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_177
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 48
+        width: 39
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97ce3b858b08ea70800000000000000
+      internalID: 8856341335418783645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_178
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 113
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15879638abf6428a0800000000000000
+      internalID: -6330812329316747183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_179
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 157
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a7732e68ff86ae0800000000000000
+      internalID: -1555712716470519279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_180
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 136
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd935a3b608b9280800000000000000
+      internalID: -9035487029360353868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_181
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 135
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ef305aef5304b40800000000000000
+      internalID: 5422393319160544910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_182
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 45
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235f5d3a469e9c5c0800000000000000
+      internalID: -4194564959464196814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_183
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 79
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb70ed5d016aaa8a0800000000000000
+      internalID: -6293034938059061314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_184
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cae214537b573f30800000000000000
+      internalID: 4555210098998438594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_185
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 34
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359796e0a7b5d0860800000000000000
+      internalID: 7497749534427674963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_186
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 43
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30debbaa9b9f3170800000000000000
+      internalID: 8160412138427306047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4feda052197e2e0800000000000000
+      internalID: -2096547513235475228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_188
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 49
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7df7f0159db30b0800000000000000
+      internalID: -5747761557232691204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_189
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a7693bb22349800800000000000000
+      internalID: 618174212134566407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_190
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 86
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9747c723dbdba5f30800000000000000
+      internalID: 4565169792586904697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_191
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 34
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52095b80701ab06a0800000000000000
+      internalID: -6481910187086737371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_192
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 63
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c2be12cfde68b80800000000000000
+      internalID: -8392759188401738700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_193
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 41
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f270632c1028160800000000000000
+      internalID: 7026180302293118780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_194
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95e4ea15bbef0480800000000000000
+      internalID: -8930660372979587683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_195
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 86
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af29ae0f030a55c50800000000000000
+      internalID: 6653400156570555130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_196
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7952f7e794cf75640800000000000000
+      internalID: 5068797298213856663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_197
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 67
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375ceadd53e27f590800000000000000
+      internalID: -7640587433923394189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_198
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 90
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386ad7092d732ca70800000000000000
+      internalID: 8845693995615889027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_P1_GravityBoostEnergy_199
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 88
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9671d757cd9a48430800000000000000
+      internalID: 3784336351227090793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_P1_GravityBoostEnergy_0: 3790333471759883483
+      VFX_P1_GravityBoostEnergy_1: -8983921327544549091
+      VFX_P1_GravityBoostEnergy_10: -2971427366593456814
+      VFX_P1_GravityBoostEnergy_100: -5414782703985379609
+      VFX_P1_GravityBoostEnergy_101: -3263648475912839284
+      VFX_P1_GravityBoostEnergy_102: -2868852179516212468
+      VFX_P1_GravityBoostEnergy_103: -5659802727777845744
+      VFX_P1_GravityBoostEnergy_104: -4275510857017557537
+      VFX_P1_GravityBoostEnergy_105: -5542340772109328630
+      VFX_P1_GravityBoostEnergy_106: 7110006756583385936
+      VFX_P1_GravityBoostEnergy_107: 6472227245424949276
+      VFX_P1_GravityBoostEnergy_108: 1512159230247597073
+      VFX_P1_GravityBoostEnergy_109: 5202032316881731522
+      VFX_P1_GravityBoostEnergy_11: -8816323164364263265
+      VFX_P1_GravityBoostEnergy_110: -3357666027905630764
+      VFX_P1_GravityBoostEnergy_111: 1050441806077918156
+      VFX_P1_GravityBoostEnergy_112: -3562185710500665396
+      VFX_P1_GravityBoostEnergy_113: 3533359395361297990
+      VFX_P1_GravityBoostEnergy_114: -8048509366047249574
+      VFX_P1_GravityBoostEnergy_115: -188808683649831503
+      VFX_P1_GravityBoostEnergy_116: 2486188236135024660
+      VFX_P1_GravityBoostEnergy_117: 702980872768081792
+      VFX_P1_GravityBoostEnergy_118: 7546772028658298010
+      VFX_P1_GravityBoostEnergy_119: 5955662438245467641
+      VFX_P1_GravityBoostEnergy_12: 5785729093144015047
+      VFX_P1_GravityBoostEnergy_120: -6639401257534041844
+      VFX_P1_GravityBoostEnergy_121: 1045974182382356345
+      VFX_P1_GravityBoostEnergy_122: -5010242915783473347
+      VFX_P1_GravityBoostEnergy_123: -6166309496191058639
+      VFX_P1_GravityBoostEnergy_124: 5317702998546221930
+      VFX_P1_GravityBoostEnergy_125: 6310925246094240213
+      VFX_P1_GravityBoostEnergy_126: -114843769617081737
+      VFX_P1_GravityBoostEnergy_127: -1371140442528134767
+      VFX_P1_GravityBoostEnergy_128: -6186497737458099292
+      VFX_P1_GravityBoostEnergy_129: -3498143754936453154
+      VFX_P1_GravityBoostEnergy_13: -5145355476307225832
+      VFX_P1_GravityBoostEnergy_130: -6060694030915862314
+      VFX_P1_GravityBoostEnergy_131: 2031098572245229949
+      VFX_P1_GravityBoostEnergy_132: -1965658995893264381
+      VFX_P1_GravityBoostEnergy_133: -2130172671936969147
+      VFX_P1_GravityBoostEnergy_134: 9122960105591948131
+      VFX_P1_GravityBoostEnergy_135: 665479987248461068
+      VFX_P1_GravityBoostEnergy_136: 1653071550470919985
+      VFX_P1_GravityBoostEnergy_137: -2917621513658886096
+      VFX_P1_GravityBoostEnergy_138: -3107800647992731619
+      VFX_P1_GravityBoostEnergy_139: -8398910423122958686
+      VFX_P1_GravityBoostEnergy_14: 3028056013047363181
+      VFX_P1_GravityBoostEnergy_140: 17343484114407399
+      VFX_P1_GravityBoostEnergy_141: 5665518798524685995
+      VFX_P1_GravityBoostEnergy_142: -3447064675695449155
+      VFX_P1_GravityBoostEnergy_143: 5586724455316564006
+      VFX_P1_GravityBoostEnergy_144: 6798316676631380676
+      VFX_P1_GravityBoostEnergy_145: 5379329731356151295
+      VFX_P1_GravityBoostEnergy_146: -2468872969515094379
+      VFX_P1_GravityBoostEnergy_147: -8155500126518118724
+      VFX_P1_GravityBoostEnergy_148: 9002262778248918576
+      VFX_P1_GravityBoostEnergy_149: 7818926745940121124
+      VFX_P1_GravityBoostEnergy_15: -8153064207880871692
+      VFX_P1_GravityBoostEnergy_150: 2810720364721660723
+      VFX_P1_GravityBoostEnergy_151: -1692030678789975656
+      VFX_P1_GravityBoostEnergy_152: 4301510088524389961
+      VFX_P1_GravityBoostEnergy_153: 2914549329108551458
+      VFX_P1_GravityBoostEnergy_154: 2757264030438340528
+      VFX_P1_GravityBoostEnergy_155: 6729219116979464971
+      VFX_P1_GravityBoostEnergy_156: -4072252617910606033
+      VFX_P1_GravityBoostEnergy_157: -1026803628665531161
+      VFX_P1_GravityBoostEnergy_158: -4503291336685670546
+      VFX_P1_GravityBoostEnergy_159: -5875175379151034208
+      VFX_P1_GravityBoostEnergy_16: 4496369525563633125
+      VFX_P1_GravityBoostEnergy_160: -758548478993852578
+      VFX_P1_GravityBoostEnergy_161: -8915011600885189417
+      VFX_P1_GravityBoostEnergy_162: 9187907015410260177
+      VFX_P1_GravityBoostEnergy_163: -3145549917563140824
+      VFX_P1_GravityBoostEnergy_164: 8072662371401320513
+      VFX_P1_GravityBoostEnergy_165: 8522788058433925254
+      VFX_P1_GravityBoostEnergy_166: 7346714151091351304
+      VFX_P1_GravityBoostEnergy_167: 7926186197085541240
+      VFX_P1_GravityBoostEnergy_168: -6805624854020783651
+      VFX_P1_GravityBoostEnergy_169: 134121616049580714
+      VFX_P1_GravityBoostEnergy_17: 5711304584017301749
+      VFX_P1_GravityBoostEnergy_170: 3625078874511200158
+      VFX_P1_GravityBoostEnergy_171: -2985922182191009562
+      VFX_P1_GravityBoostEnergy_172: -4545121930277910230
+      VFX_P1_GravityBoostEnergy_173: 432878372282220091
+      VFX_P1_GravityBoostEnergy_174: -3651702214142753072
+      VFX_P1_GravityBoostEnergy_175: -7310321286764299892
+      VFX_P1_GravityBoostEnergy_176: 483711751809453937
+      VFX_P1_GravityBoostEnergy_177: 8856341335418783645
+      VFX_P1_GravityBoostEnergy_178: -6330812329316747183
+      VFX_P1_GravityBoostEnergy_179: -1555712716470519279
+      VFX_P1_GravityBoostEnergy_18: -8333925210198224141
+      VFX_P1_GravityBoostEnergy_180: -9035487029360353868
+      VFX_P1_GravityBoostEnergy_181: 5422393319160544910
+      VFX_P1_GravityBoostEnergy_182: -4194564959464196814
+      VFX_P1_GravityBoostEnergy_183: -6293034938059061314
+      VFX_P1_GravityBoostEnergy_184: 4555210098998438594
+      VFX_P1_GravityBoostEnergy_185: 7497749534427674963
+      VFX_P1_GravityBoostEnergy_186: 8160412138427306047
+      VFX_P1_GravityBoostEnergy_187: -2096547513235475228
+      VFX_P1_GravityBoostEnergy_188: -5747761557232691204
+      VFX_P1_GravityBoostEnergy_189: 618174212134566407
+      VFX_P1_GravityBoostEnergy_19: -7664833537691059557
+      VFX_P1_GravityBoostEnergy_190: 4565169792586904697
+      VFX_P1_GravityBoostEnergy_191: -6481910187086737371
+      VFX_P1_GravityBoostEnergy_192: -8392759188401738700
+      VFX_P1_GravityBoostEnergy_193: 7026180302293118780
+      VFX_P1_GravityBoostEnergy_194: -8930660372979587683
+      VFX_P1_GravityBoostEnergy_195: 6653400156570555130
+      VFX_P1_GravityBoostEnergy_196: 5068797298213856663
+      VFX_P1_GravityBoostEnergy_197: -7640587433923394189
+      VFX_P1_GravityBoostEnergy_198: 8845693995615889027
+      VFX_P1_GravityBoostEnergy_199: 3784336351227090793
+      VFX_P1_GravityBoostEnergy_2: 40780689075626421
+      VFX_P1_GravityBoostEnergy_20: -7333312658426336668
+      VFX_P1_GravityBoostEnergy_21: -5173407674831060402
+      VFX_P1_GravityBoostEnergy_22: -2346358783575008419
+      VFX_P1_GravityBoostEnergy_23: 8568230649349686997
+      VFX_P1_GravityBoostEnergy_24: 2417107912167181
+      VFX_P1_GravityBoostEnergy_25: 311539200699010805
+      VFX_P1_GravityBoostEnergy_26: 3759320929022048456
+      VFX_P1_GravityBoostEnergy_27: -2200232132981482482
+      VFX_P1_GravityBoostEnergy_28: 4554700531723901979
+      VFX_P1_GravityBoostEnergy_29: -8250758979612266277
+      VFX_P1_GravityBoostEnergy_3: 2920296961430617058
+      VFX_P1_GravityBoostEnergy_30: -2223815334118424431
+      VFX_P1_GravityBoostEnergy_31: 1785559916849975998
+      VFX_P1_GravityBoostEnergy_32: 8410368213969051054
+      VFX_P1_GravityBoostEnergy_33: -3155298867047388046
+      VFX_P1_GravityBoostEnergy_34: -6704908815618142186
+      VFX_P1_GravityBoostEnergy_35: 9189675357543040944
+      VFX_P1_GravityBoostEnergy_36: -4493416397966403164
+      VFX_P1_GravityBoostEnergy_37: -3948044918629531493
+      VFX_P1_GravityBoostEnergy_38: 8775195518185096550
+      VFX_P1_GravityBoostEnergy_39: -8217194008413416188
+      VFX_P1_GravityBoostEnergy_4: -6884918670319039418
+      VFX_P1_GravityBoostEnergy_40: -6003401849420314812
+      VFX_P1_GravityBoostEnergy_41: 2152793532675396182
+      VFX_P1_GravityBoostEnergy_42: -8600746420922840163
+      VFX_P1_GravityBoostEnergy_43: -809451456735450511
+      VFX_P1_GravityBoostEnergy_44: 5802091977608756303
+      VFX_P1_GravityBoostEnergy_45: 3670451175983472978
+      VFX_P1_GravityBoostEnergy_46: -7432965736378370086
+      VFX_P1_GravityBoostEnergy_47: -1463953816195200990
+      VFX_P1_GravityBoostEnergy_48: -725634517954529352
+      VFX_P1_GravityBoostEnergy_49: 599215637243820393
+      VFX_P1_GravityBoostEnergy_5: -243489928889217793
+      VFX_P1_GravityBoostEnergy_50: -6829514528831953709
+      VFX_P1_GravityBoostEnergy_51: 3833992587883928317
+      VFX_P1_GravityBoostEnergy_52: 5648273272460553574
+      VFX_P1_GravityBoostEnergy_53: -4784794363722626519
+      VFX_P1_GravityBoostEnergy_54: -7198156520406226438
+      VFX_P1_GravityBoostEnergy_55: 3079560065655848089
+      VFX_P1_GravityBoostEnergy_56: -7848115259215085936
+      VFX_P1_GravityBoostEnergy_57: -2568279631497230818
+      VFX_P1_GravityBoostEnergy_58: 2531567147601903940
+      VFX_P1_GravityBoostEnergy_59: 6529990384220247363
+      VFX_P1_GravityBoostEnergy_6: -657979252848912589
+      VFX_P1_GravityBoostEnergy_60: 2629855183978754597
+      VFX_P1_GravityBoostEnergy_61: 8569706857131556107
+      VFX_P1_GravityBoostEnergy_62: -6602565083418689138
+      VFX_P1_GravityBoostEnergy_63: 8072457631614881728
+      VFX_P1_GravityBoostEnergy_64: 1436103888665157413
+      VFX_P1_GravityBoostEnergy_65: -6828246908747373196
+      VFX_P1_GravityBoostEnergy_66: -4615222170109325259
+      VFX_P1_GravityBoostEnergy_67: -3975954672284760791
+      VFX_P1_GravityBoostEnergy_68: -5056819396398485114
+      VFX_P1_GravityBoostEnergy_69: -5294025555662490605
+      VFX_P1_GravityBoostEnergy_7: 6578211667089171450
+      VFX_P1_GravityBoostEnergy_70: 8457934295201884821
+      VFX_P1_GravityBoostEnergy_71: -84699348594521407
+      VFX_P1_GravityBoostEnergy_72: 331850068141621364
+      VFX_P1_GravityBoostEnergy_73: -7314636430665108032
+      VFX_P1_GravityBoostEnergy_74: -6411323888917309611
+      VFX_P1_GravityBoostEnergy_75: -7166725058004772423
+      VFX_P1_GravityBoostEnergy_76: -3443363081330819888
+      VFX_P1_GravityBoostEnergy_77: -3335083599948130582
+      VFX_P1_GravityBoostEnergy_78: 1649540721314317525
+      VFX_P1_GravityBoostEnergy_79: 76046566826519495
+      VFX_P1_GravityBoostEnergy_8: 8974791586473329062
+      VFX_P1_GravityBoostEnergy_80: 7767748963138049434
+      VFX_P1_GravityBoostEnergy_81: 1272631571902137132
+      VFX_P1_GravityBoostEnergy_82: -6068442591554331118
+      VFX_P1_GravityBoostEnergy_83: 2744075027583974106
+      VFX_P1_GravityBoostEnergy_84: -5426074722556186556
+      VFX_P1_GravityBoostEnergy_85: 1453389224954718189
+      VFX_P1_GravityBoostEnergy_86: -3159567680977886923
+      VFX_P1_GravityBoostEnergy_87: 1628457775411499751
+      VFX_P1_GravityBoostEnergy_88: 2371947730939953715
+      VFX_P1_GravityBoostEnergy_89: -6277605669851273811
+      VFX_P1_GravityBoostEnergy_9: 1398432231201270433
+      VFX_P1_GravityBoostEnergy_90: 3772204146822700376
+      VFX_P1_GravityBoostEnergy_91: -4152871228029765278
+      VFX_P1_GravityBoostEnergy_92: 2647272323081708056
+      VFX_P1_GravityBoostEnergy_93: 1829775840090203200
+      VFX_P1_GravityBoostEnergy_94: 8574390147139185067
+      VFX_P1_GravityBoostEnergy_95: -8543517961291015797
+      VFX_P1_GravityBoostEnergy_96: -1400135976463355245
+      VFX_P1_GravityBoostEnergy_97: -916572674536808077
+      VFX_P1_GravityBoostEnergy_98: -7526795241993536354
+      VFX_P1_GravityBoostEnergy_99: 2912135189482074363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

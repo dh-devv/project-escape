@@ -1,0 +1,75 @@
+{
+  "name": "Enemy2_Aim",
+  "sourcePage": 7,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    29
+  ],
+  "sourceRegions": [
+    [
+      102,
+      32,
+      512,
+      489
+    ],
+    [
+      603,
+      26,
+      1001,
+      489
+    ],
+    [
+      1099,
+      28,
+      1483,
+      489
+    ],
+    [
+      96,
+      536,
+      499,
+      992
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "f0496d65faa0d7d4f378c158323129395635d2033f79f31eeede326ed060e34a",
+  "spriteSha256": "3dbc68a951235a8c1d7b372e034130147bdd0f6371040087a9e92aed0f96e2bb"
+}

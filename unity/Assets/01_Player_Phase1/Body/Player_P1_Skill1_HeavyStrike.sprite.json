@@ -1,0 +1,122 @@
+{
+  "name": "Player_P1_Skill1_HeavyStrike",
+  "sourcePage": 3,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.48995215311004786,
+  "sourceOffset": [
+    25,
+    17
+  ],
+  "sourceRegions": [
+    [
+      71,
+      193,
+      384,
+      452
+    ],
+    [
+      490,
+      166,
+      788,
+      450
+    ],
+    [
+      875,
+      30,
+      1188,
+      450
+    ],
+    [
+      72,
+      475,
+      394,
+      841
+    ],
+    [
+      461,
+      580,
+      780,
+      843
+    ],
+    [
+      880,
+      586,
+      1206,
+      844
+    ],
+    [
+      83,
+      865,
+      376,
+      1234
+    ],
+    [
+      528,
+      860,
+      762,
+      1237
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "8116a034b249439c139fd6d39d8851b72e5d9503f7d670446021376e15ca7c62",
+  "spriteSha256": "d3df26b277adbc228abce664e19cabc909f95f3ebaf3a63ba720615444a6fdd8",
+  "proposedCombatTiming": {
+    "hitFrames": [
+      5
+    ],
+    "note": "내려치기 접촉; 6번은 후속 자세"
+  },
+  "combatTimingFrameIndexBase": 1
+}

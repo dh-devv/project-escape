@@ -188,9 +188,25 @@ namespace Carten
             }
         }
 
+        // [추가 1] 인스펙터에서 보스 처치 시 달성할 조건 ID를 입력받는 변수
+        [Header("=== Clear Condition ===")]
+        [SerializeField] private string clearConditionID = "Stage1_MidBoss_Cleared";
+
         protected override void Die()
         {
             Defeated?.Invoke(this);
+
+            // [추가 2] 보스 사망 시 조건 달성 저장 (PlayerPrefs & GameStateManager 동시 연동)
+            if (!string.IsNullOrWhiteSpace(clearConditionID))
+            {
+                PlayerPrefs.SetInt(clearConditionID, 1);
+                if (GameStateManager.Instance != null)
+                {
+                    GameStateManager.Instance.SetTriggered(clearConditionID);
+                }
+                Debug.Log($"[BossController] 클리어 조건 달성 저장 완료: {clearConditionID}");
+            }
+
             if (showDebugLog)
             {
                 Debug.Log(

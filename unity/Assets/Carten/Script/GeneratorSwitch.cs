@@ -146,6 +146,9 @@ namespace Carten
                 interactionPrompt.gameObject.SetActive(false);
 
             Debug.Log($"[GeneratorSwitch] 작동 완료: {powerId}", this);
+
+            // switchID 변수(예: "Stage1_Generator_01")의 이름을 키값으로 하여 작동 완료(1) 상태를 저장합니다.
+            PlayerPrefs.SetInt(powerId, 1);
         }
 
         private void ApplyPowerState()

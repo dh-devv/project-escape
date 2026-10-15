@@ -149,9 +149,9 @@ project-escape/
 | 항목 | 상태 |
 |---|:---:|
 | Spring Boot API · 랭킹 · 요청 검증 | 구현 · 자동 테스트 통과 |
-| MySQL 연결 · 결과 저장/조회 | 로컬 MySQL에서 검증 |
+| MySQL 연결 · 결과 저장/조회 | Unity 실행 결과 성공 |
 | 피격 경직 · 상호작용 · 2/3페이즈 보스 | 구현 · 정적 검사 통과, Unity 실행 검증 필요 |
-| Unity와 백엔드 API 연결 | 데모 연동 구현, Unity 실행 검증 필요 |
+| Unity와 백엔드 API 연결 | 데모 연동 구현, Unity 실행 결과 성공 |
 | Docker 환경 구성 | 구성 완료 |
 | AWS EC2 배포 | 백엔드, DB 배포 완료 |
 | 최종 게임 테스트 | Unity Editor에서 진행 필요 |

@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: F  ???
+  m_text: "F  \uC791\uB3D9"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5d6c3ad30b5c9e440a88c5db1e5d5bb4, type: 2}
   m_sharedMaterial: {fileID: -885294134248936272, guid: 5d6c3ad30b5c9e440a88c5db1e5d5bb4, type: 2}

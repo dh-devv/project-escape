@@ -13,8 +13,12 @@ namespace Carten
         private string username = "";
         private void Start()
         {
-            if (LastSparkSession.Instance != null) session = LastSparkSession.Instance;
-        }
+            if (UserId <= 0)
+            {
+                string autoUsername = "player_" + System.DateTime.Now.ToString("yyyyMMddHHmmss");
+                Connect(autoUsername);
+            }
+        }`
         private void OnGUI()
         {
             GUILayout.BeginArea(new Rect(12f, 12f, 460f, 245f), GUI.skin.box);

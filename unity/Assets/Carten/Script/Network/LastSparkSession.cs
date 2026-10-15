@@ -48,7 +48,18 @@ namespace Carten
             UserId = existingUserId;
             if (UserId > 0) Status = "Using configured user ID";
         }
+
+        private void Start()
+        {
+            if (UserId <= 0)
+            {
+                string autoUsername = "player_" + System.DateTime.Now.ToString("yyyyMMddHHmmss");
+                Connect(autoUsername);
+            }
+        }
+
         private void OnDestroy() { if (Instance == this) Instance = null; }
+
         public void Connect(string username)
         {
             if (IsConnecting || UserId > 0) return;

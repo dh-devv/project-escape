@@ -29,6 +29,10 @@ docker compose -f .\deployment\docker-compose.yml down -v
 
 ## AWS EC2 배포 개요
 
+Unity WebGL 공동 테스트는 [처음 하는 AWS 배포 안내](aws-first-deploy.md)를 따릅니다.
+해당 안내의 `docker-compose.aws.yml`은 HTTPS와 게임 파일 제공을 포함하며 80/443만 공개합니다.
+아래 항목은 기존 HTTP API 단독 배포 개요입니다.
+
 1. Ubuntu EC2 인스턴스에 Docker와 Docker Compose를 설치합니다.
 2. 저장소를 EC2에 clone합니다.
 3. `deployment/.env.example`을 `deployment/.env`로 복사하고 운영용 비밀번호를 설정합니다.

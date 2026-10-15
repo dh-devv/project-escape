@@ -23,3 +23,9 @@ docker compose -f .\deployment\docker-compose.yml down
 강력한 비밀번호를 설정하고, `--env-file`로 지정해야 합니다.
 
 자세한 내용은 `../docs/backend/deployment.md`를 참고합니다.
+
+AWS에서 WebGL과 API를 같은 HTTPS 주소로 제공하려면
+[`../docs/backend/aws-first-deploy.md`](../docs/backend/aws-first-deploy.md)를 따라갑니다.
+`docker-compose.aws.yml`은 AWS 전용 독립 구성입니다. 기존 Compose 파일과 합치지 않습니다.
+이 구성은 80/443만 공개하고 백엔드 8080과 DB 3306은 내부에서만 사용합니다.
+친구가 제작한 WebGL 빌드 전체는 `deployment/web/`에 업로드합니다.

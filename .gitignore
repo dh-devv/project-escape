@@ -55,6 +55,9 @@ backend/build/
 .env.*
 !.env.example
 deployment/.env
+# WebGL exports are uploaded separately from the backend source.
+deployment/web/*
+!deployment/web/.gitkeep
 .aws/
 *.pem
 *.key

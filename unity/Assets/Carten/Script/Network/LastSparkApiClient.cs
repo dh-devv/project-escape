@@ -8,7 +8,7 @@ namespace Carten
     public class LastSparkApiClient : MonoBehaviour
     {
         [SerializeField]
-        private string baseUrl = "http://localhost:8080/api/v1";
+        private string baseUrl = "https://last-spark.3.36.187.195.sslip.io/api/v1";
 
         [SerializeField]
         private int timeoutSeconds = 10;

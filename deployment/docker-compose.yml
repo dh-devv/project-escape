@@ -4,9 +4,9 @@ services:
     restart: unless-stopped
     environment:
       MYSQL_DATABASE: last_spark
-      MYSQL_USER: ${DB_USERNAME:?DB_USERNAME is required}
-      MYSQL_PASSWORD: ${DB_PASSWORD:?DB_PASSWORD is required}
-      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:?MYSQL_ROOT_PASSWORD is required}
+      MYSQL_USER: ${DB_USERNAME:-last_spark_app}
+      MYSQL_PASSWORD: ${DB_PASSWORD:-local_app_password}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-local_root_password}
     volumes:
       - mysql_data:/var/lib/mysql
       - ../database/schema.sql:/docker-entrypoint-initdb.d/01-schema.sql:ro
@@ -26,8 +26,8 @@ services:
         condition: service_healthy
     environment:
       DB_URL: jdbc:mysql://db:3306/last_spark?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
-      DB_USERNAME: ${DB_USERNAME:?DB_USERNAME is required}
-      DB_PASSWORD: ${DB_PASSWORD:?DB_PASSWORD is required}
+      DB_USERNAME: ${DB_USERNAME:-last_spark_app}
+      DB_PASSWORD: ${DB_PASSWORD:-local_app_password}
       JPA_DDL_AUTO: validate
     ports:
       - "8080:8080"

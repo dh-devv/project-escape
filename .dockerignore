@@ -1,6 +1,8 @@
 .git
 .vscode
 unity
+art
+deployment/web
 backend/build
 backend/.gradle
 *.log

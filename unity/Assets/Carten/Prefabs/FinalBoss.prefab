@@ -138,6 +138,7 @@ GameObject:
   - component: {fileID: 5169304322204412434}
   - component: {fileID: 2573570466022208132}
   - component: {fileID: 6671000000000000001}
+  - component: {fileID: 6671000000000000002}
   m_Layer: 6
   m_Name: FinalBoss
   m_TagString: Untagged
@@ -336,3 +337,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: Carten::Carten.BossPattern
   attackWarning: 0.8
   recoveryTime: 0.4
+--- !u!114 &6671000000000000002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6683913991043941547}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 219395cb47405bdd96c55005a8336ace, type: 3}
+  m_Name:
+  m_EditorClassIdentifier: Carten::Carten.BossResultReporter
+  session: {fileID: 0}
+  player: {fileID: 0}
+  bossId: 2
+  clearScore: 3000

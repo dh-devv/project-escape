@@ -18,6 +18,7 @@
     }
   },
   "guids": {
+    "01614664b831546d2ae94a42149d80ac": "com.unity.inputsystem/InputSystem/Plugins/UI/InputSystemUIInputModule.cs",
     "04c410c9937594faa893a11dceb85f7e": "com.unity.render-pipelines.universal/Shaders/Utils/Sampling.shader",
     "071e954febf155243a6c81e48f452644": "com.unity.render-pipelines.universal/Textures/BlueNoise16/L/LDR_LLL1_9.png",
     "073797afb82c5a1438f328866b10b3f0": "com.unity.render-pipelines.universal/Runtime/2D/Light2D.cs",
@@ -63,6 +64,7 @@
     "66f335fb1ffd8684294ad653bf1c7564": "com.unity.render-pipelines.universal/Runtime/Overrides/ColorAdjustments.cs",
     "6a1143ee683302f4aa628c052723efc1": "com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat",
     "70afe9e12c7a7ed47911bb608a23a8ff": "com.unity.render-pipelines.universal/Runtime/Overrides/SplitToning.cs",
+    "76c392e42b5098c458856cdf6ecaaaa1": "com.unity.ugui/Runtime/UGUI/EventSystem/EventSystem.cs",
     "7ce2118f74614a94aa8a0cdf2e6062c3": "com.unity.render-pipelines.universal/Textures/BlueNoise16/L/LDR_LLL1_3.png",
     "80aa867ac363ac043847b06ad71604cd": "com.unity.render-pipelines.universal/Shaders/Autodesk Interactive/Autodesk Interactive Masked.shadergraph",
     "81180773991d8724ab7f2d216912b564": "com.unity.render-pipelines.universal/Runtime/Overrides/ChromaticAberration.cs",
@@ -88,6 +90,7 @@
     "c49e63ed1bbcb334780a3bd19dfed403": "com.unity.render-pipelines.universal/Shaders/PostProcessing/FinalPost.shader",
     "c5e1dc532bcb41949b58bc4f2abfbb7e": "com.unity.render-pipelines.universal/Runtime/Overrides/LensDistortion.cs",
     "c94ad916058dff743b0f1c969ddbe660": "com.unity.render-pipelines.universal/Textures/BlueNoise16/L/LDR_LLL1_7.png",
+    "ca9f5fa95ffab41fb9a615ab714db018": "com.unity.inputsystem/InputSystem/Plugins/UI/DefaultInputActions.inputactions",
     "c989e1ed85cf7154caa922fec53e6af6": "com.unity.render-pipelines.universal/Textures/BlueNoise16/L/LDR_LLL1_27.png",
     "c9bd74624d8070f429e3f46d161f9204": "com.unity.render-pipelines.universal/Textures/BlueNoise16/L/LDR_LLL1_20.png",
     "ccf1aba9553839d41ae37dd52e9ebcce": "com.unity.render-pipelines.universal/Runtime/Overrides/MotionBlur.cs",
@@ -114,6 +117,7 @@
     "ec9fec698a3456d4fb18cf8bacb7a2bc": "com.unity.render-pipelines.universal/Shaders/PostProcessing/LutBuilderHdr.shader",
     "ed5ea7ce59ca8ec4f9f14bf470a30f35": "com.unity.render-pipelines.universal/Textures/BlueNoise16/L/LDR_LLL1_8.png",
     "f0b67500f7fad3b4c9f2b13e8f41ba6e": "com.unity.render-pipelines.universal/Textures/FilmGrain/Medium02.png",
+    "f4688fdb7df04437aeb418b961361dc5": "com.unity.ugui/Runtime/TMP/TextMeshProUGUI.cs",
     "f6783ab646d374f94b199774402a5144": "com.unity.render-pipelines.universal/Shaders/Terrain/TerrainDetailLit.shader",
     "f69770e54f2823f43badf77916acad83": "com.unity.render-pipelines.universal/Textures/BlueNoise16/L/LDR_LLL1_22.png",
     "fa042edbfc40fbd4bad0ab9d505b1223": "com.unity.render-pipelines.universal/Textures/BlueNoise16/L/LDR_LLL1_29.png",

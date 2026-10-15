@@ -152,8 +152,8 @@ project-escape/
 | MySQL 연결 · 결과 저장/조회 | 로컬 MySQL에서 검증 |
 | 피격 경직 · 상호작용 · 2/3페이즈 보스 | 구현 · 정적 검사 통과, Unity 실행 검증 필요 |
 | Unity와 백엔드 API 연결 | 데모 연동 구현, Unity 실행 검증 필요 |
-| Docker 환경 구성 | 설정 작성, 컨테이너 실행 검증 필요 |
-| AWS EC2 배포 | 절차 작성, 실제 배포 예정 |
+| Docker 환경 구성 | 구성 완료 |
+| AWS EC2 배포 | 백엔드, DB 배포 완료 |
 | 최종 게임 테스트 | Unity Editor에서 진행 필요 |
 
 2026-10-08 기준 백엔드 테스트 8개(H2 7개, 실제 MySQL 1개)와 실행 JAR 빌드가 통과했습니다.
@@ -174,12 +174,18 @@ project-escape/
 
 ## 백엔드 실행
 
-로컬 MySQL을 사용하는 경우에는 [database/README.md](database/README.md)의 환경변수 설정 후
-다음 명령으로 실행합니다.
+Docker Desktop을 실행한 뒤 프로젝트 루트에서 다음 한 줄로 MySQL과 백엔드를 함께 시작합니다.
+로컬 테스트용 DB 계정이 기본 설정되어 있어 별도 계정이나 `.env` 파일은 필요하지 않습니다.
 
 ```powershell
-.\backend\gradlew.bat -p backend bootRun
+docker compose -f .\deployment\docker-compose.yml up --build -d
 ```
 
-Docker 실행과 AWS 배포 절차는
+백엔드는 `http://localhost:8080`에서 실행됩니다. 종료하려면 다음을 실행합니다.
+
+```powershell
+docker compose -f .\deployment\docker-compose.yml down
+```
+
+로컬 MySQL을 직접 사용하는 방법과 AWS 배포 절차는
 [docs/backend/deployment.md](docs/backend/deployment.md)를 참고합니다.

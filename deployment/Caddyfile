@@ -1,0 +1,19 @@
+{$SITE_ADDRESS} {
+	encode gzip
+
+	# Preserve /api/v1/... when forwarding to Spring Boot.
+	handle /api/* {
+		header Cache-Control "no-store"
+		reverse_proxy backend:8080
+	}
+
+	# Initial WebGL builds: Compression Format = Disabled.
+	# Caddy compresses eligible responses during delivery.
+	handle {
+		root * /srv
+		header Cache-Control "no-cache"
+		file_server {
+			hide .gitkeep
+		}
+	}
+}

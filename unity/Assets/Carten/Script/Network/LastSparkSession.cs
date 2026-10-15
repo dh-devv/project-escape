@@ -48,7 +48,19 @@ namespace Carten
             UserId = existingUserId;
             if (UserId > 0) Status = "Using configured user ID";
         }
+
+        private void Start()
+        {
+            if (UserId <= 0)
+            {
+                string autoUsername = "player_" + DateTime.UtcNow.ToString("yyyyMMddHHmmssfff") + "_" +
+                    Guid.NewGuid().ToString("N").Substring(0, 6);
+                Connect(autoUsername);
+            }
+        }
+
         private void OnDestroy() { if (Instance == this) Instance = null; }
+
         public void Connect(string username)
         {
             if (IsConnecting || UserId > 0) return;
@@ -64,9 +76,15 @@ namespace Carten
                 IsConnecting = false;
                 UserId = response.userId;
                 Status = "Connected";
+                Debug.Log("Last Spark API connected (userId=" + UserId + ").", this);
                 FlushResults();
                 Connected?.Invoke(UserId);
-            }, error => { IsConnecting = false; Status = error; });
+            }, error =>
+            {
+                IsConnecting = false;
+                Status = error;
+                Debug.LogWarning("Last Spark API connection failed: " + error, this);
+            });
         }
 
         public PendingResult QueueResult(int bossId, double clearTime, int score, int maxPhase)
@@ -89,7 +107,11 @@ namespace Carten
                 PendingResult result = pendingResults.Dequeue();
                 result.Status = "Saving";
                 api.SaveScore(UserId, result.BossId, result.ClearTime, result.Score, result.MaxPhase,
-                    response => { result.Status = "Saved record " + response.recordId; },
+                    response =>
+                    {
+                        result.Status = "Saved record " + response.recordId;
+                        Debug.Log("Last Spark score saved (recordId=" + response.recordId + ").", this);
+                    },
                     error =>
                     {
                         result.Status = "Save failed: " + error;

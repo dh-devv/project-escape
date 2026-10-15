@@ -11,10 +11,7 @@ namespace Carten
         [SerializeField] private BossResultReporter reporter;
         [SerializeField] private LastSparkSession session;
         private string username = "";
-        private void Start()
-        {
-            if (LastSparkSession.Instance != null) session = LastSparkSession.Instance;
-        }
+
         private void OnGUI()
         {
             GUILayout.BeginArea(new Rect(12f, 12f, 460f, 245f), GUI.skin.box);

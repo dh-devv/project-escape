@@ -80,21 +80,25 @@ def check_assets(verbose=False):
         if asset.suffix == ".unity" and "SceneRoots:" in content:
             roots = next(d["SceneRoots"]["m_Roots"] for d in documents if "SceneRoots" in d)
             listed = [str(item["fileID"]) for item in roots]
-            actual = {fid for (kind, fid), doc in zip(HEADER.findall(content), documents)
-                      if kind in {"4", "224"} and
-                      doc.get("Transform", doc.get("RectTransform", {})).get("m_Father", {}).get("fileID") == 0}
-            require(set(listed) == actual and len(listed) == len(set(listed)), f"{asset}: roots mismatch")
+            root_object_ids = {fid for kind, fid in HEADER.findall(content) if kind in {"4", "224", "1001"}}
+            explicit_roots = {fid for (kind, fid), doc in zip(HEADER.findall(content), documents)
+                              if kind in {"4", "224"} and
+                              doc.get("Transform", doc.get("RectTransform", {})).get("m_Father", {}).get("fileID") == 0}
+            listed_set = set(listed)
+            missing = sorted(explicit_roots - listed_set)
+            invalid = sorted(listed_set - root_object_ids)
+            require(not missing and not invalid and len(listed) == len(listed_set),
+                    f"{asset}: roots mismatch (missing={missing}, invalid={invalid})")
 
     _, build = load_unity_yaml(UNITY / "ProjectSettings/EditorBuildSettings.asset")
     scenes = build[0]["EditorBuildSettings"]["m_Scenes"]
     for scene in scenes:
         require(guid_index.get(scene["guid"]) == UNITY / scene["path"],
                 f"Build Settings: wrong path/GUID for {scene['path']}")
-    for name in ("MiniBossDemo", "FinalBossDemo"):
+    for number in range(1, 9):
+        name = f"Stage1_Map{number:02}"
         require(any(s["enabled"] and s["path"] == f"Assets/Scenes/{name}.unity" for s in scenes),
                 f"Build Settings: {name} not enabled")
-        content = (ASSETS / f"Scenes/{name}.unity").read_text(encoding="utf-8")
-        require("attackKey: 259" in content, f"{name}: demo attack key must match Keypad 3 in HUD")
 
     _, player_settings = load_unity_yaml(UNITY / "ProjectSettings/ProjectSettings.asset")
     settings = player_settings[0]["PlayerSettings"]

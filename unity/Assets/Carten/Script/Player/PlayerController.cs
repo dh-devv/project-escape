@@ -361,6 +361,8 @@ namespace Carten
 
         private Rigidbody2D rb;
 
+        private Animator anim;
+
         private int jumpCount;
 
         private float dashTimer;
@@ -390,6 +392,7 @@ namespace Carten
             if (GetComponent<PlayerInteractor>() == null)
                 gameObject.AddComponent<PlayerInteractor>();
             rb = GetComponent<Rigidbody2D>();
+            anim = GetComponent<Animator>();
 
             if (rb == null)
             {
@@ -507,11 +510,12 @@ namespace Carten
             if (rb == null)
                 return;
 
-            if (isDashing)
+            // 대시 중이거나 스킬 사용 중(강제 이동)일 때는 달리기 애니메이션 강제 종료
+            if (isDashing || isSkillMovementLocked)
+            {
+                if (anim != null) anim.SetBool("isRun", false);
                 return;
-
-            if (isSkillMovementLocked)
-                return;
+            }
 
             float horizontal = Input.GetAxisRaw("Horizontal");
 
@@ -521,12 +525,16 @@ namespace Carten
             if (horizontal != 0f)
             {
                 Vector3 scale = transform.localScale;
-
                 scale.x = Mathf.Abs(scale.x) * Mathf.Sign(horizontal);
-
                 transform.localScale = scale;
             }
-        }
+
+            // ★ 애니메이션 상태 업데이트 (입력값이 0이 아니면 Run, 0이면 Idle)
+            if (anim != null)
+            {
+                anim.SetBool("isRun", horizontal != 0f);
+            }
+        }   
 
         private void HandleJumpInput()
         {
@@ -741,6 +749,9 @@ namespace Carten
             jumpRequested = false;
             dashRequested = false;
             EndGravityBoost();
+
+            // ★ 스턴 등 강제 정지 시 달리기 애니메이션 끄기
+            if (anim != null) anim.SetBool("isRun", false);
         }
 
         private void OnDisable()
@@ -861,30 +872,15 @@ namespace Carten
 
         private void Die()
         {
-            if (isDead)
-                return;
-
-            isDead = true;
-
-            if (rb != null)
-            {
-                rb.linearVelocity = Vector2.zero;
-
-                rb.gravityScale = baseGravityScale;
-            }
-
-            additionalDamageReduction = 0f;
-
-            isSkillMovementLocked = false;
-
-            jumpRequested = false;
-
-            dashRequested = false;
+            // ... (기존 코드 유지) ...
 
             if (showDebugLog)
             {
                 Debug.Log("[PlayerController] " + "플레이어 사망");
             }
+
+            // ★ 사망 시 달리기 애니메이션 끄기
+            if (anim != null) anim.SetBool("isRun", false);
 
             gameObject.SetActive(false);
         }

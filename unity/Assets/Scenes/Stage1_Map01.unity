@@ -1632,7 +1632,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d22dba09b980c2744b2bf0691cde612b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Carten::Carten.CameraFollow
-  target: {fileID: 0}
+  target: {fileID: 1342809010}
   offsetX: 0
   offsetY: 2
   offsetZ: -10

@@ -812,6 +812,66 @@ Transform:
   - {fileID: 1712821063}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &900000081
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 900000082}
+  - component: {fileID: 900000083}
+  - component: {fileID: 900000084}
+  m_Layer: 0
+  m_Name: NetworkManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &900000082
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 900000081}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &900000083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 900000081}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f2a9d3c8b1e4f609a6c5d2e1b0f3a84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Carten::Carten.LastSparkApiClient
+  baseUrl: https://last-spark.3.36.187.195.sslip.io/api/v1
+  timeoutSeconds: 10
+--- !u!114 &900000084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 900000081}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f06755317b51889b65280df07e94e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Carten::Carten.LastSparkSession
+  existingUserId: 0
 --- !u!1 &1012157934
 GameObject:
   m_ObjectHideFlags: 0
@@ -1051,22 +1111,6 @@ MonoBehaviour:
   showDebugLog: 1
   bossKind: 1
   clearConditionID: Stage1_FinalBoss_Cleared
---- !u!114 &1012157945
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1012157934}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 219395cb47405bdd96c55005a8336ace, type: 3}
-  m_Name:
-  m_EditorClassIdentifier: Carten::Carten.BossResultReporter
-  session: {fileID: 0}
-  player: {fileID: 0}
-  bossId: 2
-  clearScore: 3000
 --- !u!114 &1012157943
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1085,6 +1129,22 @@ MonoBehaviour:
   phase2ChargeChance: 0.35
   attackWarning: 0.65
   recoveryTime: 0.35
+--- !u!114 &1012157945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1012157934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 219395cb47405bdd96c55005a8336ace, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Carten::Carten.BossResultReporter
+  session: {fileID: 0}
+  player: {fileID: 0}
+  bossId: 2
+  clearScore: 3000
 --- !u!1 &1115328414
 GameObject:
   m_ObjectHideFlags: 0
@@ -1977,66 +2037,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &900000081
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 900000082}
-  - component: {fileID: 900000083}
-  - component: {fileID: 900000084}
-  m_Layer: 0
-  m_Name: NetworkManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &900000082
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 900000081}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &900000083
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 900000081}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7f2a9d3c8b1e4f609a6c5d2e1b0f3a84, type: 3}
-  m_Name:
-  m_EditorClassIdentifier: Carten::Carten.LastSparkApiClient
-  baseUrl: https://last-spark.3.36.187.195.sslip.io/api/v1
-  timeoutSeconds: 10
---- !u!114 &900000084
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 900000081}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 62f06755317b51889b65280df07e94e3, type: 3}
-  m_Name:
-  m_EditorClassIdentifier: Carten::Carten.LastSparkSession
-  existingUserId: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

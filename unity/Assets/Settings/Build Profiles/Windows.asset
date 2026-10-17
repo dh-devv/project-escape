@@ -34,6 +34,18 @@ MonoBehaviour:
   - m_enabled: 1
     m_path: Assets/Scenes/Stage1_Map04.unity
     m_guid: 687040afd8edb4c4282718d21976f278
+  - m_enabled: 1
+    m_path: Assets/Scenes/Stage1_Map05.unity
+    m_guid: ee94b0511c1fd114f82ee0ea70541664
+  - m_enabled: 1
+    m_path: Assets/Scenes/Stage1_Map06.unity
+    m_guid: ea09733a3ce901f41a24f4f1e812263d
+  - m_enabled: 1
+    m_path: Assets/Scenes/Stage1_Map07.unity
+    m_guid: aa26042a0706c5b48b9f8214cf9d397a
+  - m_enabled: 1
+    m_path: Assets/Scenes/Stage1_Map08.unity
+    m_guid: 1f78b2fc8e4921542bac2a0b13149525
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:

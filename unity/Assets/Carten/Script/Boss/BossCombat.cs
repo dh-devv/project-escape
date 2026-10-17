@@ -22,10 +22,25 @@ namespace Carten
         [Header("=== Debug ===")]
         [SerializeField] private bool showDebugLog = true;
 
-        [Header("=== Field attacks ===")]
+        [Header("=== Field attacks (아레나 범위 설정) ===")]
         [SerializeField] private Transform arenaCenter;
         [SerializeField] private Vector2 arenaSize = new Vector2(24f, 8f);
         [SerializeField, Min(0f)] private float strongHitStun = 0.5f;
+
+        [Header("=== Field Attack Assets (패턴 에셋 넣는 곳) ===")]
+        [Tooltip("경고 단계에 표시할 프리팹 (예: VFX_Common_AttackWarning)")]
+        [SerializeField] private GameObject warningPrefab;
+        [Tooltip("실제 공격 판정 시 표시할 폭발/레이저 프리팹")]
+        [SerializeField] private GameObject attackPrefab;
+        [Tooltip("프리팹 대신 일반 스프라이트 이미지를 넣을 경우 (경고용)")]
+        [SerializeField] private Sprite warningSprite;
+        [Tooltip("프리팹 대신 일반 스프라이트 이미지를 넣을 경우 (공격용)")]
+        [SerializeField] private Sprite attackSprite;
+        [Tooltip("에셋 크기를 장판 판정 범위(Size)에 맞춰 자동으로 늘릴지 여부")]
+        [SerializeField] private bool scaleAssetToFitZone = true;
+        [Tooltip("기본 노란색/빨간색 테두리 선 표시 여부")]
+        [SerializeField] private bool showWarningOutline = true;
+
         private readonly List<BossFieldAttack> fields = new List<BossFieldAttack>();
         public Vector2 AttackCenter => attackPoint != null ? (Vector2)attackPoint.position : (Vector2)transform.position;
         private Vector2 ArenaCenter => arenaCenter != null ? (Vector2)arenaCenter.position : (Vector2)transform.position;
@@ -49,107 +64,47 @@ namespace Carten
 
         public void PerformBasicAttack()
         {
-            if (bossController == null)
-                return;
-
-            if (bossController.IsDead)
-                return;
-
+            if (bossController == null || bossController.IsDead) return;
             if (attackPoint == null)
             {
                 Debug.LogWarning("[BossCombat] AttackPoint가 없습니다.");
-
                 return;
             }
 
             float attackRange = GetAttackRange();
-
             Collider2D[] targets = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, playerLayer);
-
-            bool hitPlayer = false;
 
             foreach (Collider2D target in targets)
             {
                 PlayerController player = target.GetComponentInParent<PlayerController>();
-
-                if (player == null)
-                    continue;
+                if (player == null) continue;
 
                 float finalDamage = baseDamage * bossController.DamageMultiplier;
-
                 player.TakeDamage(finalDamage);
-
-                hitPlayer = true;
-
-                if (showDebugLog)
-                {
-                    Debug.Log(
-                        $"[BOSS BASIC ATTACK]\n" +
-                        $"Phase: {bossController.CurrentPhase}\n" +
-                        $"Damage: {finalDamage:F1}\n" +
-                        $"Target: {player.gameObject.name}"
-                    );
-                }
-
                 break;
-            }
-
-            if (!hitPlayer && showDebugLog)
-            {
-                Debug.Log("[BOSS BASIC ATTACK] 공격했지만 플레이어에게 명중하지 않음");
             }
         }
 
         public void PerformAreaAttack()
         {
-            if (bossController == null)
-                return;
-
-            if (bossController.IsDead)
-                return;
-
+            if (bossController == null || bossController.IsDead) return;
             if (attackPoint == null)
             {
                 Debug.LogWarning("[BossCombat] AttackPoint가 없습니다.");
-
                 return;
             }
 
             float areaRange = GetAreaAttackRange();
-
             Collider2D[] targets = Physics2D.OverlapCircleAll(attackPoint.position, areaRange, playerLayer);
-
-            bool hitPlayer = false;
 
             foreach (Collider2D target in targets)
             {
                 PlayerController player = target.GetComponentInParent<PlayerController>();
-
-                if (player == null)
-                    continue;
+                if (player == null) continue;
 
                 float finalDamage = baseDamage * bossController.DamageMultiplier;
-
                 player.TakeDamage(finalDamage, strongHitStun);
-
-                hitPlayer = true;
-
-                if (showDebugLog)
-                {
-                    Debug.Log(
-                        $"[BOSS AREA ATTACK]\n" +
-                        $"Phase: {bossController.CurrentPhase}\n" +
-                        $"Damage: {finalDamage:F1}\n" +
-                        $"Range: {areaRange:F1}"
-                    );
-                }
-
                 break;
-            }
-
-            if (!hitPlayer && showDebugLog)
-            {
-                Debug.Log("[BOSS AREA ATTACK] 플레이어 미명중");
             }
         }
 
@@ -189,8 +144,10 @@ namespace Carten
         {
             if (bossController == null || bossController.IsDead || !isActiveAndEnabled) return;
             fields.RemoveAll(field => field == null);
-            fields.Add(BossFieldAttack.Create(bossController, center, size, playerLayer,
-                baseDamage * bossController.DamageMultiplier * multiplier, stun, warning, active));
+            fields.Add(BossFieldAttack.Create(
+                bossController, center, size, playerLayer,
+                baseDamage * bossController.DamageMultiplier * multiplier, stun, warning, active,
+                warningPrefab, attackPrefab, warningSprite, attackSprite, scaleAssetToFitZone, showWarningOutline));
         }
 
         public void CancelFieldAttacks()
@@ -206,14 +163,9 @@ namespace Carten
         {
             switch (bossController.CurrentPhase)
             {
-                case BossController.BossPhase.Phase3:
-                    return 4f;
-
-                case BossController.BossPhase.Phase2:
-                    return 3f;
-
-                default:
-                    return 2.5f;
+                case BossController.BossPhase.Phase3: return 4f;
+                case BossController.BossPhase.Phase2: return 3f;
+                default: return 2.5f;
             }
         }
 
@@ -221,40 +173,25 @@ namespace Carten
         {
             switch (bossController.CurrentPhase)
             {
-                case BossController.BossPhase.Phase2:
-                    return phase2AttackRange;
-
-                case BossController.BossPhase.Phase3:
-                    return phase3AttackRange;
-
-                default:
-                    return phase1AttackRange;
+                case BossController.BossPhase.Phase2: return phase2AttackRange;
+                case BossController.BossPhase.Phase3: return phase3AttackRange;
+                default: return phase1AttackRange;
             }
         }
 
         private void OnDrawGizmosSelected()
         {
-            if (attackPoint == null)
-                return;
-
+            if (attackPoint == null) return;
             float range = phase1AttackRange;
-
             if (bossController != null)
             {
                 switch (bossController.CurrentPhase)
                 {
-                    case BossController.BossPhase.Phase2:
-                        range = phase2AttackRange;
-                        break;
-
-                    case BossController.BossPhase.Phase3:
-                        range = phase3AttackRange;
-                        break;
+                    case BossController.BossPhase.Phase2: range = phase2AttackRange; break;
+                    case BossController.BossPhase.Phase3: range = phase3AttackRange; break;
                 }
             }
-
             Gizmos.color = Color.red;
-
             Gizmos.DrawWireSphere(attackPoint.position, range);
         }
     }

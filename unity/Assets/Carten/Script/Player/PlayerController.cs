@@ -4,7 +4,6 @@ namespace Carten
 {
     public class PlayerController : MonoBehaviour, IDamageable
     {
-        // Player Phase
         public enum PlayerPhase
         {
             Phase1,
@@ -13,154 +12,72 @@ namespace Carten
         }
 
         [Header("=== HP ===")]
-
-        [SerializeField]
-        private float maxHealth = 100f;
-
+        [SerializeField] private float maxHealth = 100f;
         private float currentHealth;
-
         public float CurrentHealth => currentHealth;
-
         public float MaxHealth => maxHealth;
 
         [Header("=== Phase ===")]
-
-        [SerializeField]
-        private float phase2HealthPercent = 70f;
-
-        [SerializeField]
-        private float phase3HealthPercent = 30f;
-
+        [SerializeField] private float phase2HealthPercent = 70f;
+        [SerializeField] private float phase3HealthPercent = 30f;
         private PlayerPhase currentPhase;
-
         public PlayerPhase CurrentPhase => currentPhase;
 
         [Header("=== Defense ===")]
+        [Range(0f, 1f)][SerializeField] private float phase1Defense = 0.6f;
+        [Range(0f, 1f)][SerializeField] private float phase2Defense = 0.3f;
+        [Range(0f, 1f)][SerializeField] private float phase3Defense = 0f;
 
-        [Range(0f, 1f)]
-        [SerializeField]
-        private float phase1Defense = 0.6f;
-
-        [Range(0f, 1f)]
-        [SerializeField]
-        private float phase2Defense = 0.3f;
-
-        [Range(0f, 1f)]
-        [SerializeField]
-        private float phase3Defense = 0f;
-
-        // 스킬 등에 의해 일시적으로 추가되는 방어율
         private float additionalDamageReduction;
 
-        /// <summary>
-        /// 현재 Phase의 기본 방어율 + 추가 방어율
-        /// </summary>
         public float DamageReduction
         {
             get
             {
                 float baseReduction;
-
                 switch (currentPhase)
                 {
-                    case PlayerPhase.Phase1:
-                        baseReduction = phase1Defense;
-                        break;
-
-                    case PlayerPhase.Phase2:
-                        baseReduction = phase2Defense;
-                        break;
-
-                    case PlayerPhase.Phase3:
-                        baseReduction = phase3Defense;
-                        break;
-
-                    default:
-                        baseReduction = 0f;
-                        break;
+                    case PlayerPhase.Phase1: baseReduction = phase1Defense; break;
+                    case PlayerPhase.Phase2: baseReduction = phase2Defense; break;
+                    case PlayerPhase.Phase3: baseReduction = phase3Defense; break;
+                    default: baseReduction = 0f; break;
                 }
-
                 return Mathf.Clamp01(baseReduction + additionalDamageReduction);
             }
         }
 
         public float DefensePercent => DamageReduction * 100f;
 
-        /// <summary>
-        /// 현재 Phase의 기본 방어율만 반환
-        /// </summary>
         public float BaseDamageReduction
         {
             get
             {
                 switch (currentPhase)
                 {
-                    case PlayerPhase.Phase1:
-                        return phase1Defense;
-
-                    case PlayerPhase.Phase2:
-                        return phase2Defense;
-
-                    case PlayerPhase.Phase3:
-                        return phase3Defense;
-
-                    default:
-                        return 0f;
+                    case PlayerPhase.Phase1: return phase1Defense;
+                    case PlayerPhase.Phase2: return phase2Defense;
+                    case PlayerPhase.Phase3: return phase3Defense;
+                    default: return 0f;
                 }
             }
         }
 
-        /// <summary>
-        /// 현재 추가 방어율
-        /// </summary>
         public float AdditionalDamageReduction => additionalDamageReduction;
 
-        /// <summary>
-        /// 일시적인 추가 피해 감소율 설정
-        /// </summary>
-        public void SetAdditionalDamageReduction(
-            float reduction)
+        public void SetAdditionalDamageReduction(float reduction)
         {
             additionalDamageReduction = Mathf.Clamp(reduction, 0f, 1f);
-
-            if (showDebugLog)
-            {
-                Debug.Log(
-                    $"[PlayerController] " +
-                    $"추가 방어율 설정 → " +
-                    $"+{additionalDamageReduction * 100f:F0}% / " +
-                    $"최종 방어율: {DefensePercent:F0}%"
-                );
-            }
         }
 
-        /// <summary>
-        /// 추가 피해 감소율 제거
-        /// </summary>
         public void ClearAdditionalDamageReduction()
         {
             additionalDamageReduction = 0f;
-
-            if (showDebugLog)
-            {
-                Debug.Log(
-                    $"[PlayerController] " +
-                    $"추가 방어율 제거 → " +
-                    $"최종 방어율: {DefensePercent:F0}%"
-                );
-            }
         }
 
         [Header("=== Movement ===")]
-
-        [SerializeField]
-        private float phase1MoveSpeed = 2.5f;
-
-        [SerializeField]
-        private float phase2MoveSpeed = 5f;
-
-        [SerializeField]
-        private float phase3MoveSpeed = 9f;
+        [SerializeField] private float phase1MoveSpeed = 2.5f;
+        [SerializeField] private float phase2MoveSpeed = 5f;
+        [SerializeField] private float phase3MoveSpeed = 9f;
 
         public float CurrentMoveSpeed
         {
@@ -168,37 +85,20 @@ namespace Carten
             {
                 switch (currentPhase)
                 {
-                    case PlayerPhase.Phase2:
-                        return phase2MoveSpeed;
-
-                    case PlayerPhase.Phase3:
-                        return phase3MoveSpeed;
-
-                    default:
-                        return phase1MoveSpeed;
+                    case PlayerPhase.Phase2: return phase2MoveSpeed;
+                    case PlayerPhase.Phase3: return phase3MoveSpeed;
+                    default: return phase1MoveSpeed;
                 }
             }
         }
 
         [Header("=== Jump ===")]
-
-        [SerializeField]
-        private float phase1JumpForce = 6f;
-
-        [SerializeField]
-        private float phase2JumpForce = 10f;
-
-        [SerializeField]
-        private float phase3JumpForce = 10f;
-
-        [SerializeField]
-        private int phase1MaxJumps = 1;
-
-        [SerializeField]
-        private int phase2MaxJumps = 2;
-
-        [SerializeField]
-        private int phase3MaxJumps = 3;
+        [SerializeField] private float phase1JumpForce = 6f;
+        [SerializeField] private float phase2JumpForce = 10f;
+        [SerializeField] private float phase3JumpForce = 10f;
+        [SerializeField] private int phase1MaxJumps = 1;
+        [SerializeField] private int phase2MaxJumps = 2;
+        [SerializeField] private int phase3MaxJumps = 3;
 
         public float CurrentJumpForce
         {
@@ -206,14 +106,9 @@ namespace Carten
             {
                 switch (currentPhase)
                 {
-                    case PlayerPhase.Phase2:
-                        return phase2JumpForce;
-
-                    case PlayerPhase.Phase3:
-                        return phase3JumpForce;
-
-                    default:
-                        return phase1JumpForce;
+                    case PlayerPhase.Phase2: return phase2JumpForce;
+                    case PlayerPhase.Phase3: return phase3JumpForce;
+                    default: return phase1JumpForce;
                 }
             }
         }
@@ -224,78 +119,34 @@ namespace Carten
             {
                 switch (currentPhase)
                 {
-                    case PlayerPhase.Phase2:
-                        return phase2MaxJumps;
-
-                    case PlayerPhase.Phase3:
-                        return phase3MaxJumps;
-
-                    default:
-                        return phase1MaxJumps;
+                    case PlayerPhase.Phase2: return phase2MaxJumps;
+                    case PlayerPhase.Phase3: return phase3MaxJumps;
+                    default: return phase1MaxJumps;
                 }
             }
         }
 
         [Header("=== Gravity ===")]
-
-        [SerializeField]
-        private float baseGravityScale = 3f;
-
-        [SerializeField]
-        private float fallGravityMultiplier = 1.8f;
-
-        [SerializeField]
-        private float riseGravityMultiplier = 1f;
+        [SerializeField] private float baseGravityScale = 3f;
+        [SerializeField] private float fallGravityMultiplier = 1.8f;
+        [SerializeField] private float riseGravityMultiplier = 1f;
 
         [Header("=== Dash ===")]
-
-        [SerializeField]
-        private float phase2DashSpeed = 12f;
-
-        [SerializeField]
-        private float phase3DashSpeed = 18f;
-
-        [SerializeField]
-        private float dashDuration = 0.15f;
-
-        [SerializeField]
-        private float dashCooldown = 0.5f;
+        [SerializeField] private float phase2DashSpeed = 12f;
+        [SerializeField] private float phase3DashSpeed = 18f;
+        [SerializeField] private float dashDuration = 0.15f;
+        [SerializeField] private float dashCooldown = 0.5f;
 
         public bool CanDash => currentPhase == PlayerPhase.Phase2 || currentPhase == PlayerPhase.Phase3;
-
-        public float CurrentDashSpeed
-        {
-            get
-            {
-                if (currentPhase ==
-                    PlayerPhase.Phase3)
-                {
-                    return phase3DashSpeed;
-                }
-
-                return phase2DashSpeed;
-            }
-        }
+        public float CurrentDashSpeed => currentPhase == PlayerPhase.Phase3 ? phase3DashSpeed : phase2DashSpeed;
 
         [Header("=== Attack ===")]
-
-        [SerializeField]
-        private float phase1AttackSpeedMultiplier = 1f;
-
-        [SerializeField]
-        private float phase2AttackSpeedMultiplier = 1.5f;
-
-        [SerializeField]
-        private float phase3AttackSpeedMultiplier = 5f;
-
-        [SerializeField]
-        private float phase1CriticalMultiplier = 1f;
-
-        [SerializeField]
-        private float phase2CriticalMultiplier = 1f;
-
-        [SerializeField]
-        private float phase3CriticalMultiplier = 5f;
+        [SerializeField] private float phase1AttackSpeedMultiplier = 1f;
+        [SerializeField] private float phase2AttackSpeedMultiplier = 1.5f;
+        [SerializeField] private float phase3AttackSpeedMultiplier = 5f;
+        [SerializeField] private float phase1CriticalMultiplier = 1f;
+        [SerializeField] private float phase2CriticalMultiplier = 1f;
+        [SerializeField] private float phase3CriticalMultiplier = 5f;
 
         public float AttackSpeedMultiplier
         {
@@ -303,14 +154,9 @@ namespace Carten
             {
                 switch (currentPhase)
                 {
-                    case PlayerPhase.Phase2:
-                        return phase2AttackSpeedMultiplier;
-
-                    case PlayerPhase.Phase3:
-                        return phase3AttackSpeedMultiplier;
-
-                    default:
-                        return phase1AttackSpeedMultiplier;
+                    case PlayerPhase.Phase2: return phase2AttackSpeedMultiplier;
+                    case PlayerPhase.Phase3: return phase3AttackSpeedMultiplier;
+                    default: return phase1AttackSpeedMultiplier;
                 }
             }
         }
@@ -321,38 +167,21 @@ namespace Carten
             {
                 switch (currentPhase)
                 {
-                    case PlayerPhase.Phase2:
-                        return phase2CriticalMultiplier;
-
-                    case PlayerPhase.Phase3:
-                        return phase3CriticalMultiplier;
-
-                    default:
-                        return phase1CriticalMultiplier;
+                    case PlayerPhase.Phase2: return phase2CriticalMultiplier;
+                    case PlayerPhase.Phase3: return phase3CriticalMultiplier;
+                    default: return phase1CriticalMultiplier;
                 }
             }
         }
 
         [Header("=== Ground Check ===")]
-
-        [SerializeField]
-        private Transform groundCheck;
-
-        [SerializeField]
-        private float groundCheckRadius = 0.2f;
-
-        [Tooltip("일반 바닥 Layer")]
-        [SerializeField]
-        private LayerMask groundLayer;
-
-        [Tooltip("밟을 수 있는 오브젝트 Layer")]
-        [SerializeField]
-        private LayerMask jumpableLayer;
+        [SerializeField] private Transform groundCheck;
+        [SerializeField] private float groundCheckRadius = 0.2f;
+        [SerializeField] private LayerMask groundLayer;
+        [SerializeField] private LayerMask jumpableLayer;
 
         [Header("=== Debug ===")]
-
-        [SerializeField]
-        private bool showDebugLog = true;
+        [SerializeField] private bool showDebugLog = true;
 
         private PlayerHitReaction hitReaction;
         public PlayerHitReaction HitReaction => hitReaction;
@@ -360,29 +189,22 @@ namespace Carten
         public bool CanAct => isActiveAndEnabled && !isDead && !IsStunned;
 
         private Rigidbody2D rb;
-
         private Animator anim;
 
         private int jumpCount;
-
         private float dashTimer;
         private float dashCooldownTimer;
 
         private bool isDashing;
         private bool isDead;
-
-        // 스킬 강제 이동 중 일반 이동 잠금
         private bool isSkillMovementLocked;
-
-        // Update에서 입력을 받고 FixedUpdate에서 점프 실행
         private bool jumpRequested;
-
-        // Update에서 대시 입력을 받아 FixedUpdate에서 실제 대시 실행
         private bool dashRequested;
+        private bool suppressDamageAnimOnce;
 
         public bool IsDead => isDead;
-
         public bool IsSkillMovementLocked => isSkillMovementLocked;
+
         private void Awake()
         {
             hitReaction = GetComponent<PlayerHitReaction>();
@@ -391,50 +213,27 @@ namespace Carten
             hitReaction.StunStarted += InterruptMovement;
             if (GetComponent<PlayerInteractor>() == null)
                 gameObject.AddComponent<PlayerInteractor>();
+
             rb = GetComponent<Rigidbody2D>();
             anim = GetComponent<Animator>();
 
             if (rb == null)
             {
-                Debug.LogError("[PlayerController] " + "Rigidbody2D를 찾을 수 없습니다.");
-
+                Debug.LogError("[PlayerController] Rigidbody2D를 찾을 수 없습니다.");
                 return;
             }
 
-            // 회전 방지
             rb.constraints |= RigidbodyConstraints2D.FreezeRotation;
-
-            // 물리 이동 안정화
             rb.interpolation = RigidbodyInterpolation2D.Interpolate;
-
             rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 
             currentHealth = maxHealth;
-
             additionalDamageReduction = 0f;
-
             isSkillMovementLocked = false;
-
             jumpRequested = false;
-
             dashRequested = false;
 
-            UpdatePhase();
-
-            if (showDebugLog)
-            {
-                Debug.Log(
-                    $"[PlayerController] " +
-                    $"플레이어 생성\n" +
-                    $"HP: {currentHealth:F0}/" +
-                    $"{maxHealth:F0}\n" +
-                    $"Phase: {currentPhase}\n" +
-                    $"기본 방어율: " +
-                    $"{BaseDamageReduction * 100f:F0}%\n" +
-                    $"최종 방어율: " +
-                    $"{DefensePercent:F0}%"
-                );
-            }
+            UpdatePhase(playAnimation: false);
         }
 
         private void Start()
@@ -444,7 +243,7 @@ namespace Carten
                 return;
 
             currentHealth = Mathf.Clamp(state.PlayerHP, 0f, maxHealth);
-            UpdatePhase();
+            UpdatePhase(playAnimation: false);
             if (currentHealth <= 0f)
                 Die();
         }
@@ -472,6 +271,12 @@ namespace Carten
             if (isDead)
                 return;
 
+            bool isGrounded = CheckGround();
+            if (anim != null)
+            {
+                anim.SetBool("isGrounded", isGrounded);
+            }
+
             if (IsStunned)
             {
                 if (rb != null)
@@ -481,27 +286,18 @@ namespace Carten
             }
 
             HandleMovement();
-
-            HandleJump();
-
+            HandleJump(isGrounded);
             HandleDash();
-
             ApplyGravity();
         }
 
         private void HandleTimers()
         {
-            // dashTimer는 실제 대시 진행 시간을 FixedUpdate에서만 감소시킴
-            // Update + FixedUpdate에서 중복 차감되지 않도록 함
-
             if (dashCooldownTimer > 0f)
             {
                 dashCooldownTimer -= Time.deltaTime;
-
                 if (dashCooldownTimer < 0f)
-                {
                     dashCooldownTimer = 0f;
-                }
             }
         }
 
@@ -510,18 +306,15 @@ namespace Carten
             if (rb == null)
                 return;
 
-            // 대시 중이거나 스킬 사용 중(강제 이동)일 때는 달리기 애니메이션 강제 종료
             if (isDashing || isSkillMovementLocked)
             {
-                if (anim != null) anim.SetBool("isRun", false);
+                if (anim != null) anim.SetBool("isWork", false);
                 return;
             }
 
             float horizontal = Input.GetAxisRaw("Horizontal");
-
             rb.linearVelocity = new Vector2(horizontal * CurrentMoveSpeed, rb.linearVelocity.y);
 
-            // 이동 방향에 따라 플레이어 반전
             if (horizontal != 0f)
             {
                 Vector3 scale = transform.localScale;
@@ -529,12 +322,11 @@ namespace Carten
                 transform.localScale = scale;
             }
 
-            // ★ 애니메이션 상태 업데이트 (입력값이 0이 아니면 Run, 0이면 Idle)
             if (anim != null)
             {
-                anim.SetBool("isRun", horizontal != 0f);
+                anim.SetBool("isWork", horizontal != 0f);
             }
-        }   
+        }
 
         private void HandleJumpInput()
         {
@@ -547,7 +339,7 @@ namespace Carten
             jumpRequested = true;
         }
 
-        private void HandleJump()
+        private void HandleJump(bool isGrounded)
         {
             if (rb == null)
                 return;
@@ -558,11 +350,7 @@ namespace Carten
                 return;
             }
 
-            bool isGrounded = CheckGround();
-
-            // 바닥 또는 밟을 수 있는 오브젝트에 닿아 있으면
-            // 점프 횟수를 초기화한다.
-            if (isGrounded)
+            if (isGrounded && rb.linearVelocity.y <= 0.05f)
             {
                 jumpCount = 0;
             }
@@ -576,8 +364,13 @@ namespace Carten
                 return;
 
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, CurrentJumpForce);
-
             jumpCount++;
+
+            if (anim != null)
+            {
+                anim.SetBool("isGrounded", false);
+                anim.SetTrigger("doJump");
+            }
         }
 
         private bool CheckGround()
@@ -585,20 +378,16 @@ namespace Carten
             if (groundCheck == null)
                 return false;
 
-            // 일반 바닥 확인
             if (groundLayer.value != 0)
             {
                 Collider2D groundHit = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-
                 if (groundHit != null)
                     return true;
             }
 
-            // 밟을 수 있는 오브젝트 확인
             if (jumpableLayer.value != 0)
             {
                 Collider2D jumpableHit = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, jumpableLayer);
-
                 if (jumpableHit != null)
                     return true;
             }
@@ -608,10 +397,7 @@ namespace Carten
 
         private void HandleDashInput()
         {
-            if (!CanDash)
-                return;
-
-            if (isSkillMovementLocked)
+            if (!CanDash || isSkillMovementLocked)
                 return;
 
             if (Input.GetKeyDown(KeyCode.LeftShift))
@@ -625,23 +411,15 @@ namespace Carten
             if (isDashing)
             {
                 dashTimer -= Time.fixedDeltaTime;
-
                 if (dashTimer <= 0f)
                 {
                     dashTimer = 0f;
                     isDashing = false;
                 }
-
                 return;
             }
 
-            if (!CanDash)
-            {
-                dashRequested = false;
-                return;
-            }
-
-            if (isSkillMovementLocked)
+            if (!CanDash || isSkillMovementLocked)
             {
                 dashRequested = false;
                 return;
@@ -664,51 +442,31 @@ namespace Carten
                 return;
 
             isDashing = true;
-
             dashTimer = dashDuration;
-
             dashCooldownTimer = dashCooldown;
 
             float direction = transform.localScale.x >= 0f ? 1f : -1f;
-
             rb.linearVelocity = new Vector2(direction * CurrentDashSpeed, 0f);
         }
 
         private void ApplyGravity()
         {
-            if (rb == null)
-                return;
-
-            // Dash 중에는 기존 중력 상태 유지
-            if (isDashing)
-                return;
-
-            // 스킬 강제 이동 중에는
-            // Skill 쪽에서 중력을 제어한다.
-            if (isSkillMovementLocked)
+            if (rb == null || isDashing || isSkillMovementLocked)
                 return;
 
             if (rb.linearVelocity.y < 0f)
-            {
                 rb.gravityScale = baseGravityScale * fallGravityMultiplier;
-            }
             else
-            {
                 rb.gravityScale = baseGravityScale * riseGravityMultiplier;
-            }
         }
 
-        public void StartGravityBoost(
-            float horizontalVelocity,
-            float verticalVelocity)
+        public void StartGravityBoost(float horizontalVelocity, float verticalVelocity)
         {
             if (rb == null || !CanAct)
                 return;
 
             isSkillMovementLocked = true;
-
             rb.gravityScale = 0f;
-
             rb.linearVelocity = new Vector2(horizontalVelocity, verticalVelocity);
         }
 
@@ -718,28 +476,58 @@ namespace Carten
                 return;
 
             rb.gravityScale = baseGravityScale;
-
             rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
-
             isSkillMovementLocked = false;
         }
-        // 맵 이동은 체력만 넘긴다. 스턴과 스킬 등 일시 상태는 새 씬에서 초기화한다.
+
+        // ★ 기본 공격 및 스킬 1, 2, 3 애니메이션 실행 함수들
+        public void TriggerAttackAnimation()
+        {
+            if (anim != null && !isDead)
+                anim.SetTrigger("doAttack");
+        }
+
+        public void TriggerSkillAnimation(int skillNumber)
+        {
+            if (anim == null || isDead)
+                return;
+
+            switch (skillNumber)
+            {
+                case 1: anim.SetTrigger("doSkill1"); break; // HeavyStrike 등 Q스킬
+                case 2: anim.SetTrigger("doSkill2"); break; // Defense 등 W스킬
+                case 3: anim.SetTrigger("doSkill3"); break; // GravityBoost 등 E스킬
+            }
+        }
+
         internal void RestoreHealthForMap(float health)
         {
             if (isDead || health <= 0f || float.IsNaN(health) || float.IsInfinity(health))
                 return;
 
             currentHealth = Mathf.Min(health, maxHealth);
-            UpdatePhase();
+            UpdatePhase(playAnimation: false);
             SaveGameState();
         }
 
+        // ★ 보스 장판 등 스턴(강공격)을 동반한 피격 시 Knockback 재생!
         public void TakeDamage(float damage, float stunDuration)
         {
             float previousHealth = currentHealth;
+            bool isStrongHit = stunDuration > 0f;
+            suppressDamageAnimOnce = isStrongHit;
+
             TakeDamage(damage);
-            if (!isDead && currentHealth < previousHealth)
+            suppressDamageAnimOnce = false;
+
+            if (!isDead && currentHealth < previousHealth && isStrongHit)
+            {
                 hitReaction?.ApplyStun(stunDuration);
+                if (anim != null)
+                {
+                    anim.SetTrigger("doKnockback");
+                }
+            }
         }
 
         private void InterruptMovement()
@@ -750,8 +538,7 @@ namespace Carten
             dashRequested = false;
             EndGravityBoost();
 
-            // ★ 스턴 등 강제 정지 시 달리기 애니메이션 끄기
-            if (anim != null) anim.SetBool("isRun", false);
+            if (anim != null) anim.SetBool("isWork", false);
         }
 
         private void OnDisable()
@@ -772,136 +559,77 @@ namespace Carten
                 return;
 
             damage = Mathf.Max(0f, damage);
-            // 현재 방어율
             float damageReduction = DamageReduction;
-            // 최종 피해 계산
             float finalDamage = damage * (1f - damageReduction);
-            // HP 감소
             currentHealth -= finalDamage;
-
             currentHealth = Mathf.Max(0f, currentHealth);
 
-            if (showDebugLog)
+            PlayerPhase beforePhase = currentPhase;
+            UpdatePhase(playAnimation: true);
+            bool phaseChangedNow = beforePhase != currentPhase;
+
+            // ★ 페이즈 전환이나 넉백이 아닐 때 일반 피격(doDamage) 실행
+            if (!suppressDamageAnimOnce && !phaseChangedNow && finalDamage > 0f && currentHealth > 0f && anim != null)
             {
-                Debug.Log(
-                    $"[PlayerController] 피격\n" +
-                    $"Phase: {currentPhase}\n" +
-                    $"원본 공격력: {damage:F1}\n" +
-                    $"기본 방어율: " +
-                    $"{BaseDamageReduction * 100f:F0}%\n" +
-                    $"추가 방어율: " +
-                    $"{AdditionalDamageReduction * 100f:F0}%\n" +
-                    $"최종 방어율: " +
-                    $"{DefensePercent:F0}%\n" +
-                    $"최종 피해: {finalDamage:F1}\n" +
-                    $"HP: {currentHealth:F1}/" +
-                    $"{maxHealth:F1}"
-                );
+                anim.SetTrigger("doDamage");
             }
-            // Phase 재판정
-            UpdatePhase();
+
             SaveGameState();
-            // 사망
+
             if (currentHealth <= 0f)
             {
                 Die();
             }
         }
 
-        private void UpdatePhase()
+        private void UpdatePhase(bool playAnimation = false)
         {
             float healthPercent = maxHealth > 0f ? (currentHealth / maxHealth) * 100f : 0f;
-
             PlayerPhase previousPhase = currentPhase;
 
-            if (healthPercent <=
-                phase3HealthPercent)
-            {
+            if (healthPercent <= phase3HealthPercent)
                 currentPhase = PlayerPhase.Phase3;
-            }
-            else if (healthPercent <=
-                     phase2HealthPercent)
-            {
+            else if (healthPercent <= phase2HealthPercent)
                 currentPhase = PlayerPhase.Phase2;
-            }
             else
-            {
                 currentPhase = PlayerPhase.Phase1;
-            }
 
-            if (previousPhase !=
-                currentPhase)
+            if (previousPhase != currentPhase)
             {
+                // ★ 페이즈가 바뀔 때 PhaseBreak 애니메이션 실행! (Player_P1_PhaseBreak)
+                if (playAnimation && currentHealth > 0f && anim != null)
+                {
+                    anim.SetTrigger("doPhaseBreak");
+                }
                 OnPhaseChanged(previousPhase, currentPhase);
             }
         }
 
-        private void OnPhaseChanged(
-            PlayerPhase previousPhase,
-            PlayerPhase newPhase)
+        private void OnPhaseChanged(PlayerPhase previousPhase, PlayerPhase newPhase)
         {
             if (!showDebugLog)
                 return;
 
-            Debug.Log(
-                $"================================\n" +
-                $"[SUIT PHASE CHANGE]\n" +
-                $"상태 변화: " +
-                $"{previousPhase} → {newPhase}\n" +
-                $"현재 HP: " +
-                $"{currentHealth:F1}/{maxHealth:F1}\n" +
-                $"HP: " +
-                $"{GetHealthPercent():F1}%\n" +
-                $"기본 방어율: " +
-                $"{BaseDamageReduction * 100f:F0}%\n" +
-                $"추가 방어율: " +
-                $"{AdditionalDamageReduction * 100f:F0}%\n" +
-                $"최종 방어율: " +
-                $"{DefensePercent:F0}%\n" +
-                $"이동속도: " +
-                $"{CurrentMoveSpeed:F1}\n" +
-                $"점프 횟수: " +
-                $"{MaxJumps}\n" +
-                $"공격속도 배율: " +
-                $"x{AttackSpeedMultiplier:F1}\n" +
-                $"크리티컬 배율: " +
-                $"x{CriticalMultiplier:F1}\n" +
-                $"================================"
-            );
+            Debug.Log($"[SUIT PHASE CHANGE] {previousPhase} → {newPhase} (HP: {currentHealth:F1}/{maxHealth:F1})");
         }
 
         private void Die()
         {
-            // ... (기존 코드 유지) ...
-
+            isDead = true;
             if (showDebugLog)
-            {
-                Debug.Log("[PlayerController] " + "플레이어 사망");
-            }
+                Debug.Log("[PlayerController] 플레이어 사망");
 
-            // ★ 사망 시 달리기 애니메이션 끄기
-            if (anim != null) anim.SetBool("isRun", false);
-
+            if (anim != null) anim.SetBool("isWork", false);
             gameObject.SetActive(false);
         }
 
-        public float GetHealthPercent()
-        {
-            if (maxHealth <= 0f)
-                return 0f;
-
-            return
-                (currentHealth /
-                 maxHealth) * 100f;
-        }
+        public float GetHealthPercent() => maxHealth <= 0f ? 0f : (currentHealth / maxHealth) * 100f;
 
         private void OnDrawGizmosSelected()
         {
             if (groundCheck == null)
                 return;
-
             Gizmos.color = Color.green;
-
             Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
         }
     }

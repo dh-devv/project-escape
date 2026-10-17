@@ -4,7 +4,6 @@ using UnityEngine;
 
 namespace Carten
 {
-    /// <summary>A visible warning, then a world-space hit box. Owned by its boss.</summary>
     public sealed class BossFieldAttack : MonoBehaviour
     {
         private BossController owner;
@@ -15,10 +14,25 @@ namespace Carten
         private LineRenderer outline;
         private Material material;
         private bool cancelled;
+
+        private GameObject warningPrefab;
+        private GameObject attackPrefab;
+        private Sprite warningSprite;
+        private Sprite attackSprite;
+        private bool scaleToFit;
+        private bool showOutline;
+
+        private GameObject currentVisualInstance;
+        private SpriteRenderer fallbackSpriteRenderer;
+
         public bool IsArmed { get; private set; }
 
-        public static BossFieldAttack Create(BossController boss, Vector2 center, Vector2 size,
-            LayerMask playerLayer, float damage, float stun, float warning, float active)
+        public static BossFieldAttack Create(
+            BossController boss, Vector2 center, Vector2 size,
+            LayerMask playerLayer, float damage, float stun, float warning, float active,
+            GameObject warningPrefab = null, GameObject attackPrefab = null,
+            Sprite warningSprite = null, Sprite attackSprite = null,
+            bool scaleToFit = true, bool showOutline = true)
         {
             GameObject go = new GameObject("Boss attack warning");
             go.transform.position = center;
@@ -28,12 +42,62 @@ namespace Carten
             field.playerLayer = playerLayer;
             field.damage = damage;
             field.stun = stun;
-            field.DrawWarning();
+            field.warningPrefab = warningPrefab;
+            field.attackPrefab = attackPrefab;
+            field.warningSprite = warningSprite;
+            field.attackSprite = attackSprite;
+            field.scaleToFit = scaleToFit;
+            field.showOutline = showOutline;
+
+            if (showOutline)
+                field.DrawWarning();
+
+            field.ShowVisual(warningPrefab, warningSprite, sortingOrder: 18);
             field.StartCoroutine(field.Lifetime(Mathf.Max(0.1f, warning), Mathf.Max(0.05f, active)));
             return field;
         }
 
         private bool OwnerAlive => owner != null && !owner.IsDead && owner.isActiveAndEnabled;
+
+        private void ShowVisual(GameObject prefab, Sprite sprite, int sortingOrder)
+        {
+            if (currentVisualInstance != null)
+                Destroy(currentVisualInstance);
+
+            if (prefab != null)
+            {
+                currentVisualInstance = Instantiate(prefab, transform.position, Quaternion.identity, transform);
+                if (scaleToFit)
+                {
+                    SpriteRenderer sr = currentVisualInstance.GetComponentInChildren<SpriteRenderer>();
+                    if (sr != null && sr.sprite != null)
+                    {
+                        Vector2 spriteSize = sr.sprite.bounds.size;
+                        currentVisualInstance.transform.localScale = new Vector3(
+                            spriteSize.x > 0 ? size.x / spriteSize.x : 1f,
+                            spriteSize.y > 0 ? size.y / spriteSize.y : 1f,
+                            1f);
+                    }
+                }
+            }
+            else if (sprite != null)
+            {
+                if (fallbackSpriteRenderer == null)
+                    fallbackSpriteRenderer = gameObject.AddComponent<SpriteRenderer>();
+
+                fallbackSpriteRenderer.sprite = sprite;
+                fallbackSpriteRenderer.sortingOrder = sortingOrder;
+
+                if (scaleToFit)
+                {
+                    Vector2 spriteSize = sprite.bounds.size;
+                    transform.localScale = new Vector3(
+                        spriteSize.x > 0 ? size.x / spriteSize.x : 1f,
+                        spriteSize.y > 0 ? size.y / spriteSize.y : 1f,
+                        1f);
+                }
+            }
+        }
 
         private void DrawWarning()
         {
@@ -65,7 +129,15 @@ namespace Carten
                 yield break;
             }
             IsArmed = true;
-            outline.startColor = outline.endColor = Color.red;
+            if (outline != null)
+                outline.startColor = outline.endColor = Color.red;
+
+            if (attackPrefab != null || attackSprite != null)
+            {
+                transform.localScale = Vector3.one;
+                ShowVisual(attackPrefab, attackSprite, sortingOrder: 19);
+            }
+
             float expires = Time.time + active;
             HashSet<PlayerController> hitPlayers = new HashSet<PlayerController>();
             while (!cancelled && OwnerAlive && Time.time < expires)

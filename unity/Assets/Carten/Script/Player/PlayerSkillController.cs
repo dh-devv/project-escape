@@ -141,12 +141,15 @@ namespace Carten
         private void HandleTimers()
         {
             if (heavyStrikeTimer > 0f) heavyStrikeTimer -= Time.deltaTime;
+
+            // W 스킬 쿨타임 및 지속 시간 관리
             if (defenseSkillTimer > 0f) defenseSkillTimer -= Time.deltaTime;
             if (defenseSkillDurationTimer > 0f)
             {
                 defenseSkillDurationTimer -= Time.deltaTime;
                 if (defenseSkillDurationTimer <= 0f) EndDefenseSkill();
             }
+
             if (gravityBoostTimer > 0f) gravityBoostTimer -= Time.deltaTime;
             if (gravityBoostDurationTimer > 0f)
             {
@@ -232,11 +235,10 @@ namespace Carten
             }
         }
 
-        // Q 스킬들 (1번 스킬 애니메이션 실행)
         private void Phase1Skill1()
         {
             if (heavyStrikeTimer > 0f) return;
-            playerController?.TriggerSkillAnimation(1); // ★ Q 스킬 모션 실행[cite: 39]
+            playerController?.TriggerSkillAnimation(1);
             PerformAreaDamage(heavyStrikeDamage, heavyStrikeRange);
             heavyStrikeTimer = heavyStrikeCooldown;
             GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.HeavyStrike, heavyStrikeCooldown);
@@ -245,46 +247,50 @@ namespace Carten
         private void Phase2Skill1()
         {
             if (overdriveTimer > 0f || skillExecuting) return;
-            playerController?.TriggerSkillAnimation(1); // ★ Q 스킬 모션 실행[cite: 39]
+            playerController?.TriggerSkillAnimation(1);
             StartCoroutine(OverdriveRoutine());
         }
 
         private void Phase3Skill1()
         {
             if (limitBreakTimer > 0f) return;
-            playerController?.TriggerSkillAnimation(1); // ★ Q 스킬 모션 실행[cite: 39]
+            playerController?.TriggerSkillAnimation(1);
             PerformAreaDamage(limitBreakDamage, limitBreakRange);
             limitBreakTimer = limitBreakCooldown;
             GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.LimitBreak, limitBreakCooldown);
         }
 
-        // W 스킬들 (2번 스킬 애니메이션 실행)
         private void Phase1Skill2()
         {
-            if (isDefenseSkillActive || defenseSkillTimer > 0f) return;
-            playerController?.TriggerSkillAnimation(2); // ★ W 스킬 모션 실행[cite: 40]
+            // ★ 쿨타임이 남아있거나 이미 활성화 상태면 차단하되, 안전하게 강제 초기화 트리거 추가
+            if (defenseSkillTimer > 0f)
+            {
+                if (showDebugLog) Debug.Log($"[Skill] W 스킬 쿨타임 중: {defenseSkillTimer:F2}초 남음");
+                return;
+            }
+
+            playerController?.TriggerSkillAnimation(2);
             StartDefenseSkill();
         }
 
         private void Phase2Skill2()
         {
             if (dashSlashTimer > 0f || skillExecuting) return;
-            playerController?.TriggerSkillAnimation(2); // ★ W 스킬 모션 실행[cite: 40]
+            playerController?.TriggerSkillAnimation(2);
             StartCoroutine(DashSlashRoutine());
         }
 
         private void Phase3Skill2()
         {
             if (blinkDashTimer > 0f) return;
-            playerController?.TriggerSkillAnimation(2); // ★ W 스킬 모션 실행[cite: 40]
+            playerController?.TriggerSkillAnimation(2);
             BlinkDash();
         }
 
-        // E 스킬들 (3번 스킬 애니메이션 실행)
         private void Phase1Skill3()
         {
             if (gravityBoostTimer > 0f) return;
-            playerController?.TriggerSkillAnimation(3); // ★ E 스킬 모션 실행[cite: 41]
+            playerController?.TriggerSkillAnimation(3);
             StartGravityBoostSkill(gravityBoostHorizontal, gravityBoostVertical, gravityBoostDuration);
             gravityBoostTimer = gravityBoostCooldown;
             GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.GravityBoost, gravityBoostCooldown);
@@ -293,14 +299,14 @@ namespace Carten
         private void Phase2Skill3()
         {
             if (boostExplosionTimer > 0f || skillExecuting) return;
-            playerController?.TriggerSkillAnimation(3); // ★ E 스킬 모션 실행[cite: 41]
+            playerController?.TriggerSkillAnimation(3);
             StartCoroutine(BoostExplosionRoutine());
         }
 
         private void Phase3Skill3()
         {
             if (overloadBlastTimer > 0f) return;
-            playerController?.TriggerSkillAnimation(3); // ★ E 스킬 모션 실행[cite: 41]
+            playerController?.TriggerSkillAnimation(3);
             PerformAreaDamage(overloadBlastDamage, overloadBlastRange);
             overloadBlastTimer = overloadBlastCooldown;
             GameStateManager.Instance?.StartSkillCooldown(GameStateManager.SkillCooldownType.OverloadBlast, overloadBlastCooldown);

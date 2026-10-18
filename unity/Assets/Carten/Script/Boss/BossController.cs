@@ -1,21 +1,27 @@
+using System.Collections;
 using UnityEngine;
 
 namespace Carten
 {
     public class BossController : EnemyBase
     {
-        // Boss Phase
         public enum BossPhase
         {
             Phase1,
             Phase2,
             Phase3
         }
-        // Phase Settings
+
         [Header("=== Boss Phase ===")]
         [SerializeField] private float phase2HealthPercent = 70f;
         [SerializeField] private float phase3HealthPercent = 30f;
-        // Attack Speed
+
+        [Header("=== Boss Animators (페이즈별 애니메이터가 다를 경우에만 연결) ===")]
+        [SerializeField] private RuntimeAnimatorController phase1Animator;
+        [SerializeField] private RuntimeAnimatorController phase2Animator;
+        [SerializeField] private RuntimeAnimatorController phase3Animator;
+        [SerializeField] private float deathDisableDelay = 1.0f;
+
         [Header("=== Attack Speed Multiplier ===")]
         [SerializeField] private float phase1AttackSpeedMultiplier = 1f;
         [SerializeField] private float phase2AttackSpeedMultiplier = 1.5f;
@@ -37,6 +43,7 @@ namespace Carten
         public event System.Action<BossController> Defeated;
         public event System.Action EncounterStarted;
         public bool HasEncounterStarted { get; private set; }
+
         public void BeginEncounter()
         {
             if (HasEncounterStarted || IsDead) return;
@@ -45,6 +52,7 @@ namespace Carten
         }
 
         private BossPhase currentPhase;
+        private Animator anim;
 
         public BossPhase CurrentPhase => currentPhase;
 
@@ -58,39 +66,29 @@ namespace Carten
                 return (currentHealth / maxHealth) * 100f;
             }
         }
-        // Current Attack Speed
+
         public float AttackSpeedMultiplier
         {
             get
             {
                 switch (currentPhase)
                 {
-                    case BossPhase.Phase2:
-                        return phase2AttackSpeedMultiplier;
-
-                    case BossPhase.Phase3:
-                        return phase3AttackSpeedMultiplier;
-
-                    default:
-                        return phase1AttackSpeedMultiplier;
+                    case BossPhase.Phase2: return phase2AttackSpeedMultiplier;
+                    case BossPhase.Phase3: return phase3AttackSpeedMultiplier;
+                    default: return phase1AttackSpeedMultiplier;
                 }
             }
         }
-        // Current Damage
+
         public float DamageMultiplier
         {
             get
             {
                 switch (currentPhase)
                 {
-                    case BossPhase.Phase2:
-                        return phase2DamageMultiplier;
-
-                    case BossPhase.Phase3:
-                        return phase3DamageMultiplier;
-
-                    default:
-                        return phase1DamageMultiplier;
+                    case BossPhase.Phase2: return phase2DamageMultiplier;
+                    case BossPhase.Phase3: return phase3DamageMultiplier;
+                    default: return phase1DamageMultiplier;
                 }
             }
         }
@@ -98,6 +96,9 @@ namespace Carten
         protected override void Awake()
         {
             base.Awake();
+            anim = GetComponent<Animator>();
+            if (anim != null && phase1Animator == null)
+                phase1Animator = anim.runtimeAnimatorController;
 
             UpdatePhase();
 
@@ -110,7 +111,7 @@ namespace Carten
                 );
             }
         }
-        // Take Damage
+
         public override void TakeDamage(float damage)
         {
             if (IsDead)
@@ -129,7 +130,6 @@ namespace Carten
         private void UpdatePhase()
         {
             float healthPercent = HealthPercent;
-
             BossPhase previousPhase = currentPhase;
 
             if (IsStationary && healthPercent <= phase3HealthPercent)
@@ -145,6 +145,8 @@ namespace Carten
                 currentPhase = BossPhase.Phase1;
             }
 
+            ApplyPhaseAnimator();
+
             if (previousPhase != currentPhase)
             {
                 PhaseChanged?.Invoke(currentPhase);
@@ -152,9 +154,21 @@ namespace Carten
             }
         }
 
-        private void OnPhaseChanged(
-            BossPhase previousPhase,
-            BossPhase newPhase)
+        private void ApplyPhaseAnimator()
+        {
+            if (anim == null) return;
+
+            RuntimeAnimatorController targetController = phase1Animator;
+            if (currentPhase == BossPhase.Phase2 && phase2Animator != null)
+                targetController = phase2Animator;
+            else if (currentPhase == BossPhase.Phase3)
+                targetController = phase3Animator != null ? phase3Animator : (phase2Animator != null ? phase2Animator : phase1Animator);
+
+            if (targetController != null && anim.runtimeAnimatorController != targetController)
+                anim.runtimeAnimatorController = targetController;
+        }
+
+        private void OnPhaseChanged(BossPhase previousPhase, BossPhase newPhase)
         {
             if (!showDebugLog)
                 return;
@@ -165,16 +179,19 @@ namespace Carten
                 $"보스: {gameObject.name}\n" +
                 $"Phase: {previousPhase} → {newPhase}\n" +
                 $"현재 HP: {currentHealth:F1}/{maxHealth:F1}\n" +
-                $"HP: {HealthPercent:F1}%\n" +
-                $"공격속도 배율: x{AttackSpeedMultiplier:F1}\n" +
-                $"데미지 배율: x{DamageMultiplier:F1}\n" +
                 $"=============================="
             );
         }
-        // Damaged
+
         protected override void OnDamaged(float damage)
         {
             base.OnDamaged(damage);
+
+            // ★ 보스 피격 애니메이션 실행
+            if (!IsDead && damage > 0f && anim != null)
+            {
+                anim.SetTrigger("doDamage");
+            }
 
             if (showDebugLog)
             {
@@ -182,13 +199,17 @@ namespace Carten
                     $"[BossController] 피격\n" +
                     $"Damage: {damage:F1}\n" +
                     $"HP: {currentHealth:F1}/{maxHealth:F1}\n" +
-                    $"HP: {HealthPercent:F1}%\n" +
                     $"Phase: {currentPhase}"
                 );
             }
         }
 
-        // [추가 1] 인스펙터에서 보스 처치 시 달성할 조건 ID를 입력받는 변수
+        public void TriggerAttackAnimation(bool isStrongAttack = false)
+        {
+            if (anim == null || IsDead) return;
+            anim.SetTrigger(isStrongAttack ? "doSkill" : "doAttack");
+        }
+
         [Header("=== Clear Condition ===")]
         [SerializeField] private string clearConditionID = "Stage1_MidBoss_Cleared";
 
@@ -196,7 +217,6 @@ namespace Carten
         {
             Defeated?.Invoke(this);
 
-            // [추가 2] 보스 사망 시 조건 달성 저장 (PlayerPrefs & GameStateManager 동시 연동)
             if (!string.IsNullOrWhiteSpace(clearConditionID))
             {
                 PlayerPrefs.SetInt(clearConditionID, 1);
@@ -217,6 +237,25 @@ namespace Carten
                 );
             }
 
+            // ★ 사망 애니메이션 재생 후 비활성화
+            if (anim != null)
+            {
+                anim.SetBool("isWork", false);
+                anim.SetTrigger("doDeath");
+                StartCoroutine(DisableAfterDeathRoutine());
+            }
+            else
+            {
+                gameObject.SetActive(false);
+            }
+        }
+
+        private IEnumerator DisableAfterDeathRoutine()
+        {
+            Collider2D[] colliders = GetComponentsInChildren<Collider2D>();
+            foreach (Collider2D col in colliders) col.enabled = false;
+
+            yield return new WaitForSeconds(Mathf.Max(0.1f, deathDisableDelay));
             gameObject.SetActive(false);
         }
     }

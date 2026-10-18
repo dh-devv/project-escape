@@ -65,6 +65,10 @@ namespace Carten
         public void PerformBasicAttack()
         {
             if (bossController == null || bossController.IsDead) return;
+
+            // ★ 기본 공격 애니메이션(doAttack) 실행
+            bossController.TriggerAttackAnimation(isStrongAttack: false);
+
             if (attackPoint == null)
             {
                 Debug.LogWarning("[BossCombat] AttackPoint가 없습니다.");
@@ -88,6 +92,10 @@ namespace Carten
         public void PerformAreaAttack()
         {
             if (bossController == null || bossController.IsDead) return;
+
+            // ★ 범위 강공격 애니메이션(doSkill) 실행
+            bossController.TriggerAttackAnimation(isStrongAttack: true);
+
             if (attackPoint == null)
             {
                 Debug.LogWarning("[BossCombat] AttackPoint가 없습니다.");
@@ -110,6 +118,9 @@ namespace Carten
 
         public void PerformTelegraphedMelee(Vector2 center, float warning, bool strong)
         {
+            // ★ 예고 근접 공격 시 강약에 맞춰 애니메이션(doAttack / doSkill) 실행
+            bossController?.TriggerAttackAnimation(isStrongAttack: strong);
+
             float range = strong ? GetAreaAttackRange() : GetAttackRange();
             SpawnField(center, new Vector2(range * 2f, 2.5f), warning, 0.15f,
                 strong ? 1.5f : 1f, strong ? strongHitStun : 0f);
@@ -117,6 +128,8 @@ namespace Carten
 
         public void PerformTargetedFieldAttack(Vector2 targetPosition, float warning, int phase)
         {
+            bossController?.TriggerAttackAnimation(isStrongAttack: true);
+
             float width = phase == 1 ? 2.5f : phase == 2 ? 3.5f : 4.5f;
             float halfWidth = Mathf.Max(width * 0.5f, arenaSize.x * 0.5f);
             float x = Mathf.Clamp(targetPosition.x,
@@ -128,6 +141,8 @@ namespace Carten
 
         public void PerformLaneAttack(float warning, int phase, int sequence)
         {
+            bossController?.TriggerAttackAnimation(isStrongAttack: true);
+
             int lanes = 5;
             int safeLane = sequence % lanes;
             float laneWidth = arenaSize.x / lanes;

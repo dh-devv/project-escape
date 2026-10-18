@@ -11,6 +11,12 @@ namespace Carten
             Phase3
         }
 
+        [Header("=== Audio ===")]
+        [SerializeField] private AudioSource audioSource;
+        [SerializeField] private AudioClip footstepSound;
+        [SerializeField] private float stepInterval = 0.4f;
+        private float stepTimer;
+
         [Header("=== HP ===")]
         [SerializeField] private float maxHealth = 100f;
         private float currentHealth;
@@ -198,6 +204,7 @@ namespace Carten
 
         private Rigidbody2D rb;
         private Animator anim;
+        private GameHUD gameHUD; // ★ HUD 연결용 변수 추가
 
         private int jumpCount;
         private float dashTimer;
@@ -225,7 +232,6 @@ namespace Carten
             rb = GetComponent<Rigidbody2D>();
             anim = GetComponent<Animator>();
 
-            // 시작 시점의 기본 애니메이터(Phase 1)를 확실하게 저장
             if (anim != null && phase1Animator == null)
             {
                 phase1Animator = anim.runtimeAnimatorController;
@@ -235,6 +241,14 @@ namespace Carten
             {
                 Debug.LogError("[PlayerController] Rigidbody2D를 찾을 수 없습니다.");
                 return;
+            }
+
+            audioSource = GetComponent<AudioSource>();
+            if (audioSource == null)
+            {
+                audioSource = gameObject.AddComponent<AudioSource>();
+                audioSource.playOnAwake = false;
+                audioSource.loop = false;
             }
 
             rb.constraints |= RigidbodyConstraints2D.FreezeRotation;
@@ -252,19 +266,39 @@ namespace Carten
 
         private void Start()
         {
-            GameStateManager state = GameStateManager.Instance;
-            if (state == null || float.IsNaN(state.PlayerHP) || float.IsInfinity(state.PlayerHP))
-                return;
+            // ★ 씬에 있는 GameHUD 찾기
+            gameHUD = FindFirstObjectByType<GameHUD>();
 
-            currentHealth = Mathf.Clamp(state.PlayerHP, 0f, maxHealth);
-            UpdatePhase(playAnimation: false);
-            if (currentHealth <= 0f)
-                Die();
+            GameStateManager state = GameStateManager.Instance;
+            if (state != null && !float.IsNaN(state.PlayerHP) && !float.IsInfinity(state.PlayerHP))
+            {
+                currentHealth = Mathf.Clamp(state.PlayerHP, 0f, maxHealth);
+                UpdatePhase(playAnimation: false);
+                if (currentHealth <= 0f)
+                    Die();
+            }
+
+            // ★ 시작할 때 현재 체력과 페이즈를 UI에 즉시 반영
+            SyncHUD();
+        }
+
+        // ★ HUD에 플레이어 체력 & 페이즈 상태를 보내주는 함수
+        private void SyncHUD()
+        {
+            if (gameHUD == null)
+                gameHUD = FindFirstObjectByType<GameHUD>();
+
+            if (gameHUD != null)
+            {
+                gameHUD.UpdatePlayerHP(currentHealth, maxHealth);
+                gameHUD.UpdatePlayerPhase((int)currentPhase + 1);
+            }
         }
 
         private void SaveGameState()
         {
             GameStateManager.Instance?.SetPlayerState(currentHealth, (int)currentPhase + 1);
+            SyncHUD();
         }
 
         private void Update()
@@ -282,7 +316,6 @@ namespace Carten
             HandleDashInput();
         }
 
-        // P키를 누르면 Phase 1 -> Phase 2 -> Phase 3 -> Phase 1 순환
         private void HandlePhaseCheat()
         {
             if (Input.GetKeyDown(KeyCode.P))
@@ -290,13 +323,13 @@ namespace Carten
                 switch (currentPhase)
                 {
                     case PlayerPhase.Phase1:
-                        currentHealth = maxHealth * 0.5f; // 페이즈 2 체력(50%)
+                        currentHealth = maxHealth * 0.5f;
                         break;
                     case PlayerPhase.Phase2:
-                        currentHealth = maxHealth * 0.2f; // 페이즈 3 체력(20%)
+                        currentHealth = maxHealth * 0.2f;
                         break;
                     case PlayerPhase.Phase3:
-                        currentHealth = maxHealth;        // 페이즈 1 체력(100%) 복구
+                        currentHealth = maxHealth;
                         break;
                 }
 
@@ -353,6 +386,7 @@ namespace Carten
             if (isDashing || isSkillMovementLocked)
             {
                 if (anim != null) anim.SetBool("isWork", false);
+                stepTimer = 0f;
                 return;
             }
 
@@ -366,9 +400,33 @@ namespace Carten
                 transform.localScale = scale;
             }
 
+            bool isMoving = (horizontal != 0f) && CheckGround();
+
             if (anim != null)
             {
-                anim.SetBool("isWork", horizontal != 0f);
+                anim.SetBool("isWork", isMoving);
+            }
+
+            if (isMoving)
+            {
+                stepTimer += Time.fixedDeltaTime;
+                if (stepTimer >= stepInterval)
+                {
+                    PlayFootstepSound();
+                    stepTimer = 0f;
+                }
+            }
+            else
+            {
+                stepTimer = 0f;
+            }
+        }
+
+        private void PlayFootstepSound()
+        {
+            if (audioSource != null && footstepSound != null)
+            {
+                audioSource.PlayOneShot(footstepSound);
             }
         }
 
@@ -537,7 +595,7 @@ namespace Carten
 
         public void TriggerSkillAnimation(int skillNumber)
         {
-            if (anim == null || isDead)
+            if (anim != null && !isDead)
                 return;
 
             switch (skillNumber)
@@ -548,7 +606,6 @@ namespace Carten
             }
         }
 
-        // ★ 슈트 스테이션 및 맵 전환 시 체력/슈트 복구 함수 (외부 스크립트 어디서든 호출 가능)
         public void RestoreHealthForMap(float health)
         {
             if (isDead || health <= 0f || float.IsNaN(health) || float.IsInfinity(health))
@@ -560,7 +617,6 @@ namespace Carten
             SaveGameState();
         }
 
-        // ★ 일반 체력 회복 및 슈트 완충용 공용 함수 추가
         public void Heal(float amount)
         {
             if (isDead || amount <= 0f)
@@ -661,16 +717,16 @@ namespace Carten
 
             if (phaseChanged)
             {
-                // 체력이 깎여서 상위 페이즈(Phase 2, Phase 3)로 진입할 때만 PhaseBreak 연출 재생
                 if (playAnimation && currentHealth > 0f && currentPhase > previousPhase && anim != null)
                 {
                     anim.SetTrigger("doPhaseBreak");
                 }
                 OnPhaseChanged(previousPhase, currentPhase);
             }
+
+            SyncHUD(); // ★ 페이즈가 바뀔 때도 UI 즉시 갱신
         }
 
-        // ★ 현재 페이즈에 맞춰 애니메이터 컨트롤러를 교체하고 즉시 외형을 새로고침!
         private void ApplyPhaseAnimator(bool forceRefresh = false)
         {
             if (anim == null) return;

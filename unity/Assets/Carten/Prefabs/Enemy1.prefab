@@ -225,7 +225,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b032b9067dd54644ab4f1e91b970014e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Carten::Carten.Enemy1Controller
-  maxHealth: 100
+  maxHealth: 30
   knockbackForce: 5
   knockbackDuration: 0.15
   showDebugLog: 1

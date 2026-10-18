@@ -39,6 +39,8 @@ namespace Carten
 
         private void Awake()
         {
+            PlayerPrefs.DeleteKey(powerId);
+
             CheckSavedPowerState();
             ApplyPowerState();
 

@@ -12,6 +12,10 @@ namespace Carten
             Phase3
         }
 
+        [Header("=== Game Clear UI ===")]
+        [SerializeField] private GameObject gameClearUIPanel; // 띄워줄 게임 클리어 UI 패널 오브젝트
+        [SerializeField] private float clearUIDelay = 1.0f;     // 보스 사망 연출 후 UI가 나타날 때까지의 지연 시간
+
         [Header("=== Boss Phase ===")]
         [SerializeField] private float phase2HealthPercent = 70f;
         [SerializeField] private float phase3HealthPercent = 30f;
@@ -237,17 +241,41 @@ namespace Carten
                 );
             }
 
-            // ★ 사망 애니메이션 재생 후 비활성화
+            // 사망 애니메이션 재생 및 콜라이더 끄기
             if (anim != null)
             {
                 anim.SetBool("isWork", false);
                 anim.SetTrigger("doDeath");
-                StartCoroutine(DisableAfterDeathRoutine());
+            }
+
+            Collider2D[] colliders = GetComponentsInChildren<Collider2D>();
+            foreach (Collider2D col in colliders) col.enabled = false;
+
+            // ★ 클리어 UI를 띄우는 코루틴 시작
+            StartCoroutine(ShowClearUIRoutine());
+        }
+
+        private IEnumerator ShowClearUIRoutine()
+        {
+            // 보스 사망 직후 연출 대기 시간
+            yield return new WaitForSeconds(Mathf.Max(0.1f, clearUIDelay));
+
+            // 게임 클리어 UI 패널 활성화!
+            if (gameClearUIPanel != null)
+            {
+                gameClearUIPanel.SetActive(true);
             }
             else
             {
-                gameObject.SetActive(false);
+                Debug.LogWarning("[BossController] 게임 클리어 UI 패널이 연결되지 않았습니다!");
             }
+
+            // (선택 사항) 게임 시간을 멈추고 싶다면 아래 주석을 해제하세요
+            // Time.timeScale = 0f;
+
+            // 보스 오브젝트 비활성화 (필요에 따라 유지하거나 끔)
+            yield return new WaitForSeconds(deathDisableDelay);
+            gameObject.SetActive(false);
         }
 
         private IEnumerator DisableAfterDeathRoutine()

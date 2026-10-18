@@ -896,6 +896,8 @@ MonoBehaviour:
   - {fileID: 2118958286}
   - {fileID: 660428617}
   enemy1Count: 2
+  enemy2Count: 0
+  enemy3Count: 0
   showDebugLog: 1
 --- !u!4 &839721514
 Transform:

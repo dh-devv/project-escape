@@ -1156,6 +1156,8 @@ MonoBehaviour:
   - {fileID: 2118958286}
   - {fileID: 660428617}
   enemy1Count: 2
+  enemy2Count: 0
+  enemy3Count: 0
   showDebugLog: 1
 --- !u!4 &839721514
 Transform:
@@ -1500,8 +1502,6 @@ MonoBehaviour:
   targetSceneName: Stage1_Map08
   targetSpawnPointName: Map8_EntrySpawn
   interactKey: 102
-  fadeDuration: 1
-  fadeImage: {fileID: 0}
   promptMessage: "[F] \uD0A4\uB97C \uB20C\uB7EC \uC2B9\uAC15\uAE30\uB97C \uAC00\uB3D9\uD558\uACE0
     \uCD5C\uC0C1\uCE35(\uBCF4\uC2A4\uB8F8)\uC73C\uB85C \uC774\uB3D9\uD569\uB2C8\uB2E4."
 --- !u!1 &1456162337

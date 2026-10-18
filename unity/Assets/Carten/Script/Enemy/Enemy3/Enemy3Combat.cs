@@ -5,98 +5,61 @@ namespace Carten
 {
     public class Enemy3Combat : MonoBehaviour
     {
-
         [Header("=== References ===")]
-        [SerializeField]
-        private Transform attackPoint;
+        [SerializeField] private Transform attackPoint;
 
         [Header("=== Attack ===")]
-        [SerializeField]
-        private float attackRange = 1.5f;
+        [SerializeField] private float attackRange = 1.5f;
+        [SerializeField] private float attackDamage = 15f;
+        [SerializeField] private float attackCooldown = 1.8f;
+        [SerializeField, Min(0f)] private float hitStunDuration = 0.45f;
 
-        [SerializeField]
-        private float attackDamage = 15f;
-
-        [SerializeField]
-        private float attackCooldown = 1.8f;
-        // Target
         [Header("=== Target ===")]
-        [SerializeField]
-        private LayerMask targetLayer;
+        [SerializeField] private LayerMask targetLayer;
 
         [Header("=== Debug ===")]
-        [SerializeField]
-        private bool showDebugLog = true;
+        [SerializeField] private bool showDebugLog = true;
 
         private Enemy3Controller enemyController;
         private Enemy3AI enemyAI;
-
-        [SerializeField, Min(0f)] private float hitStunDuration = 0.45f;
+        private Animator anim;
         private float attackTimer;
 
         private void Awake()
         {
             enemyController = GetComponent<Enemy3Controller>();
-
             enemyAI = GetComponent<Enemy3AI>();
+            anim = GetComponent<Animator>();
 
             if (attackPoint == null)
             {
                 Transform found = transform.Find("AttackPoint");
-
-                if (found != null)
-                {
-                    attackPoint = found;
-                }
+                if (found != null) attackPoint = found;
             }
 
-            // Enemy Layer 자동 탐색
             if (targetLayer.value == 0)
             {
                 int playerLayer = LayerMask.NameToLayer("Player");
-
-                if (playerLayer >= 0)
-                {
-                    targetLayer = 1 << playerLayer;
-                }
+                if (playerLayer >= 0) targetLayer = 1 << playerLayer;
             }
 
             if (enemyController == null)
-            {
-                Debug.LogError("[Enemy3Combat] " + "Enemy3Controller를 찾을 수 없습니다.");
-            }
-
+                Debug.LogError("[Enemy3Combat] Enemy3Controller를 찾을 수 없습니다.");
             if (enemyAI == null)
-            {
-                Debug.LogError("[Enemy3Combat] " + "Enemy3AI를 찾을 수 없습니다.");
-            }
-
+                Debug.LogError("[Enemy3Combat] Enemy3AI를 찾을 수 없습니다.");
             if (attackPoint == null)
-            {
-                Debug.LogError("[Enemy3Combat] " + "AttackPoint를 찾을 수 없습니다.");
-            }
+                Debug.LogError("[Enemy3Combat] AttackPoint를 찾을 수 없습니다.");
         }
 
         private void Update()
         {
-            if (enemyController == null)
-                return;
-
-            if (enemyController.IsDead)
+            if (enemyController == null || enemyController.IsDead || enemyController.IsKnockedBack)
                 return;
 
             if (attackTimer > 0f)
-            {
                 attackTimer -= Time.deltaTime;
-            }
 
-            if (enemyAI == null)
-                return;
-
-            if (!enemyAI.IsInAttackRange())
-                return;
-
-            if (attackTimer > 0f)
+            if (enemyAI == null || !enemyAI.IsInAttackRange() || attackTimer > 0f)
                 return;
 
             PerformAttack();
@@ -104,31 +67,25 @@ namespace Carten
 
         public void PerformAttack()
         {
-            if (enemyController == null || enemyController.IsDead)
+            if (enemyController == null || enemyController.IsDead || attackPoint == null)
                 return;
-            if (attackPoint == null)
-                return;
+
+            // 공격 애니메이션 실행
+            if (anim != null)
+            {
+                anim.SetTrigger("doAttack");
+            }
 
             Collider2D[] hits = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, targetLayer);
-
-            HashSet<IDamageable>
-                damagedTargets = new HashSet<IDamageable>();
-
+            HashSet<IDamageable> damagedTargets = new HashSet<IDamageable>();
             int hitCount = 0;
 
             foreach (Collider2D hit in hits)
             {
+                if (hit == null) continue;
+
                 IDamageable damageable = hit.GetComponentInParent<IDamageable>();
-
-                if (damageable == null)
-                    continue;
-
-                if (damagedTargets.Contains(damageable))
-                {
-                    continue;
-                }
-
-                if (damageable.IsDead)
+                if (damageable == null || damageable.IsDead || damagedTargets.Contains(damageable))
                     continue;
 
                 damagedTargets.Add(damageable);
@@ -157,11 +114,8 @@ namespace Carten
 
         private void OnDrawGizmosSelected()
         {
-            if (attackPoint == null)
-                return;
-
+            if (attackPoint == null) return;
             Gizmos.color = Color.red;
-
             Gizmos.DrawWireSphere(attackPoint.position, attackRange);
         }
     }

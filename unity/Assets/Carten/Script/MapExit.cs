@@ -17,7 +17,18 @@ namespace Carten
                 Debug.LogError("[MapExit] Set a destination scene and spawn point.", this);
                 return;
             }
-            MapTransitionManager.Instance.LoadMap(targetSceneName, targetSpawnPointName);
+
+            // ★ 씬 전환 시 페이드 매니저 연동 확인 후 호출
+            if (SceneTransitionManager.Instance != null)
+            {
+                PlayerPrefs.SetString("LastTargetSpawnPoint", targetSpawnPointName);
+                PlayerPrefs.Save();
+                SceneTransitionManager.Instance.LoadSceneWithFade(targetSceneName);
+            }
+            else
+            {
+                MapTransitionManager.Instance.LoadMap(targetSceneName, targetSpawnPointName);
+            }
         }
     }
 }

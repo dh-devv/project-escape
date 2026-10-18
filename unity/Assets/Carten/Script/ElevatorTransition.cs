@@ -1,7 +1,6 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 namespace Carten
 {
@@ -14,12 +13,12 @@ namespace Carten
 
         [Header("=== 연출 및 컷씬 설정 ===")]
         [SerializeField] private KeyCode interactKey = KeyCode.F;
-        [SerializeField] private float fadeDuration = 1.0f; // 화면이 어두워지는 시간
-        [SerializeField] private Image fadeImage; // 화면 암전용 UI 이미지 (선택 사항)
         [SerializeField] private string promptMessage = "[F] 키를 눌러 승강기를 가동하고 최상층(보스룸)으로 이동합니다.";
 
         private bool isPlayerNearby = false;
         private bool isActivated = false;
+
+        private static string pendingSpawnPointName;
 
         private void Awake()
         {
@@ -38,32 +37,80 @@ namespace Carten
         private IEnumerator RunElevatorCutsceneSequence()
         {
             isActivated = true;
-            Debug.Log("[Elevator Cutscene] ⚙️ 승강기 가동 시작... 최상층으로 하강합니다.");
+            Debug.Log("[Elevator Cutscene] 승강기 가동 시작... 최상층으로 이동합니다.");
 
-            // 1. 화면 암전(Fade Out) 연출
-            float timer = 0f;
-            Color startColor = Color.black;
-            startColor.a = 0f;
-            Color endColor = Color.black;
-            endColor.a = 1f;
+            // 1. 다음 씬에서 스폰될 위치 저장 및 씬 로드 이벤트 등록
+            pendingSpawnPointName = targetSpawnPointName;
+            PlayerPrefs.SetString("LastTargetSpawnPoint", targetSpawnPointName);
+            PlayerPrefs.Save();
 
-            while (timer < fadeDuration)
+            SceneManager.sceneLoaded -= OnBossSceneLoaded;
+            SceneManager.sceneLoaded += OnBossSceneLoaded;
+
+            // 2. SceneTransitionManager를 통한 부드러운 페이드 씬 전환 호출
+            if (SceneTransitionManager.Instance != null)
             {
-                timer += Time.deltaTime;
-                float progress = timer / fadeDuration;
-
-                if (fadeImage != null)
-                {
-                    fadeImage.color = Color.Lerp(startColor, endColor, progress);
-                }
-                yield return null;
+                SceneTransitionManager.Instance.LoadSceneWithFade(targetSceneName);
+            }
+            else
+            {
+                SceneManager.LoadScene(targetSceneName);
             }
 
-            // 2. 다음 씬에서 스폰될 위치 저장
-            PlayerPrefs.SetString("LastTargetSpawnPoint", targetSpawnPointName);
+            yield return null;
+        }
 
-            // 3. 최종보스 씬 로드
-            SceneManager.LoadScene(targetSceneName);
+        private static void OnBossSceneLoaded(Scene scene, LoadSceneMode mode)
+        {
+            SceneManager.sceneLoaded -= OnBossSceneLoaded;
+
+            // 중복 플레이어 제거 로직
+            PlayerController[] players = Object.FindObjectsByType<PlayerController>(FindObjectsSortMode.None);
+            PlayerController activePlayer = null;
+
+            if (players.Length > 1)
+            {
+                foreach (PlayerController p in players)
+                {
+                    if (p.gameObject.scene.name == "DontDestroyOnLoad")
+                    {
+                        activePlayer = p;
+                        break;
+                    }
+                }
+
+                if (activePlayer == null) activePlayer = players[0];
+
+                foreach (PlayerController p in players)
+                {
+                    if (p != activePlayer)
+                    {
+                        Destroy(p.gameObject);
+                    }
+                }
+            }
+            else if (players.Length == 1)
+            {
+                activePlayer = players[0];
+            }
+
+            // 스폰 위치로 플레이어 이동
+            if (activePlayer != null && !string.IsNullOrWhiteSpace(pendingSpawnPointName))
+            {
+                GameObject spawnPoint = GameObject.Find(pendingSpawnPointName);
+                if (spawnPoint != null)
+                {
+                    activePlayer.transform.position = spawnPoint.transform.position;
+                    Rigidbody2D rb = activePlayer.GetComponent<Rigidbody2D>();
+                    if (rb != null)
+                    {
+                        rb.position = spawnPoint.transform.position;
+                        rb.linearVelocity = Vector2.zero;
+                    }
+                }
+            }
+
+            pendingSpawnPointName = null;
         }
 
         private void OnTriggerEnter2D(Collider2D other)

@@ -28,7 +28,7 @@ namespace Carten
         [SerializeField] private RuntimeAnimatorController phase1Animator;
         [Tooltip("페이즈 2 오버라이드 컨트롤러 (Player_P2_Override)")]
         [SerializeField] private RuntimeAnimatorController phase2Animator;
-        [Tooltip("페이즈 3 오버라이드 컨트롤러 (없으면 비워두세요)")]
+        [Tooltip("페이즈 3 오버라이드 컨트롤러 (Player_P3_Override)")]
         [SerializeField] private RuntimeAnimatorController phase3Animator;
 
         [Header("=== Defense ===")]
@@ -225,6 +225,7 @@ namespace Carten
             rb = GetComponent<Rigidbody2D>();
             anim = GetComponent<Animator>();
 
+            // 시작 시점의 기본 애니메이터(Phase 1)를 확실하게 저장
             if (anim != null && phase1Animator == null)
             {
                 phase1Animator = anim.runtimeAnimatorController;
@@ -272,8 +273,6 @@ namespace Carten
                 return;
 
             HandleTimers();
-
-            // ★ P키를 누르면 페이즈가 순차적으로 변경되는 치트키 실행
             HandlePhaseCheat();
 
             if (!CanAct)
@@ -283,7 +282,7 @@ namespace Carten
             HandleDashInput();
         }
 
-        // ★ P키 치트키 함수 추가
+        // P키를 누르면 Phase 1 -> Phase 2 -> Phase 3 -> Phase 1 순환
         private void HandlePhaseCheat()
         {
             if (Input.GetKeyDown(KeyCode.P))
@@ -291,22 +290,22 @@ namespace Carten
                 switch (currentPhase)
                 {
                     case PlayerPhase.Phase1:
-                        currentHealth = maxHealth * 0.5f; // 페이즈 2 체력(70% 미만)으로 강제 설정
+                        currentHealth = maxHealth * 0.5f; // 페이즈 2 체력(50%)
                         break;
                     case PlayerPhase.Phase2:
-                        currentHealth = maxHealth * 0.2f; // 페이즈 3 체력(30% 미만)으로 강제 설정
+                        currentHealth = maxHealth * 0.2f; // 페이즈 3 체력(20%)
                         break;
                     case PlayerPhase.Phase3:
-                        currentHealth = maxHealth;       // 다시 페이즈 1 체력(100%)으로 복구
+                        currentHealth = maxHealth;        // 페이즈 1 체력(100%) 복구
                         break;
                 }
 
-                // 체력 변경에 맞춰 페이즈 갱신 및 애니메이터 교체 실행
                 UpdatePhase(playAnimation: true);
+                SaveGameState();
 
                 if (showDebugLog)
                 {
-                    Debug.Log($"[Cheat] P키 입력! 강제 페이즈 변경 완료 $\rightarrow$ 현재 페이즈: {currentPhase}");
+                    Debug.Log($"[Cheat] P키 입력! 강제 페이즈 변경 완료 -> 현재 페이즈: {currentPhase}");
                 }
             }
         }
@@ -493,7 +492,6 @@ namespace Carten
             float direction = transform.localScale.x >= 0f ? 1f : -1f;
             rb.linearVelocity = new Vector2(direction * CurrentDashSpeed, 0f);
 
-            // ★ 페이즈 2, 3에서 LeftShift 대시 사용 시 대시 애니메이션 실행!
             if (anim != null)
             {
                 anim.SetTrigger("doDash");
@@ -550,14 +548,30 @@ namespace Carten
             }
         }
 
-        internal void RestoreHealthForMap(float health)
+        // ★ 슈트 스테이션 및 맵 전환 시 체력/슈트 복구 함수 (외부 스크립트 어디서든 호출 가능)
+        public void RestoreHealthForMap(float health)
         {
             if (isDead || health <= 0f || float.IsNaN(health) || float.IsInfinity(health))
                 return;
 
-            currentHealth = Mathf.Min(health, maxHealth);
+            currentHealth = Mathf.Clamp(health, 0f, maxHealth);
             UpdatePhase(playAnimation: false);
+            ApplyPhaseAnimator(forceRefresh: true);
             SaveGameState();
+        }
+
+        // ★ 일반 체력 회복 및 슈트 완충용 공용 함수 추가
+        public void Heal(float amount)
+        {
+            if (isDead || amount <= 0f)
+                return;
+
+            RestoreHealthForMap(currentHealth + amount);
+        }
+
+        public void RestoreSuit()
+        {
+            RestoreHealthForMap(maxHealth);
         }
 
         public void TakeDamage(float damage, float stunDuration)
@@ -642,11 +656,13 @@ namespace Carten
             else
                 currentPhase = PlayerPhase.Phase1;
 
-            ApplyPhaseAnimator();
+            bool phaseChanged = previousPhase != currentPhase;
+            ApplyPhaseAnimator(forceRefresh: phaseChanged);
 
-            if (previousPhase != currentPhase)
+            if (phaseChanged)
             {
-                if (playAnimation && currentHealth > 0f && anim != null)
+                // 체력이 깎여서 상위 페이즈(Phase 2, Phase 3)로 진입할 때만 PhaseBreak 연출 재생
+                if (playAnimation && currentHealth > 0f && currentPhase > previousPhase && anim != null)
                 {
                     anim.SetTrigger("doPhaseBreak");
                 }
@@ -654,8 +670,8 @@ namespace Carten
             }
         }
 
-        // ★ 현재 페이즈에 맞춰 애니메이터 컨트롤러(페이즈 1 / 페이즈 2 / 페이즈 3)를 자동으로 교체!
-        private void ApplyPhaseAnimator()
+        // ★ 현재 페이즈에 맞춰 애니메이터 컨트롤러를 교체하고 즉시 외형을 새로고침!
+        private void ApplyPhaseAnimator(bool forceRefresh = false)
         {
             if (anim == null) return;
 
@@ -670,9 +686,14 @@ namespace Carten
                 else if (phase2Animator != null) targetController = phase2Animator;
             }
 
-            if (targetController != null && anim.runtimeAnimatorController != targetController)
+            if (targetController != null && (anim.runtimeAnimatorController != targetController || forceRefresh))
             {
                 anim.runtimeAnimatorController = targetController;
+                anim.Rebind();
+                anim.Update(0f);
+
+                bool isGrounded = CheckGround();
+                anim.SetBool("isGrounded", isGrounded);
             }
         }
 

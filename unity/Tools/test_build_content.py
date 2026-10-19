@@ -46,18 +46,25 @@ class BuildContentTests(unittest.TestCase):
 
     def test_menu_has_a_controller_and_background(self):
         menu = (SCENES / "UI/Main UI.unity").read_text(encoding="utf-8-sig")
-        self.assertTrue("Carten.MainMenuUI" in menu, "start UI has no start controller")
+        self.assertTrue("Carten.MainMenuUI" in menu or "Carten.MainMenuController" in menu, "start UI has no start controller")
+        if "Carten.MainMenuController" in menu:
+            self.assertIn("m_MethodName: OnClickStartButton", menu)
         self.assertTrue(re.search(r"m_Sprite: \{fileID: 21300000, guid: [a-f0-9]{32}", menu), "start UI has no background")
 
     def test_player_has_gameplay_ui(self):
-        self.assertTrue("Carten.GameplayUI" in (SCENES / "Stage1_Map01.unity").read_text(encoding="utf-8-sig"), "player has no gameplay UI")
+        scene = (SCENES / "Stage1_Map01.unity").read_text(encoding="utf-8-sig")
+        hud_guid = re.search(r"^guid: (\w+)", (ASSETS / "Carten/Menu/GameHUD.cs.meta").read_text(), re.M)[1]
+        self.assertTrue("Carten.GameplayUI" in scene or hud_guid in scene, "player has no gameplay UI")
 
     def test_enemy_prefabs_reference_their_own_art(self):
         for name, directory in [("Enemy1", "04_Enemy_Melee"), ("Enemy2", "05_Enemy_Ranged"), ("Enemy3", "06_Enemy_Charger")]:
-            meta = ASSETS / directory / "Body" / f"{name}_Idle.png.meta"
-            guid = re.search(r"^guid: (\w+)", meta.read_text(encoding="utf-8-sig"), re.M)[1]
             prefab = (ASSETS / "Carten/Prefabs" / f"{name}.prefab").read_text(encoding="utf-8-sig")
-            self.assertTrue(re.search(r"m_Sprite: \{fileID: -?\d+, guid: " + guid, prefab), f"{name}: still uses a placeholder sprite")
+            sprite_guids = set(re.findall(r"m_Sprite: \{fileID: -?\d+, guid: (\w+)", prefab))
+            own_art = set()
+            for meta in ASSETS.rglob(f"{name}_*.png.meta"):
+                if directory in meta.parts:
+                    own_art.add(re.search(r"^guid: (\w+)", meta.read_text(encoding="utf-8-sig"), re.M)[1])
+            self.assertTrue(sprite_guids & own_art, f"{name}: missing its own character sprite")
 
 
 if __name__ == "__main__":

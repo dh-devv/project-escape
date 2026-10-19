@@ -20,12 +20,31 @@ namespace LastSpark.Editor
             bool hasPlayerUi = false;
             foreach (GameObject root in scene.GetRootGameObjects())
             {
+                foreach (MainMenuController menu in root.GetComponentsInChildren<MainMenuController>(true))
+                {
+                    bool connected = false;
+                    foreach (GameObject sceneRoot in scene.GetRootGameObjects())
+                        foreach (Button button in sceneRoot.GetComponentsInChildren<Button>(true))
+                            for (int i = 0; i < button.onClick.GetPersistentEventCount(); i++)
+                                if (button.onClick.GetPersistentTarget(i) == menu &&
+                                    button.onClick.GetPersistentMethodName(i) == "OnClickStartButton") connected = true;
+                    Require(menu.isActiveAndEnabled && connected, scene, "시작 버튼이 메뉴 컨트롤러에 연결되지 않았습니다.");
+                    hasMenu = true;
+                }
                 foreach (MainMenuUI menu in root.GetComponentsInChildren<MainMenuUI>(true))
                 {
                     Image background = new SerializedObject(menu).FindProperty("background").objectReferenceValue as Image;
                     Require(menu.isActiveAndEnabled && background != null && background.sprite != null,
                         scene, "시작 화면의 배경 또는 시작 컨트롤러가 연결되지 않았습니다.");
                     hasMenu = true;
+                }
+                foreach (GameHUD hud in root.GetComponentsInChildren<GameHUD>(true))
+                {
+                    var data = new SerializedObject(hud);
+                    Require(hud.isActiveAndEnabled && data.FindProperty("playerHpFill").objectReferenceValue != null &&
+                        data.FindProperty("playerHpText").objectReferenceValue != null,
+                        scene, "HUD 체력바 또는 체력 텍스트가 연결되지 않았습니다.");
+                    hasPlayerUi = true;
                 }
                 foreach (GameplayUI hud in root.GetComponentsInChildren<GameplayUI>(true))
                 {

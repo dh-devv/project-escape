@@ -6,24 +6,61 @@ namespace Carten
     [RequireComponent(typeof(Collider2D))]
     public class ConditionalDoor : MonoBehaviour
     {
+        private const string SpawnPointPrefKey = "LastTargetSpawnPoint";
+        private static bool sceneHookRegistered;
+
         [Header("=== 이동할 목적지 설정 ===")]
-        [SerializeField] private string targetSceneName = "Stage1_Map04"; // 이동할 씬 이름
-        [SerializeField] private string targetSpawnPointName = "Spawn_FromMap02"; // 도착 위치 이름
+        [SerializeField] private string targetSceneName = "Stage1_Map04";
+        [SerializeField] private string targetSpawnPointName = "Spawn_FromMap02";
 
         [Header("=== 잠금 해제 조건 설정 ===")]
         [Tooltip("비워두면 조건 없이 항상 열리는 일반 문으로 작동합니다.")]
-        [SerializeField] private string requiredConditionID = "Stage1_Generator_01"; // 필요한 조건 ID
+        [SerializeField] private string requiredConditionID = "Stage1_Generator_01";
         [SerializeField] private string lockedMessage = "전력 공급이 차단되어 격벽이 잠겼습니다. 지하 발전실(Map03)을 먼저 가동하세요.";
 
         [Header("=== 조작 및 시각 연출 ===")]
-        [SerializeField] private KeyCode interactKey = KeyCode.F; // 상호작용 키
-        [SerializeField] private GameObject lockedRedLight;   // 잠겼을 때 켜질 붉은 조명/표시 (선택)
-        [SerializeField] private GameObject unlockedGreenLight; // 열렸을 때 켜질 초록 조명/표시 (선택)
+        [SerializeField] private KeyCode interactKey = KeyCode.F;
+        [SerializeField] private GameObject lockedRedLight;
+        [SerializeField] private GameObject unlockedGreenLight;
 
         private bool isPlayerNearby = false;
 
+        [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
+        private static void RegisterSceneHook()
+        {
+            if (sceneHookRegistered) return;
+            SceneManager.sceneLoaded += OnSceneLoadedMovePlayer;
+            sceneHookRegistered = true;
+        }
+
+        private static void OnSceneLoadedMovePlayer(Scene scene, LoadSceneMode mode)
+        {
+            if (!PlayerPrefs.HasKey(SpawnPointPrefKey)) return;
+
+            string spawnName = PlayerPrefs.GetString(SpawnPointPrefKey, "");
+            PlayerPrefs.DeleteKey(SpawnPointPrefKey);
+
+            if (string.IsNullOrWhiteSpace(spawnName)) return;
+
+            GameObject spawnObj = GameObject.Find(spawnName);
+            if (spawnObj == null) return;
+
+            PlayerController player = Object.FindFirstObjectByType<PlayerController>();
+            if (player != null)
+            {
+                player.transform.position = spawnObj.transform.position;
+                Rigidbody2D rb = player.GetComponent<Rigidbody2D>();
+                if (rb != null)
+                {
+                    rb.position = spawnObj.transform.position;
+                    rb.linearVelocity = Vector2.zero;
+                }
+            }
+        }
+
         private void Awake()
         {
+            RegisterSceneHook();
             Collider2D col = GetComponent<Collider2D>();
             if (col != null) col.isTrigger = true;
         }
@@ -47,28 +84,34 @@ namespace Carten
             {
                 Debug.Log($"[ConditionalDoor] 격벽 개방 완료! {targetSceneName} 씬으로 이동합니다.");
 
-                MapTransitionManager.Instance?.LoadMap(targetSceneName, targetSpawnPointName);
+                PlayerPrefs.SetString(SpawnPointPrefKey, targetSpawnPointName);
+                PlayerPrefs.Save();
+
+                // ★ SceneTransitionManager를 통한 페이드 전환 적용
+                if (SceneTransitionManager.Instance != null)
+                {
+                    SceneTransitionManager.Instance.LoadSceneWithFade(targetSceneName);
+                }
+                else
+                {
+                    SceneManager.LoadScene(targetSceneName);
+                }
             }
             else
             {
-                // 잠겨있을 때 안내 메시지 출력
                 Debug.LogWarning($"[보안 격벽 잠김] {lockedMessage} (필요 조건: {requiredConditionID})");
             }
         }
 
         public bool IsDoorUnlocked()
         {
-            // 조건 ID가 비어있으면 무조건 열림 (일반 문)
             if (string.IsNullOrEmpty(requiredConditionID)) return true;
 
             if (GameStateManager.Instance != null && GameStateManager.Instance.HasTriggered(requiredConditionID))
                 return true;
 
-            // Retain compatibility with older saved generator flags.
             if (PlayerPrefs.GetInt(requiredConditionID, 0) == 1)
-            {
                 return true;
-            }
 
             return false;
         }
@@ -80,32 +123,12 @@ namespace Carten
             if (unlockedGreenLight != null) unlockedGreenLight.SetActive(unlocked);
         }
 
-        // 테스트용: 인스펙터에서 컴포넌트 우클릭 메뉴로 잠금/해제 상태를 즉시 테스트할 수 있습니다.
-        [ContextMenu("테스트: 조건 강제 달성 (문 열기)")]
-        public void DebugUnlockDoor()
-        {
-            PlayerPrefs.SetInt(requiredConditionID, 1);
-            UpdateDoorVisuals();
-            Debug.Log($"[테스트] '{requiredConditionID}' 조건이 달성 처리되었습니다! 이제 문이 열립니다.");
-        }
-
-        [ContextMenu("테스트: 조건 초기화 (문 잠그기)")]
-        public void DebugLockDoor()
-        {
-            PlayerPrefs.SetInt(requiredConditionID, 0);
-            UpdateDoorVisuals();
-            Debug.Log($"[테스트] '{requiredConditionID}' 조건이 초기화되어 문이 다시 잠겼습니다.");
-        }
-
         private void OnTriggerEnter2D(Collider2D other)
         {
             if (other.GetComponentInParent<PlayerController>() != null)
             {
                 isPlayerNearby = true;
-                if (IsDoorUnlocked())
-                    Debug.Log($"[문 접근] [{interactKey}] 키를 눌러 이동하세요.");
-                else
-                    Debug.Log($"[잠긴 격벽 접근] [{interactKey}] 키를 눌러 상태를 확인하세요.");
+                UpdateDoorVisuals();
             }
         }
 

@@ -32,11 +32,8 @@ namespace Carten
 
         private void RepairSuit()
         {
-            // 1. 만약 PlayerController에 Heal 함수가 이미 있다면 아래 주석(//)을 지우고 사용하세요!
-            // nearbyPlayer.Heal(healAmount);
-
-            // 2. 임시로 TakeDamage에 음수(-회복량)를 넣어 체력을 올리는 방식
-            nearbyPlayer.TakeDamage(-healAmount);
+            // ★ PlayerController에 있는 정식 Heal 함수 호출! (체력 회복 + 페이즈/애니메이터 복구 + HUD 갱신까지 자동 처리됨)
+            nearbyPlayer.Heal(healAmount);
 
             Debug.Log($"[SuitStation] 슈트 수리 및 체력 회복 완료! (+{healAmount})");
 

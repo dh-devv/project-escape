@@ -14,6 +14,8 @@ namespace Carten
 
         [Header("=== Enemy Count ===")]
         [SerializeField] private int enemy1Count = 2;
+        [SerializeField] private int enemy2Count = 0; // ★ 추가됨
+        [SerializeField] private int enemy3Count = 0; // ★ 추가됨
 
         [Header("=== Debug ===")]
         [SerializeField] private bool showDebugLog = true;
@@ -38,10 +40,7 @@ namespace Carten
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if (encounterStarted)
-                return;
-
-            if (encounterCleared)
+            if (encounterStarted || encounterCleared)
                 return;
 
             if (other.GetComponentInParent<PlayerController>() == null)
@@ -56,11 +55,13 @@ namespace Carten
 
             StartEncounter();
         }
-        // Encounter 시작
+
         public void StartEncounter()
         {
             if (encounterStarted || encounterCleared) return;
-            if (enemySpawner == null || spawnPoints == null || spawnPoints.Length == 0 || enemy1Count <= 0)
+
+            // 총 소환할 적이 0마리면 실행 안 함
+            if (enemySpawner == null || spawnPoints == null || spawnPoints.Length == 0 || (enemy1Count + enemy2Count + enemy3Count) <= 0)
             {
                 Debug.LogError("[EncounterController] Spawner, spawn points and a positive enemy count are required.", this);
                 return;
@@ -77,75 +78,63 @@ namespace Carten
 
             if (showDebugLog && encounterStarted)
             {
-                Debug.Log("[EncounterController] Encounter01 시작");
+                Debug.Log("[EncounterController] 전투 시작!");
             }
-
         }
 
         private void SpawnEnemies()
         {
-            if (enemySpawner == null)
-            {
-                Debug.LogError("[EncounterController] EnemySpawner가 없습니다.");
+            if (enemySpawner == null || spawnPoints == null || spawnPoints.Length == 0) return;
 
-                return;
-            }
+            int currentSpawnIndex = 0; // 스폰 포인트를 순차적으로 돌아가며 배치하기 위한 인덱스
 
-            if (spawnPoints == null ||
-                spawnPoints.Length == 0)
-            {
-                Debug.LogError("[EncounterController] SpawnPoint가 없습니다.");
-
-                return;
-            }
-
+            // Enemy 1 소환
             for (int i = 0; i < enemy1Count; i++)
             {
-                int pointIndex = i % spawnPoints.Length;
+                GameObject enemy = enemySpawner.SpawnEnemy1(spawnPoints[currentSpawnIndex % spawnPoints.Length].position);
+                if (enemy != null) encounterEnemies.Add(enemy);
+                currentSpawnIndex++;
+            }
 
-                GameObject enemy = enemySpawner.SpawnEnemy1(spawnPoints[pointIndex].position);
+            // Enemy 2 소환
+            for (int i = 0; i < enemy2Count; i++)
+            {
+                GameObject enemy = enemySpawner.SpawnEnemy2(spawnPoints[currentSpawnIndex % spawnPoints.Length].position);
+                if (enemy != null) encounterEnemies.Add(enemy);
+                currentSpawnIndex++;
+            }
 
-                if (enemy != null)
-                {
-                    encounterEnemies.Add(enemy);
-                }
+            // Enemy 3 소환
+            for (int i = 0; i < enemy3Count; i++)
+            {
+                GameObject enemy = enemySpawner.SpawnEnemy3(spawnPoints[currentSpawnIndex % spawnPoints.Length].position);
+                if (enemy != null) encounterEnemies.Add(enemy);
+                currentSpawnIndex++;
             }
 
             if (showDebugLog)
             {
-                Debug.Log($"[EncounterController] Enemy1 {encounterEnemies.Count}마리 소환");
+                Debug.Log($"[EncounterController] 총 {encounterEnemies.Count}마리 소환 완료");
             }
         }
-        // 전투 확인
+
         private void Update()
         {
-            if (!encounterStarted)
-                return;
-
-            if (encounterCleared)
-                return;
-
+            if (!encounterStarted || encounterCleared) return;
             CheckEncounterClear();
         }
 
         private void CheckEncounterClear()
         {
-            if (encounterEnemies.Count == 0)
-                return;
+            if (encounterEnemies.Count == 0) return;
 
             for (int i = 0; i < encounterEnemies.Count; i++)
             {
                 GameObject enemy = encounterEnemies[i];
-
-                if (enemy == null)
-                    continue;
+                if (enemy == null) continue;
 
                 EnemyBase enemyBase = enemy.GetComponent<EnemyBase>();
-
-                if (enemyBase == null)
-                    continue;
-
-                if (!enemyBase.IsDead)
+                if (enemyBase != null && !enemyBase.IsDead)
                 {
                     return;
                 }
@@ -153,25 +142,17 @@ namespace Carten
 
             ClearEncounter();
         }
-        // Encounter Clear
+
         private void ClearEncounter()
         {
             encounterCleared = true;
-
             if (showDebugLog)
             {
-                Debug.Log("[EncounterController] Encounter01 CLEAR!");
+                Debug.Log("[EncounterController] 전투 CLEAR!");
             }
         }
 
-        public bool IsStarted()
-        {
-            return encounterStarted;
-        }
-
-        public bool IsCleared()
-        {
-            return encounterCleared;
-        }
+        public bool IsStarted() => encounterStarted;
+        public bool IsCleared() => encounterCleared;
     }
 }

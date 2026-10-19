@@ -4,57 +4,42 @@ namespace Carten
 {
     public class Enemy3AI : MonoBehaviour
     {
-        // Target
         [Header("=== Target ===")]
-        [SerializeField]
-        private Transform target;
+        [SerializeField] private Transform target;
 
         [Header("=== Movement ===")]
-        [SerializeField]
-        private float moveSpeed = 0.7f;
+        [SerializeField] private float moveSpeed = 0.7f;
+        [SerializeField] private float detectionDistance = 10f;
+        [SerializeField] private float attackDistance = 1.5f;
 
-        [SerializeField]
-        private float detectionDistance = 10f;
-
-        [SerializeField]
-        private float attackDistance = 1.5f;
-        // Facing
         [Header("=== Facing ===")]
-        [SerializeField]
-        private bool flipSprite = true;
+        [SerializeField] private bool flipSprite = true;
 
         [Header("=== Debug ===")]
-        [SerializeField]
-        private bool showDebugLog = true;
+        [SerializeField] private bool showDebugLog = true;
 
         private Enemy3Controller enemyController;
         private Rigidbody2D rb;
+        private Animator anim;
 
         private void Awake()
         {
             enemyController = GetComponent<Enemy3Controller>();
-
             rb = GetComponent<Rigidbody2D>();
+            anim = GetComponent<Animator>();
 
             if (enemyController == null)
-            {
-                Debug.LogError("[Enemy3AI] " + "Enemy3Controller를 찾을 수 없습니다.");
-            }
+                Debug.LogError("[Enemy3AI] Enemy3Controller를 찾을 수 없습니다.");
 
             if (rb == null)
-            {
-                Debug.LogError("[Enemy3AI] " + "Rigidbody2D를 찾을 수 없습니다.");
-            }
+                Debug.LogError("[Enemy3AI] Rigidbody2D를 찾을 수 없습니다.");
 
             FindPlayer();
         }
 
         private void Update()
         {
-            if (enemyController == null)
-                return;
-
-            if (enemyController.IsDead)
+            if (enemyController == null || enemyController.IsDead || enemyController.IsKnockedBack)
                 return;
 
             if (target == null)
@@ -68,48 +53,39 @@ namespace Carten
 
         private void FixedUpdate()
         {
-            if (enemyController == null)
+            if (enemyController == null || enemyController.IsDead || enemyController.IsKnockedBack || target == null)
                 return;
 
-            if (enemyController.IsDead)
+            if (enemyController.IsStopped)
+            {
+                StopMovement();
                 return;
-
-            if (target == null)
-                return;
+            }
 
             HandleMovement();
         }
-        // Find Player
+
         private void FindPlayer()
         {
             GameObject player = GameObject.FindGameObjectWithTag("Player");
-
             if (player != null)
             {
                 target = player.transform;
             }
             else if (showDebugLog)
             {
-                Debug.LogWarning("[Enemy3AI] " + "Player Tag를 찾을 수 없습니다.");
+                Debug.LogWarning("[Enemy3AI] Player Tag를 찾을 수 없습니다.");
             }
         }
 
         private void HandleMovement()
         {
-            if (rb == null)
-                return;
+            if (rb == null) return;
 
             float distance = Mathf.Abs(target.position.x - transform.position.x);
 
-            // 감지 거리 밖
-            if (distance > detectionDistance)
-            {
-                StopMovement();
-                return;
-            }
-
-            // 공격 거리 안
-            if (distance <= attackDistance)
+            // 감지 거리 밖이거나 공격 거리 안이면 정지
+            if (distance > detectionDistance || distance <= attackDistance)
             {
                 StopMovement();
                 return;
@@ -117,74 +93,50 @@ namespace Carten
 
             // 플레이어에게 천천히 접근
             float direction = target.position.x > transform.position.x ? 1f : -1f;
+            rb.linearVelocity = new Vector2(direction * moveSpeed, rb.linearVelocity.y);
 
-            Vector2 velocity = rb.linearVelocity;
-
-            velocity.x = direction * moveSpeed;
-
-            rb.linearVelocity = velocity;
+            if (anim != null)
+                anim.SetBool("isWork", true);
         }
-        // Stop
-        private void StopMovement()
+
+        public void StopMovement()
         {
-            if (rb == null)
-                return;
+            if (rb == null) return;
 
-            Vector2 velocity = rb.linearVelocity;
+            rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
 
-            velocity.x = 0f;
-
-            rb.linearVelocity = velocity;
+            if (anim != null)
+                anim.SetBool("isWork", false);
         }
-        // Facing
+
         private void HandleFacing()
         {
-            if (!flipSprite)
-                return;
+            if (!flipSprite || target == null) return;
 
             float direction = target.position.x - transform.position.x;
-
-            if (Mathf.Abs(direction) < 0.01f)
-                return;
+            if (Mathf.Abs(direction) < 0.01f) return;
 
             Vector3 scale = transform.localScale;
-
             scale.x = Mathf.Abs(scale.x) * Mathf.Sign(direction);
-
             transform.localScale = scale;
         }
 
         public bool IsInAttackRange()
         {
-            if (target == null)
-                return false;
-
+            if (target == null) return false;
             float distance = Mathf.Abs(target.position.x - transform.position.x);
-
-            return distance <=
-                   attackDistance;
-        }
-        // Target
-        public Transform GetTarget()
-        {
-            return target;
+            return distance <= attackDistance;
         }
 
-        public void SetTarget(
-            Transform newTarget)
-        {
-            target = newTarget;
-        }
+        public Transform GetTarget() => target;
+        public void SetTarget(Transform newTarget) => target = newTarget;
 
         private void OnDrawGizmosSelected()
         {
-            // Detection
             Gizmos.color = Color.yellow;
-
             Gizmos.DrawWireSphere(transform.position, detectionDistance);
 
             Gizmos.color = Color.red;
-
             Gizmos.DrawWireSphere(transform.position, attackDistance);
         }
     }

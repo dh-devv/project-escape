@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: f992139e4ad2ff04580768b833dc2f61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -849890316657804810
+    second: UI_Iron_Logos_Free_0
+  - first:
+      213: -1353577263807113697
+    second: UI_Iron_Logos_Free_1
+  - first:
+      213: -1478087881782478534
+    second: UI_Iron_Logos_Free_2
+  - first:
+      213: -3544082096090851920
+    second: UI_Iron_Logos_Free_3
+  - first:
+      213: 4347427703524086104
+    second: UI_Iron_Logos_Free_4
+  - first:
+      213: 8684260021250010445
+    second: UI_Iron_Logos_Free_5
+  - first:
+      213: -2418944049701556085
+    second: UI_Iron_Logos_Free_6
+  - first:
+      213: -3876765076431057375
+    second: UI_Iron_Logos_Free_7
+  - first:
+      213: -2819345418450194474
+    second: UI_Iron_Logos_Free_8
+  - first:
+      213: -5375848982990387198
+    second: UI_Iron_Logos_Free_9
+  - first:
+      213: 3477057139751521190
+    second: UI_Iron_Logos_Free_10
+  - first:
+      213: -5266302665070887428
+    second: UI_Iron_Logos_Free_11
+  - first:
+      213: -1589854511492457578
+    second: UI_Iron_Logos_Free_12
+  - first:
+      213: 876428219652776993
+    second: UI_Iron_Logos_Free_13
+  - first:
+      213: 7436348122043053560
+    second: UI_Iron_Logos_Free_14
+  - first:
+      213: -2726804903676517548
+    second: UI_Iron_Logos_Free_15
+  - first:
+      213: -3677951880249450566
+    second: UI_Iron_Logos_Free_16
+  - first:
+      213: 2934680781313955771
+    second: UI_Iron_Logos_Free_17
+  - first:
+      213: 3468145458986513480
+    second: UI_Iron_Logos_Free_18
+  - first:
+      213: -5406774221644285083
+    second: UI_Iron_Logos_Free_19
+  - first:
+      213: 7449060250667505871
+    second: UI_Iron_Logos_Free_20
+  - first:
+      213: 8391688856323349079
+    second: UI_Iron_Logos_Free_21
+  - first:
+      213: -8417636075673098295
+    second: UI_Iron_Logos_Free_22
+  - first:
+      213: 8155896436842977545
+    second: UI_Iron_Logos_Free_23
+  - first:
+      213: -5400204442502695364
+    second: UI_Iron_Logos_Free_24
+  - first:
+      213: 2491261721125541700
+    second: UI_Iron_Logos_Free_25
+  - first:
+      213: 5846484449937542807
+    second: UI_Iron_Logos_Free_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9319982459434f0800000000000000
+      internalID: -849890316657804810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f165bbe66a0273de0800000000000000
+      internalID: -1353577263807113697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39bb8b17e6cc7be0800000000000000
+      internalID: -1478087881782478534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5dea76c14e0dec0800000000000000
+      internalID: -3544082096090851920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851de33767a255c30800000000000000
+      internalID: 4347427703524086104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dabb76a70b48870800000000000000
+      internalID: 8684260021250010445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 41
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b807ef1f33f2e6ed0800000000000000
+      internalID: -2418944049701556085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 41
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ecfa5f3b6f23ac0800000000000000
+      internalID: -3876765076431057375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 41
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfa62a874cafd8d0800000000000000
+      internalID: -2819345418450194474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20886ba15d52565b0800000000000000
+      internalID: -5375848982990387198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab00aedb0df04030800000000000000
+      internalID: 3477057139751521190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdb1c0d0a55ae6b0800000000000000
+      internalID: -5266302665070887428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 38
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b90f5ceb3bfe9e0800000000000000
+      internalID: -1589854511492457578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 38
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124288f72d2b92c00800000000000000
+      internalID: 876428219652776993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 38
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5f480b737333760800000000000000
+      internalID: 7436348122043053560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 38
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45361982361782ad0800000000000000
+      internalID: -2726804903676517548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 38
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf50c4604a45fcc0800000000000000
+      internalID: -3677951880249450566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 38
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7526b3f941ab820800000000000000
+      internalID: 2934680781313955771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84476408be3512030800000000000000
+      internalID: 3468145458986513480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b3722ed7747f4b0800000000000000
+      internalID: -5406774221644285083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8d487c4d0606760800000000000000
+      internalID: 7449060250667505871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ad1c2cd84457470800000000000000
+      internalID: 8391688856323349079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 13
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7edf4769c8e2b80800000000000000
+      internalID: -8417636075673098295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90956e6f8909f2170800000000000000
+      internalID: 8155896436842977545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 13
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36f32acbae9e05b0800000000000000
+      internalID: -5400204442502695364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 5
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447573a065db29220800000000000000
+      internalID: 2491261721125541700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Iron_Logos_Free_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 5
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e4f5791a2e22150800000000000000
+      internalID: 5846484449937542807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Iron_Logos_Free_0: -849890316657804810
+      UI_Iron_Logos_Free_1: -1353577263807113697
+      UI_Iron_Logos_Free_10: 3477057139751521190
+      UI_Iron_Logos_Free_11: -5266302665070887428
+      UI_Iron_Logos_Free_12: -1589854511492457578
+      UI_Iron_Logos_Free_13: 876428219652776993
+      UI_Iron_Logos_Free_14: 7436348122043053560
+      UI_Iron_Logos_Free_15: -2726804903676517548
+      UI_Iron_Logos_Free_16: -3677951880249450566
+      UI_Iron_Logos_Free_17: 2934680781313955771
+      UI_Iron_Logos_Free_18: 3468145458986513480
+      UI_Iron_Logos_Free_19: -5406774221644285083
+      UI_Iron_Logos_Free_2: -1478087881782478534
+      UI_Iron_Logos_Free_20: 7449060250667505871
+      UI_Iron_Logos_Free_21: 8391688856323349079
+      UI_Iron_Logos_Free_22: -8417636075673098295
+      UI_Iron_Logos_Free_23: 8155896436842977545
+      UI_Iron_Logos_Free_24: -5400204442502695364
+      UI_Iron_Logos_Free_25: 2491261721125541700
+      UI_Iron_Logos_Free_26: 5846484449937542807
+      UI_Iron_Logos_Free_3: -3544082096090851920
+      UI_Iron_Logos_Free_4: 4347427703524086104
+      UI_Iron_Logos_Free_5: 8684260021250010445
+      UI_Iron_Logos_Free_6: -2418944049701556085
+      UI_Iron_Logos_Free_7: -3876765076431057375
+      UI_Iron_Logos_Free_8: -2819345418450194474
+      UI_Iron_Logos_Free_9: -5375848982990387198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

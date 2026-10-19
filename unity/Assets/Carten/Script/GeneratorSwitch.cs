@@ -7,7 +7,7 @@ namespace Carten
     public class GeneratorSwitch : MonoBehaviour
     {
         [Header("자체 ID 및 기본 설정")]
-        [Tooltip("이 오브젝트(발전기 또는 스위치)의 고유 ID입니다.")]
+        [Tooltip("이 오브젝트(발전기 또는 스위치)의 고유 ID입니다. 다른 씬의 조명과 연동하려면 같은 ID를 쓰세요.")]
         [SerializeField] private string powerId = "Stage1_Generator_01";
         [SerializeField] private bool startPowered = false;
         [SerializeField] private KeyCode interactKey = KeyCode.F;
@@ -25,7 +25,6 @@ namespace Carten
         [SerializeField] private string promptText = "F  작동";
         [SerializeField] private string noPowerPromptText = "전원이 꺼져 있습니다 (발전기 가동 필요)";
 
-        // 씬 내의 모든 발전기/스위치가 공유하는 단일 프롬프트 캐시
         private static TMP_Text sharedPrompt;
 
         private bool playerInRange;
@@ -40,15 +39,11 @@ namespace Carten
 
         private void Awake()
         {
-            isPowered = startPowered;
+            PlayerPrefs.DeleteKey(powerId);
 
-            GameStateManager stateManager = GameStateManager.Instance;
-            if (stateManager != null && !string.IsNullOrWhiteSpace(powerId) && stateManager.HasTriggered(powerId))
-                isPowered = true;
-
+            CheckSavedPowerState();
             ApplyPowerState();
 
-            // 인스펙터에 직접 연결하지 않았다면 씬에서 "InteractionPrompt"를 자동으로 찾습니다.
             if (interactionPrompt == null)
             {
                 interactionPrompt = FindSharedPrompt();
@@ -58,9 +53,39 @@ namespace Carten
                 interactionPrompt.gameObject.SetActive(false);
         }
 
-        /// <summary>
-        /// 씬 안에 꺼져 있는 오브젝트까지 포함하여 "InteractionPrompt"를 딱 한 번 찾아 공유합니다.
-        /// </summary>
+        private void Start()
+        {
+            // ★ 다른 씬에서 넘어왔을 때 GameStateManager 및 PlayerPrefs 상태를 한 번 더 확인해 조명을 자동으로 켭니다.
+            CheckSavedPowerState();
+            ApplyPowerState();
+        }
+
+        private void CheckSavedPowerState()
+        {
+            if (startPowered)
+            {
+                isPowered = true;
+                return;
+            }
+
+            if (string.IsNullOrWhiteSpace(powerId))
+                return;
+
+            GameStateManager stateManager = GameStateManager.Instance;
+            if (stateManager != null && stateManager.HasTriggered(powerId))
+            {
+                isPowered = true;
+                return;
+            }
+
+            if (PlayerPrefs.GetInt(powerId, 0) == 1)
+            {
+                isPowered = true;
+                if (stateManager != null)
+                    stateManager.SetTriggered(powerId);
+            }
+        }
+
         private TMP_Text FindSharedPrompt()
         {
             if (sharedPrompt != null)
@@ -81,7 +106,6 @@ namespace Carten
 
         private void Update()
         {
-            // 플레이어가 내 범위 밖이거나 이미 작동된 상태라면 다른 오브젝트의 안내 문구를 건드리지 않음
             if (!playerInRange || isPowered)
                 return;
 
@@ -107,21 +131,24 @@ namespace Carten
                 return true;
 
             GameStateManager stateManager = GameStateManager.Instance;
-            if (stateManager != null)
-                return stateManager.HasTriggered(requiredGeneratorId);
+            if (stateManager != null && stateManager.HasTriggered(requiredGeneratorId))
+                return true;
+
+            if (PlayerPrefs.GetInt(requiredGeneratorId, 0) == 1)
+                return true;
 
             return false;
         }
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if (other.CompareTag("Player"))
+            if (other.CompareTag("Player") || other.GetComponentInParent<PlayerController>() != null)
                 playerInRange = true;
         }
 
         private void OnTriggerExit2D(Collider2D other)
         {
-            if (!other.CompareTag("Player"))
+            if (!other.CompareTag("Player") && other.GetComponentInParent<PlayerController>() == null)
                 return;
 
             playerInRange = false;
@@ -142,13 +169,16 @@ namespace Carten
             if (stateManager != null && !string.IsNullOrWhiteSpace(powerId))
                 stateManager.SetTriggered(powerId);
 
+            if (!string.IsNullOrWhiteSpace(powerId))
+            {
+                PlayerPrefs.SetInt(powerId, 1);
+                PlayerPrefs.Save();
+            }
+
             if (interactionPrompt != null)
                 interactionPrompt.gameObject.SetActive(false);
 
             Debug.Log($"[GeneratorSwitch] 작동 완료: {powerId}", this);
-
-            // switchID 변수(예: "Stage1_Generator_01")의 이름을 키값으로 하여 작동 완료(1) 상태를 저장합니다.
-            PlayerPrefs.SetInt(powerId, 1);
         }
 
         private void ApplyPowerState()

@@ -1,3 +1,4 @@
+using System.Collections;
 using TMPro;
 using UnityEngine;
 
@@ -21,8 +22,16 @@ namespace Carten
         [SerializeField] private string requiredGeneratorId = "";
 
         [Header("전원을 공급할 조명 및 이펙트 오브젝트")]
-        [Tooltip("작동 시 활성화할 Light 2D나 빛나는 파티클 등의 GameObject들을 넣으세요.")]
+        [Tooltip("Spot Light 2D, Light_Room_01 등 발전기가 켜질 때 함께 작동할 GameObject들을 모두 등록하세요.")]
         [SerializeField] private GameObject[] lightsToPower;
+
+        [Header("전력 가동 연출 설정")]
+        [Tooltip("체크하면 발전기를 켤 때 조명이 치직거리며 켜지는 깜빡임 연출이 들어갑니다.")]
+        [SerializeField] private bool useFlickerEffect = true;
+
+        [Header("테스트 설정")]
+        [Tooltip("체크하면 게임 실행 시 이전 저장 기록을 지우고 꺼진 상태로 강제 시작합니다 (테스트용).")]
+        [SerializeField] private bool resetPowerStateOnStart = false;
 
         [Header("상호작용 안내 (비워두어도 자동으로 찾음)")]
         [SerializeField] private TMP_Text interactionPrompt;
@@ -33,14 +42,6 @@ namespace Carten
         private bool isPowered;
         private bool lastPrerequisiteState;
 
-        private static bool sessionInitialized = false;
-
-        [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
-        private static void ResetSessionFlag()
-        {
-            sessionInitialized = false;
-        }
-
         private void Reset()
         {
             Collider2D triggerCollider = GetComponent<Collider2D>();
@@ -50,14 +51,12 @@ namespace Carten
 
         private void Awake()
         {
-            if (!sessionInitialized)
+            if (resetPowerStateOnStart && !string.IsNullOrWhiteSpace(powerId))
             {
-                sessionInitialized = true;
-                PlayerPrefs.DeleteAll();
+                PlayerPrefs.DeleteKey(powerId);
             }
 
             CheckSavedPowerState();
-            ApplyPowerState();
 
             if (interactionPrompt == null)
             {
@@ -72,7 +71,7 @@ namespace Carten
         {
             CheckSavedPowerState();
             lastPrerequisiteState = CheckPrerequisitePower();
-            ApplyPowerState();
+            ApplyPowerState(animate: false);
         }
 
         private void CheckSavedPowerState()
@@ -116,12 +115,10 @@ namespace Carten
         {
             if (!isPowered)
             {
-                CheckSavedPowerState();
                 bool currentPrereq = CheckPrerequisitePower();
-                if (isPowered || currentPrereq != lastPrerequisiteState)
+                if (currentPrereq != lastPrerequisiteState)
                 {
                     lastPrerequisiteState = currentPrereq;
-                    ApplyPowerState();
                 }
             }
 
@@ -202,24 +199,58 @@ namespace Carten
                 PlayerPrefs.Save();
             }
 
-            ApplyPowerState();
+            ApplyPowerState(animate: useFlickerEffect);
 
             if (interactionPrompt != null)
                 interactionPrompt.gameObject.SetActive(false);
 
-            Debug.Log($"[GeneratorSwitch] 작동 완료: {powerId}", this);
+            Debug.Log($"[GeneratorSwitch] 발전기 가동 완료: {powerId}", this);
         }
 
-        private void ApplyPowerState()
+        private void ApplyPowerState(bool animate = false)
         {
-            // 연결된 조명 및 이펙트 오브젝트 켜기/끄기
-            if (lightsToPower != null)
+            if (lightsToPower == null) return;
+
+            if (animate && isPowered && gameObject.activeInHierarchy)
             {
-                foreach (GameObject lightObject in lightsToPower)
-                {
-                    if (lightObject != null)
-                        lightObject.SetActive(isPowered);
-                }
+                StartCoroutine(FlickerPowerOnRoutine());
+            }
+            else
+            {
+                SetLightsActive(isPowered);
+            }
+        }
+
+        private IEnumerator FlickerPowerOnRoutine()
+        {
+            for (int i = 0; i < 3; i++)
+            {
+                SetLightsActive(true);
+                yield return new WaitForSeconds(Random.Range(0.04f, 0.08f));
+                SetLightsActive(false);
+                yield return new WaitForSeconds(Random.Range(0.04f, 0.12f));
+            }
+            SetLightsActive(true);
+        }
+
+        private void SetLightsActive(bool active)
+        {
+            if (lightsToPower == null) return;
+            foreach (GameObject lightObject in lightsToPower)
+            {
+                if (lightObject != null)
+                    lightObject.SetActive(active);
+            }
+        }
+
+        // 인스펙터 스크립트 컴포넌트 우클릭 메뉴로 저장 상태 초기화 가능
+        [ContextMenu("Reset Power State (Delete Key)")]
+        public void ResetPowerStateInEditor()
+        {
+            if (!string.IsNullOrWhiteSpace(powerId))
+            {
+                PlayerPrefs.DeleteKey(powerId);
+                Debug.Log($"[GeneratorSwitch] {powerId} 키가 초기화되었습니다.");
             }
         }
     }

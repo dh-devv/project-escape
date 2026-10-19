@@ -18,14 +18,15 @@ namespace Carten
                 return;
             }
 
-            // ★ 씬 전환 시 페이드 매니저 연동 확인 후 호출
+            // 스폰 포인트 정보 저장 (ConditionalDoor와 동일한 PrefKey 사용)
+            PlayerPrefs.SetString("LastTargetSpawnPoint", targetSpawnPointName);
+            PlayerPrefs.Save();
+
             if (SceneTransitionManager.Instance != null)
             {
-                PlayerPrefs.SetString("LastTargetSpawnPoint", targetSpawnPointName);
-                PlayerPrefs.Save();
                 SceneTransitionManager.Instance.LoadSceneWithFade(targetSceneName);
             }
-            else
+            else if (MapTransitionManager.Instance != null)
             {
                 MapTransitionManager.Instance.LoadMap(targetSceneName, targetSpawnPointName);
             }

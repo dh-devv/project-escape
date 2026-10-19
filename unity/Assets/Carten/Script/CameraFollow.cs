@@ -1,4 +1,3 @@
-using System.Collections;
 using UnityEngine;
 
 namespace Carten
@@ -7,115 +6,100 @@ namespace Carten
     {
         public static CameraFollow Instance { get; private set; }
 
-        [Header("=== Target ===")]
-        [SerializeField] private Transform target;
+        public Transform target;
+        public float offsetX = 0f;
+        public float offsetY = 2f;
+        public float offsetZ = -10f;
+        public float followSpeed = 8f;
+        public bool followX = true;
+        public bool followY = true;
 
-        [Header("=== Camera Offset ===")]
-        [SerializeField] private float offsetX = 0f;
-        [SerializeField] private float offsetY = 2f;
-        [SerializeField] private float offsetZ = -10f;
-
-        [Header("=== Follow Speed ===")]
-        [SerializeField] private float followSpeed = 8f;
-
-        [Header("=== Follow Settings ===")]
-        [SerializeField] private bool followX = true;
-        [SerializeField] private bool followY = true;
-
-        private Vector3 shakeOffset = Vector3.zero;
-        private Coroutine shakeCoroutine;
+        // 카메라 흔들림(Shake) 관련 변수
+        private float shakeTimer = 0f;
+        private float currentShakeMagnitude = 0.2f;
 
         private void Awake()
         {
-            if (Instance == null)
-            {
-                Instance = this;
-            }
-            else if (Instance != this)
-            {
-                Destroy(this);
-                return;
-            }
+            // ★ Destroy(gameObject) 제거: 새 씬이 로드되면 이 카메라가 현재 인스턴스가 됨
+            Instance = this;
+        }
 
-            if (target == null)
-            {
-                GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
-                if (playerObj != null)
-                {
-                    target = playerObj.transform;
-                }
-            }
+        private void OnEnable()
+        {
+            Instance = this;
+            FindAndSnapToTarget();
         }
 
         private void Start()
         {
-            if (target == null || target.gameObject.activeInHierarchy == false)
+            FindAndSnapToTarget();
+        }
+
+        private void OnDestroy()
+        {
+            if (Instance == this)
             {
-                GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
-                if (playerObj != null)
-                {
-                    target = playerObj.transform;
-                }
+                Instance = null;
             }
         }
 
         private void LateUpdate()
         {
-            if (target == null || target.gameObject == null || !target.gameObject.activeInHierarchy)
+            if (target == null)
             {
-                GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
-                if (playerObj != null)
-                {
-                    target = playerObj.transform;
-                }
-                else
-                {
-                    return;
-                }
+                FindAndSnapToTarget();
+                if (target == null) return;
             }
 
-            Vector3 targetPosition = target.position;
-            float targetX = followX ? targetPosition.x + offsetX : transform.position.x;
-            float targetY = followY ? targetPosition.y + offsetY : transform.position.y;
+            Vector3 targetPosition = new Vector3(
+                followX ? target.position.x + offsetX : transform.position.x,
+                followY ? target.position.y + offsetY : transform.position.y,
+                target.position.z + offsetZ
+            );
 
-            Vector3 desiredPosition = new Vector3(targetX, targetY, offsetZ);
-            Vector3 smoothedPosition = Vector3.Lerp(transform.position - shakeOffset, desiredPosition, followSpeed * Time.deltaTime);
+            Vector3 smoothedPosition = Vector3.Lerp(transform.position, targetPosition, followSpeed * Time.deltaTime);
 
-            transform.position = smoothedPosition + shakeOffset;
-        }
-
-        public void TriggerShake(float duration = 0.18f, float magnitude = 0.12f)
-        {
-            if (shakeCoroutine != null)
+            // 카메라 흔들림 연산
+            if (shakeTimer > 0)
             {
-                StopCoroutine(shakeCoroutine);
-            }
-            shakeCoroutine = StartCoroutine(CoShake(duration, magnitude));
-        }
-
-        private IEnumerator CoShake(float duration, float magnitude)
-        {
-            float elapsed = 0f;
-
-            while (elapsed < duration)
-            {
-                elapsed += Time.deltaTime;
-                float damper = 1.0f - Mathf.Clamp01(elapsed / duration);
-
-                float offsetX = Random.Range(-1f, 1f) * magnitude * damper;
-                float offsetY = Random.Range(-1f, 1f) * magnitude * damper;
-
-                shakeOffset = new Vector3(offsetX, offsetY, 0f);
-                yield return null;
+                Vector2 randomCircle = Random.insideUnitCircle * currentShakeMagnitude;
+                smoothedPosition += new Vector3(randomCircle.x, randomCircle.y, 0f);
+                shakeTimer -= Time.deltaTime;
             }
 
-            shakeOffset = Vector3.zero;
-            shakeCoroutine = null;
+            transform.position = smoothedPosition;
         }
 
         public void SetTarget(Transform newTarget)
         {
             target = newTarget;
+        }
+
+        public void TriggerShake(float duration = 0.2f, float magnitude = 0.2f)
+        {
+            shakeTimer = duration;
+            currentShakeMagnitude = magnitude;
+        }
+
+        public void FindAndSnapToTarget()
+        {
+            if (target == null)
+            {
+                PlayerController player = UnityEngine.Object.FindAnyObjectByType<PlayerController>();
+                if (player != null)
+                {
+                    target = player.transform;
+                }
+            }
+
+            if (target != null)
+            {
+                transform.position = new Vector3(
+                    followX ? target.position.x + offsetX : transform.position.x,
+                    followY ? target.position.y + offsetY : transform.position.y,
+                    target.position.z + offsetZ
+                );
+            }
         }
     }
 }

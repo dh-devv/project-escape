@@ -20,6 +20,7 @@ namespace Carten
             if (Instance == null)
                 new GameObject("MapTransitionManager").AddComponent<MapTransitionManager>();
         }
+
         private void Awake()
         {
             if (Instance != null && Instance != this)
@@ -31,6 +32,7 @@ namespace Carten
             DontDestroyOnLoad(gameObject);
             SceneManager.sceneLoaded += OnSceneLoaded;
         }
+
         public void LoadMap(string sceneName, string spawnPointName)
         {
             if (IsTransitioning) return;
@@ -67,6 +69,7 @@ namespace Carten
                 Debug.LogException(error, this);
             }
         }
+
         private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
         {
             if (scene.name == "Main UI")
@@ -80,7 +83,7 @@ namespace Carten
             }
             if (!IsTransitioning || scene.name != targetScene) return;
             GameObject player = persistentPlayer;
-            // Respect a destination scene that supplies its own player/camera.
+
             foreach (PlayerController candidate in FindObjectsByType<PlayerController>())
             {
                 if (candidate.gameObject.scene != scene) continue;
@@ -111,16 +114,21 @@ namespace Carten
                     rb.linearVelocity = Vector2.zero;
                     rb.angularVelocity = 0f;
                 }
+
+                // ★ 수정된 CameraFollow 스크립트에 맞춰 연동 로직 개선
                 if (persistentCamera != null)
                 {
                     CameraFollow follow = persistentCamera.GetComponent<CameraFollow>();
-                    if (follow != null) follow.SetTarget(player.transform);
-                    persistentCamera.transform.position = new Vector3(player.transform.position.x,
-                        player.transform.position.y + 2f, persistentCamera.transform.position.z);
+                    if (follow != null)
+                    {
+                        follow.target = player.transform;
+                        follow.FindAndSnapToTarget();
+                    }
                 }
             }
             ClearPending();
         }
+
         private void ClearPending()
         {
             IsTransitioning = false;
@@ -128,8 +136,10 @@ namespace Carten
             targetSpawnPoint = null;
             carriedHealth = null;
         }
+
         public bool HasPlacedPlayer(Scene scene) =>
             placedSceneHandle != SceneHandle.None && placedSceneHandle == scene.handle;
+
         private void OnDestroy()
         {
             SceneManager.sceneLoaded -= OnSceneLoaded;

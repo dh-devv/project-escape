@@ -204,7 +204,7 @@ namespace Carten
 
         private Rigidbody2D rb;
         private Animator anim;
-        private GameHUD gameHUD; // ★ HUD 연결용 변수 추가
+        private GameHUD gameHUD;
 
         private int jumpCount;
         private float dashTimer;
@@ -267,7 +267,6 @@ namespace Carten
 
         private void Start()
         {
-            // ★ 씬에 있는 GameHUD 찾기
             gameHUD = FindFirstObjectByType<GameHUD>();
 
             GameStateManager state = GameStateManager.Instance;
@@ -279,11 +278,9 @@ namespace Carten
                     Die();
             }
 
-            // ★ 시작할 때 현재 체력과 페이즈를 UI에 즉시 반영
             SyncHUD();
         }
 
-        // ★ HUD에 플레이어 체력 & 페이즈 상태를 보내주는 함수
         private void SyncHUD()
         {
             if (gameHUD == null)
@@ -693,6 +690,20 @@ namespace Carten
                 anim.SetTrigger("doDamage");
             }
 
+            // ★ 피격 연출 추가 (핏빛 비네트 & RGB 색수차 찌그러짐 + 카메라 흔들림)
+            if (finalDamage > 0f)
+            {
+                if (HitFeedbackController.Instance != null)
+                {
+                    HitFeedbackController.Instance.TriggerHitEffect(0.2f);
+                }
+
+                if (CameraFollow.Instance != null)
+                {
+                    CameraFollow.Instance.TriggerShake(0.15f, 0.3f);
+                }
+            }
+
             SaveGameState();
 
             if (currentHealth <= 0f)
@@ -725,7 +736,7 @@ namespace Carten
                 OnPhaseChanged(previousPhase, currentPhase);
             }
 
-            SyncHUD(); // ★ 페이즈가 바뀔 때도 UI 즉시 갱신
+            SyncHUD();
         }
 
         private void ApplyPhaseAnimator(bool forceRefresh = false)

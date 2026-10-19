@@ -1,5 +1,6 @@
 """Regression checks for the saved scenes shipped in a player build."""
 from pathlib import Path
+import json
 import re
 import unittest
 
@@ -15,6 +16,14 @@ def documents(path):
 
 
 class BuildContentTests(unittest.TestCase):
+    def test_runtime_ui_declares_its_input_system_dependency(self):
+        ui = (ASSETS / "Carten/Script/UI/GameplayUI.cs").read_text(encoding="utf-8-sig")
+        references = json.loads((ASSETS / "Carten/Carten.asmdef").read_text(encoding="utf-8-sig"))["references"]
+        if "using UnityEngine.InputSystem" in ui:
+            self.assertTrue("Unity.InputSystem" in references or
+                            "GUID:75469ad4d38634e559750d17036d5f7c" in references,
+                            "Carten imports InputSystem but its assembly reference is missing")
+
     def test_menu_is_first_in_global_and_overriding_profiles(self):
         settings = (UNITY / "ProjectSettings/EditorBuildSettings.asset").read_text(encoding="utf-8-sig")
         expected = ["Assets/Scenes/UI/Main UI.unity"] + [f"Assets/Scenes/Stage1_Map{i:02}.unity" for i in range(1, 9)]

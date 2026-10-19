@@ -596,7 +596,7 @@ namespace Carten
 
         public void TriggerSkillAnimation(int skillNumber)
         {
-            if (anim != null && !isDead)
+            if (anim == null || isDead)
                 return;
 
             switch (skillNumber)

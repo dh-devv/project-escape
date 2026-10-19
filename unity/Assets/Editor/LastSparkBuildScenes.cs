@@ -2,7 +2,6 @@ using System;
 using System.Linq;
 using UnityEditor;
 using UnityEditor.Build;
-using UnityEditor.Build.Profile;
 using UnityEditor.Build.Reporting;
 using UnityEngine;
 
@@ -26,7 +25,7 @@ namespace LastSpark.Editor
 
         private static void Schedule()
         {
-            if (queued || synchronizing) return;
+            if (queued || synchronizing || BuildPipeline.isBuildingPlayer || EditorApplication.isPlayingOrWillChangePlaymode) return;
             queued = true;
             EditorApplication.delayCall += SynchronizeWhenReady;
         }
@@ -34,6 +33,7 @@ namespace LastSpark.Editor
         private static void SynchronizeWhenReady()
         {
             queued = false;
+            if (BuildPipeline.isBuildingPlayer || EditorApplication.isPlayingOrWillChangePlaymode) return;
             if (EditorApplication.isCompiling || EditorApplication.isUpdating)
             {
                 Schedule();
@@ -68,7 +68,7 @@ namespace LastSpark.Editor
 
         internal static void Synchronize(bool report)
         {
-            if (synchronizing) return;
+            if (synchronizing || BuildPipeline.isBuildingPlayer || EditorApplication.isPlayingOrWillChangePlaymode) return;
             var scenes = CollectScenes();
             if (scenes.Length == 0 || scenes[0].path != MenuScene)
             {
@@ -82,16 +82,8 @@ namespace LastSpark.Editor
                 bool changed = !Matches(EditorBuildSettings.globalScenes, scenes);
                 if (changed) EditorBuildSettings.globalScenes = scenes;
 
-                // Profiles with overrides would otherwise continue to use an old list.
-                foreach (string guid in AssetDatabase.FindAssets("t:BuildProfile", new[] { "Assets" }))
-                {
-                    var profile = AssetDatabase.LoadAssetAtPath<BuildProfile>(AssetDatabase.GUIDToAssetPath(guid));
-                    if (profile == null || !profile.overrideGlobalScenes || Matches(profile.scenes, scenes)) continue;
-                    profile.scenes = scenes;
-                    EditorUtility.SetDirty(profile);
-                    AssetDatabase.SaveAssetIfDirty(profile);
-                    changed = true;
-                }
+                // Profiles inherit the global scene list. Rewriting/saving a profile while its
+                // Inspector or build is using SerializedProperty handles can invalidate them.
 
                 if (changed || report)
                     Debug.Log("[LAST SPARK] Scene List 동기화 완료: Main UI + 게임 씬 " + (scenes.Length - 1) + "개.");
@@ -115,9 +107,7 @@ namespace LastSpark.Editor
 
             if (!LastSparkBuildScenes.Matches(EditorBuildSettings.scenes, expected))
             {
-                LastSparkBuildScenes.Synchronize(true);
-                // Unity may already have captured the old list for this build.
-                throw new BuildFailedException("Scene List를 갱신했습니다. Build를 다시 눌러 새 목록으로 빌드해 주세요.");
+                throw new BuildFailedException("Scene List가 최신 목록과 다릅니다. 빌드를 멈추고 LAST SPARK > Sync Build Scenes를 실행한 뒤, 프로필의 Override Global Scene List를 끄고 다시 빌드해 주세요.");
             }
         }
     }

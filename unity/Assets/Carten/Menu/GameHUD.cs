@@ -22,6 +22,7 @@ namespace Carten
 
         private PlayerController player;
         private BossController currentBoss;
+        public bool HasPlayerHealthBar => playerHpFill != null;
 
         private void Start()
         {

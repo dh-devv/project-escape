@@ -67,12 +67,11 @@ namespace Carten.Tests
         public void RestoringMapHealthPreservesPhaseAndRejectsInvalidHealth()
         {
             PlayerController player = Player();
-            MethodInfo restore = typeof(PlayerController).GetMethod("RestoreHealthForMap", BindingFlags.Instance | BindingFlags.NonPublic);
-            restore.Invoke(player, new object[] { 25f });
+            player.RestoreHealthForMap(25f);
             Assert.That(player.CurrentHealth, Is.EqualTo(25f));
             Assert.That(player.CurrentPhase, Is.EqualTo(PlayerController.PlayerPhase.Phase3));
-            restore.Invoke(player, new object[] { float.NaN });
-            restore.Invoke(player, new object[] { 0f });
+            player.RestoreHealthForMap(float.NaN);
+            player.RestoreHealthForMap(0f);
             Assert.That(player.CurrentHealth, Is.EqualTo(25f));
         }
 
@@ -118,8 +117,7 @@ namespace Carten.Tests
         {
             GameStateManager state = NewObject("Game state").AddComponent<GameStateManager>();
             PlayerController player = Player();
-            typeof(PlayerController).GetMethod("RestoreHealthForMap", BindingFlags.Instance | BindingFlags.NonPublic)
-                .Invoke(player, new object[] { 25f });
+            player.RestoreHealthForMap(25f);
             player.SendMessage("Start");
             Assert.That(player.CurrentHealth, Is.EqualTo(25f));
             player.TakeDamage(5f);
@@ -228,7 +226,7 @@ namespace Carten.Tests
             GameObject go = NewObject("Bullet");
             go.AddComponent<Rigidbody2D>();
             Enemy2Bullet bullet = go.AddComponent<Enemy2Bullet>();
-            SetField(bullet, "obstacleLayer", LayerMask.GetMask("Ground"));
+            SetField(bullet, "obstacleLayer", (LayerMask)LayerMask.GetMask("Ground"));
             bullet.Initialize(Vector2.right, 10f, LayerMask.GetMask("Player"));
             bullet.SendMessage("OnTriggerEnter2D", wallCollider);
             bullet.SendMessage("OnTriggerEnter2D", player.GetComponent<Collider2D>());

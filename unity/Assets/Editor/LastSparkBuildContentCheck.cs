@@ -15,7 +15,13 @@ namespace LastSpark.Editor
 
         public void OnProcessScene(Scene scene, BuildReport report)
         {
-            if (report == null || (!scene.name.StartsWith("Stage1_Map") && scene.name != "Main UI")) return;
+            if (report == null) return;
+            ValidateScene(scene);
+        }
+
+        internal static void ValidateScene(Scene scene)
+        {
+            if (!scene.name.StartsWith("Stage1_Map") && scene.name != "Main UI") return;
             bool hasMenu = false;
             bool hasPlayerUi = false;
             foreach (GameObject root in scene.GetRootGameObjects())
@@ -33,38 +39,46 @@ namespace LastSpark.Editor
                 }
                 foreach (MainMenuUI menu in root.GetComponentsInChildren<MainMenuUI>(true))
                 {
-                    Image background = new SerializedObject(menu).FindProperty("background").objectReferenceValue as Image;
-                    Require(menu.isActiveAndEnabled && background != null && background.sprite != null,
-                        scene, "시작 화면의 배경 또는 시작 컨트롤러가 연결되지 않았습니다.");
+                    using (var data = new SerializedObject(menu))
+                    {
+                        Image background = data.FindProperty("background").objectReferenceValue as Image;
+                        Require(menu.isActiveAndEnabled && background != null && background.sprite != null,
+                            scene, "시작 화면의 배경 또는 시작 컨트롤러가 연결되지 않았습니다.");
+                    }
                     hasMenu = true;
                 }
                 foreach (GameHUD hud in root.GetComponentsInChildren<GameHUD>(true))
                 {
-                    var data = new SerializedObject(hud);
-                    Require(hud.isActiveAndEnabled && data.FindProperty("playerHpFill").objectReferenceValue != null &&
-                        data.FindProperty("playerHpText").objectReferenceValue != null,
-                        scene, "HUD 체력바 또는 체력 텍스트가 연결되지 않았습니다.");
+                    // Numeric labels, phase text and boss/skill panels are optional in the authored HUD.
+                    Require(hud.isActiveAndEnabled && hud.HasPlayerHealthBar,
+                        scene, "HUD 체력바가 연결되지 않았습니다.");
                     hasPlayerUi = true;
                 }
                 foreach (GameplayUI hud in root.GetComponentsInChildren<GameplayUI>(true))
                 {
-                    Require(hud.isActiveAndEnabled && new SerializedObject(hud).FindProperty("font").objectReferenceValue != null,
-                        scene, "HUD 또는 한글 폰트가 연결되지 않았습니다.");
+                    using (var data = new SerializedObject(hud))
+                        Require(hud.isActiveAndEnabled && data.FindProperty("font").objectReferenceValue != null,
+                            scene, "HUD 또는 한글 폰트가 연결되지 않았습니다.");
                     hasPlayerUi = true;
                 }
                 foreach (EncounterController encounter in root.GetComponentsInChildren<EncounterController>(true))
                 {
                     Require(encounter.isActiveAndEnabled, scene, encounter.name + " 전투 구역이 꺼져 있습니다.");
-                    var data = new SerializedObject(encounter);
-                    Object spawner = data.FindProperty("enemySpawner").objectReferenceValue;
-                    Require(spawner != null, scene, encounter.name + " 적 생성기가 없습니다.");
-                    Require(new SerializedObject(spawner).FindProperty("enemy1Prefab").objectReferenceValue != null,
-                        scene, encounter.name + " 적 프리팹이 없습니다.");
-                    SerializedProperty points = data.FindProperty("spawnPoints");
-                    Require(points.arraySize > 0, scene, encounter.name + " 적 생성 위치가 없습니다.");
-                    for (int i = 0; i < points.arraySize; i++)
-                        Require(points.GetArrayElementAtIndex(i).objectReferenceValue != null,
-                            scene, encounter.name + " 적 생성 위치가 비어 있습니다.");
+                    using (var data = new SerializedObject(encounter))
+                    {
+                        Object spawner = data.FindProperty("enemySpawner").objectReferenceValue;
+                        Require(spawner != null, scene, encounter.name + " 적 생성기가 없습니다.");
+                        using (var spawnerData = new SerializedObject(spawner))
+                            for (int enemyType = 1; enemyType <= 3; enemyType++)
+                                if (data.FindProperty("enemy" + enemyType + "Count").intValue > 0)
+                                    Require(spawnerData.FindProperty("enemy" + enemyType + "Prefab").objectReferenceValue != null,
+                                        scene, encounter.name + " Enemy" + enemyType + " 프리팹이 없습니다.");
+                        SerializedProperty points = data.FindProperty("spawnPoints");
+                        Require(points.arraySize > 0, scene, encounter.name + " 적 생성 위치가 없습니다.");
+                        for (int i = 0; i < points.arraySize; i++)
+                            Require(points.GetArrayElementAtIndex(i).objectReferenceValue != null,
+                                scene, encounter.name + " 적 생성 위치가 비어 있습니다.");
+                    }
                 }
                 foreach (BossController boss in root.GetComponentsInChildren<BossController>(true))
                     Require(boss.isActiveAndEnabled, scene, boss.name + " 보스가 꺼져 있습니다.");

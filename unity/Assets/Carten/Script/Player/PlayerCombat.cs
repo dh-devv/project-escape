@@ -16,6 +16,13 @@ namespace Carten
         [Header("=== Target Layer ===")]
         [SerializeField] private LayerMask targetLayer;
 
+        [Header("=== Hit Feedback Settings ===")]
+        [Tooltip("적중 시 멈추는 시간 (추천: 0.05 ~ 0.1초)")]
+        [SerializeField] private float hitStopDuration = 0.08f;
+        [Tooltip("적에게 공격이 명중했을 때 재생할 타격음 (SFX)")]
+        [SerializeField] private AudioClip hitSound;
+        [SerializeField, Range(0f, 1f)] private float hitSoundVolume = 1f;
+
         [Header("=== Input ===")]
         [SerializeField] private KeyCode attackKey = KeyCode.Keypad3;
 
@@ -23,15 +30,23 @@ namespace Carten
         [SerializeField] private bool showDebugLog = true;
 
         private PlayerController playerController;
+        private AudioSource audioSource;
         private float attackTimer;
 
         private void Awake()
         {
             playerController = GetComponent<PlayerController>();
+            audioSource = GetComponent<AudioSource>();
 
             if (playerController == null)
             {
                 Debug.LogError("[PlayerCombat] PlayerController를 찾을 수 없습니다.");
+            }
+
+            if (audioSource == null)
+            {
+                // AudioSource가 없으면 자동으로 추가해 줍니다.
+                audioSource = gameObject.AddComponent<AudioSource>();
             }
         }
 
@@ -66,7 +81,7 @@ namespace Carten
 
         private void PerformAttack()
         {
-            // ★ 기본 공격 애니메이션(Player_P1_Attack) 실행!
+            // 기본 공격 애니메이션 실행
             playerController?.TriggerAttackAnimation();
 
             // 1. 현재 Phase 확인
@@ -106,7 +121,7 @@ namespace Carten
                 return;
             }
 
-            // 6. 공격 범위 판정
+            // 6. 공격 범위 판정 및 데미지/넉백/피격 적용
             Collider2D[] targets = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, targetLayer);
             HashSet<IDamageable> hitTargets = new HashSet<IDamageable>();
 
@@ -118,9 +133,32 @@ namespace Carten
 
                 hitTargets.Add(damageable);
                 damageable.TakeDamage(finalDamage);
+
+                // 넉백 적용
+                Enemy1Controller enemy1 = target.GetComponentInParent<Enemy1Controller>();
+                if (enemy1 != null)
+                {
+                    enemy1.ApplyKnockback(transform.position);
+                }
             }
 
-            // 7. 디버그 로그
+            // 7. 타격 성공 시 피드백 (히트 스톱 + 타격음 SFX)
+            if (hitTargets.Count > 0)
+            {
+                // 히트 스톱 발동
+                if (HitStopController.Instance != null)
+                {
+                    HitStopController.Instance.TriggerHitStop(hitStopDuration);
+                }
+
+                // 타격음 재생
+                if (hitSound != null && audioSource != null)
+                {
+                    audioSource.PlayOneShot(hitSound, hitSoundVolume);
+                }
+            }
+
+            // 8. 디버그 로그
             if (showDebugLog)
             {
                 string criticalText = isCritical ? "★ CRITICAL ★" : "일반 공격";

@@ -9,12 +9,18 @@ namespace Carten
         [SerializeField] private float knockbackForce = 5f;
         [SerializeField] private float knockbackDuration = 0.15f;
 
+        [Header("=== Hit Flash Settings ===")]
+        [SerializeField] private SpriteRenderer spriteRenderer;
+        [SerializeField] private Color flashColor = Color.red;
+        [SerializeField] private float flashDuration = 0.1f;
+
         [Header("=== Debug ===")]
         [SerializeField] private bool showDebugLog = true;
 
         private Rigidbody2D rb;
         private Animator anim;
         private Enemy1AI enemyAI;
+        private Coroutine flashCoroutine;
 
         public bool IsStopped { get; private set; }
         public bool IsKnockedBack { get; private set; }
@@ -25,6 +31,11 @@ namespace Carten
             rb = GetComponent<Rigidbody2D>();
             anim = GetComponent<Animator>();
             enemyAI = GetComponent<Enemy1AI>();
+
+            if (spriteRenderer == null)
+            {
+                spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+            }
 
             if (rb != null)
             {
@@ -43,12 +54,38 @@ namespace Carten
 
             if (!IsDead && damage > 0f)
             {
-                // 피격 애니메이션 실행
+                // 1. 피격 애니메이션 실행
                 if (anim != null) anim.SetTrigger("doDamage");
+
+                // 2. 피격 플래시(하얗게 번쩍) 실행
+                TriggerFlash();
             }
         }
 
-        // ★ 플레이어 공격 등에 맞았을 때 넉백 방향과 함께 호출하는 함수
+        private void TriggerFlash()
+        {
+            if (spriteRenderer != null)
+            {
+                if (flashCoroutine != null)
+                {
+                    StopCoroutine(flashCoroutine);
+                }
+                flashCoroutine = StartCoroutine(CoHitFlash());
+            }
+        }
+
+        private IEnumerator CoHitFlash()
+        {
+            Color originalColor = spriteRenderer.color;
+            spriteRenderer.color = flashColor;
+
+            yield return new WaitForSeconds(flashDuration);
+
+            spriteRenderer.color = originalColor;
+            flashCoroutine = null;
+        }
+
+        // 플레이어 공격 등에 맞았을 때 넉백 방향과 함께 호출하는 함수
         public void ApplyKnockback(Vector2 attackerPosition)
         {
             if (IsDead || rb == null) return;

@@ -22,6 +22,15 @@ namespace Carten
         private bool scaleToFit;
         private bool showOutline;
 
+        // 사운드 및 화면 흔들림 변수
+        private AudioClip warningSound;
+        private AudioClip attackSound;
+        private float soundVolume;
+        private bool triggerShake;
+        private float shakeDuration;
+        private float shakeMagnitude;
+        private AudioSource audioSource;
+
         private GameObject currentVisualInstance;
         private SpriteRenderer fallbackSpriteRenderer;
 
@@ -32,7 +41,9 @@ namespace Carten
             LayerMask playerLayer, float damage, float stun, float warning, float active,
             GameObject warningPrefab = null, GameObject attackPrefab = null,
             Sprite warningSprite = null, Sprite attackSprite = null,
-            bool scaleToFit = true, bool showOutline = true)
+            bool scaleToFit = true, bool showOutline = true,
+            AudioClip warningClip = null, AudioClip attackClip = null, float volume = 2.5f,
+            bool shake = true, float shakeDur = 0.15f, float shakeMag = 0.12f)
         {
             GameObject go = new GameObject("Boss attack warning");
             go.transform.position = center;
@@ -48,11 +59,28 @@ namespace Carten
             field.attackSprite = attackSprite;
             field.scaleToFit = scaleToFit;
             field.showOutline = showOutline;
+            field.warningSound = warningClip;
+            field.attackSound = attackClip;
+            field.soundVolume = volume;
+            field.triggerShake = shake;
+            field.shakeDuration = shakeDur;
+            field.shakeMagnitude = shakeMag;
+
+            field.audioSource = go.AddComponent<AudioSource>();
+            field.audioSource.spatialBlend = 0f;
+            field.audioSource.playOnAwake = false;
 
             if (showOutline)
                 field.DrawWarning();
 
             field.ShowVisual(warningPrefab, warningSprite, sortingOrder: 18);
+
+            // 1. 경고 시작 시점 경고음 재생
+            if (field.warningSound != null && field.audioSource != null)
+            {
+                field.audioSource.PlayOneShot(field.warningSound, field.soundVolume);
+            }
+
             field.StartCoroutine(field.Lifetime(Mathf.Max(0.1f, warning), Mathf.Max(0.05f, active)));
             return field;
         }
@@ -138,6 +166,18 @@ namespace Carten
                 ShowVisual(attackPrefab, attackSprite, sortingOrder: 19);
             }
 
+            // ★ 2. 실제 공격 판정 순간 폭발/타격음 재생
+            if (attackSound != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(attackSound, soundVolume);
+            }
+
+            // ★ 3. 실제 공격 판정 순간 카메라 흔들림 발동! (CameraFollow 인스턴스로 연동)
+            if (triggerShake && CameraFollow.Instance != null)
+            {
+                CameraFollow.Instance.TriggerShake(shakeDuration, shakeMagnitude);
+            }
+
             float expires = Time.time + active;
             HashSet<PlayerController> hitPlayers = new HashSet<PlayerController>();
             while (!cancelled && OwnerAlive && Time.time < expires)
@@ -151,7 +191,13 @@ namespace Carten
                 yield return new WaitForFixedUpdate();
             }
             IsArmed = false;
-            Destroy(gameObject);
+
+            if (outline != null) outline.enabled = false;
+            if (currentVisualInstance != null) currentVisualInstance.SetActive(false);
+            if (fallbackSpriteRenderer != null) fallbackSpriteRenderer.enabled = false;
+
+            float remainSoundTime = attackSound != null ? Mathf.Max(0.1f, attackSound.length - active) : 0.1f;
+            Destroy(gameObject, remainSoundTime);
         }
 
         public void Cancel()

@@ -1,0 +1,85 @@
+{
+  "name": "Enemy3_ChargePrepare",
+  "sourcePage": 8,
+  "frameCount": 5,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    28
+  ],
+  "sourceRegions": [
+    [
+      111,
+      55,
+      428,
+      492
+    ],
+    [
+      622,
+      85,
+      946,
+      492
+    ],
+    [
+      1133,
+      142,
+      1504,
+      492
+    ],
+    [
+      60,
+      675,
+      489,
+      988
+    ],
+    [
+      598,
+      653,
+      1035,
+      988
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "e243aa1f2df7dc79c1392242da33ceb24753c39df3df040d75e0ea0e4f18e40b",
+  "spriteSha256": "92e3edadfadcb25ba3800edfce757d0dd76408d256bfa2532ac8ac45612feb02"
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Enemy3_Collision",
+  "sourcePage": 8,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    26
+  ],
+  "sourceRegions": [
+    [
+      63,
+      95,
+      517,
+      496
+    ],
+    [
+      618,
+      125,
+      980,
+      496
+    ],
+    [
+      1060,
+      88,
+      1465,
+      496
+    ],
+    [
+      84,
+      552,
+      432,
+      974
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "42c80b9e8cf9bd81a50403a667017b72ea6ad93ce862bcc07eef40f0dbc425e3",
+  "spriteSha256": "157deb6a9ef670b6cc56f0d43ad546658b96fe2a550fadd667832b485547ceaa"
+}

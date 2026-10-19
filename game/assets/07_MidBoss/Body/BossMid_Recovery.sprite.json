@@ -1,0 +1,75 @@
+{
+  "name": "BossMid_Recovery",
+  "sourcePage": 9,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    32
+  ],
+  "sourceRegions": [
+    [
+      26,
+      47,
+      640,
+      484
+    ],
+    [
+      114,
+      522,
+      547,
+      952
+    ],
+    [
+      622,
+      54,
+      1095,
+      482
+    ],
+    [
+      668,
+      522,
+      1073,
+      951
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      -28,
+      0
+    ],
+    [
+      137,
+      -160
+    ],
+    [
+      139,
+      0
+    ],
+    [
+      -201,
+      0
+    ]
+  ],
+  "sourceSha256": "f2f1834bb777c6f8175283bc2bf0a063f84d74bb499387eb2c2fa6168c0ef0a2",
+  "spriteSha256": "19af75c57d8b221409e7571e3044a4bb04402420822d2758fcb4150a2c5f289b"
+}

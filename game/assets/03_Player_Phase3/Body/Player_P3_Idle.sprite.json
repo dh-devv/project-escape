@@ -1,0 +1,95 @@
+{
+  "name": "Player_P3_Idle",
+  "sourcePage": 5,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    27
+  ],
+  "sourceRegions": [
+    [
+      168,
+      42,
+      374,
+      495
+    ],
+    [
+      667,
+      39,
+      875,
+      496
+    ],
+    [
+      1168,
+      39,
+      1372,
+      495
+    ],
+    [
+      170,
+      552,
+      385,
+      1006
+    ],
+    [
+      665,
+      550,
+      877,
+      1005
+    ],
+    [
+      1168,
+      552,
+      1373,
+      1005
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "703d4e2a3aa82941a8d14f4ae0b8be87391eb94064714e04e092aa51b0747460",
+  "spriteSha256": "d9f4d543451f2258795598852ca8ebf6804a41911f3283a696a3876fe6fe56b4"
+}

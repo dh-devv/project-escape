@@ -1,0 +1,102 @@
+{
+  "name": "BossMid_Attack2",
+  "sourcePage": 9,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    40
+  ],
+  "sourceRegions": [
+    [
+      50,
+      66,
+      420,
+      468
+    ],
+    [
+      562,
+      78,
+      934,
+      468
+    ],
+    [
+      952,
+      82,
+      1511,
+      468
+    ],
+    [
+      41,
+      589,
+      573,
+      967
+    ],
+    [
+      638,
+      575,
+      1025,
+      966
+    ],
+    [
+      1112,
+      565,
+      1488,
+      970
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      7,
+      0
+    ],
+    [
+      -1,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "4cf243899978ced69ef5906442b82c1502b041515618ca51f44fdf1fdabb7632",
+  "spriteSha256": "2788ce2ea8dd76929a8d10fa9de0ab7a9aa17880396851a93f00894bf26bbcc5",
+  "proposedCombatTiming": {
+    "hitFrames": [
+      3
+    ],
+    "note": "피스톤 전방 확장"
+  },
+  "combatTimingFrameIndexBase": 1
+}

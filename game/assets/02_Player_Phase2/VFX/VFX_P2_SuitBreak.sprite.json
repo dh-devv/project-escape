@@ -1,0 +1,66 @@
+{
+  "name": "VFX_P2_SuitBreak",
+  "sourcePage": 4,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.48995215311004786,
+  "sourceOffset": [
+    25,
+    25
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "f9a93d5ca69d1529ed611422da39ebcad11c8991aae5c404c0066d9b70087a41",
+  "spriteSha256": "fb5dc094cad9baa85e8f7b944cfca13aab8a8fe505f2170854a6efde5d3d83e2"
+}

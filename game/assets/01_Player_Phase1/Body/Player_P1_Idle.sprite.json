@@ -1,0 +1,95 @@
+{
+  "name": "Player_P1_Idle",
+  "sourcePage": 3,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    29
+  ],
+  "sourceRegions": [
+    [
+      161,
+      35,
+      375,
+      492
+    ],
+    [
+      663,
+      35,
+      877,
+      493
+    ],
+    [
+      1165,
+      30,
+      1379,
+      493
+    ],
+    [
+      161,
+      545,
+      376,
+      998
+    ],
+    [
+      661,
+      545,
+      878,
+      998
+    ],
+    [
+      1166,
+      550,
+      1380,
+      998
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "a9dd9aedc7dd7a62f3c754b7598ff5709b128e3728bdc5bffd5516278edd24de",
+  "spriteSha256": "aa20b2d93f853f9bf8f7b0c03fd58ff51df76eba04f860cb8c24700b71f29ad1"
+}

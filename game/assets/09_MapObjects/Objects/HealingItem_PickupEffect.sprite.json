@@ -1,0 +1,58 @@
+{
+  "name": "HealingItem_PickupEffect",
+  "sourcePage": 12,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    25
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "50b1103ca545af602bd1650f675a380884bb51eb844a378178b42da5963970f9",
+  "spriteSha256": "19d2ecd1d3ec91828d6bd0236eb4588afa2bfa5c7842d6cd8475309d994eedfc"
+}

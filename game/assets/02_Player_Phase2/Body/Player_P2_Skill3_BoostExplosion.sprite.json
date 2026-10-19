@@ -1,0 +1,102 @@
+{
+  "name": "Player_P2_Skill3_BoostExplosion",
+  "sourcePage": 4,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    34
+  ],
+  "sourceRegions": [
+    [
+      156,
+      35,
+      406,
+      490
+    ],
+    [
+      601,
+      80,
+      917,
+      488
+    ],
+    [
+      1034,
+      64,
+      1475,
+      488
+    ],
+    [
+      66,
+      536,
+      493,
+      976
+    ],
+    [
+      634,
+      583,
+      956,
+      976
+    ],
+    [
+      1142,
+      526,
+      1385,
+      976
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "d95357b4868f0133151ef40ab69ac41b471b23a9ec4f60126efeaf3141ee3f7e",
+  "spriteSha256": "1290c248f072ac11ee2f4d6dcf5861458b181f0370c099b439b88d83feaa8e2b",
+  "proposedCombatTiming": {
+    "hitFrames": [
+      3
+    ],
+    "note": "팔을 벌린 방출 자세에 폭발 VFX 동기화"
+  },
+  "combatTimingFrameIndexBase": 1
+}

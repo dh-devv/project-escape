@@ -1,0 +1,135 @@
+{
+  "name": "BossMid_Death",
+  "sourcePage": 9,
+  "frameCount": 10,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 4,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1086,
+    1448
+  ],
+  "sourceScale": 0.5657458563535912,
+  "sourceOffset": [
+    25,
+    6
+  ],
+  "sourceRegions": [
+    [
+      26,
+      32,
+      330,
+      360
+    ],
+    [
+      392,
+      40,
+      700,
+      362
+    ],
+    [
+      760,
+      66,
+      1060,
+      362
+    ],
+    [
+      19,
+      431,
+      354,
+      741
+    ],
+    [
+      371,
+      481,
+      719,
+      759
+    ],
+    [
+      734,
+      535,
+      1072,
+      767
+    ],
+    [
+      6,
+      900,
+      357,
+      1121
+    ],
+    [
+      368,
+      923,
+      726,
+      1122
+    ],
+    [
+      732,
+      967,
+      1080,
+      1122
+    ],
+    [
+      9,
+      1285,
+      409,
+      1426
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      -2,
+      0
+    ]
+  ],
+  "sourceSha256": "b2893ca0695ab41067cfef40ed7ee104a9938fef85127ebc8e8447dbc013342b",
+  "spriteSha256": "4de00e9888825a9cfff669e74674388414dd5a98524c21326c560fe2d60e5fff"
+}

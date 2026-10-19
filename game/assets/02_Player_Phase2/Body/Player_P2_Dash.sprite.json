@@ -1,0 +1,75 @@
+{
+  "name": "Player_P2_Dash",
+  "sourcePage": 4,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    30
+  ],
+  "sourceRegions": [
+    [
+      63,
+      197,
+      450,
+      486
+    ],
+    [
+      543,
+      176,
+      1049,
+      486
+    ],
+    [
+      1113,
+      153,
+      1489,
+      486
+    ],
+    [
+      64,
+      622,
+      443,
+      958
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "971ed8f255559c3c370e8e80bfe5ea7cf71d59c229b37cb6d97010768a201535",
+  "spriteSha256": "2d896c4f996ca656f006c0a255fe8eae222f2e9b250ed0edd314c2dcdf28f137"
+}

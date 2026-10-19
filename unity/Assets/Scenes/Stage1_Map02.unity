@@ -1426,7 +1426,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Carten::Carten.EncounterTrigger
   encounterController: {fileID: 839721513}
-  triggerId: 01-01
+  triggerId: Stage1_Map02_Encounter01
 --- !u!4 &629923153
 Transform:
   m_ObjectHideFlags: 0

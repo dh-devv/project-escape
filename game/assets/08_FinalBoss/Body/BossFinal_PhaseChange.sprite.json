@@ -1,0 +1,135 @@
+{
+  "name": "BossFinal_PhaseChange",
+  "sourcePage": 10,
+  "frameCount": 10,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 3,
+  "rows": 4,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1086,
+    1448
+  ],
+  "sourceScale": 1.1314917127071824,
+  "sourceOffset": [
+    51,
+    57
+  ],
+  "sourceRegions": [
+    [
+      56,
+      106,
+      341,
+      366
+    ],
+    [
+      406,
+      106,
+      686,
+      366
+    ],
+    [
+      753,
+      106,
+      1033,
+      366
+    ],
+    [
+      59,
+      448,
+      340,
+      710
+    ],
+    [
+      402,
+      448,
+      686,
+      710
+    ],
+    [
+      733,
+      448,
+      1050,
+      710
+    ],
+    [
+      38,
+      795,
+      359,
+      1059
+    ],
+    [
+      382,
+      794,
+      709,
+      1059
+    ],
+    [
+      728,
+      795,
+      1057,
+      1059
+    ],
+    [
+      37,
+      1143,
+      361,
+      1402
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "9ae8d7267164298fb79f93858840825c8b4531ebbc309fc9a30ed56de5716e54",
+  "spriteSha256": "4362efaced317ddc724c32979d3d3f0495d6181fa3e0b959567d61d6eef0a7f7"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "VFX_BossMid_Weapon",
+  "sourcePage": 9,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1219,
+    1290
+  ],
+  "sourceScale": 0.31751937984496126,
+  "sourceOffset": [
+    31,
+    25
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "4551e30ebcc2e5cdb32540af5446a89a0ce849833b664367ebcce5ce2bca161e",
+  "spriteSha256": "8a08a9fee03ff838bbd445695ac37b094eb28f72dc189f651ba4317a02ef3060"
+}

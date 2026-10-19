@@ -1,0 +1,46 @@
+{
+  "name": "VFX_P1_HitFlash",
+  "sourcePage": 3,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    25
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "8e7fdfbff64c0778976719fd6340c0a1f4c686e491a6d0ce60ce68e8e297be5d",
+  "spriteSha256": "705a59c49ff6c6dbb2d52b527802e040ba3ebbd821a5b01c37632f852db5106f"
+}

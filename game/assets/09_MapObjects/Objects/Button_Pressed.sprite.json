@@ -1,0 +1,38 @@
+{
+  "name": "Button_Pressed",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.2531520395550062,
+  "sourceOffset": [
+    -31,
+    -25
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "8b290f91d285688ead1a94b0cc3ac73e51d759362ba69674a3828200391f18e1",
+  "spriteSha256": "84dabe2216120b40f430b8b427442648b9a84a4c46861b9c3f35d5986ea79eab"
+}

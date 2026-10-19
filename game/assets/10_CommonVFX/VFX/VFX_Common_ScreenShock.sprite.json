@@ -1,0 +1,38 @@
+{
+  "name": "VFX_Common_ScreenShock",
+  "sourcePage": 13,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1263,
+    1246
+  ],
+  "sourceScale": 0.16215360253365005,
+  "sourceOffset": [
+    25,
+    27
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "5d4f83f0085309475b1f61690b7f7dae63f614b87e316ba132bd29a1bf295c91",
+  "spriteSha256": "edb4d76f4c3151d60784cc72247084c8a66a62db97c54c331a884228086539e1"
+}

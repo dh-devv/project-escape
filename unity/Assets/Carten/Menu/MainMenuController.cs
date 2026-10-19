@@ -13,6 +13,8 @@ namespace Carten
 
         public void OnClickStartButton()
         {
+            Time.timeScale = 1f;
+            GameStateManager.Instance?.ResetRunState();
             // SceneManager.LoadScene(firstSceneName); 대신 아래 코드로 변경!
             if (SceneTransitionManager.Instance != null)
             {

@@ -1,0 +1,66 @@
+{
+  "name": "DestructibleCrate_Destroy",
+  "sourcePage": 12,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.41457489878542514,
+  "sourceOffset": [
+    22,
+    91
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "4df1dc19b73a99713bab13acb833765e26f4bac879014de8c0e0b8df76381db7",
+  "spriteSha256": "fa9bf19934dbbb95279459a37ddcfed25a52dfdee54e85287323e0c702aae18e"
+}

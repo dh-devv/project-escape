@@ -1,0 +1,85 @@
+{
+  "name": "BossFinal_AttackPrepare1",
+  "sourcePage": 10,
+  "frameCount": 5,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.8,
+  "sourceOffset": [
+    51,
+    69
+  ],
+  "sourceRegions": [
+    [
+      12,
+      29,
+      515,
+      476
+    ],
+    [
+      526,
+      29,
+      1010,
+      476
+    ],
+    [
+      1031,
+      29,
+      1514,
+      476
+    ],
+    [
+      18,
+      529,
+      504,
+      979
+    ],
+    [
+      526,
+      529,
+      1010,
+      979
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "a260849d7ca3c812efef12b7697b16d49b4c4bb89e5120063d705471416fcf42",
+  "spriteSha256": "dff0f71634705c1cfc49fe408c6f6cc0725084e23f909bf31d4cefbfa1fd0426"
+}

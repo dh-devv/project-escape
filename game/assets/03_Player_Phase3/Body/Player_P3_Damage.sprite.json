@@ -1,0 +1,65 @@
+{
+  "name": "Player_P3_Damage",
+  "sourcePage": 5,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    32
+  ],
+  "sourceRegions": [
+    [
+      237,
+      75,
+      778,
+      683
+    ],
+    [
+      956,
+      165,
+      1291,
+      683
+    ],
+    [
+      1590,
+      68,
+      1895,
+      683
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "ae983bd48edcad2580bd04ea1197152ba69ef0aa0edfa1896265dfe7e763d3a6",
+  "spriteSha256": "e24fcee17dfaa4d3af9821d52abdc4b1d8fb2402963a2fd3473ee10d938fc1ba"
+}

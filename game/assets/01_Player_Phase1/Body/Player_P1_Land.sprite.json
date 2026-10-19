@@ -1,0 +1,75 @@
+{
+  "name": "Player_P1_Land",
+  "sourcePage": 3,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    30
+  ],
+  "sourceRegions": [
+    [
+      158,
+      104,
+      439,
+      488
+    ],
+    [
+      653,
+      164,
+      931,
+      487
+    ],
+    [
+      1132,
+      94,
+      1381,
+      488
+    ],
+    [
+      155,
+      540,
+      382,
+      996
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "29d4d005c055688235a93184f0d08791684546fa44c1140920989eae77006b34",
+  "spriteSha256": "4baaa7152939d1b5d0fd9cc18399e2598d1f4cb5309aefad6813ead61e9a2d38"
+}

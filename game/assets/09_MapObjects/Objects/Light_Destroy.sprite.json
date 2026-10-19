@@ -1,0 +1,58 @@
+{
+  "name": "Light_Destroy",
+  "sourcePage": 12,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.49112709832134294,
+  "sourceOffset": [
+    2,
+    11
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      -2
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "843da2588558ed00d01a046ca91822b7b90c5b3c2a67a6089a6928f44375bad9",
+  "spriteSha256": "f86ddd3536534109b28c9ee837ea85de78c88f8a7a5c0410272d0d59b3ef9093"
+}

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><base href="../"><title>Asset runtime checks</title></head>
+<body><pre id="results">loading sheets</pre><canvas id="test" width="32" height="32"></canvas>
+<script src="asset-manifest.js"></script><script src="asset-runtime.js"></script>
+<script>
+(async () => {
+  const results = document.querySelector('#results');
+  const canvas = document.querySelector('#test');
+  const ctx = canvas.getContext('2d');
+  const check = (condition, name) => condition ? null : name;
+  const names = ['Player_P1_Idle','Player_P1_Run','Player_P1_JumpRise','Player_P2_Idle','Player_P2_Run','Player_P3_Idle','Player_P3_Run','Player_Evolution_P2','Player_Evolution_P3','BossMid_Idle','BossMid_Attack1'];
+  const fail = [];
+  await Promise.all(names.map(name => new Promise((resolve, reject) => {
+    const image = new Image();
+    image.onload = resolve;
+    image.onerror = () => reject(new Error(`Could not load ${name}`));
+    image.src = LAST_SPARK_SPRITES[name].src;
+  })));
+  if (typeof LastSparkAssets.size !== 'function') {
+    fail.push('size API is missing');
+  } else {
+    const playerSizes = names.filter(name => name.startsWith('Player_')).map(name => LastSparkAssets.size(name, { baseScale: .4 }));
+    if (!playerSizes.every(size => size && size.width === 102.4 && size.height === 102.4)) fail.push('player scale changes between phase/action sheets');
+    const bossIdle = LastSparkAssets.size('BossMid_Idle', { baseScale: .48995215311004786 });
+    const bossAttack = LastSparkAssets.size('BossMid_Attack1', { baseScale: .48995215311004786 });
+    if (!bossIdle || !bossAttack || bossIdle.height !== bossAttack.height) fail.push('mid-boss scale changes by action');
+  }
+  let fallbackDrawn = false;
+  for (let attempt = 0; attempt < 40 && !fallbackDrawn; attempt += 1) {
+    fallbackDrawn = LastSparkAssets.draw(ctx, 'Missing_Boss_Action', 0, 16, 16, { baseScale: .4, fallback: 'Player_P1_Idle' });
+    if (!fallbackDrawn) await new Promise(resolve => setTimeout(resolve, 50));
+  }
+  const missingDrawn = LastSparkAssets.draw(ctx, 'Missing_Boss_Action', 0, 16, 16);
+  if (!fallbackDrawn) fail.push('idle fallback was not drawn');
+  if (missingDrawn) fail.push('missing sprite unexpectedly drew a placeholder');
+  const frameCalls = [];
+  const frameCtx = { save(){}, restore(){}, translate(){}, scale(){}, drawImage(...args){ frameCalls.push(args); } };
+  let atlasDrawn = false;
+  for (let attempt = 0; attempt < 40 && !atlasDrawn; attempt += 1) {
+    atlasDrawn = LastSparkAssets.draw(frameCtx, 'Player_Evolution_P2', 0, 16, 16, { frame: 5, baseScale: .4 });
+    if (!atlasDrawn) await new Promise(resolve => setTimeout(resolve, 50));
+  }
+  if (!atlasDrawn || frameCalls[0]?.[1] !== 512 || frameCalls[0]?.[2] !== 256) fail.push('explicit sprite frame selection does not target the straight-punch cell');
+  results.textContent = fail.length ? `FAIL: ${fail.join('; ')}` : 'PASS: asset runtime checks';
+})().catch(error => { document.querySelector('#results').textContent = `FAIL: ${error.message}`; });
+</script></body></html>

@@ -1,0 +1,75 @@
+{
+  "name": "Enemy2_Reload",
+  "sourcePage": 7,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    30
+  ],
+  "sourceRegions": [
+    [
+      138,
+      28,
+      513,
+      486
+    ],
+    [
+      617,
+      28,
+      993,
+      486
+    ],
+    [
+      1097,
+      28,
+      1472,
+      486
+    ],
+    [
+      131,
+      536,
+      507,
+      988
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "b324663fd3c554ee7cdf6abc69dd783a350fa24d27e8aea33cf3e9f0297544c7",
+  "spriteSha256": "b6f4d99197ebaf129be5d0f4d3836aa3fc3b036b22efbc0973cc186dab7a5cb1"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Carten.EditModeTests",
+  "rootNamespace": "Carten.Tests",
+  "references": ["Carten", "Unity.TextMeshPro", "UnityEngine.UI"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": false
+}

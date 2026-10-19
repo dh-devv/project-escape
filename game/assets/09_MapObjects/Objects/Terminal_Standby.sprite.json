@@ -1,0 +1,38 @@
+{
+  "name": "Terminal_Standby",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.2775067750677507,
+  "sourceOffset": [
+    -46,
+    -62
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "a1987358e3d582709f8191a20048d8768a9178ce685ac2aa186182416a8b9527",
+  "spriteSha256": "c6f1f933f99206753a7e2063aa0ae05744887eeb9672a1a4df6656df7c881212"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Player_P1_Turn",
+  "sourcePage": 3,
+  "frameCount": 2,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    37
+  ],
+  "sourceRegions": [
+    [
+      284,
+      43,
+      579,
+      663
+    ],
+    [
+      813,
+      42,
+      1106,
+      663
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "60d7b8a999d7944e9fedebeb7152f873cfd149a18b54a17447dc62bf532efe29",
+  "spriteSha256": "ff5b0efb8dd68edf75640835989b4efd5d7058ad609c223dbacaa2008f4c9edf"
+}

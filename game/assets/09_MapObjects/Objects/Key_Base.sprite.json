@@ -1,0 +1,38 @@
+{
+  "name": "Key_Base",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.22285092491838956,
+  "sourceOffset": [
+    -12,
+    -18
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "881208897ee49c630255f8c10990c11407e596ce55b82fa746ab4f489ea285f7",
+  "spriteSha256": "c8ffd803c16440fd9c6631eb4588867215e7f3bc904d29f1fae78b9fcf0fbe20"
+}

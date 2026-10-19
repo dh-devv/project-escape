@@ -1,0 +1,103 @@
+{
+  "name": "BossFinal_Attack1",
+  "sourcePage": 10,
+  "frameCount": 6,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.8,
+  "sourceOffset": [
+    51,
+    74
+  ],
+  "sourceRegions": [
+    [
+      22,
+      53,
+      482,
+      480
+    ],
+    [
+      536,
+      52,
+      996,
+      480
+    ],
+    [
+      1023,
+      52,
+      1534,
+      480
+    ],
+    [
+      3,
+      549,
+      530,
+      972
+    ],
+    [
+      539,
+      552,
+      997,
+      972
+    ],
+    [
+      1044,
+      549,
+      1502,
+      972
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "a5b017ff98aaf7a7ffd84ee76b945a0a755272e6f99149079bd36f40813c80cb",
+  "spriteSha256": "4a6b092369b23d46c25352e931154b521c929f1535c0300dc433149c23eeb7ed",
+  "proposedCombatTiming": {
+    "hitFrames": [],
+    "projectileSpawnFrames": [
+      4
+    ],
+    "note": "포대 전개/발광에 레이저 시작 동기화; 피해는 별도 오브젝트"
+  },
+  "combatTimingFrameIndexBase": 1
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Checkpoint_Active",
+  "sourcePage": 12,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4511013215859031,
+  "sourceOffset": [
+    12,
+    12
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "5eacc6fceb9bf66ab64098309258179d677826a1a5ddc4e2a90db07874d7fc3e",
+  "spriteSha256": "b4b167fb9f53c220497f92252114c691fd83b5036f449629c41f43b3bf778b85"
+}

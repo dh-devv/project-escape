@@ -1,0 +1,65 @@
+{
+  "name": "Player_P2_JumpRise",
+  "sourcePage": 4,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    36
+  ],
+  "sourceRegions": [
+    [
+      230,
+      152,
+      579,
+      708
+    ],
+    [
+      988,
+      86,
+      1286,
+      552
+    ],
+    [
+      1585,
+      44,
+      1936,
+      666
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "3062d297888835cc3384bb1a236081d961caa2c90adc9a78c8ff8c553f3c7514",
+  "spriteSha256": "d9dccecbdfc8ac8c9c16433b4ae92d56597a7727dadde59d87d785826c1a0ded"
+}

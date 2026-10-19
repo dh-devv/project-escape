@@ -1,0 +1,104 @@
+{
+  "name": "Player_P1_Skill3_GravityBoost",
+  "sourcePage": 3,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    33
+  ],
+  "sourceRegions": [
+    [
+      158,
+      130,
+      419,
+      500
+    ],
+    [
+      640,
+      78,
+      917,
+      500
+    ],
+    [
+      1162,
+      19,
+      1377,
+      477
+    ],
+    [
+      168,
+      517,
+      397,
+      965
+    ],
+    [
+      632,
+      607,
+      921,
+      981
+    ],
+    [
+      1120,
+      695,
+      1439,
+      996
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "b1f9078a08eb6c610a329ce57cd1443e2a6a3abd4dd57363769049935687058e",
+  "spriteSha256": "159080b4f590c36eb622a34e67ccb2d5f6031f574acf9d2e03f4b5be4db68cef",
+  "proposedCombatTiming": {
+    "hitFrames": [],
+    "effectFrames": [
+      3,
+      6
+    ],
+    "note": "3번 상승, 6번 착지; 피해 여부는 스킬 규칙에 따름"
+  },
+  "combatTimingFrameIndexBase": 1
+}

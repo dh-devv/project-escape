@@ -49,6 +49,12 @@ namespace Carten
             if (!playerInRange)
                 return;
 
+            if (interactionPrompt == null && GameplayUI.InteractionPrompt != null)
+            {
+                interactionPrompt = GameplayUI.InteractionPrompt;
+                interactionPrompt.text = interactionPromptText;
+            }
+
             if (storyUI == null)
                 storyUI = FindFirstObjectByType<StoryLogUI>();
 

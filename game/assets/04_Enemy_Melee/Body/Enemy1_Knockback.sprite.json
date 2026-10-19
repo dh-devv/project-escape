@@ -1,0 +1,65 @@
+{
+  "name": "Enemy1_Knockback",
+  "sourcePage": 6,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    36
+  ],
+  "sourceRegions": [
+    [
+      155,
+      54,
+      703,
+      661
+    ],
+    [
+      833,
+      128,
+      1369,
+      665
+    ],
+    [
+      1590,
+      145,
+      2028,
+      668
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "e0031b07dce3582d79b81c8c4a80a42dfbb82406c4716e76aada5c94cfeb29e3",
+  "spriteSha256": "edd4b79a099ea28987201f5ce8a203d5af7b8c7d67e447922b388e20b398580d"
+}

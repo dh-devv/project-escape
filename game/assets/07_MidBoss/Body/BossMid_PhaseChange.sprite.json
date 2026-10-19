@@ -1,0 +1,115 @@
+{
+  "name": "BossMid_PhaseChange",
+  "sourcePage": 9,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.44808743169398907,
+  "sourceOffset": [
+    34,
+    39
+  ],
+  "sourceRegions": [
+    [
+      26,
+      20,
+      428,
+      415
+    ],
+    [
+      462,
+      23,
+      851,
+      416
+    ],
+    [
+      867,
+      24,
+      1249,
+      416
+    ],
+    [
+      32,
+      437,
+      436,
+      833
+    ],
+    [
+      447,
+      441,
+      875,
+      832
+    ],
+    [
+      864,
+      422,
+      1248,
+      834
+    ],
+    [
+      42,
+      834,
+      459,
+      1233
+    ],
+    [
+      434,
+      894,
+      987,
+      1232
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      -36,
+      0
+    ]
+  ],
+  "sourceSha256": "e7f6353539384ca5f34f459998ce484586f4472a999b51c40b70e98f74515d60",
+  "spriteSha256": "180cd364a4f868305ecf3655b7f736300c2684a635f7ad91b6f0df96b672df8a"
+}

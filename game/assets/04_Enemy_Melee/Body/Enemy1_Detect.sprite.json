@@ -1,0 +1,65 @@
+{
+  "name": "Enemy1_Detect",
+  "sourcePage": 6,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    31
+  ],
+  "sourceRegions": [
+    [
+      214,
+      62,
+      569,
+      686
+    ],
+    [
+      881,
+      87,
+      1321,
+      683
+    ],
+    [
+      1493,
+      180,
+      2082,
+      685
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "31afd335daf4a49ba4483a369684a53c65435cc7782c72e7e638dbeaae91e81a",
+  "spriteSha256": "1815df655287db84e5872ff71ef9f465288ab9a16ab6d1e552d9e48da5ea70fa"
+}

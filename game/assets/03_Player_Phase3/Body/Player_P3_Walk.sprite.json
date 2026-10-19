@@ -1,0 +1,95 @@
+{
+  "name": "Player_P3_Walk",
+  "sourcePage": 5,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    29
+  ],
+  "sourceRegions": [
+    [
+      110,
+      40,
+      428,
+      488
+    ],
+    [
+      657,
+      44,
+      881,
+      493
+    ],
+    [
+      1149,
+      38,
+      1436,
+      494
+    ],
+    [
+      114,
+      548,
+      450,
+      1001
+    ],
+    [
+      649,
+      546,
+      883,
+      1001
+    ],
+    [
+      1156,
+      545,
+      1406,
+      1001
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "e603c3239ee73df119ed312ef30f7a9c3c4304c9830c0b684f32bfffedb8afdd",
+  "spriteSha256": "1022215d87809b9cf3bcc5ba693a296dd2d87ba53d5a023782bc765816ae9cdf"
+}

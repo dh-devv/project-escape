@@ -40,7 +40,7 @@ MonoBehaviour:
     rid: 4937108829085630465
   m_ActivePlatformGuid: 
   m_AdditionalPlatformBuildSettings: []
-  m_OverrideGlobalSceneList: 1
+  m_OverrideGlobalSceneList: 0
   m_Scenes:
   - m_enabled: 1
     m_path: Assets/Scenes/UI/Main UI.unity

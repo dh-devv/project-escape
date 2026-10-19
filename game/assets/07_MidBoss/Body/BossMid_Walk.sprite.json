@@ -1,0 +1,115 @@
+{
+  "name": "BossMid_Walk",
+  "sourcePage": 9,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.48995215311004786,
+  "sourceOffset": [
+    25,
+    28
+  ],
+  "sourceRegions": [
+    [
+      44,
+      61,
+      415,
+      419
+    ],
+    [
+      460,
+      68,
+      822,
+      419
+    ],
+    [
+      876,
+      68,
+      1218,
+      419
+    ],
+    [
+      43,
+      460,
+      420,
+      819
+    ],
+    [
+      482,
+      460,
+      820,
+      820
+    ],
+    [
+      874,
+      466,
+      1223,
+      819
+    ],
+    [
+      43,
+      857,
+      420,
+      1218
+    ],
+    [
+      471,
+      859,
+      843,
+      1216
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "2bd267aa19f82d2dff52c3ad8868bb8cbb6b3f296957d478719bbca2f28c7ea9",
+  "spriteSha256": "e1176e3182d9d25a389b9baba48b1e5ee201e4d64f114a4571e3b9a4926ffcf7"
+}

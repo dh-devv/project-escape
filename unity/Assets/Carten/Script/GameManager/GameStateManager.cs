@@ -297,5 +297,11 @@ namespace Carten
         {
             if (Instance == this) Instance = null;
         }
+
+        public void ResetRunState()
+        {
+            triggeredEvents.Clear();
+            ResetPlayerState();
+        }
     }
 }

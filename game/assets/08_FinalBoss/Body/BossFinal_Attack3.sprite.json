@@ -1,0 +1,123 @@
+{
+  "name": "BossFinal_Attack3",
+  "sourcePage": 10,
+  "frameCount": 8,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.9799043062200957,
+  "sourceOffset": [
+    51,
+    81
+  ],
+  "sourceRegions": [
+    [
+      43,
+      113,
+      382,
+      410
+    ],
+    [
+      457,
+      113,
+      797,
+      410
+    ],
+    [
+      870,
+      113,
+      1209,
+      410
+    ],
+    [
+      40,
+      499,
+      387,
+      795
+    ],
+    [
+      454,
+      492,
+      798,
+      795
+    ],
+    [
+      867,
+      498,
+      1211,
+      795
+    ],
+    [
+      39,
+      879,
+      388,
+      1179
+    ],
+    [
+      454,
+      878,
+      800,
+      1178
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "fea414d5410fd1312aa4a63a08b586855132f8867ecbb9a8b1e4f370bd342cfc",
+  "spriteSha256": "d2aa0db8f467bb49b2e6c6980a79aca25f66531770044e89b21d3ac987aad735",
+  "proposedCombatTiming": {
+    "hitFrames": [],
+    "effectFrames": [
+      4
+    ],
+    "note": "코어 발광 정점에 필드 공격 시작 동기화"
+  },
+  "combatTimingFrameIndexBase": 1
+}

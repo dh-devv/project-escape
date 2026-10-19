@@ -1,0 +1,103 @@
+{
+  "name": "Player_P2_Skill1_Overdrive",
+  "sourcePage": 4,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    28
+  ],
+  "sourceRegions": [
+    [
+      174,
+      53,
+      383,
+      496
+    ],
+    [
+      645,
+      74,
+      896,
+      496
+    ],
+    [
+      1118,
+      37,
+      1428,
+      496
+    ],
+    [
+      157,
+      583,
+      441,
+      998
+    ],
+    [
+      667,
+      549,
+      884,
+      998
+    ],
+    [
+      1158,
+      549,
+      1364,
+      998
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "e6caef8eaecdd8f2b77318bdaff4c332955cb1f9c5170180f342b0e26a204fac",
+  "spriteSha256": "29253b2fa26e781925c9226e3abad01c8bf9c3269115c644301010c22216eba3",
+  "proposedCombatTiming": {
+    "hitFrames": [],
+    "effectFrames": [
+      3
+    ],
+    "note": "버프와 발광 시작"
+  },
+  "combatTimingFrameIndexBase": 1
+}

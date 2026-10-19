@@ -1,0 +1,50 @@
+{
+  "name": "Communicator_Operating",
+  "sourcePage": 12,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.37855822550831797,
+  "sourceOffset": [
+    55,
+    6
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "12cd666acce87f9f59a57f472e6e8ec410f8d269b4e9cd66b82112f6b47f4a29",
+  "spriteSha256": "7c7c83942fe5e2443d4f31c30260ef7582a85bc39e32abad31f15fbcc6ecbcbb"
+}

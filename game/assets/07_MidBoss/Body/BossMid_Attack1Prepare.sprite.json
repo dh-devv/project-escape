@@ -1,0 +1,75 @@
+{
+  "name": "BossMid_Attack1Prepare",
+  "sourcePage": 9,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    27
+  ],
+  "sourceRegions": [
+    [
+      42,
+      58,
+      512,
+      494
+    ],
+    [
+      530,
+      82,
+      1029,
+      494
+    ],
+    [
+      1031,
+      64,
+      1505,
+      494
+    ],
+    [
+      65,
+      541,
+      535,
+      988
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "7cdfc35e71f1507b3c3ecc7974d0cc712206bb2cb766e35fd94d03670d4f5250",
+  "spriteSha256": "48ee470bd7401e8e5e73df20047faea544fbc7a3d48c7d00e0beb81ae8ff63fc"
+}

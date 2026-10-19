@@ -1,0 +1,42 @@
+{
+  "name": "Terminal_Broken",
+  "sourcePage": 12,
+  "frameCount": 2,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.356794425087108,
+  "sourceOffset": [
+    -1,
+    -19
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      -3,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "a5a57c2ac7f2c27afb8162644c82b8d7f72c0920bc881addbb9dfe88043e8f40",
+  "spriteSha256": "a5469d653f7ac61ea0808183a76ad480214b58e8b1145aecfb16140a58dbfdea"
+}

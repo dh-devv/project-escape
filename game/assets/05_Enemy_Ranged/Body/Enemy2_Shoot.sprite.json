@@ -1,0 +1,83 @@
+{
+  "name": "Enemy2_Shoot",
+  "sourcePage": 7,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    29
+  ],
+  "sourceRegions": [
+    [
+      137,
+      29,
+      501,
+      495
+    ],
+    [
+      620,
+      33,
+      1014,
+      490
+    ],
+    [
+      1067,
+      38,
+      1461,
+      490
+    ],
+    [
+      136,
+      537,
+      500,
+      990
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "f80af866d73b84eee236950b23814aa88cd5535058d7a1e3691cf87df66dfa3a",
+  "spriteSha256": "50ffe97ea04515a5853fa2bc63cb7aa5546b3a3430e3f23a132cf864b9c01a67",
+  "proposedCombatTiming": {
+    "hitFrames": [],
+    "projectileSpawnFrames": [
+      2
+    ],
+    "note": "2번 발사 후 3번 반동; 피해는 탄환 충돌에서 처리"
+  },
+  "combatTimingFrameIndexBase": 1
+}

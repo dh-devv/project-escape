@@ -1,0 +1,65 @@
+{
+  "name": "BossMid_Turn",
+  "sourcePage": 9,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    34
+  ],
+  "sourceRegions": [
+    [
+      87,
+      32,
+      728,
+      675
+    ],
+    [
+      847,
+      28,
+      1391,
+      674
+    ],
+    [
+      1472,
+      32,
+      2093,
+      675
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "32594d8717dc4287ee503fc0f91069923f89a4a2cdf067a7448242edcaa58cbc",
+  "spriteSha256": "129cd0fe3c47c229684051112c0ae30e17559f837265ebbfe2bdeb91dbcf3f29"
+}

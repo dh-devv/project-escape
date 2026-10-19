@@ -1,0 +1,83 @@
+{
+  "name": "Player_P3_Skill2_BlinkDash",
+  "sourcePage": 5,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    26
+  ],
+  "sourceRegions": [
+    [
+      107,
+      118,
+      375,
+      499
+    ],
+    [
+      621,
+      210,
+      876,
+      499
+    ],
+    [
+      1026,
+      189,
+      1521,
+      499
+    ],
+    [
+      133,
+      538,
+      373,
+      993
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "bffbc7510b19fd836068dd0f478cfb79576abe8542add2c6ce1b2db0e7cde9b7",
+  "spriteSha256": "c5f1ec4716e3159a53e157941b016c3262566cc3e9617306bb3893f6bf8ef749",
+  "proposedCombatTiming": {
+    "hitFrames": [],
+    "effectFrames": [
+      3
+    ],
+    "note": "이동/잔상 구간; 피해 여부는 스킬 규칙에 따름"
+  },
+  "combatTimingFrameIndexBase": 1
+}

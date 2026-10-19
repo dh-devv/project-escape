@@ -1,0 +1,53 @@
+{
+  "name": "BossLaser_End",
+  "sourcePage": 11,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.15625,
+    0.140625
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2766798418972332,
+  "sourceOffset": [
+    -5,
+    81
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "869c3ac8381e326ec9302263278e7df8c43cf958dca9d17e868b00ed03953956",
+  "spriteSha256": "e884dd65b1700d5c53a3bf00ec7cf41b838acbcc10a24686b9ea02a318b74d42",
+  "alignmentReference": [
+    163,
+    250,
+    465,
+    503
+  ],
+  "alignmentNote": "Laser cannon housing aligned to a common 70px reference height and bottom-left anchor across four states"
+}

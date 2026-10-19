@@ -1,0 +1,38 @@
+{
+  "name": "Communicator_Standby",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.19579349904397705,
+  "sourceOffset": [
+    5,
+    0
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "1d405f8e1167ff4c2f1eb08f21aa184f63f8995925f09ca863da0e73fbff2b76",
+  "spriteSha256": "bde2a44f37d0683a2214d3e7a349698092eaf8eb5977320449848c82cecf9140"
+}

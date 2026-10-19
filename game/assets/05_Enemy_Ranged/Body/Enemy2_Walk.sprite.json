@@ -1,0 +1,95 @@
+{
+  "name": "Enemy2_Walk",
+  "sourcePage": 7,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    33
+  ],
+  "sourceRegions": [
+    [
+      92,
+      27,
+      506,
+      482
+    ],
+    [
+      601,
+      27,
+      986,
+      482
+    ],
+    [
+      1102,
+      12,
+      1471,
+      482
+    ],
+    [
+      76,
+      526,
+      506,
+      987
+    ],
+    [
+      611,
+      535,
+      976,
+      987
+    ],
+    [
+      1073,
+      526,
+      1479,
+      987
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "5313de317c00ba8882913be7505e1ae8fed314a3175990a74d933fb07c440212",
+  "spriteSha256": "6b13c8f0e5c13bc2dfe5ab07e6cd7e783ccca10a66b6f748794d7ea6e9e0d23c"
+}

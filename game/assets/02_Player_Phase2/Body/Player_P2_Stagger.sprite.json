@@ -1,0 +1,65 @@
+{
+  "name": "Player_P2_Stagger",
+  "sourcePage": 4,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    30
+  ],
+  "sourceRegions": [
+    [
+      159,
+      84,
+      696,
+      687
+    ],
+    [
+      906,
+      154,
+      1374,
+      687
+    ],
+    [
+      1644,
+      83,
+      2041,
+      690
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "e7efe47e4512377e6cab699206542e98e0de0a2d0de14f106cd28bf2b605284c",
+  "spriteSha256": "b9d024d6cda3e02c037543cb1e7dd28ca43b97adba259d4451a4d7782ec73c6c"
+}

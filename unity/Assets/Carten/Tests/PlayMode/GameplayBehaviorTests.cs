@@ -67,13 +67,49 @@ namespace Carten.Tests
         public void RestoringMapHealthPreservesPhaseAndRejectsInvalidHealth()
         {
             PlayerController player = Player();
-            MethodInfo restore = typeof(PlayerController).GetMethod("RestoreHealthForMap", BindingFlags.Instance | BindingFlags.NonPublic);
-            restore.Invoke(player, new object[] { 25f });
+            player.RestoreHealthForMap(25f);
             Assert.That(player.CurrentHealth, Is.EqualTo(25f));
             Assert.That(player.CurrentPhase, Is.EqualTo(PlayerController.PlayerPhase.Phase3));
-            restore.Invoke(player, new object[] { float.NaN });
-            restore.Invoke(player, new object[] { 0f });
+            player.RestoreHealthForMap(float.NaN);
+            player.RestoreHealthForMap(0f);
             Assert.That(player.CurrentHealth, Is.EqualTo(25f));
+        }
+
+        [Test]
+        public void NewRunClearsEncounterFlagsAndRestoresHealth()
+        {
+            GameStateManager state = NewObject("Game state").AddComponent<GameStateManager>();
+            state.SetTriggered("Stage1_Map02_Encounter01");
+            state.SetPlayerState(15f, 3);
+            state.ResetRunState();
+            Assert.That(state.HasTriggered("Stage1_Map02_Encounter01"), Is.False);
+            Assert.That(state.PlayerHP, Is.EqualTo(100f));
+            Assert.That(state.PlayerPhase, Is.EqualTo(1));
+        }
+
+        [Test]
+        public void DeathNotifiesUiBeforePlayerIsDisabled()
+        {
+            PlayerController player = Player();
+            bool notifiedWhileActive = false;
+            player.Died += () => notifiedWhileActive = player.gameObject.activeSelf && player.IsDead;
+            player.TakeDamage(10000f);
+            Assert.That(notifiedWhileActive, Is.True);
+            Assert.That(player.gameObject.activeSelf, Is.False);
+        }
+
+        [Test]
+        public void DoorReadsTheSameGeneratorStateAsTheSwitch()
+        {
+            GameStateManager state = NewObject("Game state").AddComponent<GameStateManager>();
+            GameObject doorObject = NewObject("Door");
+            doorObject.AddComponent<BoxCollider2D>();
+            ConditionalDoor door = doorObject.AddComponent<ConditionalDoor>();
+            string condition = "test-build-generator-flag";
+            SetField(door, "requiredConditionID", condition);
+            Assert.That(door.IsDoorUnlocked(), Is.False);
+            state.SetTriggered(condition);
+            Assert.That(door.IsDoorUnlocked(), Is.True);
         }
 
         [Test]
@@ -81,8 +117,7 @@ namespace Carten.Tests
         {
             GameStateManager state = NewObject("Game state").AddComponent<GameStateManager>();
             PlayerController player = Player();
-            typeof(PlayerController).GetMethod("RestoreHealthForMap", BindingFlags.Instance | BindingFlags.NonPublic)
-                .Invoke(player, new object[] { 25f });
+            player.RestoreHealthForMap(25f);
             player.SendMessage("Start");
             Assert.That(player.CurrentHealth, Is.EqualTo(25f));
             player.TakeDamage(5f);
@@ -191,7 +226,7 @@ namespace Carten.Tests
             GameObject go = NewObject("Bullet");
             go.AddComponent<Rigidbody2D>();
             Enemy2Bullet bullet = go.AddComponent<Enemy2Bullet>();
-            SetField(bullet, "obstacleLayer", LayerMask.GetMask("Ground"));
+            SetField(bullet, "obstacleLayer", (LayerMask)LayerMask.GetMask("Ground"));
             bullet.Initialize(Vector2.right, 10f, LayerMask.GetMask("Player"));
             bullet.SendMessage("OnTriggerEnter2D", wallCollider);
             bullet.SendMessage("OnTriggerEnter2D", player.GetComponent<Collider2D>());

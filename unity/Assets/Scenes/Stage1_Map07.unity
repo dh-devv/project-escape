@@ -424,7 +424,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Carten::Carten.EncounterController
   triggerCollider: {fileID: 594392573}
-  enemySpawner: {fileID: 0}
+  enemySpawner: {fileID: 1553912805}
   spawnPoints:
   - {fileID: 263453695}
   - {fileID: 1426807652}

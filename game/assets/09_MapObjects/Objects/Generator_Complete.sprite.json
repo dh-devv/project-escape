@@ -1,0 +1,42 @@
+{
+  "name": "Generator_Complete",
+  "sourcePage": 12,
+  "frameCount": 2,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.3160493827160494,
+  "sourceOffset": [
+    13,
+    44
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "41b0f348b9671ad50223562a5f7505bdb0b3d4327b76f585fc2f6b4db0d7dcde",
+  "spriteSha256": "b30965f3d58bd9be9bfeef6516518f094b404b3365ae8fcba98c8d47d07d6c57"
+}

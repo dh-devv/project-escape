@@ -1,0 +1,54 @@
+{
+  "name": "VFX_Enemy3_ChargeAfterimage",
+  "sourcePage": 8,
+  "frameCount": 5,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    25
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "bcc8e99860b2d926e961153ef7f7e89f9b02ba2ae117cd1c3d995973359d66a0",
+  "spriteSha256": "701901baa96e77754738b9b8ef30d572f9fa5067cb665936101f82e9a5841bd0"
+}

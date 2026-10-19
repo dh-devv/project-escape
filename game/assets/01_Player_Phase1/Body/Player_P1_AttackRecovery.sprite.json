@@ -1,0 +1,55 @@
+{
+  "name": "Player_P1_AttackRecovery",
+  "sourcePage": 3,
+  "frameCount": 2,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    37
+  ],
+  "sourceRegions": [
+    [
+      156,
+      121,
+      650,
+      664
+    ],
+    [
+      900,
+      26,
+      1207,
+      665
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "647e952c3352c72dd492bf41d63ebdfa73e2c1481bf99b67c53608eea04c506e",
+  "spriteSha256": "a8d2be737bbf8240b5c107f5cf448406c269033e507ce9f0da428e4702aa2e79"
+}

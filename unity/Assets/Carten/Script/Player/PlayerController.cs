@@ -218,6 +218,7 @@ namespace Carten
         private bool suppressDamageAnimOnce;
 
         public bool IsDead => isDead;
+        public event System.Action Died;
         public bool IsSkillMovementLocked => isSkillMovementLocked;
 
         private void Awake()
@@ -595,8 +596,11 @@ namespace Carten
 
         public void TriggerSkillAnimation(int skillNumber)
         {
+<<<<<<< HEAD
             // 수정 전: if (anim == null || isDead) return; (오류 발생 지점)
             // 수정 후: 애니메이터가 없거나 죽었을 때만 리턴하도록 올바르게 수정
+=======
+>>>>>>> f622ac7af5e5888f1ad5df56e3ce9754518e18b0
             if (anim == null || isDead)
                 return;
 
@@ -765,11 +769,13 @@ namespace Carten
 
         private void Die()
         {
+            if (isDead) return;
             isDead = true;
             if (showDebugLog)
                 Debug.Log("[PlayerController] 플레이어 사망");
 
             if (anim != null) anim.SetBool("isWork", false);
+            Died?.Invoke();
             gameObject.SetActive(false);
         }
 

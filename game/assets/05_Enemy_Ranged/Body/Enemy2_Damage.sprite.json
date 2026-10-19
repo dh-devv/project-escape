@@ -1,0 +1,65 @@
+{
+  "name": "Enemy2_Damage",
+  "sourcePage": 7,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    33
+  ],
+  "sourceRegions": [
+    [
+      164,
+      116,
+      590,
+      677
+    ],
+    [
+      890,
+      154,
+      1355,
+      677
+    ],
+    [
+      1610,
+      107,
+      2078,
+      677
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "a1970bf141f71a29497035a1ff600583e577d1fd2acfdeccb093a245589d5956",
+  "spriteSha256": "a6b74c2ce3755ca92603b465d8be360d688c597a36a54e1aa70dd0807efe1288"
+}

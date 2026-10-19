@@ -1,0 +1,42 @@
+{
+  "name": "Door_Closed",
+  "sourcePage": 12,
+  "frameCount": 2,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.32353870458135864,
+  "sourceOffset": [
+    11,
+    29
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "786261835ab27188429b0c7d1aedfb0d559be6fc5214b7b2a036e1f1d45629ee",
+  "spriteSha256": "96d5a7062ff171a2c343a1004fd06b13f8d2f1af9b5ee9070e2c84b5a3f84434"
+}

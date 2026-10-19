@@ -1,0 +1,155 @@
+{
+  "name": "BossFinal_Death",
+  "sourcePage": 10,
+  "frameCount": 12,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 3,
+  "rows": 4,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1086,
+    1448
+  ],
+  "sourceScale": 1.1314917127071824,
+  "sourceOffset": [
+    51,
+    73
+  ],
+  "sourceRegions": [
+    [
+      43,
+      92,
+      325,
+      338
+    ],
+    [
+      404,
+      92,
+      683,
+      338
+    ],
+    [
+      763,
+      92,
+      1044,
+      338
+    ],
+    [
+      43,
+      450,
+      324,
+      697
+    ],
+    [
+      396,
+      449,
+      686,
+      697
+    ],
+    [
+      763,
+      450,
+      1049,
+      697
+    ],
+    [
+      44,
+      810,
+      327,
+      1057
+    ],
+    [
+      403,
+      815,
+      685,
+      1056
+    ],
+    [
+      761,
+      831,
+      1048,
+      1056
+    ],
+    [
+      44,
+      1179,
+      328,
+      1390
+    ],
+    [
+      401,
+      1209,
+      689,
+      1390
+    ],
+    [
+      740,
+      1222,
+      1053,
+      1390
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "7e7bf586e1a3b675dc5ee17f337113379a14524736b2f3f29634a7e583d7ee99",
+  "spriteSha256": "bc21213981ad4bd5749537fd81b8ebc4e6013a9897b08ed01f3ca67a4a662c98"
+}

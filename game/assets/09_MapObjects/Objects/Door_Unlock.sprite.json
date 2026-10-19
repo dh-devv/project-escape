@@ -1,0 +1,46 @@
+{
+  "name": "Door_Unlock",
+  "sourcePage": 12,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.32302839116719245,
+  "sourceOffset": [
+    11,
+    29
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "05eb8e9415cd6783f12ed0b9c417d38c9b96f7da3c40e6ce634d83624c23df8d",
+  "spriteSha256": "00e4dcb38ed5fa27a327c3d3e2be09a56bdb998cf2fad3c16f6dc7be358b0db2"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Door_Closing",
+  "sourcePage": 12,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.5475935828877005,
+  "sourceOffset": [
+    23,
+    -39
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "1dabc2760de27fc77e9836f1753dac19aa58004529e3540b16f93095f1f725b1",
+  "spriteSha256": "651f285a0038706d8bd829c0a2a2712787b91481d43242dddb69fa1b132df28b"
+}

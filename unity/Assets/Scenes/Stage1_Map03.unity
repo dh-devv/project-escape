@@ -553,7 +553,11 @@ MonoBehaviour:
   powerId: Stage1_Light_All
   startPowered: 0
   interactKey: 102
+  isReceiverOnly: 0
   requiredGeneratorId: Stage1_Generator_01
+  offSprite: {fileID: 2027678462117220591, guid: 06a0d1e0c118fb64e8328dd9cbe4d0be, type: 3}
+  standbySprite: {fileID: 0}
+  onSprite: {fileID: -5108877598013932826, guid: f52372802c7bc914b97d0bf4b333100c, type: 3}
   lightsToPower:
   - {fileID: 1171768150}
   interactionPrompt: {fileID: 2884641328218614880, guid: 541708ff21cb3414f97dead7049d2f92, type: 3}
@@ -1716,7 +1720,11 @@ MonoBehaviour:
   powerId: Stage1_Generator_01
   startPowered: 0
   interactKey: 102
+  isReceiverOnly: 0
   requiredGeneratorId: 
+  offSprite: {fileID: 5136339108803781480, guid: b0a3e1276ce9d5348b032531a785d66a, type: 3}
+  standbySprite: {fileID: -8545379611405962641, guid: 2e0c0dc89e416f844967b485bb8be676, type: 3}
+  onSprite: {fileID: 0}
   lightsToPower: []
   interactionPrompt: {fileID: 2884641328218614880, guid: 541708ff21cb3414f97dead7049d2f92, type: 3}
   promptText: "F  \uC791\uB3D9"

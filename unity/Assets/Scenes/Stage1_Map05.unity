@@ -783,8 +783,8 @@ MonoBehaviour:
   maxHealth: 300
   gameClearUIPanel: {fileID: 0}
   clearUIDelay: 1
-  phase2HealthPercent: 70
-  phase3HealthPercent: 30
+  phase2HealthPercent: 200
+  phase3HealthPercent: 100
   phase1Animator: {fileID: 9100000, guid: efdb8a7df91164c4d977ab5a0d78b14f, type: 2}
   phase2Animator: {fileID: 0}
   phase3Animator: {fileID: 0}

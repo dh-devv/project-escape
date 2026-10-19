@@ -156,7 +156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6038287ad5015245b5cdd20dabbfaa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Carten::Carten.Enemy3Controller
-  maxHealth: 80
+  maxHealth: 50
   damageReduction: 0.6
   knockbackForce: 2.5
   knockbackDuration: 0.12
@@ -176,7 +176,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Carten::Carten.Enemy3Combat
   attackPoint: {fileID: 8255557291711427836}
   attackRange: 1.5
-  attackDamage: 15
+  attackDamage: 8
   attackCooldown: 1.8
   hitStunDuration: 0.45
   targetLayer:

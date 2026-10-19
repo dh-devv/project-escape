@@ -207,7 +207,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Carten::Carten.Enemy2Combat
   firePoint: {fileID: 8156253755802007599}
   bulletPrefab: {fileID: 3003178816066577794, guid: 10ba69519fe6c424e85aaf1f5abcdd77, type: 3}
-  attackDamage: 8
+  attackDamage: 5
   attackCooldown: 1.5
   playerLayer:
     serializedVersion: 2

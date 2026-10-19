@@ -1,0 +1,65 @@
+{
+  "name": "Player_P3_Fall",
+  "sourcePage": 5,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    40
+  ],
+  "sourceRegions": [
+    [
+      197,
+      32,
+      616,
+      654
+    ],
+    [
+      897,
+      119,
+      1351,
+      638
+    ],
+    [
+      1559,
+      313,
+      2029,
+      676
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "e630f467e19d3a1c4f0bf5a1be37c6216fd9349fed3fb372044b937b39ba829c",
+  "spriteSha256": "33c5b72b352d1b9da575c76f38430c752ec9b8460fc6cf0e56044d9a07a1f764"
+}

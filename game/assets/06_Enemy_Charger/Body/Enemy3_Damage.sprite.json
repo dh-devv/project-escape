@@ -1,0 +1,65 @@
+{
+  "name": "Enemy3_Damage",
+  "sourcePage": 8,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    35
+  ],
+  "sourceRegions": [
+    [
+      95,
+      74,
+      707,
+      669
+    ],
+    [
+      901,
+      143,
+      1341,
+      669
+    ],
+    [
+      1628,
+      106,
+      2059,
+      669
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "71148aad430d86a888bfb704130aaacc20c9970e84936d54e45e3d3def4eff06",
+  "spriteSha256": "faec9c12327b4e31ae86475729fce51c0e8073aa8cb692383b610492cc9ee139"
+}

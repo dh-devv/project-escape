@@ -1,0 +1,122 @@
+{
+  "name": "Player_P3_Skill1_LimitBreak",
+  "sourcePage": 5,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.48995215311004786,
+  "sourceOffset": [
+    25,
+    30
+  ],
+  "sourceRegions": [
+    [
+      97,
+      56,
+      297,
+      423
+    ],
+    [
+      516,
+      108,
+      776,
+      424
+    ],
+    [
+      930,
+      59,
+      1189,
+      423
+    ],
+    [
+      42,
+      547,
+      385,
+      814
+    ],
+    [
+      416,
+      526,
+      857,
+      814
+    ],
+    [
+      870,
+      511,
+      1238,
+      814
+    ],
+    [
+      82,
+      908,
+      384,
+      1232
+    ],
+    [
+      515,
+      859,
+      749,
+      1235
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "90d4f2cc3216a4a5c7edb897be198bc0da7060b15deb695296c4440a1bffe84b",
+  "spriteSha256": "a5f729b090085041e0ac49e5577a4f0b4096f81833532cd06e402f0b5bc672aa",
+  "proposedCombatTiming": {
+    "hitFrames": [
+      5
+    ],
+    "note": "5~6번 공격 자세; 단타라면 5번 한 번만 처리"
+  },
+  "combatTimingFrameIndexBase": 1
+}

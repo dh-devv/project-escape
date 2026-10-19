@@ -1,0 +1,135 @@
+{
+  "name": "BossFinal_Awakening",
+  "sourcePage": 10,
+  "frameCount": 10,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 3,
+  "rows": 4,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1086,
+    1448
+  ],
+  "sourceScale": 1.1314917127071824,
+  "sourceOffset": [
+    51,
+    6
+  ],
+  "sourceRegions": [
+    [
+      22,
+      42,
+      366,
+      387
+    ],
+    [
+      377,
+      44,
+      714,
+      387
+    ],
+    [
+      726,
+      42,
+      1061,
+      387
+    ],
+    [
+      23,
+      426,
+      365,
+      761
+    ],
+    [
+      375,
+      420,
+      709,
+      761
+    ],
+    [
+      720,
+      420,
+      1062,
+      761
+    ],
+    [
+      9,
+      785,
+      359,
+      1118
+    ],
+    [
+      367,
+      788,
+      715,
+      1118
+    ],
+    [
+      719,
+      781,
+      1080,
+      1118
+    ],
+    [
+      5,
+      1124,
+      382,
+      1435
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "f5c23dade4a408680bc5ee333f52afe25d1a40da286a51499b961dae9f64d4df",
+  "spriteSha256": "6e5ef1381963852f9d5425dd9218fd7212758307cb9298c819ee10035b9d3f58"
+}

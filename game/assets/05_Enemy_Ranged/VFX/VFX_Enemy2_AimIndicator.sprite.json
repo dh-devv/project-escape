@@ -1,0 +1,38 @@
+{
+  "name": "VFX_Enemy2_AimIndicator",
+  "sourcePage": 7,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.16331738437001594,
+  "sourceOffset": [
+    25,
+    25
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "df3f8bf4751d5faa77a79b230d1d7f3dfe170ded7706b24397c215eaa6587410",
+  "spriteSha256": "5149ff8e440300bce940115d5313add5e0d8d07d056838d1fa96946604495300"
+}

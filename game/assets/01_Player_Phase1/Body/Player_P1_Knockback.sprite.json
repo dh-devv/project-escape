@@ -1,0 +1,65 @@
+{
+  "name": "Player_P1_Knockback",
+  "sourcePage": 3,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    34
+  ],
+  "sourceRegions": [
+    [
+      93,
+      77,
+      711,
+      673
+    ],
+    [
+      841,
+      103,
+      1420,
+      673
+    ],
+    [
+      1602,
+      150,
+      2077,
+      673
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "192d73e304e092266b52b6e8e3dfe2aca0235289041bf32453b7ceb510311d2f",
+  "spriteSha256": "0223258d45432759ec2354a240e47ae15b6f3bd0226435be2432e317cc9d4aaf"
+}

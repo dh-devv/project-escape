@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><title>World and lighting checks</title></head>
+<body><pre id="results">running</pre>
+<script src="../world.js"></script><script src="../lighting.js"></script>
+<script>
+try {
+  const failures = [];
+  const check = (condition, name) => { if (!condition) failures.push(name); };
+  const world = LastSparkWorld.create([1536, 1536, 960, 960, 1200], [
+    { id: 'g1', room: 4, floor: 1, x: 640 }, { id: 'g2', room: 4, floor: 2, x: 620 }, { id: 'g3', room: 4, floor: 3, x: 820 },
+  ]);
+  check(LastSparkWorld.roomWidth(world, 0) === 1536 && LastSparkWorld.roomWidth(world, 1) === 1536, 'corridor width');
+  check(LastSparkWorld.roomWidth(world, 2) === 960 && LastSparkWorld.roomWidth(world, 3) === 960, 'boss room width');
+  check(LastSparkWorld.roomWidth(world, 4) === 1200, 'separate research wing width');
+  check(LastSparkWorld.generatorsInRoom(world, 4).map(generator => generator.id).join(',') === 'g1,g2,g3', 'all generators live in the research wing');
+  check(world.generators.map(generator => generator.floor).join(',') === '1,2,3', 'one generator is assigned to each of the three research floors');
+  check(LastSparkWorld.create([1200], [{ id: 'g4', room: 0, floor: 5 }]).generators[0].floor === 3, 'out-of-range floor assignment is clamped');
+  check(LastSparkWorld.cameraX(world, 0, 20, 960) === 0, 'camera left clamp');
+  check(LastSparkWorld.cameraX(world, 0, 1500, 960) === 576, 'camera right clamp');
+  check(LastSparkWorld.cameraX(world, 2, 900, 960) === 0, 'boss camera stays fixed');
+  check(world.powerLevel === 0, 'initial power');
+  check(LastSparkWorld.activateGenerator(world, 'g1') === true && world.powerLevel === 1, 'first generator activation');
+  check(LastSparkWorld.activateGenerator(world, 'g1') === false && world.powerLevel === 1, 'generator activation is idempotent');
+  LastSparkWorld.activateGenerator(world, 'g2');
+  LastSparkWorld.activateGenerator(world, 'g3');
+  check(world.powerLevel === 3, 'three generators cap power at three');
+  check(LastSparkWorld.activateGenerator(world, 'missing') === false, 'unknown generator is ignored');
+  const close = (a, b) => Math.abs(a - b) < 1e-9;
+  check(close(LastSparkLighting.alpha(0, -1), .68), 'unpowered static darkness');
+  check(close(LastSparkLighting.alpha(0, 1), .68), 'world darkness is not screen-flickered');
+  check(close(LastSparkLighting.alpha(3, -1), .32), 'restored power reduces darkness');
+  check(close(LastSparkLighting.alpha(3, 1), .32), 'powered light stays steady');
+  check(LastSparkLighting.alpha(99, 0) === LastSparkLighting.alpha(3, 0), 'power alpha is capped');
+  check(LastSparkLighting.glitchIntensity(0) === 0 && LastSparkLighting.glitchIntensity(3) === 0, 'full-screen glitch is disabled');
+  check(LastSparkLighting.sparkIntensity(0) > LastSparkLighting.sparkIntensity(1), 'local wire sparks weaken with restored power');
+  check(LastSparkLighting.sparkIntensity(2) > LastSparkLighting.sparkIntensity(3), 'local wire sparks disappear after full restoration');
+  const glitches = [];
+  const glitchContext = { save() {}, restore() {}, fillRect(...rect) { glitches.push(rect); } };
+  LastSparkLighting.drawGlitch(glitchContext, 960, 540, LastSparkLighting.glitchIntensity(0), 1.25);
+  const unpoweredBands = glitches.length;
+  LastSparkLighting.drawGlitch(glitchContext, 960, 540, LastSparkLighting.glitchIntensity(3), 1.25);
+  check(unpoweredBands === 0 && glitches.length === 0, 'no screen-wide signal tears are drawn');
+  document.querySelector('#results').textContent = failures.length ? `FAIL: ${failures.join('; ')}` : 'PASS: world and lighting checks';
+} catch (error) {
+  document.querySelector('#results').textContent = `FAIL: ${error.message}`;
+}
+</script></body></html>

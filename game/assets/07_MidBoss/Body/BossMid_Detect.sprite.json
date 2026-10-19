@@ -1,0 +1,75 @@
+{
+  "name": "BossMid_Detect",
+  "sourcePage": 9,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    23
+  ],
+  "sourceRegions": [
+    [
+      61,
+      19,
+      520,
+      504
+    ],
+    [
+      568,
+      23,
+      1020,
+      504
+    ],
+    [
+      1050,
+      71,
+      1529,
+      509
+    ],
+    [
+      14,
+      523,
+      562,
+      999
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "a90cedea9bf9ca876293468cd2d05adcca7bd20271a7cd918a5210beaad69671",
+  "spriteSha256": "8a13b2d04b0f1c8d493bb9378f9ad8af3f13a8ca80ebf0961af39b5f821f1235"
+}

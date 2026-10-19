@@ -718,7 +718,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Carten::Carten.EncounterTrigger
   encounterController: {fileID: 839721513}
-  triggerId: 01-01
+  triggerId: Stage1_Map07_Encounter01
 --- !u!4 &629923153
 Transform:
   m_ObjectHideFlags: 0
@@ -781,7 +781,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &839721513
 MonoBehaviour:
   m_ObjectHideFlags: 0

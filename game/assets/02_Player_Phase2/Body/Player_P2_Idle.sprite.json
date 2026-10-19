@@ -1,0 +1,95 @@
+{
+  "name": "Player_P2_Idle",
+  "sourcePage": 4,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    29
+  ],
+  "sourceRegions": [
+    [
+      172,
+      45,
+      376,
+      495
+    ],
+    [
+      669,
+      34,
+      878,
+      495
+    ],
+    [
+      1150,
+      37,
+      1357,
+      495
+    ],
+    [
+      174,
+      555,
+      377,
+      998
+    ],
+    [
+      669,
+      544,
+      877,
+      998
+    ],
+    [
+      1147,
+      544,
+      1357,
+      998
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "49b2531d1889d7e1a3554c46112580cbcf808502286ed30d5db1b15b90e8bad0",
+  "spriteSha256": "2d720a248a6e40dbd42c433100f431f18c7e6353da50e9b4d05d3ef3d5e1324e"
+}

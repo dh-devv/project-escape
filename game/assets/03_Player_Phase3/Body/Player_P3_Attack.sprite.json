@@ -1,0 +1,102 @@
+{
+  "name": "Player_P3_Attack",
+  "sourcePage": 5,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    38
+  ],
+  "sourceRegions": [
+    [
+      99,
+      55,
+      415,
+      471
+    ],
+    [
+      574,
+      70,
+      937,
+      470
+    ],
+    [
+      1069,
+      81,
+      1505,
+      470
+    ],
+    [
+      47,
+      565,
+      513,
+      977
+    ],
+    [
+      576,
+      577,
+      1071,
+      976
+    ],
+    [
+      1133,
+      561,
+      1460,
+      977
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "efab48bc743cc43e81dfa6745c1519fc3b636c9b3e504bb1e7c4b7d3e0581209",
+  "spriteSha256": "1b331b4cfa50f4e52aca8f025e03d59ac6007fed7b64efe02dcc0de86db1a4ab",
+  "proposedCombatTiming": {
+    "hitFrames": [
+      4
+    ],
+    "note": "정면 타격"
+  },
+  "combatTimingFrameIndexBase": 1
+}

@@ -1,0 +1,115 @@
+{
+  "name": "BossFinal_Idle",
+  "sourcePage": 10,
+  "frameCount": 8,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.9799043062200957,
+  "sourceOffset": [
+    51,
+    67
+  ],
+  "sourceRegions": [
+    [
+      14,
+      21,
+      416,
+      402
+    ],
+    [
+      427,
+      21,
+      827,
+      402
+    ],
+    [
+      837,
+      20,
+      1240,
+      402
+    ],
+    [
+      14,
+      430,
+      418,
+      809
+    ],
+    [
+      427,
+      430,
+      827,
+      809
+    ],
+    [
+      837,
+      430,
+      1239,
+      809
+    ],
+    [
+      16,
+      838,
+      419,
+      1215
+    ],
+    [
+      427,
+      838,
+      827,
+      1215
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "3b5dc4668d93767f665a3f37adc79f153e53eb0c48ce872f952cac73517184b9",
+  "spriteSha256": "ed3a4cc9a7b7928ce177350964cd95e46eae02ec485ad7320642e0a88b2e8133"
+}

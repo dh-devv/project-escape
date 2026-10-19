@@ -1,0 +1,38 @@
+{
+  "name": "Elevator_Stopped",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.18517179023508137,
+  "sourceOffset": [
+    12,
+    27
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "5a0dcf23f663b5f0bfdcdc5f16dfdf5aafbc1e7fce3bfc4bca8cd1210bd50e5b",
+  "spriteSha256": "6180041dede97a834f2dcda4835994aacaef9f2fb635c1dac798330b8899c823"
+}

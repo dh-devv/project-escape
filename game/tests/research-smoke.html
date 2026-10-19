@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ko"><meta charset="utf-8"><title>Research wing checks</title><body><pre id="results">running</pre>
+<script src="../research.js"></script>
+<script>
+try {
+  var passed = 0;
+  function check(value, name) { if (!value) throw new Error(name); passed += 1; }
+  var floors = LastSparkResearch.floors();
+  check(floors.length === 3, 'research wing is condensed to three floors');
+  check(floors.filter(function (item) { return item.generatorId; }).map(function (item) { return item.number; }).join(',') === '1,2,3', 'each floor has one generator');
+  check(LastSparkResearch.generatorFloor('g1') === 1 && LastSparkResearch.generatorFloor('g2') === 2 && LastSparkResearch.generatorFloor('g3') === 3, 'generators stay assigned one per floor');
+  var enemy = { x: 95, patrolMin: 90, patrolMax: 100, facing: -1, speed: 40, alerted: false };
+  LastSparkResearch.stepPatrol(enemy, .5, null, 0);
+  check(enemy.x === 90 && enemy.facing === 1, 'patrol reverses at its boundary');
+  var wave = LastSparkResearch.dropWave(2, 1200, 1);
+  check(wave.length === 3 && wave.every(function (entry) { return entry.x > 0 && entry.x < 1200; }), 'ceiling deployment schedules three in-bounds enemies');
+  check(wave.some(function (entry) { return entry.kind === 'melee' || entry.kind === 'ranged' || entry.kind === 'charger'; }), 'ceiling deployment mixes enemy types');
+  var safeGap = LastSparkResearch.targetedSafeGap(240, 960, 148);
+  check(safeGap.safe1 > 240 && safeGap.safe2 > safeGap.safe1, 'boss safe gap appears away from the targeted player');
+  var floorCovers = LastSparkResearch.floors().map(function (floor) { return LastSparkResearch.floor(floor.number).coverXs.length; });
+  check(floorCovers.every(function (count) { return count === 1; }), 'each research floor has only one hiding spot');
+  var player = { x: 120, y: 448, hidden: false, coverId: null };
+  check(LastSparkResearch.hide(player, { id: 'cabinet-a', x: 120 }), 'player can enter nearby cover');
+  check(player.hidden && player.coverId === 'cabinet-a', 'cover hides the player');
+  check(!LastSparkResearch.hide(player, { id: 'far', x: 400 }), 'distant cover cannot be entered');
+  check(LastSparkResearch.reveal(player) && !player.hidden && player.coverId === null, 'player can leave cover');
+  var guards = [{ x: 200, alerted: false }, { x: 800, alerted: false }];
+  check(LastSparkResearch.wakeNearby(guards, 240, 120, 2) === 1 && guards[0].noticeUntil > 2 && !guards[0].alerted && !guards[1].noticeUntil, 'generator warns nearby guards before pursuit');
+  document.querySelector('#results').textContent = 'PASS: ' + passed + ' research checks';
+} catch (error) { document.querySelector('#results').textContent = 'FAIL: ' + error.message; }
+</script></body></html>

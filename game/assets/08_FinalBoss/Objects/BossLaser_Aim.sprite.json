@@ -1,0 +1,57 @@
+{
+  "name": "BossLaser_Aim",
+  "sourcePage": 11,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.15625,
+    0.140625
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.2928870292887029,
+  "sourceOffset": [
+    22,
+    100
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "e3140009bffc12d94023613f307c9ec35734d419c06f22d990815d0549164c8f",
+  "spriteSha256": "d683392b39c8b37b493af4f90f642674f5a9cfe6c98539be66babe53e563375b",
+  "alignmentReference": [
+    62,
+    170,
+    422,
+    409
+  ],
+  "alignmentNote": "Laser cannon housing aligned to a common 70px reference height and bottom-left anchor across four states"
+}

@@ -1,0 +1,115 @@
+{
+  "name": "BossMid_Entrance",
+  "sourcePage": 9,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.48995215311004786,
+  "sourceOffset": [
+    25,
+    29
+  ],
+  "sourceRegions": [
+    [
+      80,
+      160,
+      390,
+      423
+    ],
+    [
+      494,
+      115,
+      798,
+      421
+    ],
+    [
+      894,
+      62,
+      1204,
+      421
+    ],
+    [
+      60,
+      499,
+      426,
+      816
+    ],
+    [
+      491,
+      465,
+      823,
+      816
+    ],
+    [
+      918,
+      496,
+      1200,
+      819
+    ],
+    [
+      65,
+      887,
+      400,
+      1208
+    ],
+    [
+      488,
+      854,
+      784,
+      1207
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "380a5d2528fa47872178c95cca17cb7f331a1beec5c896cabd97c954c6697668",
+  "spriteSha256": "efd6547f5748941475e079d2a29f4a0cc4d2658ed8a0ada5dca7ca0d554725b0"
+}

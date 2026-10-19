@@ -600,7 +600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Carten::Carten.MapExit
   prompt: Interact
   targetSceneName: Stage1_Map07
-  targetSpawnPointName: Map07_EntrySpawn
+  targetSpawnPointName: Map7_EntrySpawn
 --- !u!4 &265839159
 Transform:
   m_ObjectHideFlags: 0

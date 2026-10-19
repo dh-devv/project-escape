@@ -1,0 +1,42 @@
+{
+  "name": "VFX_BossMid_AttackWarning",
+  "sourcePage": 9,
+  "frameCount": 2,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1774,
+    887
+  ],
+  "sourceScale": 0.23089064261555808,
+  "sourceOffset": [
+    25,
+    25
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "07879951fb28963429924a75bb2f03c56a1107f363cf729aea0f39367c1d9dae",
+  "spriteSha256": "148f85f3bc3fa9b6c0d69915c879ce315d44527160cbee6a4003ef5fe78d6770"
+}

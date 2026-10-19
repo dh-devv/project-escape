@@ -1,0 +1,65 @@
+{
+  "name": "Enemy1_Recovery",
+  "sourcePage": 6,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    33
+  ],
+  "sourceRegions": [
+    [
+      132,
+      134,
+      725,
+      676
+    ],
+    [
+      916,
+      79,
+      1273,
+      676
+    ],
+    [
+      1644,
+      73,
+      2000,
+      676
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "d2ca9216aec5e94cbbc91d883c4fad048120e2f8db0e63377d2adabc45d8e3b4",
+  "spriteSha256": "54f32e7d4e6d1c86f1353811477f84fcca9c6fbaabdab30ecc190d1a12febea1"
+}

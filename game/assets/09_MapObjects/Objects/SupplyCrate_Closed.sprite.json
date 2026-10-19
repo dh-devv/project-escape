@@ -1,0 +1,38 @@
+{
+  "name": "SupplyCrate_Closed",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.22333696837513634,
+  "sourceOffset": [
+    -12,
+    29
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "84708ecdf584915e61fb56841885218eae227ed043d6897d39338d5f8dba2382",
+  "spriteSha256": "0cda8069e7174616d9f08c456576df4fa11be63a9e4552ce76dc76eed092fbef"
+}

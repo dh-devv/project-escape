@@ -1,0 +1,75 @@
+{
+  "name": "BossMid_Damage",
+  "sourcePage": 9,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    37
+  ],
+  "sourceRegions": [
+    [
+      61,
+      88,
+      542,
+      462
+    ],
+    [
+      587,
+      128,
+      978,
+      478
+    ],
+    [
+      619,
+      548,
+      1011,
+      960
+    ],
+    [
+      122,
+      564,
+      505,
+      960
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      140,
+      -168
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "2b99dde6c575a09032da0a8ad3b30f48c8a1f0555e7a65f3c855a3b1368fa51a",
+  "spriteSha256": "815f9b1d7b9e6f2b77e57362da96be28b36189276c1e8298b1d45ca2fbfaa8dd"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "DestructibleCrate_Hit",
+  "sourcePage": 12,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.3065868263473054,
+  "sourceOffset": [
+    17,
+    51
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "629b878977ab95b582424eced25bc83ffe6fed9e475eed23f83a381dac329642",
+  "spriteSha256": "07a7b735ac933412fb1d9cd81c378ae6e091b967336847193cb1eefc6517f328"
+}

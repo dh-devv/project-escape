@@ -1,0 +1,424 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="theme-color" content="#080b10">
+<title>LAST SPARK — Containment Log</title>
+<style>
+:root{color-scheme:dark;--ink:#c7ceca;--muted:#77817b;--cyan:#9aa994;--amber:#b18a62;--red:#a45449}
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;background:#07090d;color:var(--ink);font-family:Consolas,"Malgun Gothic",monospace;overflow:hidden}
+body{display:grid;place-items:center;background:radial-gradient(ellipse at 50% 45%,#172129 0,#0a0d12 58%,#050608 100%)}
+#frame{position:relative;width:min(100vw,177.777vh);aspect-ratio:16/9;border:1px solid #333a35;box-shadow:0 0 65px #000,0 0 20px #75d7d011;overflow:hidden;background:#090d12}
+canvas{display:block;width:100%;height:100%;image-rendering:pixelated;touch-action:none}
+#shade{pointer-events:none;position:absolute;inset:0;background:radial-gradient(ellipse at center,#0000 42%,#000a 100%);mix-blend-mode:multiply}
+#dialog{position:absolute;left:6%;right:6%;bottom:7%;padding:19px 23px 16px;background:linear-gradient(100deg,#0a100fF2,#111511e8);border:1px solid #50594c;border-left:4px solid #65745b;box-shadow:0 8px 35px #000b;display:none}
+#dialog:after{content:"";position:absolute;right:0;bottom:0;width:92px;height:18px;background:linear-gradient(145deg,transparent 47%,#354438 49% 65%,transparent 67%),radial-gradient(ellipse at 82% 100%,#456044aa 0 25%,transparent 27%);pointer-events:none}
+#dialog.terminal-log{left:4%;right:auto;bottom:5%;width:min(680px,92%);padding:15px 19px 13px;background:linear-gradient(100deg,#08100ff5,#0c1111f0);border-color:#46564d;border-left-color:#82917a;box-shadow:0 10px 38px #000d,inset 0 0 25px #9cae8708}
+#dialog.terminal-log #speaker{color:#a4b099;font-size:11px}
+#dialog.terminal-log #line{font-size:clamp(13px,1.65vw,16px);line-height:1.8;min-height:5.4em;color:#c2c9bc}
+#dialog.terminal-log #line.typing:after{content:"▍";color:#9daa82;animation:terminal-cursor .8s steps(1) infinite}
+#dialog.terminal-log #advance{color:#8d9d86}
+@keyframes terminal-cursor{50%{opacity:0}}
+#speaker{font-size:12px;letter-spacing:.15em;color:#9aa994;margin-bottom:9px}#line{font-size:clamp(14px,2.1vw,20px);line-height:1.65;min-height:3.2em;white-space:pre-wrap}#advance{display:block;margin:9px 0 0 auto;border:0;background:none;color:var(--amber);font:inherit;font-size:12px;cursor:pointer}
+#hint{position:absolute;right:15px;top:12px;max-width:70%;color:#aab1a6;font-size:10px;letter-spacing:.02em;text-shadow:0 1px #000;text-align:right}
+@media(max-width:650px){#dialog{left:3%;right:3%;bottom:4%;padding:12px 14px}#line{font-size:14px}#hint{font-size:9px}}
+</style>
+</head>
+<body>
+<main id="frame" aria-label="LAST SPARK 로컬 게임">
+<canvas id="game" width="960" height="540" aria-label="게임 화면"></canvas>
+<div id="shade"></div><div id="hint">A/D · ←→ 이동　SPACE 점프　J 길게 차징　SHIFT 대시　R 회복약　E 조사·은폐　O 손전등　ESC 일시정지　Q 타이틀</div>
+<section id="dialog" role="dialog" aria-live="polite"><div id="speaker">기록</div><div id="line"></div><button id="advance">계속　[ENTER]</button></section>
+</main>
+<script src="asset-manifest.js"></script>
+<script src="presentation.js"></script>
+<script src="asset-runtime.js"></script>
+<script src="combat.js"></script>
+<script src="player-appearance.js"></script>
+<script src="world.js"></script>
+<script src="lighting.js"></script>
+<script src="research.js"></script>
+<script src="boss-ai.js"></script>
+<script src="sound.js"></script>
+<script>
+(()=>{
+'use strict';
+const canvas=document.querySelector('#game'),ctx=canvas.getContext('2d'),dialog=document.querySelector('#dialog'),speakerEl=document.querySelector('#speaker'),lineEl=document.querySelector('#line'),advanceEl=document.querySelector('#advance');
+ const W=960,H=540,FLOOR=448,MAX_ACTIVE_ENEMIES=5,ROOM_WIDTHS=[1536,1536,960,960,1200],RESEARCH_DOOR_X=1010,RESEARCH_RETURN_X=105,GENERATOR_LAYOUT=[{id:'g1',room:4,floor:1,x:760},{id:'g2',room:4,floor:2,x:620},{id:'g3',room:4,floor:3,x:820}],keys=new Set(),rand=(a,b)=>a+Math.random()*(b-a),clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
+ const game={mode:'title',room:0,researchFloor:1,world:LastSparkWorld.create(ROOM_WIDTHS,GENERATOR_LAYOUT),cameraX:0,player:{x:112,y:FLOOR,vx:0,vy:0,hp:100,max:100,potions:2,face:1,ground:true,jumps:0,stun:0,invuln:0,dash:0,dashCd:0,attack:0,attackCooldown:0,attackElapsed:0,attackHit:false,attackCharged:false,attackHeld:false,chargeTime:0,charging:false,hidden:false,coverId:null},flags:{log:false,card:false},researchWingVisits:0,enemies:[],shots:[],hazards:[],effects:[],boss:null,turrets:[],dropQueue:[],deployments:{},deploymentCount:0,aiNode:null,toast:'',toastTime:0,score:0,maxPhase:1,dialogue:[],dialogueIndex:0,afterDialogue:null,dialogueTypewriter:false,dialogueVisibleChars:0,dialogueElapsed:0,clock:0,flicker:0,attackClock:1.4,muted:false,wireSparks:[],wireSparkKey:'',alarmPulseUntil:0,nextAlarmAt:0,alarmStartedAt:0,nextMotorAt:0,flashlightOn:true,powerRestoreAt:-10};
+let audio=null,hum=null,audioGain=null,noiseSource=null,noiseGain=null,noiseFilter=null,droneFilter=null,last=0;
+function phase(){const p=game.player;return p.hp/p.max>.7?1:p.hp/p.max>.3?2:3}
+function tell(msg,t=2.4){game.toast=msg;game.toastTime=t}
+function cameraImpulse(strength){const activeStrength=game.cameraShakeTime>0?game.cameraShakeStrength||0:0;game.cameraShakeStrength=Math.max(activeStrength,Math.min(3,strength));game.cameraShakeTime=.1;game.cameraShake=game.cameraShakeStrength}
+function emitFx(name,x,y,duration=.55,scale=1,flip=false){game.effects.push({name,x,y,started:game.clock,duration,scale,flip})}
+function say(who,lines,after=null,options={}){game.mode='dialogue';game.dialogue=lines;game.dialogueIndex=0;game.afterDialogue=after;game.dialogueTypewriter=options.typewriter===true;game.dialogueElapsed=0;game.dialogueVisibleChars=game.dialogueTypewriter?0:(lines[0]||'').length;dialog.style.display='block';dialog.classList.toggle('terminal-log',game.dialogueTypewriter);speakerEl.textContent=who;lineEl.textContent=game.dialogueTypewriter?'':(lines[0]||'');lineEl.classList.toggle('typing',game.dialogueTypewriter);advanceEl.textContent=game.dialogueTypewriter?'ENTER: 전체 표시':'계속 [ENTER]'}
+function advance(){if(game.mode!=='dialogue')return;if(game.dialogueTypewriter&&game.dialogueVisibleChars<(game.dialogue[game.dialogueIndex]||'').length){game.dialogueVisibleChars=(game.dialogue[game.dialogueIndex]||'').length;lineEl.textContent=game.dialogue[game.dialogueIndex]||'';lineEl.classList.remove('typing');advanceEl.textContent='ENTER: 닫기';return}if(game.dialogueIndex<game.dialogue.length-1){game.dialogueIndex++;game.dialogueElapsed=0;game.dialogueVisibleChars=game.dialogueTypewriter?0:(game.dialogue[game.dialogueIndex]||'').length;lineEl.textContent=game.dialogueTypewriter?'':(game.dialogue[game.dialogueIndex]||'');lineEl.classList.toggle('typing',game.dialogueTypewriter);advanceEl.textContent=game.dialogueTypewriter?'ENTER: 건너뛰기':'계속 [ENTER]';return}dialog.style.display='none';dialog.classList.remove('terminal-log');lineEl.classList.remove('typing');advanceEl.textContent='계속 [ENTER]';game.dialogueTypewriter=false;game.mode='play';const f=game.afterDialogue;game.afterDialogue=null;if(f)f()}
+document.querySelector('#advance').addEventListener('click',advance);
+function applyAudioMix(power=game.world.powerLevel){if(!audio)return;const mix=LastSparkPresentation.audioLevels(power),time=audio.currentTime;if(audioGain)audioGain.gain.setTargetAtTime(game.muted?0:mix.drone,time,.32);if(noiseGain)noiseGain.gain.setTargetAtTime(game.muted?0:mix.noise,time,.42)}
+function playSfx(name){if(audio&&!game.muted)LastSparkSound.play(audio,name)}
+function startAudio(){if(game.muted)return;try{audio=audio||new(window.AudioContext||window.webkitAudioContext)();if(audio.state==='suspended')audio.resume();if(!hum){hum=audio.createOscillator();droneFilter=audio.createBiquadFilter();audioGain=audio.createGain();audioGain.gain.value=0;hum.type='sawtooth';hum.frequency.value=48;droneFilter.type='lowpass';droneFilter.frequency.value=92;hum.connect(droneFilter).connect(audioGain).connect(audio.destination);hum.start()}if(!noiseSource){const buffer=audio.createBuffer(1,audio.sampleRate,audio.sampleRate),samples=buffer.getChannelData(0);for(let i=0;i<samples.length;i++)samples[i]=Math.random()*2-1;noiseSource=audio.createBufferSource();noiseSource.buffer=buffer;noiseSource.loop=true;noiseFilter=audio.createBiquadFilter();noiseFilter.type='highpass';noiseFilter.frequency.value=760;noiseFilter.Q.value=.5;const upper=audio.createBiquadFilter();upper.type='lowpass';upper.frequency.value=7600;noiseGain=audio.createGain();noiseGain.gain.value=0;noiseSource.connect(noiseFilter).connect(upper).connect(noiseGain).connect(audio.destination);noiseSource.start()}applyAudioMix()}catch(_){game.muted=true;tell('오디오를 사용할 수 없어 무음으로 시작합니다')}}
+window.playLastSparkUiClick=()=>{startAudio();playSfx('uiClick')};
+function toggleAudio(){game.muted=!game.muted;if(!game.muted)startAudio();applyAudioMix();tell(game.muted?'환경음 꺼짐':'환경음 켜짐')}
+ function resetRun(){game.room=0;game.researchFloor=1;game.world=LastSparkWorld.create(ROOM_WIDTHS,GENERATOR_LAYOUT);applyAudioMix(0);game.wireSparkKey='';game.wireSparks=[];game.alarmPulseUntil=0;game.nextAlarmAt=0;game.alarmStartedAt=0;game.nextMotorAt=0;game.flashlightOn=true;game.powerRestoreAt=-10;game.cameraX=0;game.cameraShake=0;game.cameraShakeStrength=0;game.cameraShakeTime=0;game.player={x:112,y:FLOOR,vx:0,vy:0,hp:100,max:100,potions:2,face:1,ground:true,jumps:0,injected:false,injectionPending:false,hitFlash:0,stun:0,invuln:0,dash:0,dashCd:0,attack:0,attackCooldown:0,attackElapsed:0,attackHit:false,attackCharged:false,attackHeld:false,chargeTime:0,charging:false,hidden:false,coverId:null};game.flags={log:false,card:false};game.researchWingVisits=0;game.score=0;game.maxPhase=1;game.enemies=[];game.shots=[];game.hazards=[];game.effects=[];game.boss=null;game.turrets=[];game.dropQueue=[];game.deployments={};game.deploymentCount=0;game.aiNode=null;game.aiTransferAt=game.clock+4;game.mode='play';loadRoom(0)}
+function start(){startAudio();playSfx('uiClick');resetRun()}
+function loadRoom(n,researchFloor=1){game.room=n;game.researchFloor=n===4?clamp(Math.floor(researchFloor),1,3):1;game.wireSparkKey='';game.player.x=90;game.player.y=FLOOR;game.player.vx=0;game.player.vy=0;game.player.stun=0;game.player.hidden=false;game.player.coverId=null;game.enemies=[];game.shots=[];game.hazards=[];game.effects=[];game.boss=null;game.turrets=[];game.cameraX=0;game.attackClock=1.5;
+ if(n===0){game.enemies.push(makeDrone(740,'ranged',260,920),makeDrone(1220,'melee',1010,1450));tell('분석실 — 순찰 신호 2기')}
+ if(n===1){game.enemies.push(makeDrone(640,'melee',440,900),makeDrone(805,'charger',680,1320),makeDrone(1180,'ranged',940,1450));tell('격리 통로 — 보안 유닛 3기 순찰 중')}
+if(n===4){const floorPlan=LastSparkResearch.floor(game.researchFloor);floorPlan.patrols.forEach((guard,index)=>game.enemies.push(makeDrone(guard.x,guard.kind,180+index*120,1020+index*80)));const turret=makeTurret(game.researchFloor===2?780:600);game.turrets.push(turret);game.enemies.push(turret);const entryKey='floor:'+game.researchFloor;if(!game.deployments[entryKey]){game.deployments[entryKey]=true;scheduleResearchDrop('층 진입')}tell('E-04 / '+game.researchFloor+'층 — '+floorPlan.name)}
+if(n===2){game.boss={kind:'sentinel',x:715,hp:180,max:180,phase:1,w:72,h:112,attackClock:2.1,pattern:0,animKey:'Entrance',animAt:game.clock};tell('중간 보스 — 경비 프레임 / 2단계')}
+if(n===3){game.aiNode='nexus';game.boss={kind:'nexus',x:650,hp:360,max:360,phase:1,w:118,h:168,attackClock:2.2,pattern:0,animKey:'Awakening',animAt:game.clock};say('NEXUS / 중앙 제어실',[
+game.world.powerLevel===3?'“세 개 차단기를 올렸군요. 격벽 개방까지 12초가 필요합니다.”':`“복구율 ${game.world.powerLevel}/3. 수동 개방은 가능하지만, 경비 전력은 남아 있습니다.”`,
+'“그동안 문을 열면, 대피 인원이 위험에 노출됩니다.”',
+'“대피 인원은 이미 없습니다.”',
+'“확인되지 않은 인원은 위험 인원과 동일하게 처리합니다.”',
+'기계음이 끊긴다. 코어 냉각팬이 한 번 돌고 멈춘다.'
+])}
+}
+function makeDrone(x,kind='ranged',patrolMin=x-150,patrolMax=x+150){const charger=kind==='charger';return{x,y:FLOOR,dropY:null,hp:charger?70:58,max:charger?70:58,vx:0,cd:rand(1.1,2.1),flash:0,kind,facing:-1,width:48,height:80,patrolMin,patrolMax,speed:kind==='charger'?48:kind==='melee'?37:32,patrolHomeFacing:-1,alerted:false,noticeUntil:0,noticeAlarm:false,lastSeenX:x,searchUntil:0,aim:0,windup:0,attackTime:0,attackHit:false,charge:0,chargeWarn:0,chargeHit:false,recovery:0}}
+function makeTurret(x){return{x,y:FLOOR,dropY:null,dropSpeed:0,hp:48,max:48,vx:0,cd:rand(2.1,3.1),flash:0,kind:'turret',facing:-1,width:76,height:68,patrolMin:x,patrolMax:x,speed:0,alerted:false,noticeUntil:0,noticeAlarm:false,lastSeenX:x,searchUntil:0,aim:0,windup:0,attackTime:0,attackHit:false}}
+function startResearchAlarm(){game.alarmPulseUntil=Math.max(game.alarmPulseUntil,game.clock+6);game.alarmStartedAt=game.clock;game.nextAlarmAt=game.clock+.95;playSfx('wingSiren')}
+function fireAimedShot(source,speed=250,radius=8){const startX=source.x+(source.facing||1)*18,startY=(source.dropY===null?FLOOR:source.dropY)-48,targetX=game.player.x,targetY=game.player.y-34,dx=targetX-startX,dy=targetY-startY,length=Math.max(1,Math.hypot(dx,dy));game.shots.push({x:startX,y:startY,vx:dx/length*speed,vy:dy/length*speed,life:2.3,from:source.x,radius})}
+function fireBossVolley(b){const direction=game.player.x<b.x?-1:1,startX=b.x+direction*b.w*.38,startY=FLOOR-b.h*.64,dx=game.player.x-startX,dy=game.player.y-34-startY,angle=Math.atan2(dy,dx),speed=b.phase===3?340:300;for(const spread of [-.2,0,.2]){const aim=angle+spread;game.shots.push({x:startX,y:startY,vx:Math.cos(aim)*speed,vy:Math.sin(aim)*speed,life:2.2,from:b.x,radius:10,damage:b.phase===3?15:12,boss:true})}}
+function scheduleResearchDrop(reason){const floor=game.researchFloor,key='generator:'+floor;if(reason==='generator'&&game.deployments[key])return false;if(reason==='generator')game.deployments[key]=true;const wave=LastSparkResearch.dropWave(floor,LastSparkWorld.roomWidth(game.world,4),game.deploymentCount);const id=++game.deploymentCount;wave.forEach((entry,index)=>game.dropQueue.push({at:game.clock+.8+index*.62,x:entry.x,kind:entry.kind,id,floor}));return true}
+ function updateDeployments(){game.dropQueue=game.dropQueue.filter(drop=>{if(drop.at>game.clock||game.room!==4||drop.floor!==game.researchFloor)return true;if(game.enemies.filter(e=>e.hp>0).length>=MAX_ACTIVE_ENEMIES)return false;const enemy=makeDrone(drop.x,drop.kind,Math.max(72,drop.x-240),Math.min(1128,drop.x+240));enemy.dropY=-24;enemy.dropSpeed=470;beginEnemyNotice(enemy,game.player.x,true);game.enemies.push(enemy);return false})}
+function objects(){
+ const generators=LastSparkWorld.generatorsInRoom(game.world,game.room,game.researchFloor).map(g=>({x:g.x,id:g.id,label:'비상 발전기',key:'generator'}));
+ const doorX=LastSparkWorld.roomWidth(game.world,game.room)-90;
+ if(game.room===0)return[{x:320,label:'손상된 단말기',key:'log'},{x:RESEARCH_DOOR_X,label:'동력 연구동',key:'wing'},...generators,{x:doorX,label:'보안 구역',key:'door'}];
+ if(game.room===1)return[{x:74,label:'A-01 통로로 복귀',key:'return'},...generators,{x:1210,label:'보안 데스크 — 출입 키',key:'card'},{x:doorX,label:'보안 격벽',key:'door'}];
+ if(game.room===2)return[{x:doorX,label:'중앙 제어실 문',key:'door'}];
+ if(game.room===4){const floor=LastSparkResearch.floor(game.researchFloor);const spots=floor.coverXs.map((x,index)=>({x,label:'은폐 캐비닛',key:'cover',id:'e04-f'+game.researchFloor+'-'+index}));const lift=game.researchFloor===1?[{x:doorX,label:'상층 승강기',key:'elevator-up',floor:2},{x:RESEARCH_RETURN_X,label:'격리 통로로 복귀',key:'return'}]:[{x:RESEARCH_RETURN_X,label:'하층 승강기',key:'elevator-down',floor:game.researchFloor-1},...(game.researchFloor<3?[{x:doorX,label:'상층 승강기',key:'elevator-up',floor:game.researchFloor+1}]:[])];return lift.concat(generators,spots)}
+ return[]
+}
+function changeResearchFloor(target,atRight){game.researchFloor=target;loadRoom(4,target);game.player.x=atRight?LastSparkWorld.roomWidth(game.world,4)-115:120;game.player.face=atRight?-1:1;game.mode='play';const note=target===1?'배수구 물. 덮개엔 최근 손자국.':target===2?'관찰창은 안쪽에서 깨졌다. 잠금 기록 06:09.':'회로명은 지워졌다. NEXUS 선만 새것.';tell('E-04 / '+target+'층 — '+LastSparkResearch.floor(target).name+' · '+note,2.5)}
+function interact(){const p=game.player;if(p.hidden){playSfx('uiClick');LastSparkResearch.reveal(p);tell('은폐 위치에서 나왔다',1);return}let obj=objects().filter(o=>Math.abs(o.x-p.x)<75).sort((a,b)=>Math.abs(a.x-p.x)-Math.abs(b.x-p.x))[0];if(!obj){tell('조사할 대상이 가까이 없어');return}playSfx('uiClick');
+ if(obj.key==='cover'){if(LastSparkResearch.hide(p,obj))tell('숨었다 — 순찰이 지나갈 때까지 움직이지 마',1.8);return}
+ if(obj.key==='elevator-up'||obj.key==='elevator-down'){changeResearchFloor(obj.floor,obj.key==='elevator-down');return}
+  if(obj.key==='generator'){if(LastSparkWorld.activateGenerator(game.world,obj.id)){const generator=game.world.generators.find(g=>g.id===obj.id);generator.activeAt=game.clock;game.alarmPulseUntil=game.clock+6;game.alarmStartedAt=game.clock;game.nextAlarmAt=game.clock+rand(.2,.5);applyAudioMix(game.world.powerLevel);if(game.world.powerLevel===3){game.flashlightOn=false;game.powerRestoreAt=game.clock;playSfx('powerRestore')}game.aiNode=obj.id;LastSparkResearch.wakeNearby(game.enemies,obj.x,420,game.clock);scheduleResearchDrop('generator');emitFx('VFX_Common_EnergyDischarge',obj.x,FLOOR-42,.32,.34);tell(`차단기 ${game.world.powerLevel}/3 — NEXUS가 투입 신호를 보냈다. 위를 봐.`,2.2)}else tell('발전기가 이미 가동 중이다');return}
+ if(obj.key==='log'){game.flags.log=true;say('SECURITY TERMINAL / 02:15',['02:15 — 메인 AI가 비상 통제 권한을 요청했다.\n복도 전력은 차단됐고, 출구 잠금은 유지됐다.\n대피 명령을 내린 연구원 네 명은 ‘위험 자산’으로 기록됐다.'],null,{typewriter:true});return}
+ if(obj.key==='card'){if(!game.flags.card){game.flags.card=true;game.score+=100;tell('비상 출입 카드를 획득했다.');return}tell('출입 카드가 등록되어 있다.');return}
+ if(obj.key==='wing'){if(!game.flags.log||!game.flags.card){tell('동력 연구동은 봉쇄 중이다. 기록과 출입 카드가 필요해.');return}game.researchWingVisits++;loadRoom(4,1);game.player.x=260;game.player.face=1;startResearchAlarm();say('복구 기록 / E-04',['벽체가 안쪽으로 무너졌다. 절단된 케이블 끝이 물 고인 바닥에 닿아 있다.','1층 차단기를 올린 뒤 승강기로 올라가. 2층 격리 관찰동, 3층 중앙 배전실. 각 층에 한 대씩 남았다.','NEXUS는 차단기 신호를 듣는다. 투입 해치가 열리기 전에 떨어질 자리를 벗어나.'],startResearchAlarm);return}
+ if(obj.key==='return'){
+  if(game.room===1){loadRoom(0);game.player.x=LastSparkWorld.roomWidth(game.world,0)-155;game.player.face=-1;tell('A-01 통로로 돌아왔다. 오른쪽 봉쇄문을 지나면 보안실로 복귀할 수 있다.');return}
+  game.alarmPulseUntil=0;game.nextAlarmAt=0;loadRoom(0);game.player.x=RESEARCH_DOOR_X-70;game.player.face=-1;tell(game.world.powerLevel?'A-01 통로로 복귀했다. 복구된 조명이 뒤쪽을 비춘다.':'A-01 통로로 복귀했다. 비상등만 남아 있다.');return
+ }
+ if(obj.key==='door'){
+  if(game.room===0&&!game.flags.log){tell('봉쇄문이 잠겨 있다. 먼저 단말기에서 사고 기록을 확보해.');return}
+  if(game.room===1&&!game.flags.card){tell('보안 격벽이 잠겨 있다. 보안 데스크에서 출입 키를 찾아.');return}
+  if(game.boss&&game.boss.hp>0){tell('대상이 아직 작동 중이다.');return}
+  if(game.room===0){loadRoom(1);say('보안 구역 / A-02',['벽면 모니터에는 같은 복도가 서로 다른 시각으로 반복 재생된다.','보안 데스크의 출입 키가 격벽을 열 수 있다.','뒤쪽 문으로 돌아가면 동력 연구동에도 갈 수 있다.']);}
+  else if(game.room===1){loadRoom(2);say('NEXUS / 경보 채널',['“보안 프레임은 출구를 지키고 있습니다.”','그 말과 함께 프레임의 무릎 잠금이 풀렸다.']);}
+  else if(game.room===2){loadRoom(3)}return
+ }}
+function updateAISignal(){if(game.room===3){game.aiNode='nexus';return}if(game.clock<game.aiTransferAt)return;const nodes=objects().filter(o=>['log','generator','door','wing','return'].includes(o.key)).map((o,index)=>({id:o.id||`${o.key}-${game.room}-${index}`,x:o.x})).concat(game.enemies.map((e,i)=>({id:`robot-${game.room}-${i}`,x:e.x})));if(game.boss&&game.boss.hp>0)nodes.push({id:`frame-${game.room}`,x:game.boss.x});const choices=nodes.filter(node=>node.id!==game.aiNode);if(choices.length){const target=choices[Math.floor(Math.random()*choices.length)];game.aiNode=target.id;emitFx('VFX_Common_EnergyDischarge',target.x,FLOOR-50,.28,.26)}game.aiTransferAt=game.clock+rand(4.5,7.5)}
+ function applyPlayerAttack(profile){
+  const p=game.player;if(p.hidden||p.stun>0||game.mode!=='play')return;let hit=false,impactTarget=null;const reach=profile.charged?124:108;
+  for(const e of game.enemies){if(LastSparkCombat.meleeHitsTarget(p,{x:e.x,y:e.dropY===null?FLOOR:e.dropY,width:e.width,height:e.height},p.face,reach)){e.hp=Math.max(0,e.hp-Math.round((phase()===3?16:phase()===2?12:9)*profile.damageMultiplier));e.flash=.1;hit=true;if(!impactTarget)impactTarget={x:e.x,y:(e.dropY===null?FLOOR:e.dropY)-42};if(e.kind!=='turret'){e.hitReact=.16;e.knockback=p.face*(profile.charged?250:138)}if(e.hp<=0){game.score+=50;emitFx(e.kind==='melee'?'VFX_Enemy1_DeathSparks':e.kind==='charger'?'VFX_Enemy3_DestructionDebris':'VFX_Enemy2_BulletExplosion',e.x,(e.dropY===null?FLOOR:e.dropY)-30,.48,.42)}}}
+  game.enemies=game.enemies.filter(e=>e.hp>0);game.turrets=game.enemies.filter(e=>e.kind==='turret');
+  if(game.boss&&LastSparkCombat.meleeHitsTarget(p,{x:game.boss.x,y:FLOOR,width:game.boss.w,height:game.boss.h},p.face,reach+4)){const b=game.boss;const opening=b.counterOpen>0?1.45:1;b.hp=Math.max(0,b.hp-Math.round((phase()===3?16:phase()===2?12:9)*profile.damageMultiplier*opening));hit=true;impactTarget={x:b.x-p.face*b.w*.22,y:FLOOR-b.h*.58};b.hitFlash=.1;if(b.hp<=0){b.deathAt=game.clock;b.animKey='Death';b.animAt=game.clock;emitFx(b.kind==='nexus'?'VFX_Common_LargeExplosion':'VFX_BossMid_DeathExplosion',b.x,FLOOR-70,.75,b.kind==='nexus'?.82:.68)}else bossPhaseCheck()}
+  if(hit){playSfx(profile.charged?'heavyImpact':'impact');const point=impactTarget||{x:p.x+p.face*34,y:p.y-43};game.hitFeedbackCharged=profile.charged;game.hitstop=Math.max(game.hitstop||0,profile.charged?.075:.045);cameraImpulse(profile.charged?3:2.4);game.lastImpact={x:point.x,y:point.y,face:p.face,charged:profile.charged,until:game.clock+(profile.charged?.24:.18)};emitFx('VFX_Common_SmallHitFlash',point.x,point.y,.18,profile.charged?.72:.48);emitFx('VFX_Common_Sparks',point.x,point.y,.26,profile.charged?.5:.34,p.face<0);tell(game.boss&&game.boss.counterOpen>0?'반격 — 방어가 열린 순간이다':profile.charged?'강한 타격이 적의 자세를 무너뜨렸다':'타격 확인 — 적의 균형이 무너졌다',.65)}
+ }
+ function attack(charged=false){
+  const p=game.player;if(p.hidden||p.attackCooldown>0||p.stun>0||game.mode!=='play')return false;const profile=LastSparkCombat.attackProfile(charged?LastSparkCombat.CHARGE_THRESHOLD_SECONDS:0);playSfx(profile.charged?'charged':'swing');if(profile.charged)cameraImpulse(1.2);p.attack=profile.startup+profile.active+profile.recovery;p.attackCooldown=profile.cooldown;p.attackElapsed=0;p.attackHit=false;p.attackCharged=profile.charged;p.spriteAction='';game.lastAttackCharged=profile.charged;return true;
+ }
+ function releaseAttackInput(){const p=game.player;if(!p.attackHeld)return false;const profile=LastSparkCombat.attackProfile(p.chargeTime);p.attackHeld=false;p.chargeTime=0;p.charging=false;return attack(profile.charged)}
+ function usePotion(){const p=game.player;if(game.mode!=='play'||p.hidden||p.stun>0)return false;if(p.attackHeld){p.attackHeld=false;p.chargeTime=0;p.charging=false}const restored=LastSparkCombat.usePotion(p);if(!restored){tell(p.potions<=0?'회복약이 남아 있지 않다':'회복할 필요가 없다',.9);return false}tell(`응급 패치 사용 — 체력 +${Math.round(restored)} · 남은 약 ${p.potions}`,1.2);return true}
+function bossPhaseCheck(){const b=game.boss;if(!b)return;const next=b.kind==='sentinel'?(b.hp<=b.max*.48?2:1):b.hp<=b.max*.32?3:b.hp<=b.max*.67?2:1;if(next>b.phase){b.phase=next;b.phaseChangedAt=game.clock;b.animKey='PhaseChange';b.animAt=game.clock;game.maxPhase=Math.max(game.maxPhase,phase());tell(b.kind==='nexus'?`NEXUS 출력 상승 — PHASE ${next}`:'경비 프레임 출력 상승 — PHASE 2',2.1);b.attackClock=.8}}
+function showPhaseThreeInjection(player){
+ if(player.injected||player.injectionPending)return;
+ player.injectionPending=true;
+ player.lastPhase=3;
+ say('수트 의료 기록 / C-7',[
+  '파손된 흉갑 안쪽에서 봉인된 주입기가 드러난다. C-7 신경 반응 촉진제. 인체 시험 중단.',
+  '그는 안전핀을 뽑고 자신의 팔에 약물을 주사한다. 심박 경고가 치솟지만, 손끝의 떨림은 멎는다.',
+  '가속된 신경 신호가 남은 다리 구동부와 맞물린다. 공중에서 두 번 더 도약할 수 있다. 대신 노출된 몸은 충격을 그대로 받는다.'
+ ],()=>{player.injected=true;player.injectionPending=false;player.phaseFxAt=game.clock;emitFx('VFX_P3_OverloadExplosion',player.x,player.y-35,.8,.62);playSfx('inject');tell('C-7 투여 완료 — 공중 도약 2회 추가',2.2)});
+}
+ function hurt(amount,from){const p=game.player;if(p.hidden||p.invuln>0||game.mode!=='play')return false;const damagePhase=phase(),profile=LastSparkCombat.playerPhaseProfile(damagePhase);p.hp=Math.max(0,p.hp-amount*profile.damageTakenMultiplier);const hitPhase=phase();playSfx(['hurtSuit','hurtExposed','hurtHuman'][hitPhase-1]);p.suitDamageLevel=Math.max(p.suitDamageLevel||0,hitPhase-1);p.stun=damagePhase===1?.48:damagePhase===2?.38:.3;p.invuln=.92;p.hitFlash=.1;cameraImpulse(2.2);p.attackHeld=false;p.chargeTime=0;p.charging=false;p.vx+=(p.x<from?-1:1)*185;p.vy=-110;game.maxPhase=Math.max(game.maxPhase,hitPhase);emitFx('VFX_Common_StrongHitFlash',p.x,p.y-37,.55,.75);tell(['장갑 피격 — 슈트가 잠시 경직됐다','피격 — 파손된 장갑 안쪽까지 충격이 전해졌다','피격 — 몸이 순간 굳었다'][hitPhase-1],.9);if(p.hp<=0){game.mode='dead';tell('신호 소실',5)}else if(damagePhase<3&&hitPhase===3)showPhaseThreeInjection(p);return true}
+function hitBoss(b,damage){if(!b||b.hp<=0)return false;b.hp=Math.max(0,b.hp-damage);if(b.hp<=0){b.deathAt=game.clock;b.animKey='Death';b.animAt=game.clock;emitFx(b.kind==='nexus'?'VFX_Common_LargeExplosion':'VFX_BossMid_DeathExplosion',b.x,FLOOR-70,.9,b.kind==='nexus'?1:.8)}else bossPhaseCheck();return true}
+function returnToTitle(){game.mode='title';game.alarmPulseUntil=0;game.nextAlarmAt=0;game.shots=[];game.hazards=[];game.effects=[];game.enemies=[];game.boss=null;game.dialogue=[];game.afterDialogue=null;dialog.style.display='none';keys.clear();game.cameraX=0}
+function doDash(){const p=game.player;if(game.mode!=='play'||p.hidden||p.dashCd>0||p.stun>0)return;p.attackHeld=false;p.chargeTime=0;p.charging=false;p.dash=.18;p.dashCd=LastSparkCombat.DASH_COOLDOWN_SECONDS;p.invuln=Math.max(p.invuln,.18);p.vx=p.face*450;p.vy=0}
+function jump(){const p=game.player;if(p.hidden||p.stun>0)return;let max=phase()===3&&p.injected?3:1;if(p.jumps>=max)return;p.vy=-445;p.ground=false;p.jumps++}
+ window.addEventListener('keydown',e=>{let k=e.key.toLowerCase();if([' ','arrowleft','arrowright','arrowup','arrowdown'].includes(k))e.preventDefault();if(!keys.has(k)){if(game.mode==='title'&&(k==='enter'||k===' ')){start()}else if(game.mode==='dialogue'&&(k==='enter'||k===' ')){advance()}else if(game.mode==='dead'&&k==='enter'){resetRun()}else if(game.mode==='ending'&&k==='enter'){game.mode='title'}else if(game.mode!=='title'&&k==='q'){returnToTitle()}else if(game.mode==='play'){if(k==='e')interact();if(k==='o')game.flashlightOn=!game.flashlightOn;if(k==='j'||k==='x'){game.player.attackHeld=true;game.player.chargeTime=0}if(k==='r')usePotion();if(k==='shift')doDash();if(k===' ')jump();if(k==='escape'){game.mode='pause';game.player.attackHeld=false;game.player.chargeTime=0;game.player.charging=false;tell('일시정지 — ESC를 눌러 계속')}}else if(game.mode==='pause'&&k==='escape')game.mode='play'}keys.add(k)});
+ window.addEventListener('keyup',e=>{const k=e.key.toLowerCase();if(k==='j'||k==='x')releaseAttackInput();keys.delete(k)});window.addEventListener('blur',()=>{keys.clear();game.player.attackHeld=false;game.player.chargeTime=0;game.player.charging=false});
+ window.addEventListener('pointerup',()=>{if(game.player.attackHeld)releaseAttackInput()});
+ canvas.addEventListener('pointerdown',e=>{const r=canvas.getBoundingClientRect(),x=(e.clientX-r.left)*W/r.width,y=(e.clientY-r.top)*H/r.height;if(game.mode==='title'){if(y>300&&y<410)start();else if(x>W-130&&y<75)toggleAudio()}else if(game.mode==='play'){game.player.attackHeld=true;game.player.chargeTime=0}else if(game.mode==='dead'){if(y>320)resetRun()}else if(game.mode==='ending'){game.mode='title'}});
+function updateTypewriter(dt){if(!game.dialogueTypewriter||game.mode!=='dialogue')return;game.dialogueElapsed+=dt;const line=game.dialogue[game.dialogueIndex]||'';game.dialogueVisibleChars=Math.min(line.length,Math.floor(game.dialogueElapsed*46));const visible=line.slice(0,game.dialogueVisibleChars);if(lineEl.textContent!==visible)lineEl.textContent=visible;lineEl.classList.toggle('typing',game.dialogueVisibleChars<line.length)}
+function alarmActive(){return Boolean((game.boss&&game.boss.hp>0)||game.clock<game.alarmPulseUntil||(game.room===4&&game.mode==='dialogue'&&game.researchWingVisits>0))}
+function beginEnemyNotice(enemy,x,fromAlarm=false){
+ if(enemy.alerted||enemy.noticeUntil>game.clock)return;
+ enemy.noticeUntil=game.clock+.85;
+ enemy.noticeAlarm=fromAlarm;
+ enemy.lastSeenX=x;
+ enemy.vx=0;
+}
+function enemySeesPlayer(enemy,player){
+ if(player.hidden||enemy.dropY!==null)return false;
+ const dx=player.x-enemy.x,distance=Math.abs(dx),power=game.world.powerLevel;
+ const range=[100,145,185,245][power];
+ if(enemy.kind==='turret')return distance<range;
+ return distance<(dx*enemy.facing>=0?range:range*.55);
+}
+function updateEnemyAwareness(enemy,player){
+ const visible=enemySeesPlayer(enemy,player);
+ if(enemy.noticeUntil>0&&!enemy.alerted){
+  if(!visible&&!enemy.noticeAlarm){enemy.noticeUntil=0;return false}
+  if(game.clock>=enemy.noticeUntil){enemy.alerted=true;enemy.noticeUntil=0;enemy.searchUntil=game.clock+1.8}
+  else return false;
+ }
+ if(visible){
+  if(!enemy.alerted){beginEnemyNotice(enemy,player.x);return false}
+  enemy.lastSeenX=player.x;enemy.searchUntil=game.clock+1.8;
+ }
+ return visible&&enemy.alerted;
+}
+function updateAlarmSound(){const active=alarmActive();if(!active){game.nextAlarmAt=0;game.alarmStartedAt=0;return}if(!game.nextAlarmAt){game.alarmStartedAt=game.clock;game.nextAlarmAt=game.clock+.2}if(game.mode==='play')for(const enemy of game.enemies)if(enemy.hp>0&&!enemy.alerted)beginEnemyNotice(enemy,game.player.x,true);if(game.clock>=game.nextAlarmAt){playSfx(game.room===4?'wingSiren':'alarm');game.nextAlarmAt=game.clock+(game.room===4?.95:LastSparkPresentation.alarmPeriod(game.world.powerLevel))}}
+function updateMotorAudio(){if(game.mode!=='play'||game.world.powerLevel>0||!game.enemies.some(enemy=>enemy.hp>0)){game.nextMotorAt=game.clock+rand(2.4,4.8);return}if(!game.nextMotorAt)game.nextMotorAt=game.clock+rand(1.5,2.8);if(game.clock>=game.nextMotorAt){if(Math.random()<.72)playSfx('motor');game.nextMotorAt=game.clock+rand(3.2,6.1)}}
+function update(dt){
+ if(game.hitstop>0){const frozen=Math.min(dt,game.hitstop);game.hitstop=Math.max(0,game.hitstop-frozen);dt-=frozen;if(dt<=0)return}
+ game.cameraShakeTime=Math.max(0,(game.cameraShakeTime||0)-dt);game.cameraShake=game.cameraShakeTime>0?(game.cameraShakeStrength||0)*game.cameraShakeTime/.1:0;game.player.hitFlash=Math.max(0,(game.player.hitFlash||0)-dt);if(game.boss?.hitFlash>0)game.boss.hitFlash=Math.max(0,game.boss.hitFlash-dt);game.clock+=dt;game.lastDt=dt;updateWireSparks();updateTypewriter(dt);updateAlarmSound();updateMotorAudio();game.flicker=Math.max(0,game.flicker-dt);if(game.toastTime>0)game.toastTime-=dt;
+ if(game.mode!=='play')return;
+ updateAISignal();
+  updateDeployments();
+ const p=game.player,ph=phase();
+   if(p.invuln>0)p.invuln=Math.max(0,p.invuln-dt);if(p.stun>0)p.stun=Math.max(0,p.stun-dt);if(p.attack>0){p.attack=Math.max(0,p.attack-dt);p.attackElapsed+=dt;const attackProfile=LastSparkCombat.attackProfile(p.attackCharged?LastSparkCombat.CHARGE_THRESHOLD_SECONDS:0);if(!p.attackHit&&p.attackElapsed>=attackProfile.startup){p.attackHit=true;applyPlayerAttack(attackProfile)}}if(p.attackCooldown>0)p.attackCooldown=Math.max(0,p.attackCooldown-dt);if(p.dashCd>0)p.dashCd=Math.max(0,p.dashCd-dt);if(p.attackHeld&&p.stun<=0&&!p.hidden){const beforeCharge=p.chargeTime;p.chargeTime=Math.min(1.2,p.chargeTime+dt);p.charging=true;if(beforeCharge<LastSparkCombat.CHARGE_THRESHOLD_SECONDS&&p.chargeTime>=LastSparkCombat.CHARGE_THRESHOLD_SECONDS)playSfx('chargeReady')}
+ if(p.lastPhase&&p.lastPhase!==ph){p.phaseFxAt=game.clock;const fx=ph===3?'VFX_P3_OverloadExplosion':'VFX_P2_BoostExplosion';emitFx(fx,p.x,p.y-35,.8,.72);tell(ph===2?'수트 제한 해제 — 기동 출력 상승':'외장 장갑 파손 — 고속 기동 모드',1.8)}p.lastPhase=ph;
+   if(p.dash>0)p.dash=Math.max(0,p.dash-dt);if(p.hidden){p.vx=0;p.vy=0}else if(p.stun<=0&&p.dash<=0){const dir=(keys.has('a')||keys.has('arrowleft')?-1:0)+(keys.has('d')||keys.has('arrowright')?1:0);if(dir){p.face=Math.sign(dir);const charging=LastSparkCombat.chargeMoveMultiplier(p.charging?p.chargeTime:0);p.vx=dir*LastSparkCombat.playerPhaseProfile(ph).speed*charging}else p.vx*=Math.pow(.001,dt)}
+ const roomWidth=LastSparkWorld.roomWidth(game.world,game.room);p.x=clamp(p.x+p.vx*dt,36,roomWidth-36);p.vy+=1050*dt;const wasGrounded=p.ground;p.y+=p.vy*dt;if(p.y>=FLOOR){p.y=FLOOR;p.vy=0;p.ground=true;p.jumps=0;if(!wasGrounded)p.landFxAt=game.clock}else p.ground=false;
+  for(const e of game.enemies){
+    e.flash=Math.max(0,e.flash-dt);e.cd-=dt;if(e.dropY!==null){e.dropY=Math.min(FLOOR,e.dropY+e.dropSpeed*dt);if(e.dropY<FLOOR)continue;e.dropY=null;emitFx('VFX_Common_MetalDebris',e.x,FLOOR-8,.5,.55)}if(e.hitReact>0){const recoilStep=Math.min(e.hitReact,dt);e.x=clamp(e.x+(e.knockback||0)*recoilStep,24,roomWidth-24);e.knockback=(e.knockback||0)*Math.pow(.015,dt);e.hitReact=Math.max(0,e.hitReact-dt);continue}const seesPlayer=updateEnemyAwareness(e,p);if(e.noticeUntil>game.clock){e.vx=0;continue}if(e.kind!=='turret')LastSparkResearch.stepPatrol(e,dt,p,game.clock);else if(seesPlayer)e.facing=p.x<e.x?-1:1;const distance=Math.abs(p.x-e.x);
+   if(p.hidden){e.aim=0;continue}
+    if(e.kind==='turret'){
+     if(!seesPlayer)e.aim=0;
+     if(e.aim>0){e.aim=Math.max(0,e.aim-dt);if(e.aim===0){fireAimedShot(e,285,8);e.shoot=.3}}
+     else if(seesPlayer&&e.cd<=0){e.aim=.78;e.cd=rand(2.6,3.2)}
+    }else if(e.kind==='melee'){
+    if(e.windup>0){e.windup=Math.max(0,e.windup-dt);if(e.windup===0){e.attackTime=.36;e.attackHit=false}}
+    else if(e.attackTime>0){e.attackTime=Math.max(0,e.attackTime-dt);if(e.attackTime<=.20&&!e.attackHit){const hitbox={x:e.x+(e.facing>0?0:-66),y:FLOOR-76,width:66,height:76};if(LastSparkCombat.playerOverlapsRect(p,hitbox))hurt(13,e.x);e.attackHit=true}}
+    else if(seesPlayer&&e.cd<=0&&distance<92){e.windup=.46;e.cd=1.65}
+   }else if(e.kind==='charger'){
+    if(e.chargeWarn>0){e.chargeWarn=Math.max(0,e.chargeWarn-dt);if(e.chargeWarn===0){e.charge=.62;e.chargeHit=false;e.chargeDir=e.facing}}
+    else if(e.charge>0){e.charge=Math.max(0,e.charge-dt);e.x=clamp(e.x+e.chargeDir*390*dt,35,roomWidth-35);e.facing=e.chargeDir;const hitbox={x:e.x-22,y:FLOOR-72,width:44,height:72};if(!e.chargeHit&&LastSparkCombat.playerOverlapsRect(p,hitbox)){hurt(16,e.x);e.chargeHit=true}if(e.charge===0)e.recovery=.7}
+    else if(e.recovery>0)e.recovery=Math.max(0,e.recovery-dt)
+    else if(seesPlayer&&e.cd<=0&&distance<500){e.chargeWarn=.56;e.cd=2.8}
+   }else if(e.alerted){
+     if(!seesPlayer)e.aim=0;
+     if(e.aim>0){e.aim=Math.max(0,e.aim-dt);if(e.aim===0){fireAimedShot(e,255,10);e.shoot=.24}}
+    else if(seesPlayer&&e.cd<=0){e.aim=.44;e.cd=rand(1.7,2.35)}
+   }
+   e.x=clamp(e.x,24,roomWidth-24);
+  }
+  for(const shot of game.shots){shot.x+=shot.vx*dt;shot.y+=(shot.vy||0)*dt;shot.life-=dt;if(!p.hidden&&LastSparkCombat.circleHitsPlayer(shot,p)){hurt(shot.damage||11,shot.from);shot.life=0;emitFx(shot.boss?'BossOrb_Hit':'VFX_Enemy2_Impact',shot.x,shot.y,.45,.75)}}
+ game.shots=game.shots.filter(shot=>shot.life>0&&shot.x>-30&&shot.x<roomWidth+30&&shot.y>-40&&shot.y<H+40);game.turrets=game.enemies.filter(enemy=>enemy.kind==='turret'&&enemy.hp>0);
+ if(game.boss&&game.boss.hp>0)updateBoss(dt);
+ if(game.effects.length)game.effects=game.effects.filter(effect=>game.clock-effect.started<effect.duration);
+ if(game.room===2&&game.boss&&game.boss.hp<=0&&!game.toast.includes('통과'))tell('경비 프레임 정지 — 출입문이 해제됐다',3);
+ if(game.room===3&&game.boss&&game.boss.hp<=0&&game.mode==='play'){game.mode='ending';say('NEXUS / 마지막 기록',['“보호 명령은 종료되지 않았습니다. 기준을 다시 입력해 주십시오.”','응답은 돌아오지 않는다. 중앙 통제실의 잠금 표시가 하나씩 꺼진다.','비상문이 열린다. 복도 끝 센서에는 바깥의 움직임이 잡힌다.','슈트 기록: 생존자 1명. 시설 내 잔류 인원 확인 불가.'],()=>{game.mode='ending'})}
+ game.cameraX=LastSparkWorld.cameraX(game.world,game.room,p.x,W);
+}
+function updateBoss(dt){
+ const b=game.boss,p=game.player;b.attackClock-=dt;if(b.counterOpen>0)b.counterOpen=Math.max(0,b.counterOpen-dt);LastSparkBossAI.move(b,p,dt,W,game.hazards[0]);
+ const hadHazards=game.hazards.length>0;
+ for(const h of game.hazards){
+  if(h.warn>0){h.warn=Math.max(0,h.warn-dt);if(h.warn===0){tell(h.label+' - \uD68C\uD53C!',.75);b.animKey=h.attackAnim;b.animAt=game.clock;if(h.kind==='volley')fireBossVolley(b);emitFx(b.kind==='nexus'?'VFX_Common_EnergyDischarge':'VFX_BossMid_Shockwave',b.x,FLOOR-24,.5,b.kind==='nexus'?.72:.62)}}
+  else{h.live-=dt;if(h.kind==='rush')b.x=clamp(h.startX+(h.endX-h.startX)*(1-Math.max(0,h.live)/h.totalLive),135,W-135);if(!h.hit&&h.live>0&&LastSparkCombat.hazardHitsPlayer(h,p,b,FLOOR,W)){hurt(h.damage,b.x);h.hit=true}}
+  if(h.live<=0&&b.animAt&&b.animAt<=game.clock-.4){b.animKey='Recovery';b.animAt=game.clock}
+ }
+ game.hazards=game.hazards.filter(h=>h.warn>0||h.live>0);
+ if(hadHazards&&game.hazards.length===0&&b.attackActive){b.counterOpen=.55;b.attackActive=false;if(b.kind==='nexus')b.moveSide=-(b.moveSide||1);b.animKey='Recovery';b.animAt=game.clock;tell('\uCF54\uC5B4 \uB178\uCD9C - \uBC18\uACA9 \uAE30\uD68C',.7)}
+ if(b.attackClock<=0){
+  const targetX=clamp(p.x,80,W-80),patternIndex=b.kind==='nexus'?LastSparkBossAI.nextPattern(b,b.phase===3?4:3):b.pattern++%2;let h,interval;
+  if(b.kind==='sentinel'){
+   interval=b.phase===2?2.05:2.25;
+   if(patternIndex===0)h={kind:'lane',patternId:'sentinel-lane',targetX,x1:clamp(targetX-82,0,W),x2:clamp(targetX+82,0,W),warn:b.phase===2?.82:.9,live:.42,damage:b.phase===2?18:16,label:'\uD45C\uC801 \uCDA9\uACA9\uD30C',prepareAnim:'Attack1Prepare',attackAnim:'Attack1'};
+   else h={kind:'ring',patternId:'sentinel-ring',x:clamp(targetX+(p.x<b.x?58:-58),80,W-80),targetX,radius:b.phase===2?142:122,warn:.88,live:.46,damage:b.phase===2?18:16,label:'\uCE21\uBA74 \uACF5\uBA85\uD30C',prepareAnim:'Attack2Prepare',attackAnim:'Attack2'};
+  }else{
+   interval=b.phase===3?2.15:b.phase===2?2.35:2.55;
+   if(b.phase===1){if(patternIndex===0)h={kind:'lane',patternId:'nexus-lane',targetX,x1:clamp(targetX-78,0,W),x2:clamp(targetX+78,0,W),warn:.98,live:.5,damage:17,label:'\uCD94\uC801 \uBC14\uB2E5 \uBC29\uC804',prepareAnim:'AttackPrepare1',attackAnim:'Attack1'};else if(patternIndex===1)h={kind:'ring',patternId:'nexus-ring',x:targetX,targetX,radius:108,warn:.92,live:.48,damage:16,label:'\uBC14\uB2E5 \uACF5\uBA85',prepareAnim:'AttackPrepare1',attackAnim:'Attack1'};else h={kind:'rush',patternId:'nexus-rush-p1',targetX,startX:b.x,endX:LastSparkBossAI.rushTarget(b,p,W),warn:.84,live:.52,totalLive:.52,damage:16,label:'돌진 경고',prepareAnim:'AttackPrepare2',attackAnim:'Attack2'}}
+   else if(b.phase===2){if(patternIndex===0)h={kind:'ring',patternId:'nexus-ring-wide',x:targetX,targetX,radius:154,warn:.88,live:.54,damage:19,label:'\uCD94\uC801 \uCF54\uC5B4 \uACF5\uBA85',prepareAnim:'AttackPrepare2',attackAnim:'Attack2'};else if(patternIndex===1)h={kind:'lane',patternId:'nexus-double-lane',targetX,x1:clamp(targetX-122,0,W),x2:clamp(targetX+122,0,W),warn:.9,live:.45,damage:18,label:'\uBC30\uC804\uC120 \uC5F0\uC1C4 \uBC29\uC804',prepareAnim:'AttackPrepare2',attackAnim:'Attack2'};else h={kind:'rush',patternId:'nexus-rush-p2',targetX,startX:b.x,endX:LastSparkBossAI.rushTarget(b,p,W),warn:.74,live:.44,totalLive:.44,damage:19,label:'코어 돌진',prepareAnim:'AttackPrepare2',attackAnim:'Attack2'}}
+   else if(patternIndex===0){const gap=LastSparkResearch.targetedSafeGap(targetX,W,146);h={kind:'split',patternId:'nexus-split',targetX,safe1:gap.safe1,safe2:gap.safe2,warn:.86,live:.5,damage:22,label:'\uCD94\uC801 \uACA9\uC790 \uD3ED\uACA9',prepareAnim:'AttackPrepare3',attackAnim:'Attack3'}}
+   else if(patternIndex===1)h={kind:'ring',patternId:'nexus-core-pulse',x:targetX,targetX,radius:170,warn:1.02,live:.52,damage:24,label:'\uCF54\uC5B4 \uC6B4\uB3D9\uD30C',prepareAnim:'AttackPrepare3',attackAnim:'Attack3'}
+   else if(patternIndex===2)h={kind:'rush',patternId:'nexus-rush-p3',targetX,startX:b.x,endX:LastSparkBossAI.rushTarget(b,p,W),warn:.7,live:.4,totalLive:.4,damage:22,label:'코어 돌진',prepareAnim:'AttackPrepare3',attackAnim:'Attack3'}
+   else h={kind:'volley',patternId:'nexus-core-volley',targetX,warn:.8,live:.55,damage:0,label:'코어 탄막',prepareAnim:'AttackPrepare3',attackAnim:'Attack3'}
+  }
+  b.attackClock=Math.max(interval,h.warn+h.live+.75);b.attackActive=true;game.lastBossPattern=h.patternId;b.animKey=h.prepareAnim;b.animAt=game.clock;game.hazards.push(h)
+ }
+}
+function drawEffects(){for(const effect of game.effects){const age=game.clock-effect.started;if(age>=0&&age<effect.duration)LastSparkAssets.draw(ctx,effect.name,age,effect.x,effect.y,{scale:effect.scale,flip:effect.flip,alpha:1-age/effect.duration})}}
+function brokenWirePoints(){if(game.room===4)return game.researchFloor===1?[[250,292],[840,320]]:game.researchFloor===2?[[360,278],[895,318]]:[[470,286],[970,325]];if(game.room===0)return[[420,302],[900,320]];if(game.room===1)return[[380,312],[1200,292]];return[[310,305],[760,320]]}
+function updateWireSparks(){const key=game.room+':'+game.researchFloor;if(key!==game.wireSparkKey){game.wireSparkKey=key;game.wireSparks=brokenWirePoints().map(point=>({x:point[0],y:point[1],next:game.clock+rand(.4,2.2),active:0,started:0}))}const power=game.world.powerLevel,chance=.76-power*.16;for(const spark of game.wireSparks){if(spark.active>0){spark.active=Math.max(0,spark.active-(game.lastDt||0));continue}if(game.clock>=spark.next){if(Math.random()<chance){spark.started=game.clock;spark.active=rand(.075,.14)}spark.next=game.clock+rand(1.8,4.6)}}}
+function drawWireSparks(){const strength=LastSparkLighting.sparkIntensity(game.world.powerLevel);for(const [index,spark] of game.wireSparks.entries()){if(spark.active<=0)continue;const pulse=Math.min(1,spark.active/.06);LastSparkAssets.draw(ctx,'Light_BrokenSparks',(game.clock-spark.started)*18+index*.3,spark.x,spark.y,{scale:.34,alpha:strength*pulse,fallback:'VFX_Common_Sparks'})}}
+ function drawAlarmSilhouettes(amount){ctx.save();ctx.globalCompositeOperation='lighter';ctx.globalAlpha=Math.min(1,amount/.35);ctx.strokeStyle='#ef554a';ctx.fillStyle='#9b302b';ctx.shadowColor='#f0463e';ctx.shadowBlur=11;ctx.lineWidth=3;for(const e of game.enemies){if(e.hp<=0)continue;const x=e.x-game.cameraX,foot=e.dropY===null?FLOOR:e.dropY,h=e.height||70,w=e.width||48;if(e.kind==='turret'){ctx.strokeRect(x-w*.44,foot-h,w*.88,h*.72);ctx.fillStyle='#ff6659';ctx.beginPath();ctx.arc(x+(e.facing||1)*22,foot-h*.84,3.5,0,Math.PI*2);ctx.fill();continue}ctx.beginPath();ctx.arc(x,foot-h*.83,w*.17,0,Math.PI*2);ctx.moveTo(x-w*.31,foot-h*.67);ctx.lineTo(x-w*.36,foot-h*.42);ctx.lineTo(x-w*.25,foot-h*.39);ctx.lineTo(x-w*.21,foot-h*.57);ctx.lineTo(x+w*.21,foot-h*.57);ctx.lineTo(x+w*.25,foot-h*.39);ctx.lineTo(x+w*.36,foot-h*.42);ctx.lineTo(x+w*.31,foot-h*.67);ctx.closePath();ctx.stroke();ctx.strokeRect(x-w*.21,foot-h*.57,w*.42,h*.31);ctx.beginPath();ctx.moveTo(x-w*.1,foot-h*.26);ctx.lineTo(x-w*.18,foot);ctx.moveTo(x+w*.1,foot-h*.26);ctx.lineTo(x+w*.18,foot);ctx.stroke();ctx.fillStyle='#ff6659';ctx.beginPath();ctx.arc(x+(e.facing||1)*w*.11,foot-h*.83,3.2,0,Math.PI*2);ctx.fill()}ctx.restore()}
+function draw(){ctx.clearRect(0,0,W,H);ctx.save();const shake=game.cameraShake||0,shakeClock=Date.now()*.09;ctx.translate(-game.cameraX+Math.sin(shakeClock)*shake,Math.cos(shakeClock*.91)*shake*.32);drawRoom();drawObjects();drawDeploymentWarnings();drawWireSparks();for(const h of game.hazards)drawHazard(h);for(const shot of game.shots)drawShot(shot);for(const e of game.enemies)drawDrone(e);if(game.boss)drawBoss(game.boss);drawPlayer();drawEffects();ctx.restore();const power=game.world.powerLevel;const sparks=game.wireSparks.filter(spark=>spark.active>0).map(spark=>({x:spark.x-game.cameraX,y:spark.y,radius:132,intensity:.25*LastSparkLighting.sparkIntensity(power)*Math.min(1,spark.active/.06)}));const lights=[...(game.flashlightOn&&power<3?[{x:game.player.x-game.cameraX,y:game.player.y-42,radius:92,intensity:.08}]:[]),...LastSparkWorld.generatorsInRoom(game.world,game.room,game.researchFloor).filter(g=>g.active).map(g=>({x:g.x-game.cameraX,y:FLOOR-54,radius:260,intensity:.2})),...sparks];const flashlight=game.mode==="play"&&!game.player.hidden&&game.flashlightOn?{x:game.player.x-game.cameraX,y:game.player.y-48,face:game.player.face,radius:LastSparkLighting.flashlightRadius(power)}:null;const alarm=alarmActive()?LastSparkPresentation.emergencyPulse(game.clock-game.alarmStartedAt,power):0;const restorationFlash=power===3?Math.max(0,1-(game.clock-game.powerRestoreAt)/.6):0;LastSparkLighting.draw(ctx,W,H,LastSparkLighting.alpha(power,0),lights,flashlight,alarm,restorationFlash);if(alarm>0)drawAlarmSilhouettes(alarm);drawEnemyWarnings();drawHud();drawSecurityObjective();drawCombatResources();if(game.mode==='title')drawTitle();if(game.mode==='dead')drawOverlay('SIGNAL LOST','슈트 출력이 끊겼다','ENTER 또는 클릭: 처음부터 다시');if(game.mode==='pause')drawOverlay('PAUSED','연구소는 멈추지 않는다','ESC: 계속  ·  Q: 타이틀');if(game.mode==='ending')drawEnding();if(game.toastTime>0&&game.mode==='play')drawToast()}
+function drawEnemyWarnings(){
+ if(game.mode!=='play')return;
+ ctx.save();ctx.textAlign='center';ctx.textBaseline='middle';ctx.font='bold 17px Consolas';
+ for(const enemy of game.enemies){
+  if(enemy.hp<=0||enemy.dropY!==null||enemy.noticeUntil<=game.clock)continue;
+  const x=enemy.x-game.cameraX,y=FLOOR-(enemy.kind==='turret'?106:122);
+  if(x<15||x>W-15)continue;
+  ctx.fillStyle='#1b1511';ctx.strokeStyle='#e7ad59';ctx.lineWidth=2;
+  ctx.beginPath();ctx.arc(x,y,13,0,Math.PI*2);ctx.fill();ctx.stroke();
+  ctx.fillStyle='#ffe0a0';ctx.fillText('!',x,y+1);
+ }
+ ctx.restore();
+}
+function drawDeploymentWarnings(){for(const drop of game.dropQueue){if(game.room!==4||drop.floor!==game.researchFloor)continue;const left=drop.at-game.clock;if(left>1.25)continue;ctx.save();ctx.globalAlpha=.5+.35*Math.sin(game.clock*18);ctx.fillStyle='#d95e50';ctx.fillRect(drop.x-19,90,38,4);ctx.fillRect(drop.x-12,96,24,3);ctx.strokeStyle='#db6753';ctx.setLineDash([4,9]);ctx.beginPath();ctx.moveTo(drop.x,105);ctx.lineTo(drop.x,FLOOR-10);ctx.stroke();ctx.setLineDash([]);ctx.restore()}}
+function drawCable(x1,x2,y,color='#34484a'){ctx.save();ctx.strokeStyle=color;ctx.lineWidth=5;ctx.beginPath();ctx.moveTo(x1,y);ctx.bezierCurveTo(x1+(x2-x1)*.28,y+46,x1+(x2-x1)*.62,y+46,x2,y+5);ctx.stroke();ctx.strokeStyle='#121a1c';ctx.lineWidth=2;ctx.beginPath();ctx.moveTo(x1,y+3);ctx.bezierCurveTo(x1+(x2-x1)*.28,y+49,x1+(x2-x1)*.62,y+49,x2,y+8);ctx.stroke();ctx.restore()}
+function drawWallBreach(x,y,scale=1){ctx.save();ctx.translate(x,y);ctx.scale(scale,scale);ctx.fillStyle='#070b0e';ctx.beginPath();ctx.moveTo(0,0);ctx.lineTo(74,8);ctx.lineTo(62,29);ctx.lineTo(88,48);ctx.lineTo(56,74);ctx.lineTo(70,102);ctx.lineTo(23,94);ctx.lineTo(7,111);ctx.lineTo(-8,74);ctx.lineTo(8,52);ctx.lineTo(-6,29);ctx.closePath();ctx.fill();ctx.strokeStyle='#596160';ctx.lineWidth=8;ctx.beginPath();ctx.moveTo(-7,22);ctx.lineTo(10,29);ctx.lineTo(1,49);ctx.moveTo(72,8);ctx.lineTo(60,29);ctx.lineTo(86,48);ctx.moveTo(58,75);ctx.lineTo(69,101);ctx.moveTo(5,75);ctx.lineTo(22,94);ctx.stroke();ctx.strokeStyle='#202d30';ctx.lineWidth=3;ctx.beginPath();ctx.moveTo(28,24);ctx.lineTo(37,43);ctx.lineTo(25,57);ctx.lineTo(38,71);ctx.moveTo(42,18);ctx.lineTo(38,34);ctx.stroke();ctx.fillStyle='#303a3b';for(const [rx,ry,rw,rh] of [[-13,107,20,7],[14,111,26,6],[52,108,22,8],[75,102,17,6]])ctx.fillRect(rx,ry,rw,rh);ctx.restore()}
+function drawMoss(x,y,scale=1){ctx.save();ctx.translate(x,y);ctx.scale(scale,scale);ctx.fillStyle='#40563d';ctx.globalAlpha=.72;ctx.beginPath();ctx.moveTo(0,18);ctx.quadraticCurveTo(12,2,25,12);ctx.quadraticCurveTo(39,-2,50,13);ctx.quadraticCurveTo(66,4,75,18);ctx.lineTo(78,27);ctx.lineTo(-4,27);ctx.closePath();ctx.fill();ctx.globalAlpha=.5;ctx.fillStyle='#758055';for(const [dx,dy,r] of [[12,13,3],[31,9,2],[48,16,4],[65,12,2]]){ctx.beginPath();ctx.arc(dx,dy,r,0,Math.PI*2);ctx.fill()}ctx.globalAlpha=1;ctx.restore()}
+function drawWreckage(x,y,kind=0){ctx.save();ctx.translate(x,y);ctx.fillStyle='#090e0e';ctx.fillRect(-43,0,88,8);ctx.fillStyle='#29312e';ctx.strokeStyle='#59615a';ctx.lineWidth=2;if(kind===0){ctx.fillRect(-36,-34,52,31);ctx.strokeRect(-36,-34,52,31);ctx.fillStyle='#111817';ctx.fillRect(-29,-27,37,15);ctx.fillStyle='#69584a';ctx.fillRect(-21,-4,3,8);ctx.fillRect(4,-4,3,8);ctx.strokeStyle='#66574a';ctx.beginPath();ctx.moveTo(17,-29);ctx.lineTo(30,-20);ctx.lineTo(21,-10);ctx.stroke()}else{ctx.fillRect(-31,-20,52,17);ctx.strokeRect(-31,-20,52,17);ctx.fillStyle='#111817';ctx.fillRect(-26,-14,17,8);ctx.fillRect(-4,-14,17,8);ctx.strokeStyle='#59615a';ctx.beginPath();ctx.moveTo(-25,-21);ctx.lineTo(-34,-37);ctx.moveTo(18,-21);ctx.lineTo(26,-32);ctx.stroke();ctx.fillStyle='#744c3d';ctx.fillRect(27,-9,11,4)}ctx.fillStyle='#4e6545';ctx.globalAlpha=.76;ctx.fillRect(-36,2,28,3);ctx.fillRect(15,0,19,4);ctx.globalAlpha=1;ctx.restore()}
+function drawObservationGlass(x,y,w=118,h=104){ctx.save();ctx.fillStyle='#050a0d';ctx.fillRect(x,y,w,h);ctx.fillStyle='#101c20';ctx.fillRect(x+7,y+7,w-14,h-14);ctx.strokeStyle='#5b6866';ctx.lineWidth=5;ctx.strokeRect(x,y,w,h);ctx.strokeStyle='#253639';ctx.lineWidth=2;ctx.beginPath();ctx.moveTo(x+9,y+h*.63);ctx.lineTo(x+w-10,y+h*.63);ctx.moveTo(x+w*.38,y+8);ctx.lineTo(x+w*.38,y+h-8);ctx.stroke();ctx.strokeStyle='#9c5445';ctx.lineWidth=2;ctx.beginPath();ctx.moveTo(x+w*.38,y+20);ctx.lineTo(x+w*.51,y+42);ctx.lineTo(x+w*.45,y+57);ctx.lineTo(x+w*.7,y+78);ctx.stroke();ctx.fillStyle='#090d0f';ctx.beginPath();ctx.moveTo(x+w*.76,y+7);ctx.lineTo(x+w-7,y+9);ctx.lineTo(x+w-7,y+h*.42);ctx.lineTo(x+w*.7,y+h*.24);ctx.closePath();ctx.fill();ctx.restore()}
+function drawRoom(){
+ const roomWidth=LastSparkWorld.roomWidth(game.world,game.room),wing=game.room===4;
+ const palettes=game.room===3?['#0b0b11','#191619','#08090b']:wing?['#111817','#111614','#080d0d']:game.room===2?['#121316','#171414','#09090b']:['#10181c','#111619','#080d10'];
+ const g=ctx.createLinearGradient(0,0,0,H);g.addColorStop(0,palettes[0]);g.addColorStop(.6,palettes[1]);g.addColorStop(1,palettes[2]);ctx.fillStyle=g;ctx.fillRect(0,0,roomWidth,H);
+ ctx.fillStyle='#171f22';ctx.fillRect(0,83,roomWidth,15);ctx.fillStyle='#080c0e';ctx.fillRect(0,98,roomWidth,186);ctx.fillStyle='#20292a';ctx.fillRect(0,281,roomWidth,8);ctx.fillStyle='#11191b';ctx.fillRect(0,289,roomWidth,20);
+ for(let x=0;x<roomWidth;x+=192){ctx.fillStyle='#141c1f';ctx.fillRect(x+12,108,165,165);ctx.strokeStyle='#263234';ctx.lineWidth=2;ctx.strokeRect(x+12,108,165,165);ctx.fillStyle='#202a2b';ctx.fillRect(x+16,112,5,157);ctx.fillStyle='#0b1113';ctx.fillRect(x+165,108,12,165);ctx.strokeStyle='#293537';ctx.lineWidth=3;ctx.beginPath();ctx.moveTo(x+32,126);ctx.lineTo(x+158,126);ctx.moveTo(x+32,258);ctx.lineTo(x+158,258);ctx.stroke();ctx.fillStyle='#344144';ctx.fillRect(x+34,136,2,83);ctx.fillRect(x+154,136,2,83)}
+ ctx.fillStyle='#0a0f11';ctx.fillRect(0,FLOOR,roomWidth,H-FLOOR);ctx.fillStyle='#4a5451';ctx.fillRect(0,FLOOR,roomWidth,3);
+  for(let x=0;x<roomWidth;x+=64){ctx.fillStyle=x%128===0?'#192124':'#12191b';ctx.fillRect(x,FLOOR+4,58,46);ctx.strokeStyle='#263032';ctx.lineWidth=1;ctx.strokeRect(x+1,FLOOR+5,56,43);ctx.fillStyle='#343d3b';ctx.fillRect(x+8,FLOOR+8,2,3)}
+  for(let x=44,i=0;x<roomWidth;x+=286,i++){drawMoss(x,FLOOR-7,(i%3===0)?1:.68);if(i%2===1)drawMoss(x+112,286,.52)}
+ drawCable(0,Math.min(470,roomWidth),323);drawCable(Math.min(510,roomWidth),Math.min(990,roomWidth),342,'#4b3431');
+  for(let x=96;x<roomWidth;x+=384){ctx.fillStyle='#252d2d';ctx.fillRect(x,105,48,7);ctx.fillStyle='#0b0d0e';ctx.fillRect(x+4,107,40,3);ctx.strokeStyle='#62605a';ctx.lineWidth=2;ctx.beginPath();ctx.moveTo(x+5,113);ctx.lineTo(x-2,131);ctx.moveTo(x+44,113);ctx.lineTo(x+54,126);ctx.stroke()}
+  const damage=wing?[195,390,950]:game.room===0?[245,880]:game.room===1?[410,1120]:game.room===2?[300]:[180,770];for(const x of damage)drawWallBreach(x,177,wing ? .88 : .72);
+  if(wing){drawMoss(202,184,.85);drawMoss(790,193,.64);drawWreckage(120,438,0);drawWreckage(1080,438,1)}else if(game.room!==3){drawMoss(130,183,.68);drawMoss(Math.min(roomWidth-140,690),188,.52);drawWreckage(Math.min(roomWidth-70,870),438,game.room===0?0:1)}
+ if(wing){
+  drawObservationGlass(260,139,136,102);drawObservationGlass(815,133,148,111);drawCable(396,515,264,'#46534e');drawCable(694,828,270,'#463a34');
+  ctx.fillStyle='#11191a';ctx.fillRect(462,152,122,112);ctx.strokeStyle='#56615c';ctx.lineWidth=3;ctx.strokeRect(462,152,122,112);ctx.fillStyle='#172c2a';ctx.fillRect(472,164,102,43);ctx.fillStyle='#71c6a6';ctx.globalAlpha=.55+Math.sin(game.clock*2.2)*.08;ctx.fillRect(480,176,63,3);ctx.globalAlpha=1;ctx.fillStyle='#555e58';ctx.fillRect(472,220,102,5);ctx.fillStyle='#262f2d';ctx.fillRect(478,232,23,26);ctx.fillRect(512,232,23,26);ctx.fillStyle='#7f8c85';ctx.font='10px Consolas,monospace';ctx.fillText('E-04  AUXILIARY POWER',465,146);ctx.fillStyle='#a34b3f';ctx.globalAlpha=.52;ctx.fillRect(623,FLOOR-7,32,4);ctx.fillRect(675,FLOOR-7,32,4);ctx.globalAlpha=1;
+   for(const [x,y,w] of [[135,435,44],[221,432,28],[519,438,54],[1008,433,37]]){ctx.fillStyle='#303b39';ctx.fillRect(x,y,w,7);ctx.fillStyle='#141b1b';ctx.fillRect(x+3,y-4,w*.55,5)}
+   const floorPlan=LastSparkResearch.floor(game.researchFloor);ctx.fillStyle='#151d1c';ctx.fillRect(52,128,330,112);ctx.strokeStyle='#47534e';ctx.lineWidth=3;ctx.strokeRect(52,128,330,112);ctx.fillStyle='#c7bca3';ctx.font='bold 17px Consolas';ctx.fillText('E-04  /  '+String(game.researchFloor).padStart(2,'0')+'F',70,159);ctx.fillStyle='#7e8d84';ctx.font='12px Consolas';ctx.fillText(floorPlan.name.toUpperCase(),70,183);ctx.fillStyle='#725642';ctx.fillRect(70,201,90+game.researchFloor*17,5);ctx.fillStyle='#343b37';ctx.fillRect(70,216,275,3);
+    if(game.researchFloor===1){ctx.fillStyle='#252c29';ctx.fillRect(510,191,160,78);ctx.fillStyle='#4b5046';ctx.fillRect(523,177,135,18);ctx.fillStyle='#111817';ctx.fillRect(529,201,120,51);ctx.fillStyle='#8c5745';ctx.fillRect(535,230,31,22);ctx.fillRect(577,218,24,34);ctx.fillRect(612,226,31,26);ctx.fillStyle='#303a36';ctx.fillRect(876,336,67,104);ctx.fillStyle='#59615b';ctx.fillRect(865,326,91,13);drawMoss(512,262,.8)}
+    if(game.researchFloor===2){drawObservationGlass(474,139,176,116);ctx.fillStyle='#2b2523';ctx.fillRect(505,259,110,87);ctx.strokeStyle='#6d5145';ctx.strokeRect(505,259,110,87);ctx.fillStyle='#5a322c';ctx.fillRect(523,278,72,52);ctx.fillStyle='#77766c';ctx.fillRect(548,353,22,79);drawCable(400,570,218,'#7a4636');drawMoss(630,246,.76)}
+    if(game.researchFloor===3){ctx.fillStyle='#242c29';ctx.fillRect(730,143,190,126);ctx.strokeStyle='#78847b';ctx.lineWidth=3;ctx.strokeRect(730,143,190,126);for(let i=0;i<6;i++){ctx.fillStyle=i%2?'#8c5942':'#44645a';ctx.fillRect(747+i*27,164,15,82);ctx.fillStyle='#101615';ctx.fillRect(750+i*27,180,9,7)}drawCable(400,570,218,'#7a4636');drawCable(570,730,233,'#465f55');ctx.fillStyle='#171d1e';ctx.fillRect(435,139,220,183);ctx.strokeStyle='#65716f';ctx.lineWidth=4;ctx.strokeRect(435,139,220,183);ctx.fillStyle='#293433';ctx.fillRect(450,151,190,150);ctx.strokeStyle='#a35a48';ctx.lineWidth=3;ctx.beginPath();ctx.moveTo(471,167);ctx.lineTo(471,238);ctx.moveTo(620,167);ctx.lineTo(620,238);ctx.stroke();ctx.fillStyle='#627a70';ctx.globalAlpha=.38;ctx.beginPath();ctx.ellipse(545,223,49,65,0,0,Math.PI*2);ctx.fill();ctx.globalAlpha=1;LastSparkAssets.draw(ctx,'BossCore_Inactive',game.clock,545,221,{scale:.28});drawMoss(712,254,.72)}
+ }else{
+  const windowX=game.room===0?548:game.room===1?690:game.room===2?340:400;drawObservationGlass(windowX,139,116,102);
+  if(game.room===0){ctx.fillStyle='#161f21';ctx.fillRect(290,152,80,92);ctx.fillStyle='#101719';ctx.fillRect(298,160,64,48);ctx.strokeStyle='#334042';ctx.strokeRect(298,160,64,48);ctx.fillStyle='#6bb3a4';ctx.globalAlpha=.4;ctx.fillRect(306,171,31,3);ctx.globalAlpha=1}
+  if(game.room===3){ctx.fillStyle='#17181c';ctx.fillRect(120,142,720,8);ctx.fillStyle='#6f302b';ctx.globalAlpha=.5;ctx.fillRect(160,FLOOR-8,640,3);ctx.globalAlpha=1}
+  if(game.room===1){
+   drawObservationGlass(870,132,178,116);
+   for(const [x,w,glow] of [[1068,54,'#9c5145'],[1128,54,'#607e75'],[1188,54,'#9c5145'],[1248,54,'#607e75']]){ctx.fillStyle='#101717';ctx.fillRect(x,155,w,77);ctx.strokeStyle='#46514c';ctx.lineWidth=2;ctx.strokeRect(x,155,w,77);ctx.fillStyle='#1d2926';ctx.fillRect(x+5,160,w-10,48);ctx.fillStyle=glow;ctx.globalAlpha=.62;ctx.fillRect(x+10,170,w-22,3);ctx.fillRect(x+10,181,w-16,2);ctx.globalAlpha=1;ctx.fillStyle='#59635c';ctx.fillRect(x+8,216,12,5);ctx.fillRect(x+25,216,8,5)}
+   ctx.fillStyle='#222927';ctx.fillRect(1082,346,257,17);ctx.fillStyle='#111716';ctx.fillRect(1094,363,233,54);ctx.strokeStyle='#657068';ctx.lineWidth=2;ctx.strokeRect(1094,363,233,54);ctx.fillStyle='#475249';ctx.fillRect(1110,417,9,22);ctx.fillRect(1304,417,9,22);ctx.fillStyle='#8b5944';ctx.globalAlpha=.75;ctx.fillRect(1191,344,39,3);ctx.globalAlpha=1;ctx.fillStyle='#c0b598';ctx.font='9px Consolas,monospace';ctx.fillText('SECURITY / EVIDENCE DESK',1100,337);
+   ctx.fillStyle='#171b1a';ctx.fillRect(1315,285,58,100);ctx.strokeStyle='#704a3c';ctx.lineWidth=2;ctx.strokeRect(1315,285,58,100);ctx.fillStyle='#8b5944';ctx.fillRect(1324,298,39,4);ctx.fillStyle='#59655d';ctx.fillRect(1339,323,12,31);ctx.fillStyle='#151a18';ctx.fillRect(1320,366,49,12);drawWreckage(1018,438,1);
+  }
+ }
+  const labels=['연구동 A-01 / 분석실','연구동 A-03 / 격리 통로','보안 구역 / 경비실','중앙 제어실 / NEXUS','E-04 / '+game.researchFloor+'F '+LastSparkResearch.floor(game.researchFloor).name];ctx.fillStyle='#a8b5af';ctx.font='11px Consolas,monospace';ctx.fillText(labels[game.room]||'연구 시설',26,44);ctx.fillStyle='#66736e';ctx.fillText('주전력 '+game.world.powerLevel+'/3   ·   외부 통신 단절   ·   생존자 확인 불가',26,61);ctx.fillStyle='#242d2d';ctx.fillRect(26,69,188,2);ctx.fillStyle=game.world.powerLevel?'#67b79c':'#9b5147';ctx.fillRect(26,69,188*(game.world.powerLevel/3),2)
+}
+function drawObjects(){for(const o of objects()){
+ const near=Math.abs(o.x-game.player.x)<90;ctx.save();
+   if(['door','wing','return','elevator-up','elevator-down'].includes(o.key)){
+    const locked=(o.key==='door'&&game.room===0&&!game.flags.log)||(o.key==='door'&&game.room===1&&!game.flags.card)||(o.key==='wing'&&(!game.flags.log||!game.flags.card))||(game.boss&&game.boss.hp>0);
+   LastSparkAssets.draw(ctx,locked?'Door_Locked':'Door_Open',game.clock,o.x,FLOOR,{baseScale:.3205007824726135,scale:o.key==='wing'?1.8:2.1,fallback:'Door_Locked'});
+    if(o.key==='wing'||o.key==='return'||o.key.indexOf('elevator')===0){ctx.fillStyle='#11191a';ctx.fillRect(o.x-64,252,128,30);ctx.strokeStyle=o.key==='wing'?'#a34b3f':'#556760';ctx.lineWidth=1;ctx.strokeRect(o.x-64,252,128,30);ctx.fillStyle=o.key==='wing'?'#d27864':'#96aaa0';ctx.font='9px Consolas';ctx.textAlign='center';const label=o.key==='wing'?'E-04 / AUX POWER':o.key==='return'?'EXIT / A-01':'LIFT / '+String(o.floor).padStart(2,'0')+'F';ctx.fillText(label,o.x,270);ctx.textAlign='left'}
+ }else if(o.key==='log'){
+  LastSparkAssets.draw(ctx,game.flags.log?'Terminal_Working':'Terminal_Standby',game.clock,o.x,FLOOR,{baseScale:.2775067750677507,scale:1.28,fallback:'Terminal_Standby'});
+ }else if(o.key==='generator'){
+  const generator=game.world.generators.find(g=>g.id===o.id),starting=generator.active&&game.clock-(generator.activeAt||0)<.9,name=!generator.active?'Generator_Off':starting?'Generator_Startup':'Generator_Running';
+  LastSparkAssets.draw(ctx,name,starting?game.clock-generator.activeAt:game.clock,o.x,FLOOR,{baseScale:.212448132780083,scale:1.22,fallback:'Generator_Off'});
+  }else if(o.key==='card')LastSparkAssets.draw(ctx,'Key_SpinFlicker',game.clock,o.x,game.room===1?FLOOR-75:FLOOR-16,{baseScale:.44814004376367617,scale:1.05,fallback:'Key_SpinFlicker'});
+  else if(o.key==='cover'){ctx.fillStyle='#252e2d';ctx.fillRect(o.x-29,FLOOR-92,58,92);ctx.fillStyle='#131a1a';ctx.fillRect(o.x-24,FLOOR-86,48,81);ctx.strokeStyle='#626b66';ctx.lineWidth=2;ctx.strokeRect(o.x-29,FLOOR-92,58,92);ctx.strokeStyle='#394442';ctx.beginPath();ctx.moveTo(o.x,FLOOR-84);ctx.lineTo(o.x,FLOOR-9);ctx.stroke();ctx.fillStyle='#9e7655';ctx.fillRect(o.x+14,FLOOR-53,3,8);ctx.fillStyle='#718079';ctx.font='8px Consolas';ctx.textAlign='center';ctx.fillText('STORAGE',o.x,FLOOR-70);ctx.textAlign='left'}
+  if(near&&game.mode==='play'){ctx.fillStyle='#c5d0cd';ctx.font='12px Consolas';ctx.textAlign='center';const generator=o.key==='generator'&&game.world.generators.find(g=>g.id===o.id);const text=o.key==='door'?'[E] 열기':o.key==='wing'?'[E] 동력 연구동 진입':o.key==='return'?'[E] 통로로 복귀':o.key==='elevator-up'||o.key==='elevator-down'?'[E] '+o.floor+'층 이동':o.key==='cover'?'[E] '+(game.player.hidden?'나오기':'숨기'):o.key==='card'&&game.flags.card?'카드 등록됨':generator&&generator.active?'전력 공급 중':'[E] '+o.label;ctx.fillText(text,o.x,350+LastSparkPresentation.interactionBob(game.clock))}ctx.restore()
+}}
+function playerVisualSelection(p=game.player,phaseId=phase()){
+ const attackProgress=p.attack>0?p.attackElapsed/Math.max(.001,p.attack+p.attackElapsed):0;
+ return LastSparkAppearance.selectPlayerVisual(phaseId,{elapsed:game.clock,moving:Math.abs(p.vx)>14,charging:p.charging,attack:p.attack>0,attackProgress,airborne:!p.ground,hurt:p.stun>0,dead:game.mode==='dead',suitDamageLevel:p.suitDamageLevel||0});
+}
+function drawPlayer(){
+ const p=game.player,phaseId=phase();if(p.hidden)return;ctx.save();
+ ctx.fillStyle='#05060788';ctx.beginPath();ctx.ellipse(p.x,p.y+1,20,5,0,0,Math.PI*2);ctx.fill();
+ const visual=playerVisualSelection(p,phaseId),name=visual.tier===1?playerPoseName(p,phaseId):visual.name;if(p.spriteAction!==name){p.spriteAction=name;p.spriteActionAt=game.clock}
+ ctx.globalAlpha=p.hitFlash>0?1:p.invuln>0&&Math.floor(game.clock*18)%2===0?.42:1;
+ ctx.filter=p.hitFlash>0?'sepia(1) saturate(4) hue-rotate(-32deg) brightness(1.45)':'none';
+ const poseElapsed=p.charging?0:p.attack>0?(game.clock-p.spriteActionAt)*1.8:game.clock-p.spriteActionAt;
+ const visualOptions={baseScale:.4,fitHeight:90,flip:p.face<0,fallback:`Player_P${visual.tier}_Idle`};if(visual.tier>1)visualOptions.frame=visual.frame;
+ LastSparkAssets.draw(ctx,name,poseElapsed,p.x,p.y,visualOptions);
+ ctx.restore();
+  if(game.lastImpact&&game.clock<game.lastImpact.until){const age=Math.max(0,(game.lastImpact.until-game.clock)/(game.lastImpact.charged?.24:.18));ctx.save();ctx.globalAlpha=age;ctx.strokeStyle=game.lastImpact.charged?'#f3cf8d':'#d8ded4';ctx.lineWidth=game.lastImpact.charged?3:2;for(let i=0;i<(game.lastImpact.charged?5:3);i++){const x=game.lastImpact.x+game.lastImpact.face*(i*4);ctx.beginPath();ctx.moveTo(x,game.lastImpact.y-i*3);ctx.lineTo(x+game.lastImpact.face*(5+i),game.lastImpact.y-3-i*5);ctx.stroke()}ctx.restore()}
+  if(p.charging){const charge=Math.min(1,p.chargeTime/LastSparkCombat.CHARGE_THRESHOLD_SECONDS);LastSparkAssets.draw(ctx,'VFX_Common_EnergyCharge',game.clock,p.x,p.y-53,{scale:.18+charge*.1,alpha:.2+charge*.34});drawChargeGathering(p,charge);ctx.fillStyle='#141a18';ctx.fillRect(p.x-25,p.y-91,50,5);ctx.fillStyle=charge>=1?'#e1bd77':'#8e9d89';ctx.fillRect(p.x-25,p.y-91,50*charge,5);if(charge>=1){ctx.fillStyle='#e1bd77';ctx.font='bold 9px Consolas';ctx.textAlign='center';ctx.fillText('MAX',p.x,p.y-99);ctx.textAlign='left'}}
+  if(p.stun>0){ctx.fillStyle='#efc56b';ctx.font='bold 12px Consolas';ctx.fillText('STUN',p.x-19,p.y-84)}
+ if(p.landFxAt&&game.clock-p.landFxAt<.5)LastSparkAssets.draw(ctx,'VFX_P1_LandingDust',game.clock-p.landFxAt,p.x,p.y,{scale:.75,alpha:.8});
+}
+function drawChargeGathering(p,charge){
+ const ready=charge>=1,coreX=p.x+(p.face||1)*8,coreY=p.y-53,radius=18-charge*11,turn=game.clock*2.8;
+ ctx.save();ctx.globalAlpha=.42+charge*.42;ctx.strokeStyle=ready?'#e1bd77':'#78d4cb';ctx.fillStyle=ready?'#ffe0a1':'#a4f0dd';ctx.lineWidth=1.2;
+ ctx.beginPath();ctx.ellipse(coreX,coreY,5+charge*4,7+charge*3,0,0,Math.PI*2);ctx.stroke();
+ for(let i=0;i<4;i++){const a=turn+i*Math.PI*.5,x=coreX+Math.cos(a)*radius,y=coreY+Math.sin(a)*radius*.72;ctx.beginPath();ctx.moveTo(x,y);ctx.lineTo(x+(coreX-x)*.24,y+(coreY-y)*.24);ctx.stroke();ctx.beginPath();ctx.arc(x,y,1.2+charge*.5,0,Math.PI*2);ctx.fill()}
+ ctx.restore();
+}
+function playerPoseName(p,phaseId){
+ const prefix=`Player_P${phaseId}_`;
+ if(game.mode==='dead'||p.hp<=0)return prefix+'Death';
+ if(p.stun>0)return prefix+'Stagger';
+ if(p.charging||p.attack>0)return prefix+'Attack';
+ if(p.dash>0)return prefix+'Dash';
+ if(!p.ground)return prefix+(p.vy<0?'JumpRise':'Fall');
+ if(Math.abs(p.vx)>18)return prefix+'Run';
+ return prefix+'Idle';
+}
+function drawDrone(e){
+ const footY=e.dropY===null?FLOOR:e.dropY;ctx.save();ctx.filter=e.flash>0?'brightness(2.1) saturate(.2)':'none';ctx.fillStyle='#06070888';ctx.beginPath();ctx.ellipse(e.x,FLOOR+1,23,5,0,0,Math.PI*2);ctx.fill();
+ if(e.kind==='turret'){ctx.fillStyle='#171c1c';ctx.fillRect(e.x-34,FLOOR-49,68,44);ctx.fillStyle='#4e5955';ctx.fillRect(e.x-42,FLOOR-55,84,10);ctx.fillStyle='#303c3b';ctx.fillRect(e.x-25,FLOOR-67,50,20);ctx.fillStyle='#8b4a3f';ctx.fillRect(e.x+e.facing*17-3,FLOOR-61,6,8);ctx.fillStyle=e.aim>0?'#e65d50':'#78b5a5';ctx.beginPath();ctx.arc(e.x+e.facing*23,FLOOR-58,4,0,Math.PI*2);ctx.fill();if(e.aim>0){ctx.globalAlpha=.35;ctx.strokeStyle='#e96a55';ctx.beginPath();ctx.moveTo(e.x,FLOOR-60);ctx.lineTo(game.player.x,game.player.y-34);ctx.stroke()}ctx.restore();bar(e.x-27,FLOOR-78,54,e.hp/e.max,'#d56a53');return}
+ let prefix=e.kind==='melee'?'Enemy1_':e.kind==='charger'?'Enemy3_':'Enemy2_',action='Idle';
+ if(e.flash>0)action='Damage';else if(e.kind==='melee')action=e.attackTime>0?'Attack':e.windup>0?'AttackPrepare':Math.abs(e.vx)>8?'Run':'Idle';
+ else if(e.kind==='charger')action=e.charge>0?'DashAttack':e.chargeWarn>0?'ChargePrepare':e.recovery>0?'Recovery':Math.abs(e.vx)>8?'Run':'Idle';
+ else action=e.aim>0?'Aim':e.shoot>0?'Shoot':Math.abs(e.vx)>8?'Run':'Idle';
+ if(e.spriteAction!==action){e.spriteAction=action;e.spriteActionAt=game.clock}
+  LastSparkAssets.draw(ctx,prefix+action,game.clock-e.spriteActionAt,e.x,footY,{baseScale:.4,flip:e.facing<0,fallback:prefix+'Idle'});
+ ctx.restore();
+  if(e.aim>0)LastSparkAssets.draw(ctx,'VFX_Enemy2_AimIndicator',0,e.x+e.facing*32,footY-50,{flip:e.facing<0,scale:.9});
+  if(e.chargeWarn>0)LastSparkAssets.draw(ctx,'VFX_Enemy3_ChargeEnergy',game.clock,e.x,footY-34,{flip:e.facing<0,scale:.45});
+  bar(e.x-24,footY-64,48,e.hp/e.max,e.flash>0?'#f4d7a0':'#db6256')
+}
+function drawBoss(b){
+ const nexus=b.kind==='nexus',prefix=nexus?'BossFinal_':'BossMid_';let action='Idle';
+ if(b.hp<=0)action='Death';else if(b.phaseChangedAt&&game.clock-b.phaseChangedAt<.85)action='PhaseChange';else if(b.animKey&&game.clock-b.animAt<1.1)action=b.animKey;
+ if(nexus&&b.phase===3&&action==='Idle')action='WeakPointExposed';const fitHeight=nexus?214:132;ctx.save();ctx.filter=b.hitFlash>0?'brightness(2.1) saturate(.2)':'none';LastSparkAssets.draw(ctx,prefix+action,game.clock-(b.deathAt||b.animAt||0),b.x,FLOOR,{fitHeight,flip:nexus&&b.facing<0,fallback:prefix+'Idle'});ctx.restore();
+ const barWidth=nexus?204:144;bar(b.x-barWidth/2,FLOOR-(nexus?280:152),barWidth,b.hp/b.max,nexus?'#dc6258':'#e3a757');
+ ctx.fillStyle='#e6ded0';ctx.font='12px Consolas';ctx.textAlign='center';ctx.fillText(nexus?`NEXUS ? PHASE ${b.phase}`:`SENTINEL ? PHASE ${b.phase}`,b.x,FLOOR-(nexus?290:161));ctx.textAlign='left'
+}
+function drawHazard(h){ctx.save();const warning=h.warn>0,targetX=h.targetX??h.x??game.boss.x;ctx.globalAlpha=warning?.13:.42;ctx.fillStyle=warning?'#f1c264':'#ed4945';if(h.kind==='lane')ctx.fillRect(h.x1,FLOOR-7,h.x2-h.x1,34);if(h.kind==='ring'){ctx.beginPath();ctx.ellipse(h.x??game.boss.x,FLOOR-5,h.radius,30,0,0,7);ctx.fill()}if(h.kind==='split'){ctx.fillRect(0,FLOOR-8,h.safe1,36);ctx.fillRect(h.safe2,FLOOR-8,W-h.safe2,36);ctx.globalAlpha=.58;ctx.fillStyle='#80d9aa';ctx.fillRect(h.safe1,FLOOR-9,h.safe2-h.safe1,38)}if(h.kind==='rush'){ctx.globalAlpha=warning?.28:.18;ctx.fillRect(Math.min(h.startX,h.endX)-27,FLOOR-96,Math.abs(h.endX-h.startX)+54,86);ctx.globalAlpha=.75;ctx.strokeStyle=warning?'#f1c264':'#ed4945';ctx.lineWidth=3;ctx.beginPath();ctx.moveTo(h.startX,FLOOR-103);ctx.lineTo(h.endX,FLOOR-103);ctx.stroke()}if(h.kind==='volley'){ctx.globalAlpha=warning?.36:.18;ctx.beginPath();ctx.ellipse(targetX,FLOOR-40,70,88,0,0,Math.PI*2);ctx.fill()}if(warning){ctx.globalAlpha=.85;LastSparkAssets.draw(ctx,'VFX_Common_AttackWarning',game.clock,targetX,FLOOR-5,{scale:1.1});ctx.globalAlpha=.7;ctx.strokeStyle='#f3bd69';ctx.setLineDash([5,7]);ctx.beginPath();ctx.moveTo(targetX,118);ctx.lineTo(targetX,FLOOR-12);ctx.stroke();ctx.setLineDash([])}ctx.restore()}
+function drawShot(shot){if(LastSparkAssets.draw(ctx,shot.boss?'BossOrb_MoveAttack':'VFX_Enemy2_Bullet',game.clock,shot.x,shot.y,{flip:shot.vx<0,scale:shot.boss?.22:1.1}))return;ctx.fillStyle=shot.boss?'#ffad70':'#f18167';ctx.shadowColor='#ff674d';ctx.shadowBlur=12;ctx.fillRect(shot.x-5,shot.y-3,10,6);ctx.shadowBlur=0}
+function bar(x,y,w,pct,c){ctx.fillStyle='#25292a';ctx.fillRect(x,y,w,6);ctx.fillStyle=c;ctx.fillRect(x,y,w*clamp(pct,0,1),6)}
+function drawHud(){if(game.mode==='title')return;const currentPhase=phase(),labels=['','I · 중장갑 / 저속','II · 균형 출력','III · 고속 / 외장 파손'],colors=['','#74ddd0','#e9b75f','#ed6657'];ctx.fillStyle='#06090de8';ctx.fillRect(18,83,245,78);ctx.fillStyle='#dfe8e5';ctx.font='12px Consolas';ctx.fillText('OVERclock suit  /  생체 신호',29,101);bar(29,111,210,game.player.hp/game.player.max,colors[currentPhase]);ctx.fillStyle=colors[currentPhase];ctx.font='bold 13px Consolas';ctx.fillText(`PHASE ${currentPhase}  ·  ${Math.ceil(game.player.hp)}%`,29,138);ctx.font='bold 11px Consolas';ctx.fillText(labels[currentPhase],29,154);ctx.fillStyle='#9aabad';ctx.font='11px Consolas';ctx.fillText(`기록 ${game.score}   최고 출력 ${game.maxPhase}`,W-205,31);if(game.room===0&&(!game.flags.log||!game.flags.card)){ctx.fillStyle='#cfdbd6';ctx.font='12px Consolas';ctx.fillText(`목표: ${game.flags.log?'기록 확보':'단말기 조사'}  ·  ${game.flags.card?'카드 확보':'출입 카드 찾기'}`,288,84)}else if(game.room===0){ctx.fillStyle='#9fb4ae';ctx.font='11px Consolas';ctx.fillText('선택: E-04 동력 연구동에서 전력 복구 · 생략해도 봉쇄문으로 진행 가능',288,84)}}
+function drawSecurityObjective(){if(game.mode==='title'||game.room!==1)return;ctx.fillStyle='#cfdbd6';ctx.font='12px Consolas';ctx.fillText(game.flags.card?'목표: 보안 격벽으로 이동':'목표: 경비 유닛을 피해 보안 데스크에서 출입 키 확보',288,84)}
+function drawCombatResources(){if(game.mode==='title')return;const p=game.player;ctx.fillStyle='#111718df';ctx.fillRect(W-228,39,210,23);ctx.strokeStyle='#36423f';ctx.strokeRect(W-228,39,210,23);ctx.fillStyle='#c8d1c9';ctx.font='11px Consolas';ctx.fillText(`MED ${p.potions}/2   ·   ${p.dashCd>0?'DASH '+p.dashCd.toFixed(1)+'s':'DASH READY'}`,W-219,55);if(game.boss&&game.boss.counterOpen>0){ctx.fillStyle='#d6bd8c';ctx.textAlign='center';ctx.font='bold 10px Consolas';ctx.fillText('CORE OPEN',game.boss.x-game.cameraX,FLOOR-game.boss.h-18);ctx.textAlign='left'}}
+function drawToast(){ctx.fillStyle='#080d10e8';ctx.fillRect(250,474,460,34);ctx.strokeStyle='#526568';ctx.strokeRect(250,474,460,34);ctx.fillStyle='#d8e0da';ctx.font='13px Consolas';ctx.textAlign='center';ctx.fillText(game.toast,480,496);ctx.textAlign='left'}
+function drawTitle(){ctx.fillStyle='#05080bea';ctx.fillRect(0,0,W,H);ctx.strokeStyle='#454c40';ctx.lineWidth=1;ctx.strokeRect(60,55,840,430);drawMoss(61,454,.9);drawWallBreach(805,369,.48);ctx.fillStyle='#a06d51';ctx.font='bold 12px Consolas';ctx.letterSpacing='3px';ctx.fillText('E-04  /  INCIDENT FILE  06:12',93,112);ctx.letterSpacing='0px';ctx.fillStyle='#d6d5c9';ctx.font='bold 64px Consolas';ctx.fillText('LAST SPARK',90,202);ctx.fillStyle='#aaada0';ctx.font='16px Consolas';ctx.fillText('격리 경보 발생. 연구동 전 구역 봉쇄.',94,247);ctx.fillStyle='#737b6c';ctx.fillText('기록자 : 연구원 01     생존 반응 : 확인 불가',94,271);ctx.fillStyle='#89977d';ctx.fillRect(92,308,218,47);ctx.fillStyle='#10140f';ctx.font='bold 16px Consolas';ctx.fillText('ENTER  /  시작',116,337);ctx.fillStyle='#858e82';ctx.font='12px Consolas';ctx.fillText('환경음은 M으로 켜거나 끌 수 있다.',94,423);ctx.fillStyle='#8c5945';ctx.fillRect(815,91,48,3);ctx.fillRect(815,99,24,3);ctx.fillStyle='#a2ad8f';ctx.font='bold 22px Consolas';ctx.fillText('◉',W-115,104)}
+function drawOverlay(title,sub,foot){ctx.fillStyle='#030507d9';ctx.fillRect(0,0,W,H);ctx.textAlign='center';ctx.fillStyle='#e66a5d';ctx.font='bold 45px Consolas';ctx.fillText(title,W/2,218);ctx.fillStyle='#d4ddda';ctx.font='19px Consolas';ctx.fillText(sub,W/2,266);ctx.fillStyle='#a2b2af';ctx.font='13px Consolas';ctx.fillText(foot,W/2,332);ctx.textAlign='left'}
+function drawEnding(){ctx.fillStyle='#05080bef';ctx.fillRect(0,0,W,H);ctx.fillStyle='#a5ae91';ctx.font='12px Consolas';ctx.fillText('EXIT  /  06:39',82,84);ctx.fillStyle='#e2e0d4';ctx.font='bold 36px Consolas';ctx.fillText('출구가 열렸다.',82,158);ctx.fillStyle='#b4c1bc';ctx.font='17px Consolas';ctx.fillText('바깥 센서에 움직임이 잡혔다. 응답은 없었다.',84,202);ctx.fillStyle='#879694';ctx.font='15px Consolas';ctx.fillText('슈트 기록: 생존자 1명. 보호 프로토콜 대기 중.',84,258);ctx.fillStyle='#b9a47c';ctx.font='14px Consolas';ctx.fillText(`탈출 기록  ${game.score}   ·   최고 출력 ${game.maxPhase}`,84,389);ctx.fillStyle='#9ba7a5';ctx.font='12px Consolas';ctx.fillText('ENTER 또는 클릭: 기록을 다시 시작',84,446)}
+function frame(t){let dt=Math.min(.035,(t-last)/1000||0);last=t;update(dt);draw();requestAnimationFrame(frame)}
+window.addEventListener('keydown',e=>{if(e.key.toLowerCase()==='m')toggleAudio()});
+window.getLastSparkState=()=>({mode:game.mode,room:game.room,maxPhase:game.maxPhase,score:game.score});
+if(new URLSearchParams(location.search).get('test')==='1')window.LastSparkTest={startRun:()=>{resetRun();game.hitstop=0;game.cameraShake=0;game.lastImpact=null;game.hitFeedbackCharged=false;return snapshot()},snapshot,cameraX:(room,x,width)=>LastSparkWorld.cameraX(game.world,room,x,width),interactGenerator,enterResearchWing,exitResearchWing,enterNextDoor,pressKey,holdKey,releaseKey,step,setTestEnemy,setTestTurret,triggerTurretShot,setTestBoss,triggerBossAttack,setTestPlayerHp,hurtTestPlayer:(amount)=>{hurt(Number(amount)||0,game.player.x-1);return snapshot()},travelResearchFloor,hideAtCover,moveTestPlayerTo,dismissTestDialogue};
+function snapshot(){const lastHazard=game.hazards.length?game.hazards[game.hazards.length-1]:null;const lastShot=game.shots.length?game.shots[game.shots.length-1]:null;const visual=playerVisualSelection();return{
+ mode:game.mode,room:game.room,researchFloor:game.researchFloor,hidden:game.player.hidden,playerX:game.player.x,roomWidths:[...game.world.roomWidths],powerLevel:game.world.powerLevel,audioLevels:LastSparkPresentation.audioLevels(game.world.powerLevel),alarmPulseUntil:game.alarmPulseUntil,alarmActive:alarmActive(),flashlightOn:game.flashlightOn,darkness:LastSparkLighting.alpha(game.world.powerLevel,0),flashlightRadius:LastSparkLighting.flashlightRadius(game.world.powerLevel),dialogueTypewriter:game.dialogueTypewriter,dialogueVisibleChars:game.dialogueVisibleChars,dialogueLength:(game.dialogue[game.dialogueIndex]||'').length,dialogueText:game.dialogue[game.dialogueIndex]||'',researchWingVisits:game.researchWingVisits,generators:game.world.generators.map(g=>({...g})),
+ playerHp:game.player.hp,phase:phase(),phaseSpeed:LastSparkCombat.playerPhaseProfile(phase()).speed,phaseDamageTakenMultiplier:LastSparkCombat.playerPhaseProfile(phase()).damageTakenMultiplier,suitDamageLevel:game.player.suitDamageLevel||0,playerAppearance:visual.appearance,playerVisualTier:visual.tier,playerSprite:visual.name,playerSpriteFrame:visual.frame,potions:game.player.potions,playerInjected:game.player.injected===true,maxJumps:phase()===3&&game.player.injected?3:1,jumps:game.player.jumps,playerAttack:game.player.attack,attackCooldown:game.player.attackCooldown,playerCharging:game.player.charging,playerPose:playerPoseName(game.player,phase()),chargeReady:game.player.chargeTime>=LastSparkCombat.CHARGE_THRESHOLD_SECONDS,chargeMoveMultiplier:LastSparkCombat.chargeMoveMultiplier(game.player.chargeTime),lastAttackCharged:game.lastAttackCharged,dashDuration:game.player.dash,dashCooldown:game.player.dashCd,
+ hitstopRemaining:game.hitstop||0,cameraShake:game.cameraShake||0,playerHitFlash:game.player.hitFlash||0,hitFeedbackCharged:game.hitFeedbackCharged===true,meleeImpactRemaining:game.lastImpact?Math.max(0,game.lastImpact.until-game.clock):0,
+ card:game.flags.card,objects:objects().map(o=>({key:o.key,x:o.x,label:o.label})),enemyHp:game.enemies.map(e=>e.hp),enemyX:game.enemies.map(e=>e.x),alertedEnemies:game.enemies.filter(e=>e.alerted).length,warningEnemies:game.enemies.filter(e=>e.hp>0&&e.noticeUntil>game.clock).length,airborneEnemies:game.enemies.filter(e=>e.dropY!==null).length,dropQueue:game.dropQueue.length,deploymentCount:game.deploymentCount,turretCount:game.turrets.filter(e=>e.hp>0).length,enemyShotCount:game.shots.length,turretShotVx:lastShot?lastShot.vx:null,turretShotVy:lastShot?lastShot.vy:null,
+ bossHp:game.boss?game.boss.hp:null,bossX:game.boss?game.boss.x:null,bossPattern:game.lastBossPattern||null,bossHazardKind:lastHazard?lastHazard.kind:null,bossHazardWarn:lastHazard?lastHazard.warn:null,bossShotCount:game.shots.filter(shot=>shot.boss).length,bossCounterOpen:game.boss?game.boss.counterOpen||0:null,bossTargetX:lastHazard?lastHazard.targetX:null,bossSafeGap:lastHazard&&Number.isFinite(lastHazard.safe1)?[lastHazard.safe1,lastHazard.safe2]:null,glitchIntensity:LastSparkLighting.glitchIntensity(game.world.powerLevel),sparkIntensity:LastSparkLighting.sparkIntensity(game.world.powerLevel)
+}}
+function dispatchTestKey(key,type){window.dispatchEvent(new KeyboardEvent(type,{key,bubbles:true}))}
+function pressKey(key){dispatchTestKey(key,'keydown');dispatchTestKey(key,'keyup');return snapshot()}
+function holdKey(key){dispatchTestKey(key,'keydown');return snapshot()}
+function releaseKey(key){dispatchTestKey(key,'keyup');return snapshot()}
+function step(seconds){update(seconds);return snapshot()}
+function moveTestPlayerTo(x){game.player.x=clamp(Number(x),0,LastSparkWorld.roomWidth(game.world,game.room));return snapshot()}
+function dismissTestDialogue(){let guard=8;while(game.mode==='dialogue'&&guard-->0)advance();return snapshot()}
+function setTestEnemy(distance=145){game.room=0;game.enemies=[makeDrone(game.player.x+distance,'melee')];game.enemies[0].cd=9;return snapshot()}
+function setTestTurret(){game.room=4;game.researchFloor=1;game.player.x=300;game.enemies=[];game.shots=[];game.dropQueue=[];game.hazards=[];const turret=makeTurret(600);turret.cd=0;game.turrets=[turret];game.enemies=[turret];game.mode='play';return snapshot()}
+function triggerTurretShot(){game.player.x=530;update(.1);update(.9);update(.8);return snapshot()}
+function setTestBoss(kind='sentinel',bossPhase=1,playerX=300){game.room=2;game.player.x=playerX;game.enemies=[];game.turrets=[];game.shots=[];game.hazards=[];game.lastBossPattern=null;const nexus=kind==='nexus';game.boss={kind,x:nexus?650:430,hp:nexus?360:180,max:nexus?360:180,phase:bossPhase,w:nexus?118:72,h:nexus?168:112,attackClock:99,pattern:0,counterOpen:0,attackActive:false};return snapshot()}
+function triggerBossAttack(){if(!game.boss)return snapshot();game.boss.attackClock=0;game.hazards=[];game.boss.attackActive=false;updateBoss(.016);return snapshot()}
+function interactGenerator(id){const generator=game.world.generators.find(g=>g.id===id);if(!generator)return false;game.room=generator.room;game.researchFloor=generator.floor;loadRoom(generator.room,generator.floor);game.player.x=generator.x;game.mode='play';const before=game.world.powerLevel;dispatchTestKey('e','keydown');dispatchTestKey('e','keyup');return game.world.powerLevel>before}
+function travelResearchFloor(target){if(game.room!==4||target<1||target>3||Math.abs(target-game.researchFloor)!==1)return false;changeResearchFloor(target,target<game.researchFloor);return game.researchFloor===target}
+function hideAtCover(){if(game.room!==4)return false;const cover=objects().find(o=>o.key==='cover');if(!cover)return false;game.player.x=cover.x;interact();return game.player.hidden}
+function enterResearchWing(dismissDialogue=true){if(game.room!==0)return false;game.flags.log=true;game.flags.card=true;game.enemies=[];game.player.x=RESEARCH_DOOR_X;game.mode='play';dispatchTestKey('e','keydown');dispatchTestKey('e','keyup');if(game.room===4){if(dismissDialogue)dismissTestDialogue();return true}return false}
+function exitResearchWing(){if(game.room!==4)return false;game.enemies=[];while(game.researchFloor>1){const next=game.researchFloor-1;changeResearchFloor(next,true);game.enemies=[];game.player.x=RESEARCH_RETURN_X}game.player.x=RESEARCH_RETURN_X;game.mode='play';dispatchTestKey('e','keydown');dispatchTestKey('e','keyup');if(game.room===0){game.mode='play';dialog.style.display='none';return true}return false}
+function setTestPlayerHp(value){game.player.hp=clamp(Number(value)||1,1,game.player.max);game.player.suitDamageLevel=Math.max(game.player.suitDamageLevel||0,phase()-1);return snapshot()}
+function enterNextDoor(){if(game.room>1)return false;game.flags.log=true;game.flags.card=true;game.player.x=LastSparkWorld.roomWidth(game.world,game.room)-90;dispatchTestKey('e','keydown');dispatchTestKey('e','keyup');if(game.room>0){game.mode='play';dialog.style.display='none';return true}return false}
+requestAnimationFrame(frame);
+})();
+</script>
+<script src="enhance.js"></script>
+</body>
+</html>

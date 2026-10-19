@@ -1,0 +1,50 @@
+{
+  "name": "Switch_Transition",
+  "sourcePage": 12,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4818823529411765,
+  "sourceOffset": [
+    35,
+    -35
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "8d595d61e3916b0d0b469479d996fad8b7758cefd858cf5bdbec5876504f77b5",
+  "spriteSha256": "966d99042802e97b1e2ae6072313fdf9b158b58786938edeed225cf6b8516ab1"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Terminal_Working",
+  "sourcePage": 12,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4404301075268817,
+  "sourceOffset": [
+    15,
+    2
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "2b19f9a1c10f106aa51fb284cce7e2f9b3d1494f1b75876a47ceb4af2526896c",
+  "spriteSha256": "a0ace41afc2890985882be26b22f8b59d88a9b53f0c72a14432aeb8ece4de1e8"
+}

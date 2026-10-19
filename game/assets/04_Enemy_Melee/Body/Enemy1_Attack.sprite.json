@@ -1,0 +1,82 @@
+{
+  "name": "Enemy1_Attack",
+  "sourcePage": 6,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    32
+  ],
+  "sourceRegions": [
+    [
+      83,
+      77,
+      446,
+      482
+    ],
+    [
+      496,
+      64,
+      943,
+      482
+    ],
+    [
+      984,
+      119,
+      1519,
+      482
+    ],
+    [
+      57,
+      607,
+      496,
+      985
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "e7a2205e0d8d6bef0707907796725382ee8692a6bc885570be3135094bc0821c",
+  "spriteSha256": "d201dd877974bff571d881da88827b9097b6a1f90e2b2be2563faf5ae5c5151e",
+  "proposedCombatTiming": {
+    "hitFrames": [
+      3
+    ],
+    "note": "칼날을 앞으로 내민 접촉 자세"
+  },
+  "combatTimingFrameIndexBase": 1
+}

@@ -1,0 +1,38 @@
+{
+  "name": "HealingItem_Base",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.22505494505494505,
+  "sourceOffset": [
+    -13,
+    -17
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "d64069f7deafd7f1810be138fe52dcc1a21965fe3cf9a31d09d06e203887ccdb",
+  "spriteSha256": "ee7b43e227bc7b8a48c59f6bf0101e59ada474508faa970411f2f0c115f73e04"
+}

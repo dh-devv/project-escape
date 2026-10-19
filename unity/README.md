@@ -10,6 +10,18 @@ Unity 게임 클라이언트입니다.
 - `Assets/Carten/Script/GameManager/`: 스테이지와 게임 진행
 - `Assets/Carten/Script/Network/`: 백엔드 API 통신
 - `Assets/Scenes/`: Unity 씬
+- `Assets/Carten/Script/UI/`: 시작 버튼, 체력·보스·연구 일지 UI
+
+`Assets/Scenes/` 아래에 저장한 씬은 Editor의 Scene List에 자동 등록됩니다.
+`UI/Main UI`를 첫 번째로 두고 스테이지 순서로 정렬하며, 씬 목록을 따로 쓰는
+Build Profile에도 반영합니다. UI 이미지와 프리팹은 씬에서 참조하면 빌드에 포함됩니다.
+수동으로 갱신하려면 `LAST SPARK > Sync Build Scenes`를 선택합니다.
+씬 변경 후에는 Web 빌드와 서버의 빌드 파일 교체가 필요합니다.
+
+`Main UI`에서 시작 버튼 또는 Enter로 첫 맵에 진입합니다.
+맵 이동은 `MapTransitionManager`를 거쳐 플레이어·카메라·HUD를 유지합니다.
+빌드 시 비활성화된 전투 구역·보스와 필수 UI/프리팹 누락을 검사합니다.
+저장된 씬 구성 검사는 `python unity/Tools/test_build_content.py`로 실행합니다.
 
 API 통신 설정과 호출 방법은
 `../docs/backend/unity-api-integration.md`를 참고합니다.

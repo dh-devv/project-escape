@@ -1,0 +1,84 @@
+{
+  "name": "Player_P1_Skill2_Defense",
+  "sourcePage": 3,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    28
+  ],
+  "sourceRegions": [
+    [
+      153,
+      46,
+      429,
+      492
+    ],
+    [
+      653,
+      55,
+      922,
+      492
+    ],
+    [
+      1154,
+      70,
+      1440,
+      492
+    ],
+    [
+      165,
+      553,
+      388,
+      1000
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "987499e7dea4ee6cedd757a810168cbfbd71cd7090c1e2ffdddb2b873261f45e",
+  "spriteSha256": "2b851c673728774e98842fc1ed7f3639e7cdc8fe0795d61a8d9209d7ae23369e",
+  "proposedCombatTiming": {
+    "hitFrames": [],
+    "effectFrames": [
+      2,
+      3
+    ],
+    "note": "방어 유지 구간; 피해 이벤트 없음"
+  },
+  "combatTimingFrameIndexBase": 1
+}

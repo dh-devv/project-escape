@@ -203,6 +203,7 @@ namespace Carten
         private bool suppressDamageAnimOnce;
 
         public bool IsDead => isDead;
+        public event System.Action Died;
         public bool IsSkillMovementLocked => isSkillMovementLocked;
 
         private void Awake()
@@ -615,11 +616,13 @@ namespace Carten
 
         private void Die()
         {
+            if (isDead) return;
             isDead = true;
             if (showDebugLog)
                 Debug.Log("[PlayerController] 플레이어 사망");
 
             if (anim != null) anim.SetBool("isWork", false);
+            Died?.Invoke();
             gameObject.SetActive(false);
         }
 

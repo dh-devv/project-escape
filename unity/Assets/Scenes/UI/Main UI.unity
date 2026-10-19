@@ -223,6 +223,7 @@ GameObject:
   - component: {fileID: 1218002644}
   - component: {fileID: 1218002643}
   - component: {fileID: 1218002642}
+  - component: {fileID: 900100101}
   m_Layer: 5
   m_Name: Main UI
   m_TagString: Untagged
@@ -371,7 +372,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 03decdfce15b4223967c8d42b2f5369a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -468,6 +469,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &900100101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1218002641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7a54c669c2845639832b90b2485cad9, type: 3}
+  m_Name:
+  m_EditorClassIdentifier: Carten::Carten.MainMenuUI
+  background: {fileID: 1241227392}
+  firstScene: Stage1_Map01
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

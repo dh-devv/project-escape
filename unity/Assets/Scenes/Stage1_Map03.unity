@@ -494,7 +494,7 @@ MonoBehaviour:
   requiredGeneratorId: Stage1_Generator_01
   lightsToPower:
   - {fileID: 1171768150}
-  interactionPrompt: {fileID: 2884641328218614880, guid: 541708ff21cb3414f97dead7049d2f92, type: 3}
+  interactionPrompt: {fileID: 0}
   promptText: "F  \uC791\uB3D9"
   noPowerPromptText: "\uC804\uC6D0\uC774 \uAEBC\uC838 \uC788\uC2B5\uB2C8\uB2E4 (\uBC1C\uC804\uAE30
     \uAC00\uB3D9 \uD544\uC694)"
@@ -1224,7 +1224,7 @@ MonoBehaviour:
   interactKey: 102
   requiredGeneratorId: 
   lightsToPower: []
-  interactionPrompt: {fileID: 2884641328218614880, guid: 541708ff21cb3414f97dead7049d2f92, type: 3}
+  interactionPrompt: {fileID: 0}
   promptText: "F  \uC791\uB3D9"
   noPowerPromptText: "\uC804\uC6D0\uC774 \uAEBC\uC838 \uC788\uC2B5\uB2C8\uB2E4 (\uBC1C\uC804\uAE30
     \uAC00\uB3D9 \uD544\uC694)"

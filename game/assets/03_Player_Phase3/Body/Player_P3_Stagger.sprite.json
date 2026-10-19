@@ -1,0 +1,65 @@
+{
+  "name": "Player_P3_Stagger",
+  "sourcePage": 5,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    33
+  ],
+  "sourceRegions": [
+    [
+      99,
+      77,
+      664,
+      678
+    ],
+    [
+      865,
+      170,
+      1368,
+      678
+    ],
+    [
+      1590,
+      78,
+      2096,
+      678
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "ad21606762ab7bbcd6e671b37fa8ffeeffcf12cd1cb1a3207aa1fdab6f3b3768",
+  "spriteSha256": "ccd8a5022de59a9319569f68de55154b63c29e35d3abefacceeeffaf0f20dc0f"
+}

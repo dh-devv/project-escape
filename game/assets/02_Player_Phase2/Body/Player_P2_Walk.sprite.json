@@ -1,0 +1,95 @@
+{
+  "name": "Player_P2_Walk",
+  "sourcePage": 4,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    33
+  ],
+  "sourceRegions": [
+    [
+      142,
+      43,
+      427,
+      483
+    ],
+    [
+      661,
+      42,
+      888,
+      483
+    ],
+    [
+      1136,
+      42,
+      1428,
+      483
+    ],
+    [
+      125,
+      545,
+      453,
+      986
+    ],
+    [
+      661,
+      543,
+      882,
+      986
+    ],
+    [
+      1136,
+      541,
+      1441,
+      986
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "8c4b6a535ac9e06aca4fc9fa4f7e32d8f50300275cf75f638fa10717f4a99c34",
+  "spriteSha256": "bcc4227969b80a3532a481c6db09d54cbbcb2f26ccb56317142a9d5f0f78d564"
+}

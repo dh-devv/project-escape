@@ -1,0 +1,38 @@
+{
+  "name": "Light_Off",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.2938307030129125,
+  "sourceOffset": [
+    -56,
+    -38
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "ee9b051bca23ecb4f4c6a66dd1f43a92c3b1041a21c19ce86c17fa02985533f4",
+  "spriteSha256": "a63db98f907448e5f809d7579560461572298a52dfbc5c1b784d770a634be598"
+}

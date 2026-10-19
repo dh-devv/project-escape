@@ -1,0 +1,95 @@
+{
+  "name": "Enemy3_Walk",
+  "sourcePage": 8,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    32
+  ],
+  "sourceRegions": [
+    [
+      79,
+      26,
+      481,
+      489
+    ],
+    [
+      619,
+      26,
+      947,
+      489
+    ],
+    [
+      1109,
+      22,
+      1483,
+      489
+    ],
+    [
+      44,
+      532,
+      495,
+      988
+    ],
+    [
+      618,
+      527,
+      956,
+      988
+    ],
+    [
+      1112,
+      526,
+      1502,
+      988
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "c6c3b1af4211cdca23446b52b5093a3cce4bdf17f305cf1d5dacdccf2dbbfc8a",
+  "spriteSha256": "5d08e269ba768a052501dad97fe9cedb8fc1acd57e5e29afe2f21ba65defa7a9"
+}

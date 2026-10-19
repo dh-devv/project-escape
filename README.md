@@ -136,6 +136,7 @@ project-escape/
 ├── docs/                # 백엔드, 배포, 게임 기획 문서
 ├── unity/               # Unity 클라이언트
 ├── deployment/          # Docker와 배포 설정
+├── game/                # 웹 브라우저로 실행할 수 있도록 제작한 게임
 └── README.md            # 프로젝트 시작 안내
 ```
 

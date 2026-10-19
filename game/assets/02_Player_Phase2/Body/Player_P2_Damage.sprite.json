@@ -1,0 +1,65 @@
+{
+  "name": "Player_P2_Damage",
+  "sourcePage": 4,
+  "frameCount": 3,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    2172,
+    724
+  ],
+  "sourceScale": 0.2828729281767956,
+  "sourceOffset": [
+    25,
+    40
+  ],
+  "sourceRegions": [
+    [
+      204,
+      75,
+      695,
+      649
+    ],
+    [
+      922,
+      154,
+      1328,
+      652
+    ],
+    [
+      1678,
+      57,
+      1973,
+      652
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "1b15d59a009bd5820e37339d7cf80a7784bb62571652b02ca4b965b621a30ccd",
+  "spriteSha256": "45afd1c5d8fa29bd832da53a328b91eaa6ecbe26b13362dab439bd1e190209f3"
+}

@@ -59,11 +59,8 @@ namespace Carten
                 yield return null;
             }
 
-            // 2. 다음 씬에서 스폰될 위치 저장
-            PlayerPrefs.SetString("LastTargetSpawnPoint", targetSpawnPointName);
-
-            // 3. 최종보스 씬 로드
-            SceneManager.LoadScene(targetSceneName);
+            MapTransitionManager.Instance?.LoadMap(targetSceneName, targetSpawnPointName);
+            isActivated = false;
         }
 
         private void OnTriggerEnter2D(Collider2D other)

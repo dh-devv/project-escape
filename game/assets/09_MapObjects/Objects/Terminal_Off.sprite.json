@@ -1,0 +1,38 @@
+{
+  "name": "Terminal_Off",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 8,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.2797814207650273,
+  "sourceOffset": [
+    -48,
+    -64
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "ba1551a6e16954a186bcfbd4d069a74fdfc0194c7881242316bb7f3533c6c17c",
+  "spriteSha256": "fa43ff6c7110bdb56754b3245c54e2cbe7c98fe105ad9d9c1c8c9851728ab48a"
+}

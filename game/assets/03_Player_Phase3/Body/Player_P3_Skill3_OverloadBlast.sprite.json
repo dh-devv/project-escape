@@ -1,0 +1,122 @@
+{
+  "name": "Player_P3_Skill3_OverloadBlast",
+  "sourcePage": 5,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.48995215311004786,
+  "sourceOffset": [
+    25,
+    28
+  ],
+  "sourceRegions": [
+    [
+      84,
+      33,
+      311,
+      416
+    ],
+    [
+      505,
+      51,
+      768,
+      416
+    ],
+    [
+      901,
+      48,
+      1199,
+      416
+    ],
+    [
+      64,
+      455,
+      406,
+      820
+    ],
+    [
+      435,
+      497,
+      843,
+      820
+    ],
+    [
+      892,
+      472,
+      1236,
+      820
+    ],
+    [
+      87,
+      864,
+      350,
+      1233
+    ],
+    [
+      515,
+      844,
+      725,
+      1233
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "c6d319114a04439f6ecc7bbf1b1ed51c13c121b439de163a0182bebc50f81536",
+  "spriteSha256": "76b6b975230ec240b9db8d47e9ada432ac3eee1cd85fdcf044c530b2cdfd8b85",
+  "proposedCombatTiming": {
+    "hitFrames": [
+      5
+    ],
+    "note": "가슴 코어 최대 발광 시점에 방출 VFX 동기화"
+  },
+  "combatTimingFrameIndexBase": 1
+}

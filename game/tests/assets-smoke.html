@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><base href="../"><title>Asset checks</title></head><body><pre id="results">loading sprite sheets</pre>
+<canvas id="preview" width="900" height="180" hidden></canvas>
+<script src="asset-manifest.js"></script><script src="asset-runtime.js"></script>
+<script>
+const samples = [
+  ['Player_P1_Idle', 70], ['Player_P2_Run', 185], ['Player_P3_JumpRise', 300],
+  ['Enemy1_Attack', 415], ['Enemy2_Aim', 520], ['Enemy3_DashAttack', 625],
+  ['BossMid_Idle', 730], ['BossFinal_Idle', 835],
+  ['Door_Locked', 70], ['Terminal_Standby', 185], ['Key_SpinFlicker', 300],
+  ['Light_Flicker', 415], ['VFX_Enemy2_Bullet', 520], ['VFX_Common_StrongHitFlash', 625],
+];
+const canvas = document.querySelector('#preview');
+const ctx = canvas.getContext('2d');
+let tries = 0;
+const poll = setInterval(() => {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  const loaded = samples.filter(([name, x]) => LastSparkAssets.draw(ctx, name, 0, x, 150, { scale: .5 })).length;
+  tries += 1;
+  if (loaded === samples.length || tries >= 30) {
+    clearInterval(poll);
+    document.querySelector('#results').textContent = loaded === samples.length
+      ? `PASS: ${loaded} representative sheets loaded` : `FAIL: ${loaded}/${samples.length} sheets loaded`;
+  }
+}, 100);
+</script></body></html>

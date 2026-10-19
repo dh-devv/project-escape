@@ -1,0 +1,95 @@
+{
+  "name": "Player_P1_Death",
+  "sourcePage": 3,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    33
+  ],
+  "sourceRegions": [
+    [
+      150,
+      40,
+      371,
+      515
+    ],
+    [
+      646,
+      78,
+      892,
+      515
+    ],
+    [
+      1141,
+      192,
+      1449,
+      522
+    ],
+    [
+      34,
+      693,
+      502,
+      953
+    ],
+    [
+      526,
+      773,
+      1010,
+      952
+    ],
+    [
+      1033,
+      810,
+      1519,
+      955
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "8d2162f24dd01c9a929e14205eac876c5469afdff1460441747f9620bb07460d",
+  "spriteSha256": "d22cfd3482e46a6010f3f3216df5ed326ff5b4955b8cb273d36c3204f0a911c2"
+}

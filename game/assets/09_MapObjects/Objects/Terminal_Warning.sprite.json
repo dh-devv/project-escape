@@ -1,0 +1,50 @@
+{
+  "name": "Terminal_Warning",
+  "sourcePage": 12,
+  "frameCount": 4,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.46230248306997745,
+  "sourceOffset": [
+    9,
+    -3
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "70afa684c00bcea822c20bdb17fb57229ab2711e245f8c1dababf202de690154",
+  "spriteSha256": "9b63a7de7bd445dbaae6c45b87f92ad3ffaaf2a9d1053b3120af74ad373228ee"
+}

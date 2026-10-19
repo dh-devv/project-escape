@@ -1,0 +1,95 @@
+{
+  "name": "Player_P2_PhaseBreak",
+  "sourcePage": 4,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    27
+  ],
+  "sourceRegions": [
+    [
+      174,
+      37,
+      386,
+      497
+    ],
+    [
+      646,
+      38,
+      895,
+      497
+    ],
+    [
+      1146,
+      50,
+      1446,
+      497
+    ],
+    [
+      140,
+      581,
+      487,
+      1005
+    ],
+    [
+      647,
+      561,
+      956,
+      1005
+    ],
+    [
+      1182,
+      544,
+      1396,
+      1005
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "209be82c75fd53ab852399892e61865eacfdbaeff12a8f582d27a7231bf1c668",
+  "spriteSha256": "3cb23362693134f5cd8c300b358b42c1a9ae304c0f286ede6b36c74126d27edb"
+}

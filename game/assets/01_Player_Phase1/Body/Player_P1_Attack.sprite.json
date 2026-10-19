@@ -1,0 +1,102 @@
+{
+  "name": "Player_P1_Attack",
+  "sourcePage": 3,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "visual candidates in proposedCombatTiming; gameplay events not installed or tested",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    34
+  ],
+  "sourceRegions": [
+    [
+      132,
+      66,
+      427,
+      494
+    ],
+    [
+      580,
+      96,
+      933,
+      494
+    ],
+    [
+      1068,
+      101,
+      1514,
+      493
+    ],
+    [
+      42,
+      573,
+      546,
+      975
+    ],
+    [
+      561,
+      578,
+      1036,
+      975
+    ],
+    [
+      1153,
+      551,
+      1450,
+      976
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "81358df5ab05e2c2ef80c81945b8c7f98bd455f900fd64894a0208108b91af65",
+  "spriteSha256": "596d03c4032599de5083ecafea314209a7dc11db9d710a5b727e7c46c4c9e327",
+  "proposedCombatTiming": {
+    "hitFrames": [
+      4
+    ],
+    "note": "팔을 완전히 뻗은 타격 자세"
+  },
+  "combatTimingFrameIndexBase": 1
+}

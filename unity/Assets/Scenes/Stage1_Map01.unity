@@ -677,8 +677,8 @@ MonoBehaviour:
     \uC0C1\uD0DC\uB2E4.\n\n\uC5F0\uAD6C\uC18C\uC758 \uC911\uC559 \uCF54\uC5B4\uC5D0
     \uBB38\uC81C\uAC00 \uC0DD\uAE34 \uB4EF \uD558\uB2E4."
   showOnlyOnce: 0
-  interactionPromptText: F  ???
-  interactionPrompt: {fileID: 2884641328218614880, guid: 541708ff21cb3414f97dead7049d2f92, type: 3}
+  interactionPromptText: F  연구 일지 읽기
+  interactionPrompt: {fileID: 0}
 --- !u!61 &1055311005
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1392,6 +1392,7 @@ GameObject:
   - component: {fileID: 1342809005}
   - component: {fileID: 1342809004}
   - component: {fileID: 1342809003}
+  - component: {fileID: 900100102}
   m_Layer: 7
   m_Name: Player
   m_TagString: Player
@@ -2233,6 +2234,19 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 77d0b465b7fec2e4ba37f871364ba3e8, type: 3}
+--- !u!114 &900100102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342809002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb6885695d5f42ba9889e10c87fca743, type: 3}
+  m_Name:
+  m_EditorClassIdentifier: Carten::Carten.GameplayUI
+  font: {fileID: 11400000, guid: 5d6c3ad30b5c9e440a88c5db1e5d5bb4, type: 2}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

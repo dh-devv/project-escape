@@ -1,0 +1,115 @@
+{
+  "name": "Enemy2_Run",
+  "sourcePage": 7,
+  "frameCount": 8,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 3,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.48995215311004786,
+  "sourceOffset": [
+    25,
+    27
+  ],
+  "sourceRegions": [
+    [
+      37,
+      56,
+      445,
+      417
+    ],
+    [
+      500,
+      81,
+      858,
+      417
+    ],
+    [
+      910,
+      56,
+      1239,
+      416
+    ],
+    [
+      20,
+      464,
+      460,
+      804
+    ],
+    [
+      467,
+      472,
+      885,
+      823
+    ],
+    [
+      941,
+      498,
+      1252,
+      823
+    ],
+    [
+      112,
+      859,
+      434,
+      1222
+    ],
+    [
+      432,
+      858,
+      873,
+      1202
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      -1,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "1c35c47211bce76ede7406da3e2e5f59fb813808915735112d0215ca9bc4c78d",
+  "spriteSha256": "aff258d6924007a5c7592bde64b5c49e5a7df14eedc7415a2f6d60c8316f4ac4"
+}

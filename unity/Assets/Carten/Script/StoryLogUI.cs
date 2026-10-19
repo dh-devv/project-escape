@@ -28,6 +28,17 @@ namespace Carten
                 closeButton.onClick.AddListener(Close);
         }
 
+        public void Bind(GameObject logPanel, TMP_Text title, TMP_Text content, Button close)
+        {
+            if (closeButton != null) closeButton.onClick.RemoveListener(Close);
+            panel = logPanel;
+            titleText = title;
+            contentText = content;
+            closeButton = close;
+            panel.SetActive(false);
+            closeButton.onClick.AddListener(Close);
+        }
+
         /// <summary>스토리 창을 열고 기존 게임 시간 배율을 저장한 뒤 일시정지합니다.</summary>
         public bool Show(string title, string content)
         {

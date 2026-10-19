@@ -1,0 +1,95 @@
+{
+  "name": "Player_P1_Walk",
+  "sourcePage": 3,
+  "frameCount": 6,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": true,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    32
+  ],
+  "sourceRegions": [
+    [
+      123,
+      38,
+      452,
+      489
+    ],
+    [
+      666,
+      49,
+      911,
+      488
+    ],
+    [
+      1115,
+      35,
+      1460,
+      486
+    ],
+    [
+      112,
+      544,
+      478,
+      990
+    ],
+    [
+      648,
+      557,
+      912,
+      990
+    ],
+    [
+      1122,
+      543,
+      1482,
+      987
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "9de3080ae706c6a3f1429fac2d0841330efe298e87e8af18db3b2b16e31e38d6",
+  "spriteSha256": "e9570c06876e05f021e7ee2a7139b00750378d83a99e25bc1a36cf9487574fba"
+}

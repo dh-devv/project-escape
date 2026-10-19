@@ -47,11 +47,7 @@ namespace Carten
             {
                 Debug.Log($"[ConditionalDoor] 격벽 개방 완료! {targetSceneName} 씬으로 이동합니다.");
 
-                // 다음 씬에서 플레이어가 스폰될 위치 이름 저장
-                PlayerPrefs.SetString("LastTargetSpawnPoint", targetSpawnPointName);
-
-                // 목적지 씬 로드 (기존 MapTransitionManager의 전환 함수가 있다면 그곳으로 연결 가능)
-                SceneManager.LoadScene(targetSceneName);
+                MapTransitionManager.Instance?.LoadMap(targetSceneName, targetSpawnPointName);
             }
             else
             {
@@ -65,7 +61,10 @@ namespace Carten
             // 조건 ID가 비어있으면 무조건 열림 (일반 문)
             if (string.IsNullOrEmpty(requiredConditionID)) return true;
 
-            // PlayerPrefs를 통해 스위치/발전기 작동 여부 확인 (1이면 작동 완료)
+            if (GameStateManager.Instance != null && GameStateManager.Instance.HasTriggered(requiredConditionID))
+                return true;
+
+            // Retain compatibility with older saved generator flags.
             if (PlayerPrefs.GetInt(requiredConditionID, 0) == 1)
             {
                 return true;

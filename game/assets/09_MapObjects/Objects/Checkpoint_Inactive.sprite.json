@@ -1,0 +1,38 @@
+{
+  "name": "Checkpoint_Inactive",
+  "sourcePage": 12,
+  "frameCount": 1,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 1,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "sourceScale": 0.25504358655043585,
+  "sourceOffset": [
+    -32,
+    -37
+  ],
+  "sourceRegions": [],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "9e8e2b2bda98400b9e60034087b84fc1626e5adf085563643c5979ce97f66199",
+  "spriteSha256": "45d4ca5a8e8e280c9f2a3eeb42cbfaea2a277186505035cc9ea83066c905942e"
+}

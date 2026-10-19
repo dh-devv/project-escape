@@ -1,0 +1,85 @@
+{
+  "name": "BossMid_Stagger",
+  "sourcePage": 9,
+  "frameCount": 5,
+  "cellWidth": 256,
+  "cellHeight": 256,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.4,
+  "sourceOffset": [
+    25,
+    42
+  ],
+  "sourceRegions": [
+    [
+      24,
+      32,
+      500,
+      457
+    ],
+    [
+      530,
+      72,
+      1060,
+      457
+    ],
+    [
+      1035,
+      162,
+      1523,
+      485
+    ],
+    [
+      18,
+      515,
+      519,
+      930
+    ],
+    [
+      595,
+      511,
+      993,
+      931
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "2b241da52c2b15f258da05b220516cbffb1af71a09eca7ea9f1c385bc67d57af",
+  "spriteSha256": "62b83cbd7a7f3cbc6e16a8d5de5c6402edd25738a37c5412c686c68ed8a5b999"
+}

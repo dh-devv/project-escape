@@ -1,0 +1,95 @@
+{
+  "name": "BossFinal_WeakPointExposed",
+  "sourcePage": 10,
+  "frameCount": 6,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 3,
+  "rows": 2,
+  "frameOrder": "left-to-right, top-to-bottom",
+  "fps": 12,
+  "loop": false,
+  "pivot": [
+    0.5,
+    0.125
+  ],
+  "hitFrames": [],
+  "hitFramesStatus": "not-yet-reviewed; no gameplay events are installed",
+  "visualReview": "pending",
+  "unityPlayback": "not-tested",
+  "sourceSize": [
+    1536,
+    1024
+  ],
+  "sourceScale": 0.8,
+  "sourceOffset": [
+    51,
+    56
+  ],
+  "sourceRegions": [
+    [
+      14,
+      76,
+      496,
+      520
+    ],
+    [
+      524,
+      76,
+      1011,
+      520
+    ],
+    [
+      1025,
+      76,
+      1516,
+      520
+    ],
+    [
+      13,
+      533,
+      501,
+      976
+    ],
+    [
+      525,
+      533,
+      1011,
+      976
+    ],
+    [
+      1025,
+      533,
+      1513,
+      976
+    ]
+  ],
+  "paddingTranslations": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sourceSha256": "dbe2d47cce5fbd080f8fd9d5e1669b3f6108b12d47f6fd7875dd4e584d2719cf",
+  "spriteSha256": "adecafdf9a4f75944f12c5c6953b2aad525fffc61bdae4695406472978a09f02"
+}

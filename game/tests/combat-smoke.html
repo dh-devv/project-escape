@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ko"><meta charset="utf-8"><title>Combat checks</title><body><pre id="results">running</pre>
+<script src="../combat.js"></script>
+<script>
+const tests = [
+  ['ground shot overlaps the actual player body', LastSparkCombat.circleHitsPlayer({ x: 100, y: 436, radius: 5 }, { x: 100, y: 500 })],
+  ['shot above the player misses', !LastSparkCombat.circleHitsPlayer({ x: 100, y: 400, radius: 5 }, { x: 100, y: 500 })],
+  ['shot outside the horizontal body misses', !LastSparkCombat.circleHitsPlayer({ x: 130, y: 470, radius: 5 }, { x: 100, y: 500 })],
+  ['melee strike reliably hits a grounded enemy in front', typeof LastSparkCombat.meleeHitsTarget === 'function' && LastSparkCombat.meleeHitsTarget({ x: 300, y: 448, height: 67 }, { x: 382, y: 448, width: 48, height: 80 }, 1, 108)],
+  ['melee strike can hit a broad boss body', typeof LastSparkCombat.meleeHitsTarget === 'function' && LastSparkCombat.meleeHitsTarget({ x: 300, y: 448, height: 67 }, { x: 394, y: 448, width: 120, height: 160 }, 1, 108)],
+  ['melee strike does not hit a target behind the player', typeof LastSparkCombat.meleeHitsTarget === 'function' && !LastSparkCombat.meleeHitsTarget({ x: 300, y: 448, height: 67 }, { x: 248, y: 448, width: 48, height: 80 }, 1, 108)],
+  ['melee strike does not hit a target on another vertical level', typeof LastSparkCombat.meleeHitsTarget === 'function' && !LastSparkCombat.meleeHitsTarget({ x: 300, y: 448, height: 67 }, { x: 382, y: 320, width: 48, height: 80 }, 1, 108)],
+  ['ranged shot hits a drone body', LastSparkCombat.circleHitsRect({ x: 214, y: 380, radius: 8 }, { x: 220, y: 340, width: 48, height: 80 })],
+  ['ranged shot hits a wide boss body', LastSparkCombat.circleHitsRect({ x: 430, y: 300, radius: 10 }, { x: 440, y: 250, width: 120, height: 150 })],
+  ['ranged shot outside a target misses', !LastSparkCombat.circleHitsRect({ x: 300, y: 210, radius: 8 }, { x: 220, y: 340, width: 48, height: 80 })],
+  ['floor attack hits a grounded player', LastSparkCombat.hazardHitsPlayer({ kind: 'lane', x1: 80, x2: 120 }, { x: 100, y: 500 }, { x: 300 }, 500, 960)],
+  ['floor attack misses a player who cleared it with a jump', !LastSparkCombat.hazardHitsPlayer({ kind: 'lane', x1: 80, x2: 120 }, { x: 100, y: 420 }, { x: 300 }, 500, 960)],
+  ['core field follows its marked target position', LastSparkCombat.hazardHitsPlayer({ kind: 'ring', x: 420, radius: 90 }, { x: 480, y: 500 }, { x: 500 }, 500, 960)],
+  ['split field leaves the marked safe column open', !LastSparkCombat.hazardHitsPlayer({ kind: 'split', safe1: 400, safe2: 600 }, { x: 500, y: 500 }, { x: 500 }, 500, 960)],
+  ['split field hits an unprotected column', LastSparkCombat.hazardHitsPlayer({ kind: 'split', safe1: 400, safe2: 600 }, { x: 200, y: 500 }, { x: 500 }, 500, 960)],
+  ['light attack has at least a deliberate half-second cadence', LastSparkCombat.attackProfile(0).cooldown >= 0.48],
+  ['holding the attack through the threshold produces a charged strike', LastSparkCombat.attackProfile(0.65).charged],
+  ['charged strike is stronger and slows movement while held', LastSparkCombat.attackProfile(0.65).damageMultiplier > 1 && LastSparkCombat.attackProfile(0.65).moveMultiplier < 1],
+  ['dash cooldown is five seconds', LastSparkCombat.DASH_COOLDOWN_SECONDS === 5],
+  ['potion heals ten percent of max health and consumes one', (() => { const player = { hp: 55, max: 100, potions: 2 }; return LastSparkCombat.usePotion(player) === 10 && player.potions === 1 && player.hp === 65; })()],
+  ['potion cannot be wasted at full health or without charges', LastSparkCombat.usePotion({ hp: 100, max: 100, potions: 2 }) === 0 && LastSparkCombat.usePotion({ hp: 50, max: 100, potions: 0 }) === 0],
+];
+const failed = tests.filter(([, passed]) => !passed).map(([name]) => name);
+document.querySelector('#results').textContent = failed.length ? `FAIL: ${failed.join(', ')}` : `PASS: ${tests.length} combat checks`;
+</script></body></html>

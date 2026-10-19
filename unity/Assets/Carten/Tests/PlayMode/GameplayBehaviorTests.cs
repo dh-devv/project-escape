@@ -77,6 +77,43 @@ namespace Carten.Tests
         }
 
         [Test]
+        public void NewRunClearsEncounterFlagsAndRestoresHealth()
+        {
+            GameStateManager state = NewObject("Game state").AddComponent<GameStateManager>();
+            state.SetTriggered("Stage1_Map02_Encounter01");
+            state.SetPlayerState(15f, 3);
+            state.ResetRunState();
+            Assert.That(state.HasTriggered("Stage1_Map02_Encounter01"), Is.False);
+            Assert.That(state.PlayerHP, Is.EqualTo(100f));
+            Assert.That(state.PlayerPhase, Is.EqualTo(1));
+        }
+
+        [Test]
+        public void DeathNotifiesUiBeforePlayerIsDisabled()
+        {
+            PlayerController player = Player();
+            bool notifiedWhileActive = false;
+            player.Died += () => notifiedWhileActive = player.gameObject.activeSelf && player.IsDead;
+            player.TakeDamage(10000f);
+            Assert.That(notifiedWhileActive, Is.True);
+            Assert.That(player.gameObject.activeSelf, Is.False);
+        }
+
+        [Test]
+        public void DoorReadsTheSameGeneratorStateAsTheSwitch()
+        {
+            GameStateManager state = NewObject("Game state").AddComponent<GameStateManager>();
+            GameObject doorObject = NewObject("Door");
+            doorObject.AddComponent<BoxCollider2D>();
+            ConditionalDoor door = doorObject.AddComponent<ConditionalDoor>();
+            string condition = "test-build-generator-flag";
+            SetField(door, "requiredConditionID", condition);
+            Assert.That(door.IsDoorUnlocked(), Is.False);
+            state.SetTriggered(condition);
+            Assert.That(door.IsDoorUnlocked(), Is.True);
+        }
+
+        [Test]
         public void SceneStartKeepsTransferredHealthAndDamageUpdatesPersistentState()
         {
             GameStateManager state = NewObject("Game state").AddComponent<GameStateManager>();

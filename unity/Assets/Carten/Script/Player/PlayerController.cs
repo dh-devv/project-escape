@@ -596,11 +596,6 @@ namespace Carten
 
         public void TriggerSkillAnimation(int skillNumber)
         {
-<<<<<<< HEAD
-            // 수정 전: if (anim == null || isDead) return; (오류 발생 지점)
-            // 수정 후: 애니메이터가 없거나 죽었을 때만 리턴하도록 올바르게 수정
-=======
->>>>>>> f622ac7af5e5888f1ad5df56e3ce9754518e18b0
             if (anim == null || isDead)
                 return;
 

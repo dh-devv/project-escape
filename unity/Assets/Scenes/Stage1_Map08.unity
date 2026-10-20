@@ -1550,7 +1550,7 @@ MonoBehaviour:
   strongHitStun: 0.5
   warningSound: {fileID: 8300000, guid: 95e041b814ced6d4c81a3713cac46f76, type: 3}
   attackSound: {fileID: 8300000, guid: 6c80231acfa42db4e8441ec6aa429eb9, type: 3}
-  soundVolume: 5
+  soundVolume: 2
   shakeDuration: 0.18
   shakeMagnitude: 0.3
   warningPrefab: {fileID: 8898309848710325819, guid: 98d1ad67d8d0df84680c9ad37a99ce54, type: 3}

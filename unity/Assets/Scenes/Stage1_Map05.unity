@@ -1302,7 +1302,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Carten::Carten.ConditionalDoor
   targetSceneName: Stage1_Map06
   targetSpawnPointName: Map06_EntrySpawn
-  requiredConditionID: Stage1_Generator_01
+  requiredConditionID: Stage1_Light_All
   lockedMessage: "\uC804\uB825 \uACF5\uAE09\uC774 \uCC28\uB2E8\uB418\uC5B4 \uACA9\uBCBD\uC774
     \uC7A0\uACBC\uC2B5\uB2C8\uB2E4. \uC9C0\uD558 \uBC1C\uC804\uC2E4(Map03)\uC744
     \uBA3C\uC800 \uAC00\uB3D9\uD558\uC138\uC694."
@@ -2456,7 +2456,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Carten::Carten.ConditionalDoor
   targetSceneName: Stage1_Map04
   targetSpawnPointName: Map04_1_EntrySpawn
-  requiredConditionID: Stage1_Generator_01
+  requiredConditionID: Stage1_Light_All
   lockedMessage: "\uC804\uB825 \uACF5\uAE09\uC774 \uCC28\uB2E8\uB418\uC5B4 \uACA9\uBCBD\uC774
     \uC7A0\uACBC\uC2B5\uB2C8\uB2E4. \uC9C0\uD558 \uBC1C\uC804\uC2E4(Map03)\uC744
     \uBA3C\uC800 \uAC00\uB3D9\uD558\uC138\uC694."

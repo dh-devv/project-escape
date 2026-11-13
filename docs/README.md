@@ -7,6 +7,7 @@
 
 - [API 명세](backend/api.md)
 - [Docker/AWS 배포](backend/deployment.md)
+- [EC2 한 대로 Unity WebGL·백엔드·DB 배포](backend/aws-ec2-deployment-guide.md)
 - [Unity API 연동](backend/unity-api-integration.md)
 
 ## Game Design

@@ -191,3 +191,5 @@ docker compose -f .\deployment\docker-compose.yml down
 
 로컬 MySQL을 직접 사용하는 방법과 AWS 배포 절차는
 [docs/backend/deployment.md](docs/backend/deployment.md)를 참고합니다.
+EC2 한 대에 Unity WebGL과 백엔드·DB를 배포하는 단계별 절차는
+[EC2 배포 안내](docs/backend/aws-ec2-deployment-guide.md)를 참고합니다.

@@ -1,5 +1,8 @@
 # 처음 하는 AWS 배포: 백엔드·MySQL·Unity WebGL
 
+실제 배포 순서와 디스크 부족·ZIP 업로드·DB 확인을 한곳에서 보려면
+[EC2 한 대 배포 안내](aws-ec2-deployment-guide.md)를 참고합니다.
+
 이 안내는 Ubuntu 24.04 x86_64 EC2 한 대에서 Docker Compose로 실행하는 **공동 테스트 환경**을 기준으로 합니다.
 본인은 백엔드·DB·웹서버를 준비하고, 친구는 Unity WebGL 빌드를 제작합니다.
 게임과 API를 같은 HTTPS 주소에서 제공하므로 별도의 CORS 설정은 필요하지 않습니다.
